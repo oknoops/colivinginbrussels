@@ -1,0 +1,438 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="IE=edge" http-equiv="x-ua-compatible" />
+  <link rel="home" href="https://fosburyandsons.com/" />
+
+  <!-- Google Tag Manager -->
+  <!-- <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-KLTDGPM');
+    </script> -->
+  <!-- End Google Tag Manager -->
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8QT3BB402P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-8QT3BB402P');
+  </script>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+<link rel="manifest" href="/assets/favicon/site.webmanifest">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+    							
+	<title></title>
+	<meta name="description" content="Fosbury & Sons is a human work space for your company. We take care of your office whether you’re a small business or large corporation." />
+
+	<meta property="fb:app_id" content="">
+	<meta property="og:url" content="https://fosburyandsons.com/wp-content/uploads/2018/11/Boitsfort_Nil_Fosbury-and-Sons-Going-East_01.jpg" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="" />
+	<meta property="og:image" content="https://fosburyandsons.com/uploads/harmony/_1200x630_crop_center-center_none/OG-image.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:description" content="Fosbury & Sons is a human work space for your company. We take care of your office whether you’re a small business or large corporation." />
+	<meta property="og:site_name" content="Fosbury &amp; Sons" />
+	<meta property="og:locale" content="en" />
+	<meta property="og:locale:alternate" content="en" />
+	<meta property="og:locale:alternate" content="nl" />
+	<meta property="og:locale:alternate" content="fr" />
+	
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:url" content="https://fosburyandsons.com/wp-content/uploads/2018/11/Boitsfort_Nil_Fosbury-and-Sons-Going-East_01.jpg" />
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:description" content="Fosbury & Sons is a human work space for your company. We take care of your office whether you’re a small business or large corporation." />
+	<meta name="twitter:image" content="https://fosburyandsons.com/uploads/harmony/_1200x600_crop_center-center_none/OG-image.png" />
+
+	
+	<link rel="home" href="https://fosburyandsons.com/" />
+	<link rel="canonical" href="https://fosburyandsons.com/wp-content/uploads/2018/11/Boitsfort_Nil_Fosbury-and-Sons-Going-East_01.jpg">
+  
+    <link href="/assets/css/main.css?v=2.3.33" rel="stylesheet"></head>
+
+<body>
+        
+          
+          
+            
+  <div style="height: 0; width: 0; position: absolute; visibility: hidden">
+  <!-- inject:svg --><svg xmlns="http://www.w3.org/2000/svg"><symbol id="icon-arrow-down" viewBox="0 0 12 6"><path d="M10.9.95L5.95 5.9 1 .95" stroke="currentColor" fill="none"/></symbol><symbol id="icon-arrow" viewBox="0 0 12 32"><g stroke="#FFF" fill="none" fill-rule="evenodd"><path d="M11 25.95L6.05 30.9 1.1 25.95"/><path d="M6 1v30" opacity=".9" stroke-linecap="square"/></g></symbol><symbol id="icon-grid" viewBox="0 0 43 35"><path d="M.5.5h12v9H.5zm15 0h12v9h-12zm15 0h12v9h-12zm-30 12h12v9H.5zm15 0h12v9h-12zm15 0h12v9h-12zm-30 13h12v9H.5zm15 0h12v9h-12zm15 0h12v9h-12z" stroke="#000" fill="none" opacity=".5"/></symbol><symbol id="icon-slider" viewBox="0 0 43 34"><path d="M.5.5h2v33h-2zm5 0h32v33h-32zm35 0h2v33h-2z" stroke="#000" fill="none" opacity=".25"/></symbol><symbol id="logo" viewBox="0 0 158 8"><path d="M.081 7.827v-.346c.679 0 1.018-.309 1.018-.925V1.537C1.099.859.733.519 0 .519V.173h5.934l.185 2.124-.405.035c-.07-.385-.171-.687-.306-.907A1.378 1.378 0 0 0 4.904.93a1.868 1.868 0 0 0-.7-.213A7.968 7.968 0 0 0 3.297.67H2.95c-.47 0-.706.158-.706.474v2.032c0 .284.22.427.66.427h.173c.254 0 .455-.018.601-.052a.688.688 0 0 0 .347-.185.882.882 0 0 0 .197-.358c.046-.15.093-.344.139-.583h.393V5.37h-.393v-.232a1.55 1.55 0 0 0-.04-.34.751.751 0 0 0-.18-.335 1.033 1.033 0 0 0-.41-.26c-.182-.07-.43-.104-.747-.104h-.532c-.139 0-.208.116-.208.347v2.112c0 .616.397.924 1.191.924v.346H.081zM15.084 8a3.719 3.719 0 0 1-1.516-.306 3.626 3.626 0 0 1-1.197-.843 3.905 3.905 0 0 1-.787-1.258 4.178 4.178 0 0 1-.283-1.541c0-.508.088-1.003.266-1.484.177-.48.432-.908.764-1.281.33-.373.73-.674 1.197-.9a3.493 3.493 0 0 1 1.556-.341 4.03 4.03 0 0 1 1.555.294A3.648 3.648 0 0 1 18.67 2.4c.193.477.29.997.29 1.558 0 .493-.093.982-.278 1.467a4.234 4.234 0 0 1-.78 1.298 3.898 3.898 0 0 1-1.221.924A3.57 3.57 0 0 1 15.084 8zm.092-.45c.432 0 .802-.09 1.11-.27a2.24 2.24 0 0 0 .764-.744c.2-.315.349-.686.445-1.113.097-.426.145-.885.145-1.377a6.1 6.1 0 0 0-.145-1.337 3.665 3.665 0 0 0-.457-1.147 2.445 2.445 0 0 0-.815-.807C15.887.552 15.48.45 15.003.45c-.44 0-.812.096-1.117.288-.304.193-.551.45-.74.772a3.496 3.496 0 0 0-.405 1.118 7.03 7.03 0 0 0-.121 1.326c0 .507.05.98.15 1.417.1.438.255.819.463 1.142.208.322.474.576.798.76.324.185.706.277 1.145.277zm13.985-5.045c-.155-.623-.413-1.121-.775-1.495a1.796 1.796 0 0 0-1.342-.56c-.44 0-.79.116-1.053.347-.262.23-.393.523-.393.877 0 .277.094.518.283.721.19.204.473.387.85.549.47.2.899.368 1.285.502.385.135.715.29.989.467.273.178.485.4.636.67.15.27.225.635.225 1.097 0 .285-.044.566-.133.843A2.021 2.021 0 0 1 28.6 7.799c-.296.134-.653.201-1.07.201-.27 0-.502-.02-.7-.058a2.82 2.82 0 0 1-.496-.138 1.606 1.606 0 0 1-.319-.162 6.374 6.374 0 0 1-.162-.115 4.644 4.644 0 0 1-.44.288 1.78 1.78 0 0 1-.439.185 31.604 31.604 0 0 1-.19-1.553c-.043-.45-.064-.844-.064-1.183h.382c0 .339.069.648.208.929a2.422 2.422 0 0 0 1.26 1.19c.27.111.533.166.787.166a2.063 2.063 0 0 0 1.093-.334c.174-.115.32-.26.44-.438.12-.177.18-.388.18-.634 0-.307-.084-.576-.25-.807-.166-.23-.43-.411-.792-.542a54.364 54.364 0 0 0-1.22-.426 5.09 5.09 0 0 1-1.03-.467 2.192 2.192 0 0 1-.711-.68c-.177-.273-.266-.632-.266-1.078a2.097 2.097 0 0 1 .642-1.55c.197-.188.426-.334.688-.438a2.22 2.22 0 0 1 .82-.155c.332 0 .615.06.85.179.236.12.453.225.654.317.24-.192.49-.327.752-.404.108.354.185.73.231 1.126.047.396.07.825.07 1.287h-.347zM40.138 3.74c.624.092 1.125.297 1.503.612.378.316.567.739.567 1.27 0 .416-.07.768-.208 1.056a1.827 1.827 0 0 1-.571.699 2.335 2.335 0 0 1-.866.38 4.811 4.811 0 0 1-1.079.116c-.639 0-1.264-.007-1.876-.023a81.274 81.274 0 0 0-2.028-.023v-.346c.733 0 1.099-.215 1.099-.647V1.34c0-.539-.382-.808-1.145-.808V.173h3.338c.407 0 .786.033 1.136.098.35.066.652.17.906.312.255.142.454.327.6.554.147.227.22.506.22.837 0 .254-.039.472-.116.652a1.4 1.4 0 0 1-.33.474 1.927 1.927 0 0 1-.508.34 5.612 5.612 0 0 1-.642.254v.046zM38.63.623c-.537 0-.806.143-.806.427v2.228c0 .216.112.324.334.324.53 0 .954-.027 1.273-.081.318-.054.564-.14.737-.26a.824.824 0 0 0 .34-.462c.054-.188.08-.417.08-.687 0-.993-.502-1.489-1.508-1.489h-.45zm.526 6.812c.26 0 .502-.03.724-.087.221-.058.415-.154.58-.289a1.35 1.35 0 0 0 .384-.52c.092-.21.138-.47.138-.778 0-.362-.056-.654-.167-.878a1.217 1.217 0 0 0-.482-.52 2.077 2.077 0 0 0-.764-.247 7.157 7.157 0 0 0-.998-.064h-.414c-.222 0-.333.147-.333.44v2.492c0 .3.275.45.827.45h.505zm15.371-5.898c0-.678-.397-1.018-1.191-1.018V.173h2.683v.346c-.64 0-.96.34-.96 1.018v3.515c0 .44-.039.84-.116 1.203a1.962 1.962 0 0 1-.468.93c-.235.258-.569.459-1 .601-.432.142-1.007.214-1.724.214a3.53 3.53 0 0 1-1.197-.185 2.438 2.438 0 0 1-.868-.52 2.162 2.162 0 0 1-.532-.798 2.75 2.75 0 0 1-.18-1.006V1.364c0-.563-.365-.845-1.098-.845V.173h3.343v.346c-.733 0-1.099.282-1.099.845V5.19c0 .262.013.53.04.804.027.274.11.52.25.74.138.22.352.4.641.538.29.139.7.208 1.232.208.494 0 .889-.075 1.186-.225a1.77 1.77 0 0 0 .676-.561 1.9 1.9 0 0 0 .307-.74c.05-.27.075-.525.075-.764V1.537zm14.077 5.285a1.268 1.268 0 0 1-.26.705 1.342 1.342 0 0 1-.324.3.765.765 0 0 1-.434.127c-.47 0-.817-.08-1.04-.236-.224-.158-.39-.414-.498-.768a26.959 26.959 0 0 1-.278-.941 6.32 6.32 0 0 0-.33-.924 2.412 2.412 0 0 0-.468-.704.933.933 0 0 0-.694-.283h-.347c-.208 0-.328.043-.358.127V6.73c0 .5.354.75 1.064.75v.347h-3.262V7.48c.678 0 1.018-.25 1.018-.75V1.27c0-.493-.367-.739-1.1-.739V.173h1.447A28.596 28.596 0 0 0 63.902.15c.166-.008.343-.014.532-.018.19-.003.419-.006.689-.006.331 0 .643.048.936.145.294.096.546.229.758.398.212.169.38.37.503.6.123.231.185.481.185.75 0 .27-.05.509-.15.716a1.64 1.64 0 0 1-.423.543 2.576 2.576 0 0 1-.642.392 4.09 4.09 0 0 1-.821.254v.035c.37.177.677.398.92.664.242.265.406.521.491.767l.162.554c.061.216.133.42.214.612.081.193.175.356.283.49.108.136.24.203.394.203.185 0 .32-.173.405-.52l.266.093zm-4.152-3.174c.231 0 .454-.015.67-.046.216-.03.409-.1.579-.208.17-.108.306-.262.41-.462.104-.2.156-.473.156-.82 0-.292-.052-.534-.156-.726a1.257 1.257 0 0 0-.405-.456 1.626 1.626 0 0 0-.55-.237c-.2-.047-.396-.07-.589-.07h-.555c-.294 0-.44.216-.44.647v2.205c.031.115.124.173.278.173h.602zm10.514 4.18V7.48c.786 0 1.18-.178 1.18-.532V4.694L74.214 1.49c-.393-.647-.817-.97-1.272-.97V.173h3.157V.52c-.555 0-.832.131-.832.394 0 .062.015.12.046.174.031.054.077.13.139.231l1.63 2.733 1.493-2.687c.023-.077.042-.158.058-.243.015-.085.023-.17.023-.255 0-.232-.309-.347-.926-.347V.173h2.684V.52c-.401 0-.705.146-.914.44l-2.163 3.7v2.335c0 .324.382.486 1.145.486v.346h-3.516zm26.778-1.271c-.023.162-.08.327-.168.497-.089.169-.207.32-.353.45a1.818 1.818 0 0 1-1.238.45c-.694 0-1.314-.3-1.862-.9-.601.6-1.318.9-2.151.9-1.705 0-2.556-.7-2.556-2.101 0-.5.132-.968.398-1.403.266-.434.72-.817 1.36-1.148a4.477 4.477 0 0 1-.37-.751c-.1-.261-.15-.496-.15-.704 0-1.17.585-1.755 1.757-1.755 1.18 0 1.77.485 1.77 1.455 0 .384-.148.735-.445 1.05a4.334 4.334 0 0 1-1.105.831 42.143 42.143 0 0 0 1.932 2.506c.277-.293.487-.573.63-.843.143-.27.214-.53.214-.785 0-.554-.34-.831-1.018-.831v-.346h2.73v.346c-.262 0-.473.08-.63.242a3.639 3.639 0 0 0-.469.612c-.07.131-.133.268-.19.41a12.54 12.54 0 0 1-.197.45 3.422 3.422 0 0 1-.758 1.033c.301.246.567.466.798.658.232.193.436.289.613.289a.937.937 0 0 0 .365-.081 1.843 1.843 0 0 0 .636-.444.76.76 0 0 0 .156-.225l.3.138zm-3.864.139c-.494-.554-.95-1.076-1.37-1.564a14.51 14.51 0 0 1-1.152-1.53c-.617.339-.925.796-.925 1.374 0 1.516.66 2.274 1.978 2.274.239 0 .482-.03.728-.092.247-.062.494-.216.741-.462zm-1.47-3.579c.649-.616.973-1.128.973-1.535 0-.762-.324-1.144-.972-1.144-.555 0-.833.35-.833 1.05 0 .363.278.906.833 1.629zm23.112-.612c-.154-.623-.413-1.121-.775-1.495a1.796 1.796 0 0 0-1.342-.56c-.44 0-.79.116-1.052.347-.262.23-.394.523-.394.877 0 .277.095.518.284.721.189.204.472.387.85.549.47.2.899.368 1.284.502.385.135.715.29.99.467.273.178.485.4.635.67.15.27.226.635.226 1.097 0 .285-.045.566-.133.843a2.17 2.17 0 0 1-.41.744c-.185.22-.427.397-.724.531-.297.135-.653.202-1.07.202-.27 0-.502-.02-.7-.058a2.827 2.827 0 0 1-.497-.138 1.606 1.606 0 0 1-.318-.162 7.042 7.042 0 0 1-.162-.115 4.644 4.644 0 0 1-.44.288 1.777 1.777 0 0 1-.439.185 31.252 31.252 0 0 1-.19-1.553c-.043-.45-.064-.844-.064-1.183h.382c0 .339.069.648.208.929a2.43 2.43 0 0 0 1.26 1.19c.27.111.532.166.787.166a2.063 2.063 0 0 0 1.093-.334c.173-.115.32-.26.44-.438.119-.177.179-.388.179-.634 0-.307-.083-.576-.249-.807-.166-.23-.43-.411-.792-.542a53.813 53.813 0 0 0-1.22-.426 5.08 5.08 0 0 1-1.03-.467 2.19 2.19 0 0 1-.711-.68c-.178-.273-.266-.632-.266-1.078a2.092 2.092 0 0 1 1.33-1.988 2.22 2.22 0 0 1 .82-.155c.332 0 .616.06.851.179.235.12.453.225.654.317.238-.192.49-.327.752-.404.108.354.185.73.231 1.126.046.396.07.825.07 1.287h-.348zM129.597 8a3.72 3.72 0 0 1-1.516-.306 3.628 3.628 0 0 1-1.197-.843 3.904 3.904 0 0 1-.786-1.258 4.171 4.171 0 0 1-.284-1.541c0-.508.089-1.003.266-1.484.177-.48.432-.908.763-1.281a3.805 3.805 0 0 1 1.198-.9 3.51 3.51 0 0 1 1.556-.341 4.03 4.03 0 0 1 1.555.294 3.644 3.644 0 0 1 2.03 2.061c.193.477.29.997.29 1.558 0 .493-.093.982-.278 1.467a4.235 4.235 0 0 1-.781 1.298 3.894 3.894 0 0 1-1.22.924 3.566 3.566 0 0 1-1.596.352zm.092-.45c.432 0 .802-.09 1.11-.27a2.24 2.24 0 0 0 .764-.744c.2-.315.349-.686.445-1.113.097-.426.145-.885.145-1.377a6.1 6.1 0 0 0-.145-1.337 3.657 3.657 0 0 0-.456-1.147 2.445 2.445 0 0 0-.816-.807c-.335-.203-.743-.305-1.22-.305-.44 0-.812.096-1.117.288-.304.193-.551.45-.74.772a3.496 3.496 0 0 0-.405 1.118 7.03 7.03 0 0 0-.121 1.326c0 .507.05.98.15 1.417.1.438.254.819.463 1.142.207.322.474.576.797.76.325.185.707.277 1.146.277zm16.01.404l-5.113-6.5v4.653c0 .916.397 1.374 1.191 1.374v.346h-2.776v-.346c.648 0 .972-.46.972-1.376v-5.1c0-.324-.382-.486-1.145-.486V.173h2.114l4.525 5.76v-4.14c0-.848-.393-1.273-1.18-1.273V.173h2.776v.346c-.71 0-1.064.424-1.064 1.272v6.082l-.3.081zm11.196-5.449c-.155-.623-.413-1.121-.775-1.495a1.796 1.796 0 0 0-1.342-.56c-.44 0-.79.116-1.052.347-.263.23-.394.523-.394.877 0 .277.095.518.283.721.19.204.473.387.85.549.471.2.899.368 1.285.502.385.135.715.29.989.467.273.178.485.4.635.67.15.27.226.635.226 1.097 0 .285-.045.566-.133.843a2.17 2.17 0 0 1-.41.744c-.185.22-.427.397-.724.531-.296.135-.653.202-1.07.202-.27 0-.503-.02-.7-.058a2.827 2.827 0 0 1-.497-.138 1.606 1.606 0 0 1-.318-.162 7.042 7.042 0 0 1-.162-.115 4.644 4.644 0 0 1-.44.288 1.777 1.777 0 0 1-.439.185 31.252 31.252 0 0 1-.19-1.553c-.043-.45-.064-.844-.064-1.183h.382c0 .339.07.648.208.929a2.428 2.428 0 0 0 1.26 1.19c.27.111.533.166.787.166a2.065 2.065 0 0 0 1.093-.334c.174-.115.32-.26.44-.438.12-.177.18-.388.18-.634 0-.307-.084-.576-.25-.807-.165-.23-.43-.411-.792-.542a53.815 53.815 0 0 0-1.22-.426 5.08 5.08 0 0 1-1.03-.467 2.19 2.19 0 0 1-.711-.68c-.177-.273-.266-.632-.266-1.078a2.092 2.092 0 0 1 1.33-1.988 2.22 2.22 0 0 1 .821-.155c.332 0 .615.06.85.179.235.12.453.225.654.317.239-.192.49-.327.752-.404.108.354.185.73.231 1.126.047.396.07.825.07 1.287h-.347z" fill="currentColor"/></symbol><symbol id="filter" viewBox="0 0 23 20" id=".7719240139121415" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" fill-rule="evenodd" stroke="currentColor">
+ <path stroke-linecap="square" d="M.719 2.5h21.562M.719 17.5h21.562M.719 9.5h21.562"/>
+ <circle cx="6" cy="3" r="2.5" fill="#FFF"/>
+ <circle cx="6" cy="17" r="2.5" fill="#FFF"/>
+ <circle cx="17" cy="10" r="2.5" fill="#FFF"/>
+ </g>
+ </symbol><symbol id="icon-arrow-left" viewBox="0 0 32 12" id=".12695796946866578" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd" stroke="currentColor">
+  <path d="M6.05 11L1.1 6.05 6.05 1.1"/>
+  <path stroke-linecap="square" opacity=".9" d="M31 6H1"/>
+  </g>
+  </symbol></svg><!-- endinject -->
+</div>
+
+  <div class="c-cookie u-hidden" data-cookie>
+  <div class="c-cookie__section is-active" data-cookie-section="intro">
+    <div class="c-cookie__content">
+      <p><a href="https://www.fosburyandsons.com">www.fosburyandsons.com</a> uses cookies to collect and analyze information regarding your visit. Consult our <a href="https://fosburyandsons.com/cookie-statement">Cookie Statement</a> for more information.</p>
+    </div>
+  
+    <div class="c-cookie__buttons">
+      <a class="c-btn c-btn--black" href="#" data-cookie-accept-all>
+        <span>Accept all cookies</span>
+      </a>
+  
+      <a class="c-btn c-btn--gray" href="#" data-cookie-link="cookies">
+        <span>Set preferences</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="c-cookie__section" data-cookie-section="cookies">
+    <span class="u-color-black">Type of cookies</span>
+
+    <div>
+              <div class="c-cookie__item is-active" data-cookie-item="essential">
+          <a href="#" data-cookie-link="essential">Necessary cookies</a>
+
+                      <span class="u-color-black">
+              Always turned on
+            </span>
+                  </div>
+              <div class="c-cookie__item " data-cookie-item="analytics">
+          <a href="#" data-cookie-link="analytics">Analytical cookies</a>
+
+                      <div class="c-cookie__toggle" data-cookie-toggle></div>
+                  </div>
+              <div class="c-cookie__item " data-cookie-item="marketing">
+          <a href="#" data-cookie-link="marketing">Marketing cookies</a>
+
+                      <div class="c-cookie__toggle" data-cookie-toggle></div>
+                  </div>
+          </div>
+
+    <div class="c-cookie__buttons">
+      <a class="c-btn c-btn--black" href="#" data-cookie-accept>
+        <span>Save and accept</span>
+      </a>
+    </div>
+  </div>
+
+      <div class="c-cookie__section" data-cookie-section="essential">
+      <span class="u-color-black">Necessary cookies</span>
+
+      <div class="u-margin-top-small">
+        <p>Necessary cookies ensure that all components of <a href="https://www.fosburyandsons.com">www.fosburyandsons.com</a> function properly. It concerns cookies for the security of the website, cookies for load balancing (e.g. the distribution of requests to a web server over a number of computers) and cookies for the adjustment of the user interface (especially the choice of language and the display of search results). We may install these cookies without your consent. By using the website, you accept these necessary cookies.</p>
+      </div>
+
+      <div class="c-cookie__buttons">
+        <a class="c-btn c-btn--black" href="#" data-cookie-link="cookies">
+          <span>Back to overview</span>
+        </a>
+      </div>
+    </div>
+      <div class="c-cookie__section" data-cookie-section="analytics">
+      <span class="u-color-black">Analytical cookies</span>
+
+      <div class="u-margin-top-small">
+        <p>Analytical cookies collect general information about the way our website is used. Based on this information, we can make a statistical analysis regarding the use of our website. This analysis enables us to make the structure, navigation and content of our website more user-friendly and to improve it.</p>
+      </div>
+
+      <div class="c-cookie__buttons">
+        <a class="c-btn c-btn--black" href="#" data-cookie-link="cookies">
+          <span>Back to overview</span>
+        </a>
+      </div>
+    </div>
+      <div class="c-cookie__section" data-cookie-section="marketing">
+      <span class="u-color-black">Marketing cookies</span>
+
+      <div class="u-margin-top-small">
+        <p>You need to activate marketing cookies on the website to play videos and to share articles with others via third parties such as Facebook, Twitter and LinkedIn.<br />Marketing cookies also enable the personalization of online advertising offer. Based on a profile, drawn up on the basis of you click and surfing behavior on our website, we (and third parties) gain insight into campaign performance.</p>
+      </div>
+
+      <div class="c-cookie__buttons">
+        <a class="c-btn c-btn--black" href="#" data-cookie-link="cookies">
+          <span>Back to overview</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+    <header class="c-header c-header--fixed js-header ">
+  <div class="o-wrapper">
+    <div class="c-header__main">
+
+              
+        <nav class="c-nav c-nav--secondary">
+  <ul class="c-nav__list c-nav__list--primary">
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/coworking-locations" class="c-nav__link ">Locations</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces" class="c-nav__link ">Workspaces</a>
+
+                  <ul class="c-subnav">
+                  <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces" class="c-nav__link ">All</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces/suite-private-office" class="c-nav__link ">Suite</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces/atelier-private-office" class="c-nav__link ">Atelier</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces/resident-flexible-office" class="c-nav__link ">Resident</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces/nomad-flexible-office" class="c-nav__link ">Nomad</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces/under30-flexible-office" class="c-nav__link ">Under 30</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/workspaces/visitor-flexible-office" class="c-nav__link ">Visitor</a>
+
+              </li>
+              </ul>
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/meeting-rooms" class="c-nav__link ">Meeting rooms</a>
+
+              </li>
+          <li class="c-nav__item" class="">
+        <a href="https://fosburyandsons.com/event-spaces" class="c-nav__link ">Event Spaces</a>
+
+              </li>
+      </ul>
+</nav>
+      
+      <a href="https://fosburyandsons.com/" class="c-header__logo" aria-label="Go to homepage">
+  <svg xmlns="http://www.w3.org/2000/svg">
+    <use href="#logo" />
+  </svg>
+</a>
+
+              <nav class="c-nav c-nav--secondary">
+  <div class="u-margin-bottom-small u-h2 u-hidden@desktop">Our story</div>
+  <ul class="c-nav__list c-nav__list--secondary">
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/contact" class="c-nav__link ">Contact us</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/journal" class="c-nav__link ">Journal</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/calendar" class="c-nav__link ">Calendar</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="#" class="c-nav__link ">About</a>
+
+                  <ul class="c-subnav">
+                  <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/why" class="c-nav__link ">Why</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/values" class="c-nav__link ">Values</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/gallery" class="c-nav__link ">Gallery</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/jobs" class="c-nav__link ">Jobs</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/team" class="c-nav__link ">Team</a>
+
+              </li>
+          <li class="c-nav__item">
+        <a href="https://fosburyandsons.com/faqs" class="c-nav__link ">FAQ</a>
+
+              </li>
+              </ul>
+              </li>
+    
+    <li class="c-nav__item">
+      <a class="c-nav__link c-nav__link-icon" href="https://fosburyandsons.com/wp-content/uploads/2018/11/Boitsfort_Nil_Fosbury-and-Sons-Going-East_01.jpg">
+        En
+        <svg xmlns="http://www.w3.org/2000/svg">
+          <use href="#icon-arrow-down"/>
+        </svg>
+      </a>
+
+            <ul class="c-subnav">
+                              
+                                        
+                    
+            <li class="c-nav__item">
+              <a href="https://fosburyandsons.com/nl/" class="c-nav__link">Nl</a>
+            </li>
+                                        
+                    
+            <li class="c-nav__item">
+              <a href="https://fosburyandsons.com/fr/" class="c-nav__link">Fr</a>
+            </li>
+                        </ul>
+    </li>
+
+  </ul>
+</nav>
+
+        <div class="c-header__toggle js-header-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      
+      
+    </div>
+  </div>
+</header>
+
+
+  <div id="app">
+    <main role="main">
+      
+<section class="c-hero">
+  <div class="o-wrapper">
+    <div class="c-hero__inner">
+      <div class="c-hero__content js-visible">
+        <h1><p><em>404</em><br />Page<br />Not<br />Found</p></h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="c-hero__media">
+        <video class="js-lazy-img" data-src="https://player.vimeo.com/external/345493605.hd.mp4?s=1b96c5e2aed307696b65cb7632063b269a9b407e&amp;profile_id=175" preload= "true" volume="0" playsinline autoplay loop muted></video>
+      </div>
+</section>
+
+    </main>
+  </div>
+
+    <footer class="c-footer ">
+  <div class="o-wrapper">
+
+    <div class="c-footer__top"></div>
+
+    <div class="o-layout o-layout--stretch">
+      <div class="o-layout__item u-1/12@tablet">
+        <a href="#" aria-label="Go to top">
+                              <img alt="" class="c-footer__logo" src="/assets/images/brand-logo-black.png" width="537" height="550">
+                            </a>
+      </div>
+
+      <div class="o-layout__item u-1/2 u-push-1/12@tablet u-4/12@tablet u-2/12@desktop">
+        <div class="c-footer__nav">
+
+                              <a  href="https://fosburyandsons.com/contact">Contact</a>
+                    <a  href="https://fosburyandsons.com/jobs">Jobs</a>
+                    <a  href="https://fosburyandsons.com/privacy-policy">Privacy Policy</a>
+                    <a  href="https://fosburyandsons.com/terms-conditions">Terms &amp; Conditions</a>
+                  </div>
+      </div>
+
+      <div class="o-layout__item u-1/2 u-push-1/12@tablet u-4/12@tablet u-3/12@desktop">
+        <div class="c-footer__nav-wrapper">
+          <div class="c-footer__nav">
+                        <a rel="noopener" class="c-footer__nav-link" target="_blank" href="https://www.instagram.com/fosbury.alfons/?hl=nl">Instagram - Alfons</a>
+                        <a rel="noopener" class="c-footer__nav-link" target="_blank" href="https://www.instagram.com/fosbury.boitsfort/?hl=nl">Instagram - Boitsfort</a>
+                        <a rel="noopener" class="c-footer__nav-link" target="_blank" href="https://www.linkedin.com/company/f-o-s-b-u-r-y-&amp;-s-o-n-s/?viewAsMember=true">LinkedIn - Alfons</a>
+                        <a rel="noopener" class="c-footer__nav-link" target="_blank" href="https://www.linkedin.com/company/fosbury-sons-boitsfort/?viewAsMember=true">LinkedIn - Boitsfort</a>
+                      </div>
+
+          <div class="c-footer__nav">
+                        
+            <a href="#" class="c-footer__nav-link" data-cookie-link="cookies" aria-label="Open cookie settings">Cookie settings</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="o-layout__item u-6/12@desktop u-push-1/12@laptop u-5/12@laptop">
+        <div class="o-flex o-flex--v-justify u-1/1 u-margin-top u-margin-none@desktop">
+          <p class="u-h2 u-color-black">
+            Subscribe to <br />
+our newsletter
+          </p>
+
+          <form class="c-form c-form--single c-form--dark" id="js-newsletter">
+            <div class="c-form__fieldset">
+              <div>
+                <label class="c-form__label" for="newsletter-email">Email</label>
+                <input class="c-form__input" id="newsletter-email" name="newsletter-email" type="email" value="">
+              </div>
+
+              <div>
+                <label class="c-form__label" for="newsletter-location">Country</label>
+                <select class="c-form__input" name="newsletter-location" id="newsletter-location">
+                                    <option value="BE">Belgium</option>
+                                  </select>
+              </div>
+
+              <button class="c-btn c-btn--black" name="button" type="button">
+                <span>Send</span>
+              </button>
+            </div>
+          </form>
+
+          <div class="u-hidden" id="js-success-message">
+            <p>You&#039;re subscribed succesfully!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+    <script src="https://js.stripe.com/v3/"></script>
+  
+  <script>window.MSInputMethodContext && document.documentMode && document.write('<script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.7.0/intersection-observer.js"><\x2fscript>');</script>
+      
+<script src="/assets/js/manifest.js?v=2.3.33"></script>
+<script src="/assets/js/vendor.js?v=2.3.33"></script>
+<script src="/assets/js/app.js?v=2.3.33"></script></body>
+
+</html>
