@@ -12,7 +12,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { path: '/blog', priority: 0.9, freq: 'daily' as const },
         { path: '/actors', priority: 0.9, freq: 'daily' as const },
         { path: '/neighborhoods', priority: 0.9, freq: 'weekly' as const },
-        { path: '/ranking', priority: 0.8, freq: 'weekly' as const },
         { path: '/matchmaker', priority: 0.7, freq: 'monthly' as const },
         { path: '/about', priority: 0.5, freq: 'monthly' as const },
         { path: '/contact', priority: 0.5, freq: 'monthly' as const },
