@@ -2,11 +2,30 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { ACTORS, getActorById } from '@/lib/actors';
+import { Metadata } from 'next';
 
 export async function generateStaticParams() {
     return ACTORS.map((actor) => ({
         slug: actor.id,
     }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+    const { slug } = await params;
+    const actor = getActorById(slug);
+    if (!actor) return {};
+    return {
+        title: `${actor.name} Coliving Brussels | Review & Prices`,
+        description: `${actor.description.slice(0, 155)}...`,
+        openGraph: {
+            title: `${actor.name} — Coliving in Brussels`,
+            description: `From €${actor.priceRange.min}/month. ${actor.neighborhood}. ${actor.features.join(', ')}.`,
+            ...(actor.coverImage ? { images: [{ url: actor.coverImage }] } : {}),
+        },
+        alternates: {
+            canonical: `https://colivinginbrussels.com/actors/${slug}`,
+        },
+    };
 }
 
 export default async function ActorPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -17,8 +36,37 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
         notFound();
     }
 
+    const jsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'LodgingBusiness',
+        name: actor.name,
+        description: actor.description,
+        url: actor.website,
+        priceRange: `€${actor.priceRange.min} - €${actor.priceRange.max}`,
+        address: {
+            '@type': 'PostalAddress',
+            addressLocality: actor.neighborhood,
+            addressRegion: 'Brussels',
+            addressCountry: 'BE',
+        },
+        ...(actor.googleReviewScore ? {
+            aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: actor.googleReviewScore,
+                bestRating: 5,
+                ratingCount: 50,
+            },
+        } : {}),
+    };
+
+    const otherActors = ACTORS.filter((a) => a.id !== actor.id).slice(0, 3);
+
     return (
         <div className="min-h-screen bg-background pb-16">
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            />
             {/* Hero Section */}
             <div className="relative h-[50vh] w-full">
                 {/* Fallback to gray background if image fails */}
@@ -124,8 +172,42 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
                             </div>
                         </div>
                     </div>
+
+                    {/* Back link */}
+                    <div className="mt-8 pt-6 border-t border-border">
+                        <Link href="/actors" className="text-sm text-gray-500 hover:text-primary transition-colors flex items-center gap-2">
+                            ← Back to all coliving spaces
+                        </Link>
+                    </div>
                 </div>
             </div>
+
+            {/* Other Spaces */}
+            {otherActors.length > 0 && (
+                <div className="container mx-auto px-4 mt-16">
+                    <h2 className="text-2xl font-bold font-heading text-text-dark mb-6">You Might Also Like</h2>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        {otherActors.map((other) => (
+                            <Link key={other.id} href={`/actors/${other.id}`} className="group bg-white rounded-xl border border-border hover:border-primary hover:shadow-md transition-all overflow-hidden flex flex-col">
+                                <div className="relative h-40 bg-gray-100">
+                                    {other.coverImage && (
+                                        <Image src={other.coverImage} alt={other.name} fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+                                    )}
+                                </div>
+                                <div className="p-4 flex-1">
+                                    <div className="flex justify-between items-start">
+                                        <div>
+                                            <h3 className="font-bold text-text-dark group-hover:text-primary transition-colors">{other.name}</h3>
+                                            <p className="text-xs text-gray-500">📍 {other.neighborhood}</p>
+                                        </div>
+                                        <span className="text-sm font-bold text-primary">€{other.priceRange.min}/mo</span>
+                                    </div>
+                                </div>
+                            </Link>
+                        ))}
+                    </div>
+                </div>
+            )}
         </div>
     );
 }

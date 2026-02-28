@@ -4,8 +4,15 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: 'Coliving Directory | Brussels',
-    description: 'Browse the complete list of top coliving actors in Brussels.',
+    title: 'Best Coliving Spaces in Brussels 2026 | Complete Directory',
+    description: 'Compare all coliving spaces in Brussels: Cohabs, Corners, Morton Place, Colive, Ikoab, Neybor, Habyt, and more. Prices, amenities, and honest reviews.',
+    openGraph: {
+        title: 'Best Coliving Spaces in Brussels 2026 | Complete Directory',
+        description: 'Find and compare every major coliving operator in Brussels. Unbiased reviews, real prices, and neighborhood info.',
+    },
+    alternates: {
+        canonical: 'https://colivinginbrussels.com/actors',
+    },
 };
 
 export default function ActorsPage() {

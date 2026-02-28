@@ -3,7 +3,7 @@ title: "Coliving in Brussels: The Ultimate Guide for 2026"
 excerpt: "Everything you need to know about coliving in Brussels: costs, best neighborhoods, and how to find your perfect community."
 date: "2026-02-19"
 author: "Brussels Local Guide"
-coverImage: "/images/blog/guide-cover.png"
+coverImage: "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1200&q=80&auto=format&fit=crop"
 tags: ["Coliving", "Brussels", "Guide", "Expats"]
 ---
 

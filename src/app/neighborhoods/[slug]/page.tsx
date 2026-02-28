@@ -1,6 +1,31 @@
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import { Metadata } from 'next';
+
+const NEIGHBORHOOD_GRADIENTS: Record<string, string> = {
+    'ixelles': 'from-rose-900 via-pink-800 to-red-900',
+    'saint-gilles': 'from-indigo-900 via-purple-800 to-violet-900',
+    'etterbeek': 'from-blue-900 via-sky-800 to-cyan-900',
+    'brussels-city': 'from-slate-900 via-gray-800 to-zinc-900',
+};
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+    const { slug } = await params;
+    const neighborhood = NEIGHBORHOODS.find((n) => n.slug === slug);
+    if (!neighborhood) return {};
+    return {
+        title: `Living in ${neighborhood.name}, Brussels | Neighborhood Guide`,
+        description: `${neighborhood.shortDesc} Discover transport links, average rents, highlights, and why expats love ${neighborhood.name}.`,
+        openGraph: {
+            title: `Living in ${neighborhood.name}, Brussels | Neighborhood Guide`,
+            description: `${neighborhood.shortDesc} Your complete guide to ${neighborhood.name} for expats and newcomers.`,
+        },
+        alternates: {
+            canonical: `https://colivinginbrussels.com/neighborhoods/${slug}`,
+        },
+    };
+}
 
 export default async function NeighborhoodPage({ params }: { params: Promise<{ slug: string }> }) {
     const { slug } = await params;
@@ -10,20 +35,30 @@ export default async function NeighborhoodPage({ params }: { params: Promise<{ s
         notFound();
     }
 
+    const gradient = NEIGHBORHOOD_GRADIENTS[neighborhood.slug] ?? 'from-slate-900 via-gray-800 to-zinc-900';
+
     return (
         <div className="min-h-screen bg-background">
             {/* Neighborhood Hero */}
-            <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
-                <div className="absolute inset-0 bg-primary/20" /> {/* Should be the neighborhood image */}
+            <section className={`relative h-[60vh] flex items-center justify-center overflow-hidden bg-gradient-to-br ${gradient}`}>
+                {/* Subtle dot pattern */}
+                <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(255,255,255,0.4) 1px, transparent 0)', backgroundSize: '32px 32px' }} />
                 <div className="relative z-10 text-center px-4">
-                    <h1 className="text-6xl md:text-8xl font-bold font-heading mb-6 relative z-10 text-white drop-shadow-lg">
+                    <div className="flex justify-center gap-2 mb-6">
+                        {neighborhood.vibe.map((v) => (
+                            <span key={v} className="text-xs bg-white/20 backdrop-blur-sm text-white px-3 py-1.5 rounded-full border border-white/30 font-medium">
+                                {v}
+                            </span>
+                        ))}
+                    </div>
+                    <h1 className="text-6xl md:text-8xl font-bold font-heading mb-6 text-white drop-shadow-lg">
                         {neighborhood.name}
                     </h1>
-                    <p className="text-2xl text-white font-light max-w-2xl mx-auto drop-shadow-md">
+                    <p className="text-xl md:text-2xl text-white/80 font-light max-w-2xl mx-auto drop-shadow-md">
                         {neighborhood.shortDesc}
                     </p>
                 </div>
-                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background to-transparent h-64 z-0" />
+                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background to-transparent h-32 z-0" />
             </section>
 
             {/* Content Layout */}

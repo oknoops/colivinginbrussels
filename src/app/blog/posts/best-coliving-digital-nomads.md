@@ -3,7 +3,7 @@ title: "Top 7 Coliving Spaces in Brussels for Digital Nomads"
 excerpt: "Looking for strong WiFi, a professional workspace, and a community of freelancers? Here are the best coliving spaces in Brussels for remote work."
 date: "2026-02-18"
 author: "Brussels Digital Nomad"
-coverImage: "/images/blog/nomad-cover.png"
+coverImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80&auto=format&fit=crop"
 tags: ["Remote Work", "Coworking", "Coliving", "Digital Nomad"]
 ---
 

@@ -3,7 +3,7 @@ title: "Brussels Neighborhood Guide: Ixelles vs. Saint-Gilles"
 excerpt: "Ixelles or Saint-Gilles? Which trendy Brussels commune is right for you? We compare vibes, prices, and lifestyles for expats."
 date: "2026-02-17"
 author: "Brussels Expat Community"
-coverImage: "/images/blog/neighborhood-cover.png"
+coverImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&auto=format&fit=crop"
 tags: ["Neighborhoods", "Brussels", "Ixelles", "Saint-Gilles", "Expats"]
 ---
 

@@ -56,17 +56,18 @@ export default function Footer() {
                             <li><Link href="/about" className="hover:text-white transition-colors">About Us</Link></li>
                             <li><Link href="/contact" className="hover:text-white transition-colors">Contact</Link></li>
                             <li><Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link></li>
-                            <li><Link href="/terms" className="hover:text-white transition-colors">Terms of Service</Link></li>
+                            <li><Link href="/terms" className="hover:text-white transition-colors">Terms of Use</Link></li>
+                            <li><Link href="/ranking" className="hover:text-white transition-colors">Coliving Rankings</Link></li>
                         </ul>
                     </div>
                 </div>
 
                 {/* Bottom Bar */}
                 <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-500">
-                    <p>&copy; {new Date().getFullYear()} LivingInBrussels. Made with ❤️ in Brussels.</p>
+                    <p>&copy; {new Date().getFullYear()} ColivingInBrussels. Made with ❤️ in Brussels.</p>
                     <div className="flex gap-6">
-                        <Link href="/sitemap" className="hover:text-gray-300">Sitemap</Link>
-                        <Link href="/accessibility" className="hover:text-gray-300">Accessibility</Link>
+                        <Link href="/privacy" className="hover:text-gray-300">Privacy Policy</Link>
+                        <Link href="/terms" className="hover:text-gray-300">Terms</Link>
                     </div>
                 </div>
             </div>

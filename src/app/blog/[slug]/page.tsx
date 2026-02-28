@@ -4,12 +4,44 @@ import remarkGfm from 'remark-gfm';
 import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
+import { Metadata } from 'next';
 
 export async function generateStaticParams() {
     const posts = getAllPosts(['slug']);
     return posts.map((post) => ({
         slug: post.slug,
     }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+    const { slug } = await params;
+    const post = getPostBySlug(slug, ['title', 'excerpt', 'coverImage', 'slug']);
+    if (!post.slug) return {};
+    return {
+        title: post.title,
+        description: post.excerpt,
+        openGraph: {
+            title: post.title,
+            description: post.excerpt,
+            type: 'article',
+            ...(post.coverImage ? { images: [{ url: post.coverImage }] } : {}),
+        },
+        alternates: {
+            canonical: `https://colivinginbrussels.com/blog/${slug}`,
+        },
+    };
+}
+
+function formatDate(dateStr: string) {
+    try {
+        return new Date(dateStr).toLocaleDateString('en-GB', {
+            day: 'numeric',
+            month: 'long',
+            year: 'numeric',
+        });
+    } catch {
+        return dateStr;
+    }
 }
 
 export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
@@ -21,24 +53,47 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         'author',
         'content',
         'coverImage',
+        'excerpt',
     ]);
 
     if (!post.slug) {
         notFound();
     }
 
+    const articleJsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: post.title,
+        description: post.excerpt,
+        datePublished: post.date,
+        author: {
+            '@type': 'Person',
+            name: post.author,
+        },
+        publisher: {
+            '@type': 'Organization',
+            name: 'ColivingInBrussels',
+            url: 'https://colivinginbrussels.com',
+        },
+    };
+
     return (
         <article className="container mx-auto py-20 px-4 max-w-4xl">
-            <Link href="/blog" className="inline-flex items-center text-gray-500 hover:text-primary mb-8 transition-colors">
-                &larr; Back to Blog
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+            />
+
+            <Link href="/blog" className="inline-flex items-center text-gray-500 hover:text-primary mb-8 transition-colors text-sm">
+                ← Back to Blog
             </Link>
 
             <div className="mb-10 text-center">
                 <h1 className="text-4xl md:text-5xl font-bold font-heading mb-6 text-text-dark leading-tight">
                     {post.title}
                 </h1>
-                <div className="flex items-center justify-center gap-4 text-gray-500">
-                    <time dateTime={post.date}>{post.date}</time>
+                <div className="flex items-center justify-center gap-4 text-gray-500 text-sm">
+                    <time dateTime={post.date}>{formatDate(post.date)}</time>
                     <span className="w-1 h-1 bg-gray-300 rounded-full"></span>
                     <span>By {post.author}</span>
                 </div>
@@ -58,6 +113,19 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
             <div className="prose prose-lg prose-red mx-auto text-text">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content || ''}</ReactMarkdown>
+            </div>
+
+            {/* CTA */}
+            <div className="mt-16 pt-10 border-t border-border text-center">
+                <p className="text-gray-500 mb-6 text-lg">Ready to find your coliving space in Brussels?</p>
+                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                    <Link href="/actors" className="btn btn-primary px-8">
+                        Browse All Coliving Spaces
+                    </Link>
+                    <Link href="/matchmaker" className="px-8 py-3 rounded-lg font-semibold border border-border bg-white text-text-dark hover:bg-gray-50 transition-all">
+                        Take the Quiz →
+                    </Link>
+                </div>
             </div>
         </article>
     );

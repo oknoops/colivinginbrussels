@@ -1,22 +1,26 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/api';
 import { getAllActors } from '@/lib/actors';
+import { NEIGHBORHOODS } from '@/lib/neighborhoods';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://colivinginbrussels.com'; // Replace with actual domain
+    const baseUrl = 'https://colivinginbrussels.com';
 
     // Static routes
     const routes = [
-        '',
-        '/blog',
-        '/actors',
-        '/ranking',
-        '/matchmaker',
-    ].map((route) => ({
-        url: `${baseUrl}${route}`,
+        { path: '', priority: 1.0, freq: 'daily' as const },
+        { path: '/blog', priority: 0.9, freq: 'daily' as const },
+        { path: '/actors', priority: 0.9, freq: 'daily' as const },
+        { path: '/neighborhoods', priority: 0.9, freq: 'weekly' as const },
+        { path: '/ranking', priority: 0.8, freq: 'weekly' as const },
+        { path: '/matchmaker', priority: 0.7, freq: 'monthly' as const },
+        { path: '/about', priority: 0.5, freq: 'monthly' as const },
+        { path: '/contact', priority: 0.5, freq: 'monthly' as const },
+    ].map(({ path, priority, freq }) => ({
+        url: `${baseUrl}${path}`,
         lastModified: new Date(),
-        changeFrequency: 'daily' as const,
-        priority: route === '' ? 1 : 0.8,
+        changeFrequency: freq,
+        priority,
     }));
 
     // Dynamic Blog Posts
@@ -25,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         url: `${baseUrl}/blog/${post.slug}`,
         lastModified: new Date(post.date!),
         changeFrequency: 'weekly' as const,
-        priority: 0.7,
+        priority: 0.8,
     }));
 
     // Dynamic Actors
@@ -37,5 +41,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.9,
     }));
 
-    return [...routes, ...blogRoutes, ...actorRoutes];
+    // Dynamic Neighborhoods
+    const neighborhoodRoutes = NEIGHBORHOODS.map((hood) => ({
+        url: `${baseUrl}/neighborhoods/${hood.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.85,
+    }));
+
+    return [...routes, ...blogRoutes, ...actorRoutes, ...neighborhoodRoutes];
 }

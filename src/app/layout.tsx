@@ -9,8 +9,32 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-outfit' });
 
 export const metadata: Metadata = {
-  title: 'Coliving in Brussels | Find Your Perfect Shared Home',
-  description: 'The ultimate guide to coliving spaces in Brussels. Find reviews, rankings, and your next home.',
+  title: {
+    default: 'Coliving in Brussels | Find Your Perfect Shared Home',
+    template: '%s | ColivingInBrussels',
+  },
+  description: 'The #1 guide to coliving spaces in Brussels for expats, students, and digital nomads. Compare all operators, explore neighborhoods, and find your community.',
+  metadataBase: new URL('https://colivinginbrussels.com'),
+  openGraph: {
+    title: 'Coliving in Brussels | Find Your Perfect Shared Home',
+    description: 'Compare all Brussels coliving spaces. Honest reviews, real prices, and neighborhood guides for expats and newcomers.',
+    url: 'https://colivinginbrussels.com',
+    siteName: 'ColivingInBrussels',
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Coliving in Brussels | Find Your Perfect Shared Home',
+    description: 'Compare all Brussels coliving spaces. Honest reviews, real prices, and neighborhood guides.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  alternates: {
+    canonical: 'https://colivinginbrussels.com',
+  },
 };
 
 export default function RootLayout({

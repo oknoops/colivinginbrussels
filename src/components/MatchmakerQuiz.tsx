@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Metadata } from 'next';
 
 // Define Municipality Data
 const MUNICIPALITIES = [
@@ -217,10 +216,13 @@ export default function MatchmakerPage() {
                             </div>
 
                             <div className="flex flex-col gap-3">
-                                <Link href="/actors" className="btn btn-primary w-full py-4 text-lg">
-                                    See Coliving Spaces in {match.name.split(' ')[0]}
+                                <Link href={`/neighborhoods/${match.id}`} className="btn btn-primary w-full py-4 text-lg">
+                                    Explore {match.name.split(' ')[0]} →
                                 </Link>
-                                <button onClick={resetQuiz} className="text-gray-500 underline hover:text-primary mt-4">
+                                <Link href="/actors" className="px-6 py-3 rounded-lg font-semibold border border-border bg-gray-50 text-text-dark hover:bg-gray-100 transition-all text-center w-full">
+                                    Browse All Coliving Spaces
+                                </Link>
+                                <button onClick={resetQuiz} className="text-gray-500 underline hover:text-primary mt-2 text-sm">
                                     Retake Quiz
                                 </button>
                             </div>
