@@ -26,38 +26,45 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      {/* Hero Section — sunshine vibes */}
-      <section className="relative py-24 md:py-36 flex items-center justify-center overflow-hidden bg-gradient-to-br from-amber-400 via-orange-400 to-rose-400">
-        {/* Decorative blobs */}
-        <div className="absolute top-0 right-0 w-96 h-96 bg-yellow-300/40 rounded-full blur-3xl pointer-events-none -translate-y-1/2 translate-x-1/4" />
-        <div className="absolute bottom-0 left-0 w-80 h-80 bg-rose-300/40 rounded-full blur-3xl pointer-events-none translate-y-1/2 -translate-x-1/4" />
-        {/* Dot pattern */}
-        <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle at 1px 1px, rgba(255,255,255,0.6) 1px, transparent 0)', backgroundSize: '32px 32px' }} />
+      {/* Hero Section — Grand Place photo background */}
+      <section className="relative h-[92vh] min-h-[600px] flex items-center justify-center overflow-hidden">
+        {/* Brussels photo */}
+        <Image
+          src="https://images.unsplash.com/photo-1559564484-a109d2133e55?w=1800&q=85&auto=format&fit=crop"
+          alt="Grand Place, Brussels"
+          fill
+          className="object-cover"
+          priority
+        />
+        {/* Dark overlay for readability */}
+        <div className="absolute inset-0 bg-black/50" />
+        {/* Bottom fade */}
+        <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-white to-transparent z-10" />
 
-        <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
-          <div className="inline-flex items-center gap-2 bg-white/30 backdrop-blur-sm border border-white/50 text-white px-5 py-2 rounded-full text-sm font-semibold mb-8 shadow-sm">
-            <span className="w-2 h-2 bg-white rounded-full animate-pulse"></span>
+        <div className="relative z-20 text-center px-4 max-w-4xl mx-auto">
+          <div className="inline-flex items-center gap-2 bg-white/15 backdrop-blur-md border border-white/30 text-white/90 px-5 py-2 rounded-full text-sm font-medium mb-8 tracking-wide">
+            <span className="w-1.5 h-1.5 bg-orange-400 rounded-full"></span>
             The Capital of Europe's #1 Coliving Guide
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold font-heading mb-6 leading-tight text-white drop-shadow-lg">
-            Find Your Perfect <br className="hidden md:block" />Coliving in Brussels
+          <h1 className="text-5xl md:text-7xl font-bold font-heading mb-6 leading-tight text-white">
+            Find Your Coliving<br className="hidden md:block" /> in Brussels
           </h1>
-          <p className="text-xl md:text-2xl mb-10 text-white/90 font-light max-w-3xl mx-auto drop-shadow">
-            Compare all Brussels coliving spaces side-by-side. Honest reviews, real prices, and neighborhood guides — so you can find your community before you arrive.
+          <p className="text-lg md:text-xl mb-10 text-white/80 font-light max-w-2xl mx-auto">
+            Compare all Brussels coliving spaces — honest reviews, real prices, neighborhood guides. Find your community before you arrive.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/matchmaker" className="inline-flex items-center justify-center gap-2 bg-white text-orange-500 font-bold px-8 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
+            <Link href="/matchmaker" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg text-base">
               ✨ Find My Perfect Match
             </Link>
-            <Link href="/actors" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold border-2 border-white/70 bg-white/20 backdrop-blur-sm text-white hover:bg-white/30 transition-all text-lg">
-              Browse Coliving Actors in Brussels →
+            <Link href="/actors" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold bg-white/10 backdrop-blur-sm border border-white/40 text-white hover:bg-white/20 transition-all text-base">
+              Browse Coliving Actors →
             </Link>
           </div>
-          <div className="mt-12 flex items-center justify-center gap-8 text-white/80 text-sm font-medium">
+          <div className="mt-10 flex items-center justify-center gap-6 text-white/60 text-sm">
             <span>8 Coliving Spaces</span>
-            <span className="w-1 h-1 bg-white/60 rounded-full"></span>
+            <span className="w-1 h-1 bg-white/30 rounded-full"></span>
             <span>8 Neighborhoods</span>
-            <span className="w-1 h-1 bg-white/60 rounded-full"></span>
+            <span className="w-1 h-1 bg-white/30 rounded-full"></span>
             <span>100% Unbiased</span>
           </div>
         </div>

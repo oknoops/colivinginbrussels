@@ -21,7 +21,8 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Trendy', 'Social', 'International'],
         transport: 'Tram 81, 7, 25. Bus 71. Metro: Louise, Porte de Namur.',
         avgRent: '€800 – €1,200',
-        image: 'https://images.unsplash.com/photo-1555992336-03a23c7b20ee?w=1200&q=80&auto=format&fit=crop',
+        // Brussels square with outdoor fountain — social, vibrant urban scene
+        image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-rose-500 via-pink-400 to-orange-400',
     },
     {
@@ -33,7 +34,8 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Bohemian', 'Arty', 'Relaxed'],
         transport: 'Metro line 2/6 (Horta). Tram 3, 4, 18, 51, 81.',
         avgRent: '€700 – €1,100',
-        image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop',
+        // Carriage on Brussels street between historic buildings — bohemian, old-world character
+        image: 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-violet-500 via-purple-400 to-fuchsia-400',
     },
     {
@@ -45,7 +47,8 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Expats', 'Business', 'Convenient'],
         transport: 'Metro line 1/5 (Merode, Schuman). Train: Etterbeek Station.',
         avgRent: '€850 – €1,300',
-        image: 'https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=1200&q=80&auto=format&fit=crop',
+        // Brussels city view with large European-style building in background
+        image: 'https://images.unsplash.com/photo-1491557345352-5929e343eb89?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-sky-500 via-blue-400 to-cyan-400',
     },
     {
@@ -57,6 +60,7 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Busy', 'Historic', 'Central'],
         transport: 'Brussels Central Station. All Metro lines (De Brouckère, Bourse, Centrale).',
         avgRent: '€750 – €1,200',
+        // Grand Place of Brussels during daytime — confirmed landmark photo
         image: 'https://images.unsplash.com/photo-1559564484-a109d2133e55?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-amber-500 via-orange-400 to-red-500',
     },
@@ -69,7 +73,8 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Quiet', 'Green', 'Premium'],
         transport: 'Tram 92, 97. Bus 60. No metro — car or bike useful.',
         avgRent: '€1,000 – €1,600',
-        image: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&auto=format&fit=crop',
+        // Tree-lined residential urban avenue — elegant, calm, premium
+        image: 'https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-emerald-500 via-teal-400 to-green-400',
     },
     {
@@ -81,6 +86,7 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Up-and-Coming', 'Diverse', 'Affordable'],
         transport: 'Metro line 2/6 (Diamant, Gare de l\'Ouest). Tram 25, 62. Bus 53, 56.',
         avgRent: '€600 – €950',
+        // Beige and brown painted house in Schaerbeek — confirmed specific photo of the neighborhood
         image: 'https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-pink-500 via-rose-400 to-red-400',
     },
@@ -93,7 +99,8 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Alternative', 'Creative', 'Affordable'],
         transport: 'Metro line 2/6 (Porte de Hal). Tram 3, 4, 51. Bus 54.',
         avgRent: '€650 – €1,000',
-        image: 'https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80&auto=format&fit=crop',
+        // Brussels urban street scene — alternative, creative neighborhood vibe
+        image: 'https://images.unsplash.com/photo-1444084316824-dc26d6657664?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-lime-500 via-green-400 to-emerald-500',
     },
     {
@@ -105,7 +112,8 @@ export const NEIGHBORHOODS: Neighborhood[] = [
         vibe: ['Family-Friendly', 'Green', 'Residential'],
         transport: 'Metro line 1 (Stockel, Roodebeek, Alma). Bus 36, 79.',
         avgRent: '€900 – €1,400',
-        image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80&auto=format&fit=crop',
+        // Calm European park with lake — residential, family-friendly green space
+        image: 'https://images.unsplash.com/photo-1519861531473-9200262188bf?w=1200&q=80&auto=format&fit=crop',
         gradient: 'from-cyan-400 via-sky-400 to-blue-500',
     },
 ];
