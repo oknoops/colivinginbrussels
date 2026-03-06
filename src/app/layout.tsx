@@ -58,6 +58,28 @@ export default function RootLayout({
             gtag('config', 'G-FE9KCRGG1T');
           `}
         </Script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebSite',
+              name: 'ColivingInBrussels',
+              url: 'https://colivinginbrussels.com',
+              description: 'The #1 guide to coliving spaces in Brussels for expats, students, and digital nomads.',
+              publisher: {
+                '@type': 'Organization',
+                name: 'ColivingInBrussels',
+                url: 'https://colivinginbrussels.com',
+              },
+              potentialAction: {
+                '@type': 'SearchAction',
+                target: 'https://colivinginbrussels.com/blog?q={search_term_string}',
+                'query-input': 'required name=search_term_string',
+              },
+            }),
+          }}
+        />
         <Header />
         <main className="pt-20 min-h-screen">
           {children}

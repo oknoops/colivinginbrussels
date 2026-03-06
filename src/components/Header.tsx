@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { href: '/neighborhoods', label: 'Neighborhoods' },
   { href: '/actors', label: 'Coliving Spaces' },
   { href: '/blog', label: 'Blog' },
+  { href: '/faq', label: 'FAQ' },
 ];
 
 export default function Header() {

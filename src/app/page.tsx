@@ -26,45 +26,41 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      {/* Hero Section — Grand Place photo background */}
-      <section className="relative h-[92vh] min-h-[600px] flex items-center justify-center overflow-hidden">
-        {/* Brussels photo */}
-        <Image
-          src="https://images.unsplash.com/photo-1559564484-a109d2133e55?w=1800&q=85&auto=format&fit=crop"
-          alt="Grand Place, Brussels"
-          fill
-          className="object-cover"
-          priority
-        />
-        {/* Dark overlay for readability */}
-        <div className="absolute inset-0 bg-black/50" />
+      {/* Hero Section — Light background */}
+      <section className="relative h-[92vh] min-h-[600px] flex items-center justify-center overflow-hidden bg-gradient-to-br from-amber-50 via-orange-50 to-rose-50">
+        {/* Decorative shapes */}
+        <div className="absolute inset-0 overflow-hidden">
+          <div className="absolute -top-40 -right-40 w-[500px] h-[500px] bg-orange-300/20 rounded-full blur-3xl" />
+          <div className="absolute -bottom-40 -left-40 w-[500px] h-[500px] bg-rose-300/20 rounded-full blur-3xl" />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-amber-200/15 rounded-full blur-3xl" />
+        </div>
         {/* Bottom fade */}
         <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-white to-transparent z-10" />
 
         <div className="relative z-20 text-center px-4 max-w-4xl mx-auto">
-          <div className="inline-flex items-center gap-2 bg-white/15 backdrop-blur-md border border-white/30 text-white/90 px-5 py-2 rounded-full text-sm font-medium mb-8 tracking-wide">
+          <div className="inline-flex items-center gap-2 bg-white/70 backdrop-blur-md border border-orange-200 text-text-dark px-5 py-2 rounded-full text-sm font-medium mb-8 tracking-wide">
             <span className="w-1.5 h-1.5 bg-orange-400 rounded-full"></span>
             The Capital of Europe's #1 Coliving Guide
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold font-heading mb-6 leading-tight text-white">
+          <h1 className="text-5xl md:text-7xl font-bold font-heading mb-6 leading-tight text-text-dark">
             Find Your Coliving<br className="hidden md:block" /> in Brussels
           </h1>
-          <p className="text-lg md:text-xl mb-10 text-white/80 font-light max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl mb-10 text-text font-light max-w-2xl mx-auto">
             Compare all Brussels coliving spaces — honest reviews, real prices, neighborhood guides. Find your community before you arrive.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link href="/matchmaker" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg text-base">
-              ✨ Find My Perfect Match
+              Find My Perfect Match
             </Link>
-            <Link href="/actors" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold bg-white/10 backdrop-blur-sm border border-white/40 text-white hover:bg-white/20 transition-all text-base">
-              Browse Coliving Actors →
+            <Link href="/actors" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold bg-white border border-orange-200 text-text-dark hover:border-orange-400 hover:text-orange-600 transition-all text-base">
+              Browse Coliving Spaces
             </Link>
           </div>
-          <div className="mt-10 flex items-center justify-center gap-6 text-white/60 text-sm">
+          <div className="mt-10 flex items-center justify-center gap-6 text-text text-sm">
             <span>8 Coliving Spaces</span>
-            <span className="w-1 h-1 bg-white/30 rounded-full"></span>
+            <span className="w-1 h-1 bg-orange-300 rounded-full"></span>
             <span>8 Neighborhoods</span>
-            <span className="w-1 h-1 bg-white/30 rounded-full"></span>
+            <span className="w-1 h-1 bg-orange-300 rounded-full"></span>
             <span>100% Unbiased</span>
           </div>
         </div>
