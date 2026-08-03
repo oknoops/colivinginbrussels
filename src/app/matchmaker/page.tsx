@@ -2,8 +2,11 @@ import MatchmakerQuiz from '@/components/MatchmakerQuiz';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: 'Brussels Coliving Matchmaker | Find Your Home',
-    description: 'Take our 3-step quiz to find the perfect coliving space in Brussels based on your budget, vibe, and preferred neighborhood.',
+    title: 'Brussels Coliving & Neighborhood Matchmaker | Find Your Home',
+    description: 'Answer 6 quick questions and get matched to your ideal Brussels neighborhood and the coliving spaces that fit your budget, commute, and vibe. Free, data-driven, no sign-up.',
+    alternates: {
+        canonical: 'https://colivinginbrussels.com/matchmaker',
+    },
 };
 
 export default function MatchmakerPage() {
