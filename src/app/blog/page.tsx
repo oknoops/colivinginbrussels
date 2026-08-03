@@ -1,4 +1,4 @@
-import { getAllPosts } from '@/lib/api';
+import { getPublishedPosts } from '@/lib/api';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Metadata } from 'next';
@@ -8,8 +8,11 @@ export const metadata: Metadata = {
     description: 'Daily updates, guides, and honest reviews about the coliving scene in Brussels.',
 };
 
+// Re-render at most twice a day so future-dated posts appear once their day arrives.
+export const revalidate = 43200;
+
 export default function BlogIndex() {
-    const allPosts = getAllPosts([
+    const allPosts = getPublishedPosts([
         'title',
         'date',
         'slug',

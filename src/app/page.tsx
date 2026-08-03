@@ -1,8 +1,11 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { getAllPosts } from '@/lib/api';
+import { getPublishedPosts } from '@/lib/api';
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
 import { Metadata } from 'next';
+
+// Re-render twice a day so the "Latest Guides" section picks up newly-live posts.
+export const revalidate = 43200;
 
 export const metadata: Metadata = {
   title: 'Coliving in Brussels | Find Your Perfect Shared Home',
@@ -21,7 +24,7 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  const allPosts = getAllPosts(['title', 'date', 'slug', 'excerpt', 'tags', 'coverImage']);
+  const allPosts = getPublishedPosts(['title', 'date', 'slug', 'excerpt', 'tags', 'coverImage']);
   const recentPosts = allPosts.slice(0, 3);
 
   return (
@@ -57,7 +60,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="mt-10 flex items-center justify-center gap-6 text-text text-sm">
-            <span>8 Coliving Spaces</span>
+            <span>12 Coliving Spaces</span>
             <span className="w-1 h-1 bg-orange-300 rounded-full"></span>
             <span>8 Neighborhoods</span>
             <span className="w-1 h-1 bg-orange-300 rounded-full"></span>

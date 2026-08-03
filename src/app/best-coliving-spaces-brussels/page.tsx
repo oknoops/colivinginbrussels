@@ -65,7 +65,7 @@ export default function BestColivingSpacesPage() {
                     Best Coliving Spaces in <span className="text-primary">Brussels</span> 2026
                 </h1>
                 <p className="text-xl text-text">
-                    All 8 major coliving operators compared — find the one that fits your lifestyle and budget.
+                    Every major coliving operator compared — find the one that fits your lifestyle and budget.
                 </p>
             </div>
 
@@ -73,7 +73,7 @@ export default function BestColivingSpacesPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Brussels Coliving at a Glance</h2>
                     <p>
-                        Brussels is home to eight major coliving operators, each with a distinct approach to shared living. Whether you are looking for a premium design experience, a budget-friendly room, or a large-scale building with hotel-like amenities, there is an operator for you.
+                        Brussels is home to a growing roster of coliving operators, each with a distinct approach to shared living. Whether you are looking for a premium design experience, a budget-friendly room, or a large-scale building with hotel-like amenities, there is an operator for you.
                     </p>
                     <p className="mt-4">
                         Below, we break down each operator so you can compare them side by side. For detailed reviews with photos, visit our <Link href="/actors" className="text-primary hover:underline">full operator profiles</Link>.
@@ -173,6 +173,54 @@ export default function BestColivingSpacesPage() {
                     </p>
                     <p className="mt-4">
                         <strong className="text-text-dark">Price range:</strong> 650 - 900 EUR/month | <strong className="text-text-dark">Best for:</strong> Those who value a homey atmosphere | <strong className="text-text-dark">Neighborhoods:</strong> <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link>, <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link>, Forest
+                    </p>
+                </div>
+
+                <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
+                    <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">
+                        <Link href="/actors/sharies" className="text-primary hover:underline">9. Sharies</Link>
+                    </h2>
+                    <p>
+                        Sharies runs a fully-serviced, 100% digital model across residences in Saint-Gilles and the city centre. Water, energy, wifi, cleaning, linen and even daily household products are bundled into one price, with an on-site residence manager and a community calendar. It feels like the midpoint between an aparthotel and a shared house — ideal if you want zero admin and a same-week move-in.
+                    </p>
+                    <p className="mt-4">
+                        <strong className="text-text-dark">Price range:</strong> 800 - 950 EUR/month | <strong className="text-text-dark">Best for:</strong> Newcomers who want zero admin | <strong className="text-text-dark">Neighborhoods:</strong> <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link>, <Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link>
+                    </p>
+                </div>
+
+                <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
+                    <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">
+                        <Link href="/actors/co-homing" className="text-primary hover:underline">10. Co-Homing</Link>
+                    </h2>
+                    <p>
+                        Co-Homing runs a dozen furnished houses across some of the most liveable corners of Brussels — Châtelain, Flagey, Louise, Cinquantenaire and more. Their motto is "privacy where it counts, social when you want it": most rooms have a private bathroom, while shared living rooms, kitchens and gardens carry the community side. A favourite of mobile professionals and trainees who want stability without a long lease.
+                    </p>
+                    <p className="mt-4">
+                        <strong className="text-text-dark">Price range:</strong> 700 - 1,100 EUR/month | <strong className="text-text-dark">Best for:</strong> Professionals wanting privacy + central location | <strong className="text-text-dark">Neighborhoods:</strong> <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link>, <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link>, Louise
+                    </p>
+                </div>
+
+                <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
+                    <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">
+                        <Link href="/actors/comoon" className="text-primary hover:underline">11. Comoon</Link>
+                    </h2>
+                    <p>
+                        Comoon is built around the EU-quarter axis, with amenity-heavy houses near Schuman, Montgomery and Schaerbeek. Beyond a furnished private room with its own shower, residents get a coworking space with meeting rooms, a cinema room, a fully-equipped gym, laundry and secure bike parking — all folded into one monthly cost. A strong pick for anyone working in or around the European institutions.
+                    </p>
+                    <p className="mt-4">
+                        <strong className="text-text-dark">Price range:</strong> 860 - 1,050 EUR/month | <strong className="text-text-dark">Best for:</strong> EU-quarter workers who want a gym + desk at home | <strong className="text-text-dark">Neighborhoods:</strong> <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link>, Schaerbeek, EU Quarter
+                    </p>
+                </div>
+
+                <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
+                    <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">
+                        <Link href="/actors/coloc-housing" className="text-primary hover:underline">12. Coloc Housing</Link>
+                    </h2>
+                    <p>
+                        Coloc Housing sits at the accessible end of the market — furnished shared houses across Brussels with flexible stays and all-in rent. Closer to a well-managed colocation than a heavily-branded coliving, it offers fewer frills, friendlier prices, and rooms that are easy to move into for a semester or a first job. A dependable entry point into the coliving lifestyle without the premium price tag.
+                    </p>
+                    <p className="mt-4">
+                        <strong className="text-text-dark">Price range:</strong> 600 - 950 EUR/month | <strong className="text-text-dark">Best for:</strong> Budget-conscious newcomers and students | <strong className="text-text-dark">Neighborhoods:</strong> <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link>, <Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link>, Schaerbeek
                     </p>
                 </div>
 

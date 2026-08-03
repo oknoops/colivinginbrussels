@@ -1,7 +1,11 @@
 import { MetadataRoute } from 'next';
-import { getAllPosts } from '@/lib/api';
+import { getPublishedPosts } from '@/lib/api';
 import { getAllActors } from '@/lib/actors';
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
+
+// Keep the sitemap in step with the daily drip: don't advertise a post URL
+// before its publish date.
+export const revalidate = 43200;
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://colivinginbrussels.com';
@@ -33,8 +37,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority,
     }));
 
-    // Dynamic Blog Posts
-    const posts = getAllPosts(['slug', 'date']);
+    // Dynamic Blog Posts (published only — future drip posts stay out until live)
+    const posts = getPublishedPosts(['slug', 'date']);
     const blogRoutes = posts.map((post) => ({
         url: `${baseUrl}/blog/${post.slug}`,
         lastModified: new Date(post.date!),
