@@ -31,6 +31,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { path: '/eu-quarter-housing', priority: 0.8, freq: 'weekly' as const },
         { path: '/coliving-brussels-digital-nomads', priority: 0.8, freq: 'weekly' as const },
         { path: '/best-coliving-spaces-brussels', priority: 0.8, freq: 'weekly' as const },
+        // French (bilingual) pages
+        { path: '/fr', priority: 0.9, freq: 'weekly' as const },
+        { path: '/fr/coliving-bruxelles', priority: 0.9, freq: 'weekly' as const },
+        { path: '/fr/colocation-bruxelles', priority: 0.9, freq: 'weekly' as const },
+        { path: '/fr/kot-bruxelles', priority: 0.85, freq: 'weekly' as const },
     ].map(({ path, priority, freq }) => ({
         url: `${baseUrl}${path}`,
         lastModified: new Date(),

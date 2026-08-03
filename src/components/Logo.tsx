@@ -5,6 +5,8 @@ type LogoProps = {
     variant?: 'dark' | 'light';
     /** Render just the mark without the wordmark */
     markOnly?: boolean;
+    /** Where the logo links to (e.g. '/fr' on French pages) */
+    href?: string;
     className?: string;
     onClick?: () => void;
 };
@@ -50,11 +52,11 @@ export function LogoMark({ size = 40, className = '' }: { size?: number; classNa
     );
 }
 
-export default function Logo({ variant = 'dark', markOnly = false, className = '', onClick }: LogoProps) {
+export default function Logo({ variant = 'dark', markOnly = false, href = '/', className = '', onClick }: LogoProps) {
     const isLight = variant === 'light';
     return (
         <Link
-            href="/"
+            href={href}
             onClick={onClick}
             aria-label="ColivingInBrussels — home"
             className={`inline-flex items-center gap-2.5 shrink-0 group ${className}`}

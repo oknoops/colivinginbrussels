@@ -21,6 +21,11 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://colivinginbrussels.com',
+    languages: {
+      en: 'https://colivinginbrussels.com',
+      'fr-BE': 'https://colivinginbrussels.com/fr',
+      'x-default': 'https://colivinginbrussels.com',
+    },
   },
 };
 
