@@ -20,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { path: '/about', priority: 0.5, freq: 'monthly' as const },
         { path: '/contact', priority: 0.5, freq: 'monthly' as const },
         { path: '/faq', priority: 0.8, freq: 'weekly' as const },
+        { path: '/advertise', priority: 0.7, freq: 'monthly' as const },
         { path: '/coliving-brussels', priority: 0.8, freq: 'weekly' as const },
         { path: '/coliving-brussels-expats', priority: 0.8, freq: 'weekly' as const },
         { path: '/coliving-brussels-prices', priority: 0.8, freq: 'weekly' as const },

@@ -63,20 +63,40 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               '@context': 'https://schema.org',
-              '@type': 'WebSite',
-              name: 'ColivingInBrussels',
-              url: 'https://colivinginbrussels.com',
-              description: 'The #1 guide to coliving spaces in Brussels for expats, students, and digital nomads.',
-              publisher: {
-                '@type': 'Organization',
-                name: 'ColivingInBrussels',
-                url: 'https://colivinginbrussels.com',
-              },
-              potentialAction: {
-                '@type': 'SearchAction',
-                target: 'https://colivinginbrussels.com/blog?q={search_term_string}',
-                'query-input': 'required name=search_term_string',
-              },
+              '@graph': [
+                {
+                  '@type': 'Organization',
+                  '@id': 'https://colivinginbrussels.com/#organization',
+                  name: 'ColivingInBrussels',
+                  url: 'https://colivinginbrussels.com',
+                  logo: 'https://colivinginbrussels.com/icon.svg',
+                  description:
+                    'Independent, commission-free guide to coliving in Brussels. We compare every coliving operator, review neighborhoods, and help newcomers find a home.',
+                  areaServed: { '@type': 'City', name: 'Brussels' },
+                  knowsAbout: [
+                    'Coliving in Brussels',
+                    'Shared housing Brussels',
+                    'Expat housing Brussels',
+                    'Brussels neighborhoods',
+                    'Student housing Brussels',
+                  ],
+                },
+                {
+                  '@type': 'WebSite',
+                  '@id': 'https://colivinginbrussels.com/#website',
+                  name: 'ColivingInBrussels',
+                  url: 'https://colivinginbrussels.com',
+                  description:
+                    'The friendly local guide to coliving spaces in Brussels for expats, students, and digital nomads.',
+                  publisher: { '@id': 'https://colivinginbrussels.com/#organization' },
+                  inLanguage: 'en',
+                  potentialAction: {
+                    '@type': 'SearchAction',
+                    target: 'https://colivinginbrussels.com/blog?q={search_term_string}',
+                    'query-input': 'required name=search_term_string',
+                  },
+                },
+              ],
             }),
           }}
         />

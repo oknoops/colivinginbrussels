@@ -66,15 +66,32 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         headline: post.title,
         description: post.excerpt,
         datePublished: post.date,
+        dateModified: post.date,
+        ...(post.coverImage ? { image: post.coverImage } : {}),
+        mainEntityOfPage: `https://colivinginbrussels.com/blog/${slug}`,
         author: {
-            '@type': 'Person',
-            name: post.author,
+            '@type': 'Organization',
+            name: post.author || 'ColivingInBrussels',
         },
         publisher: {
             '@type': 'Organization',
             name: 'ColivingInBrussels',
             url: 'https://colivinginbrussels.com',
+            logo: {
+                '@type': 'ImageObject',
+                url: 'https://colivinginbrussels.com/icon.svg',
+            },
         },
+    };
+
+    const breadcrumbJsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://colivinginbrussels.com' },
+            { '@type': 'ListItem', position: 2, name: 'Blog', item: 'https://colivinginbrussels.com/blog' },
+            { '@type': 'ListItem', position: 3, name: post.title, item: `https://colivinginbrussels.com/blog/${slug}` },
+        ],
     };
 
     return (
@@ -82,6 +99,10 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             <script
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+            />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
             />
 
             <Link href="/blog" className="inline-flex items-center text-gray-500 hover:text-primary mb-8 transition-colors text-sm">

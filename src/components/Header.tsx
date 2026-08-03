@@ -3,12 +3,14 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { usePathname } from 'next/navigation';
+import Logo from '@/components/Logo';
 
 const NAV_LINKS = [
   { href: '/neighborhoods', label: 'Neighborhoods' },
   { href: '/actors', label: 'Coliving Spaces' },
-  { href: '/blog', label: 'Blog' },
+  { href: '/blog', label: 'Guides' },
   { href: '/faq', label: 'FAQ' },
+  { href: '/advertise', label: 'For Operators' },
 ];
 
 export default function Header() {
@@ -19,9 +21,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 w-full z-50 glass border-b border-white/20 shadow-sm">
       <div className="container mx-auto flex items-center justify-between h-20 px-4">
         {/* Logo */}
-        <Link href="/" className="text-xl font-bold font-heading text-primary tracking-tight shrink-0" onClick={() => setMenuOpen(false)}>
-          ColivingInBrussels
-        </Link>
+        <Logo onClick={() => setMenuOpen(false)} />
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-6">
@@ -38,8 +38,8 @@ export default function Header() {
 
         {/* CTA + Mobile Button */}
         <div className="flex items-center gap-3">
-          <Link href="/matchmaker" className="btn btn-primary hidden md:inline-flex text-sm px-5 py-2.5">
-            Find Your Match
+          <Link href="/matchmaker" className="hidden md:inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold text-sm px-5 py-2.5 rounded-lg transition-colors shadow-sm hover:shadow-md">
+            Find Your Home
           </Link>
 
           {/* Mobile Menu Toggle */}
@@ -79,10 +79,10 @@ export default function Header() {
             <div className="pt-3 border-t border-border mt-2">
               <Link
                 href="/matchmaker"
-                className="btn btn-primary w-full text-center text-sm"
+                className="flex items-center justify-center w-full text-center text-sm bg-orange-500 hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-lg transition-colors"
                 onClick={() => setMenuOpen(false)}
               >
-                Find Your Match ✨
+                Find Your Home ✨
               </Link>
             </div>
           </nav>

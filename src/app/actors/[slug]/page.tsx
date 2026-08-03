@@ -59,6 +59,16 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
         } : {}),
     };
 
+    const breadcrumbJsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://colivinginbrussels.com' },
+            { '@type': 'ListItem', position: 2, name: 'Coliving Spaces', item: 'https://colivinginbrussels.com/actors' },
+            { '@type': 'ListItem', position: 3, name: actor.name, item: `https://colivinginbrussels.com/actors/${actor.id}` },
+        ],
+    };
+
     const otherActors = ACTORS.filter((a) => a.id !== actor.id).slice(0, 3);
 
     return (
@@ -66,6 +76,10 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
             <script
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
             />
             {/* Hero Section */}
             <div className="relative h-[50vh] w-full">
@@ -173,10 +187,13 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
                         </div>
                     </div>
 
-                    {/* Back link */}
-                    <div className="mt-8 pt-6 border-t border-border">
+                    {/* Back link + operator hook */}
+                    <div className="mt-8 pt-6 border-t border-border flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3">
                         <Link href="/actors" className="text-sm text-gray-500 hover:text-primary transition-colors flex items-center gap-2">
                             ← Back to all coliving spaces
+                        </Link>
+                        <Link href="/advertise" className="text-sm text-gray-400 hover:text-orange-500 transition-colors">
+                            Is this your space? Feature it →
                         </Link>
                     </div>
                 </div>

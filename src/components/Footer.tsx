@@ -1,21 +1,20 @@
 import Link from 'next/link';
+import Logo from '@/components/Logo';
 
 export default function Footer() {
     return (
         <footer className="bg-gray-900 text-white pt-20 pb-10 border-t border-gray-800">
             <div className="container mx-auto px-6">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-16">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
                     {/* Column 1: Brand & Mission */}
-                    <div className="space-y-6">
-                        <Link href="/" className="inline-block">
-                            <span className="text-2xl font-bold font-heading bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                                ColivingInBrussels
-                            </span>
-                        </Link>
+                    <div className="space-y-6 lg:col-span-2 max-w-sm">
+                        <Logo variant="light" />
                         <p className="text-gray-400 text-sm leading-relaxed">
-                            Your trusted local guide to navigating life in the Capital of Europe. We help expats, students, and digital nomads find their perfect community and settle in with ease.
+                            Your trusted local guide to finding a home in the Capital of Europe. We help expats, students, and digital nomads compare every coliving space, explore neighborhoods, and settle in with warmth — not stress.
                         </p>
-
+                        <p className="text-gray-500 text-xs">
+                            Independent &amp; unbiased. We don&apos;t take booking commissions.
+                        </p>
                     </div>
 
                     {/* Column 2: Discover */}
@@ -43,7 +42,13 @@ export default function Footer() {
                             <li>
                                 <Link href="/blog" className="hover:text-primary transition-colors flex items-center gap-2">
                                     <span className="w-1 h-1 bg-primary rounded-full"></span>
-                                    Latest Articles
+                                    Guides &amp; Articles
+                                </Link>
+                            </li>
+                            <li>
+                                <Link href="/advertise" className="hover:text-primary transition-colors flex items-center gap-2">
+                                    <span className="w-1 h-1 bg-primary rounded-full"></span>
+                                    For Operators
                                 </Link>
                             </li>
                         </ul>
