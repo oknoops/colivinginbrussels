@@ -36,6 +36,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { path: '/fr/coliving-bruxelles', priority: 0.9, freq: 'weekly' as const },
         { path: '/fr/colocation-bruxelles', priority: 0.9, freq: 'weekly' as const },
         { path: '/fr/kot-bruxelles', priority: 0.85, freq: 'weekly' as const },
+        { path: '/fr/prix-coliving-bruxelles', priority: 0.85, freq: 'weekly' as const },
     ].map(({ path, priority, freq }) => ({
         url: `${baseUrl}${path}`,
         lastModified: new Date(),

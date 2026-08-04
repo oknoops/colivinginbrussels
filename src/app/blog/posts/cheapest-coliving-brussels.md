@@ -1,7 +1,7 @@
 ---
 title: "The Cheapest Coliving in Brussels: Best Budget Options in 2026"
 excerpt: "Looking for a cheap room in Brussels without sacrificing community? Here are the most budget-friendly coliving operators, the cheapest neighborhoods, and how to save even more."
-date: "2026-08-28"
+date: "2026-07-27"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80&auto=format&fit=crop"
 tags: ["Budget Coliving", "Cheap Rooms", "Students", "Money"]

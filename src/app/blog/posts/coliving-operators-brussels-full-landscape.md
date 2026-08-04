@@ -1,7 +1,7 @@
 ---
 title: "The Complete Map of Brussels Coliving Operators in 2026"
 excerpt: "Every major coliving company operating in Brussels, side by side — from Cohabs and Corners to newer names like Sharies, Co-Homing and Comoon. Who they are, who they suit, and what they cost."
-date: "2026-08-13"
+date: "2026-07-25"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=80&auto=format&fit=crop"
 tags: ["Coliving", "Operators", "Brussels", "Comparison"]

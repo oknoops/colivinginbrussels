@@ -1,7 +1,7 @@
 ---
 title: "Coliving in Brussels for Interns & Trainees (EU Stage Survival Guide)"
 excerpt: "Doing a stage at the EU institutions or a Brussels internship? Here's how to find flexible, affordable, social coliving for 3–6 months without the Belgian lease headache."
-date: "2026-08-18"
+date: "2026-08-01"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=80&auto=format&fit=crop"
 tags: ["Interns", "Coliving", "EU Stage", "Students"]

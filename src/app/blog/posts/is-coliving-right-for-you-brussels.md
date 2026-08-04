@@ -1,7 +1,7 @@
 ---
 title: "Is Coliving Right for You? An Honest Guide for Brussels Newcomers"
 excerpt: "Coliving isn't for everyone. Here's an honest look at who thrives in shared living, who doesn't, and how to know before you sign — from people who cover every operator in Brussels."
-date: "2026-08-26"
+date: "2026-08-02"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=80&auto=format&fit=crop"
 tags: ["Coliving", "Newcomers", "Decision Guide", "Expats"]

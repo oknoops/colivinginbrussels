@@ -1,7 +1,7 @@
 ---
 title: "Your First Week in Brussels: A Newcomer's Survival Guide"
 excerpt: "Landed in Brussels? Here's exactly what to do in your first seven days — from registering at the commune to getting a transport card, a SIM, and your first frites."
-date: "2026-08-17"
+date: "2026-07-31"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop"
 tags: ["Moving to Brussels", "Newcomers", "Expats", "Checklist"]

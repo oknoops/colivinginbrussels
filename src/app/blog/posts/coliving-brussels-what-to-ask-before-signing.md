@@ -1,7 +1,7 @@
 ---
 title: "15 Questions to Ask Before Signing a Coliving Contract in Brussels"
 excerpt: "Before you commit to a coliving room in Brussels, ask these 15 questions about the lease, deposit, bills, house rules, and community. A newcomer's checklist to avoid nasty surprises."
-date: "2026-09-05"
+date: "2026-08-03"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=80&auto=format&fit=crop"
 tags: ["Coliving", "Checklist", "Contract", "Newcomers"]

@@ -1,7 +1,7 @@
 ---
 title: "Renting in Brussels: How It Works for Newcomers (2026 Guide)"
 excerpt: "Leases, deposits, guarantors, registration, and the Belgian rental quirks nobody warns you about — the complete newcomer's guide to renting in Brussels, and why coliving skips most of it."
-date: "2026-08-30"
+date: "2026-07-29"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop"
 tags: ["Renting", "Housing", "Expats", "Guide"]

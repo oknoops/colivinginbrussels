@@ -1,7 +1,7 @@
 ---
 title: "Coliving vs Airbnb in Brussels: Which Is Better for a 1–6 Month Stay?"
 excerpt: "Airbnb is easy but expensive and lonely for longer stays. Here's an honest cost-and-lifestyle comparison with coliving for anyone staying in Brussels 1 to 6 months."
-date: "2026-08-27"
+date: "2026-07-26"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80&auto=format&fit=crop"
 tags: ["Coliving", "Airbnb", "Comparison", "Newcomers"]

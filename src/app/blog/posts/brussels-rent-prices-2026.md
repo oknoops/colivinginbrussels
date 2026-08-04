@@ -1,7 +1,7 @@
 ---
 title: "Brussels Rent Prices in 2026: What You'll Actually Pay"
 excerpt: "A clear, up-to-date breakdown of what rent costs in Brussels in 2026 — coliving rooms, studios, and apartments by neighborhood, plus the hidden costs newcomers forget."
-date: "2026-09-01"
+date: "2026-07-30"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=1200&q=80&auto=format&fit=crop"
 tags: ["Rent Prices", "Cost of Living", "Housing", "2026"]

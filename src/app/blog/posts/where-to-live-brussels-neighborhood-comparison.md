@@ -1,7 +1,7 @@
 ---
 title: "Where to Live in Brussels: A Neighborhood Comparison for Newcomers"
 excerpt: "Ixelles vs Saint-Gilles vs Etterbeek vs Schaerbeek and beyond — an honest, side-by-side guide to picking the right Brussels neighborhood for your budget and vibe."
-date: "2026-08-19"
+date: "2026-07-28"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=1200&q=80&auto=format&fit=crop"
 tags: ["Neighborhoods", "Where to Live", "Newcomers", "Comparison"]
