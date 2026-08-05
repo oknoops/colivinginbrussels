@@ -37,6 +37,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { path: '/fr/colocation-bruxelles', priority: 0.9, freq: 'weekly' as const },
         { path: '/fr/kot-bruxelles', priority: 0.85, freq: 'weekly' as const },
         { path: '/fr/prix-coliving-bruxelles', priority: 0.85, freq: 'weekly' as const },
+        { path: '/fr/quartiers', priority: 0.8, freq: 'weekly' as const },
+        { path: '/fr/faq', priority: 0.7, freq: 'weekly' as const },
+        { path: '/fr/blog', priority: 0.8, freq: 'daily' as const },
+        { path: '/fr/annoncer', priority: 0.6, freq: 'monthly' as const },
+        { path: '/fr/a-propos', priority: 0.4, freq: 'monthly' as const },
     ].map(({ path, priority, freq }) => ({
         url: `${baseUrl}${path}`,
         lastModified: new Date(),

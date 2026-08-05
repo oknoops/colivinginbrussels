@@ -17,6 +17,7 @@ const COPY = {
             blog: { href: '/blog', label: 'Guides & Articles' },
             advertise: { href: '/advertise', label: 'For Operators' },
         },
+        aboutHref: '/about',
         about: 'About Us', contact: 'Contact', privacy: 'Privacy Policy', terms: 'Terms of Use',
         made: 'Made with ❤️ in Brussels.',
     },
@@ -26,12 +27,13 @@ const COPY = {
         discover: 'Découvrir',
         company: 'À propos',
         links: {
-            neighborhoods: { href: '/neighborhoods', label: 'Guides de quartiers' },
+            neighborhoods: { href: '/fr/quartiers', label: 'Guides de quartiers' },
             matchmaker: { href: '/matchmaker', label: 'Trouver mon match' },
             actors: { href: '/fr/coliving-bruxelles', label: 'Coliving à Bruxelles' },
-            blog: { href: '/fr/colocation-bruxelles', label: 'Colocation à Bruxelles' },
-            advertise: { href: '/advertise', label: 'Opérateurs' },
+            blog: { href: '/fr/blog', label: 'Guides & articles' },
+            advertise: { href: '/fr/annoncer', label: 'Opérateurs' },
         },
+        aboutHref: '/fr/a-propos',
         about: 'À propos', contact: 'Contact', privacy: 'Confidentialité', terms: 'Conditions',
         made: 'Fait avec ❤️ à Bruxelles.',
     },
@@ -73,7 +75,7 @@ export default function Footer() {
                     <div>
                         <h4 className="text-lg font-bold font-heading mb-6 text-white">{t.company}</h4>
                         <ul className="space-y-4 text-sm text-gray-400">
-                            <li><Link href="/about" className="hover:text-white transition-colors">{t.about}</Link></li>
+                            <li><Link href={t.aboutHref} className="hover:text-white transition-colors">{t.about}</Link></li>
                             <li><Link href="/contact" className="hover:text-white transition-colors">{t.contact}</Link></li>
                             <li><Link href="/privacy" className="hover:text-white transition-colors">{t.privacy}</Link></li>
                             <li><Link href="/terms" className="hover:text-white transition-colors">{t.terms}</Link></li>

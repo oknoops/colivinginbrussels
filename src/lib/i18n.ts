@@ -53,8 +53,8 @@ export const NAV_BY_LOCALE: Record<Locale, { href: string; label: string }[]> = 
     fr: [
         { href: '/fr/coliving-bruxelles', label: 'Coliving' },
         { href: '/fr/colocation-bruxelles', label: 'Colocation' },
-        { href: '/fr/kot-bruxelles', label: 'Kots' },
-        { href: '/blog', label: 'Guides' },
-        { href: '/advertise', label: 'Opérateurs' },
+        { href: '/fr/quartiers', label: 'Quartiers' },
+        { href: '/fr/blog', label: 'Guides' },
+        { href: '/fr/annoncer', label: 'Opérateurs' },
     ],
 };
