@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { getPublishedPosts } from '@/lib/api';
 import { getAllActors } from '@/lib/actors';
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
-import { WHATS_ON } from '@/lib/whatson';
+import { getMonthHighlights } from '@/lib/whatson';
 import BlogCover from '@/components/BlogCover';
 import { Metadata } from 'next';
 
@@ -287,9 +287,9 @@ export default function Home() {
             <Link href="/whats-on" className="text-orange-500 font-bold hover:underline whitespace-nowrap text-sm shrink-0">See what&apos;s on →</Link>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {WHATS_ON[0].items.slice(0, 4).map((item) => (
+            {getMonthHighlights(new Date()).slice(0, 4).map((item) => (
               <Link key={item.title} href="/whats-on" className="group bg-amber-50 border border-orange-100 rounded-2xl p-5 hover:shadow-md hover:-translate-y-1 transition-all">
-                <p className="text-xs font-semibold text-orange-500 mb-1.5">{item.when}</p>
+                <p className="text-xs font-semibold text-orange-500 mb-1.5">{item.category} · {item.where}</p>
                 <h3 className="font-bold font-heading text-text-dark group-hover:text-orange-500 transition-colors leading-snug mb-1">{item.title}</h3>
                 <p className="text-text text-xs line-clamp-2">{item.blurb}</p>
               </Link>

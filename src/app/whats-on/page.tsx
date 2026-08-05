@@ -1,100 +1,132 @@
 import Link from 'next/link';
 import { Metadata } from 'next';
-import { WHATS_ON, WHATS_ON_AGENDA_URL } from '@/lib/whatson';
+import { getMonthGrid, getMonthHighlights, CATEGORY_STYLE, EventCategory } from '@/lib/whatson';
 
-// Refresh twice a day (and drops past-dated items). When the agenda.brussels
-// API token is added, replace the static import with a live fetch here.
+// Re-render twice a day so the calendar tracks the current month & date.
 export const revalidate = 43200;
 
 export const metadata: Metadata = {
-    title: "What's On in Brussels: Events, Activities & Things to Do Now",
-    description: 'A newcomer’s guide to what’s happening in Brussels right now — festivals, concerts, exhibitions, markets, food and activities. Curated highlights plus the live city agenda.',
+    title: "What's On in Brussels: This Month's Events Calendar",
+    description: 'A month-by-month calendar of what’s happening in Brussels — festivals, concerts, markets, culture and activities. Everything in one place for newcomers.',
     openGraph: {
-        title: "What's On in Brussels Right Now",
-        description: 'Festivals, concerts, exhibitions, markets and activities happening in Brussels. Curated highlights + the live agenda.',
+        title: "What's On in Brussels — This Month's Calendar",
+        description: 'Festivals, concerts, markets and activities happening in Brussels, in a simple month calendar.',
     },
-    alternates: {
-        canonical: 'https://colivinginbrussels.com/whats-on',
-    },
+    alternates: { canonical: 'https://colivinginbrussels.com/whats-on' },
 };
 
-function isLive(period?: { start: string; end: string } | null) {
-    if (!period) return true; // evergreen
-    const today = new Date().toISOString().slice(0, 10);
-    return period.end >= today; // hide events that have fully passed
+const WEEKDAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+const CATEGORIES: EventCategory[] = ['Festival', 'Music', 'Culture', 'Food', 'Market', 'Nightlife', 'Activity'];
+
+function fmt(iso: string) {
+    return new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
 }
 
 export default function WhatsOnPage() {
-    const today = new Date().toISOString().slice(0, 10);
-    const sections = WHATS_ON.map((s) => ({ ...s, items: s.items.filter((i) => isLive(i.period)) }))
-        .filter((s) => s.items.length > 0);
+    const now = new Date();
+    const todayIso = now.toISOString().slice(0, 10);
+    const { label, weeks } = getMonthGrid(now);
+    const highlights = getMonthHighlights(now);
 
     return (
         <div className="flex flex-col">
             {/* Hero */}
             <section className="bg-gradient-to-br from-amber-50 via-orange-50 to-rose-50 border-b border-orange-100">
-                <div className="container mx-auto px-4 py-16 md:py-20 max-w-4xl text-center">
-                    <div className="inline-flex items-center gap-2 bg-white/70 backdrop-blur-md border border-orange-200 text-text-dark px-4 py-1.5 rounded-full text-sm font-medium mb-6">
+                <div className="container mx-auto px-4 py-14 md:py-16 max-w-5xl text-center">
+                    <div className="inline-flex items-center gap-2 bg-white/70 backdrop-blur-md border border-orange-200 text-text-dark px-4 py-1.5 rounded-full text-sm font-medium mb-5">
                         <span className="w-1.5 h-1.5 bg-orange-400 rounded-full animate-pulse"></span>
-                        Updated regularly · {today}
+                        {label}
                     </div>
-                    <h1 className="text-4xl md:text-6xl font-bold font-heading mb-5 text-text-dark leading-tight">
-                        What&apos;s on in <span className="text-orange-500">Brussels</span> right now
+                    <h1 className="text-4xl md:text-6xl font-bold font-heading mb-4 text-text-dark leading-tight">
+                        What&apos;s on in <span className="text-orange-500">Brussels</span>
                     </h1>
-                    <p className="text-lg md:text-xl text-text max-w-2xl mx-auto mb-8">
-                        Festivals, concerts, exhibitions, markets and cool activities — our pick of what&apos;s happening, plus a direct line to the city&apos;s full live agenda.
+                    <p className="text-lg md:text-xl text-text max-w-2xl mx-auto">
+                        Festivals, concerts, markets and cool things to do — this month at a glance.
                     </p>
-                    <a href={WHATS_ON_AGENDA_URL} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-7 py-3.5 rounded-lg transition-colors shadow-lg">
-                        Browse the full live agenda ↗
-                    </a>
                 </div>
             </section>
 
-            {/* Sections */}
-            <div className="container mx-auto px-4 py-16 max-w-5xl">
-                {sections.map((section) => (
-                    <section key={section.key} className="mb-14">
-                        <h2 className="text-2xl md:text-3xl font-bold font-heading text-text-dark mb-6 flex items-center gap-3">
-                            <span>{section.emoji}</span> {section.title}
-                        </h2>
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-                            {section.items.map((item) => {
-                                const external = item.url.startsWith('http') && !item.url.includes('colivinginbrussels.com');
-                                const inner = (
-                                    <div className="h-full bg-white rounded-2xl border border-orange-100 p-6 hover:shadow-premium hover:-translate-y-1 transition-all flex flex-col">
-                                        <div className="flex items-start justify-between gap-2 mb-2">
-                                            <h3 className="text-lg font-bold font-heading text-text-dark group-hover:text-orange-500 transition-colors leading-snug">{item.title}</h3>
-                                            <span className="text-orange-400 shrink-0 mt-1">{external ? '↗' : '→'}</span>
-                                        </div>
-                                        <p className="text-xs font-semibold text-orange-500 mb-1">{item.when}{item.where ? ` · ${item.where}` : ''}</p>
-                                        <p className="text-sm text-text leading-relaxed mt-1">{item.blurb}</p>
-                                    </div>
-                                );
-                                return external ? (
-                                    <a key={item.title} href={item.url} target="_blank" rel="noopener noreferrer" className="group block">{inner}</a>
-                                ) : (
-                                    <Link key={item.title} href={item.url.replace('https://colivinginbrussels.com', '')} className="group block">{inner}</Link>
-                                );
-                            })}
-                        </div>
-                    </section>
-                ))}
+            <div className="container mx-auto px-4 py-12 max-w-6xl">
+                {/* Legend */}
+                <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-6 text-xs">
+                    {CATEGORIES.map((c) => (
+                        <span key={c} className="inline-flex items-center gap-1.5 text-text">
+                            <span className={`w-2.5 h-2.5 rounded-full ${CATEGORY_STYLE[c].dot}`} /> {c}
+                        </span>
+                    ))}
+                </div>
 
-                {/* Tie-ins to our own guides */}
-                <section className="bg-amber-50 rounded-2xl border border-orange-100 p-8 mt-4">
-                    <h2 className="text-xl font-bold font-heading text-text-dark mb-4">Plan your Brussels calendar</h2>
-                    <div className="flex flex-wrap gap-3 text-sm">
-                        <Link href="/blog/brussels-festivals-events-calendar" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">📅 Year-round festival calendar</Link>
-                        <Link href="/blog/best-museums-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🖼️ Best museums</Link>
-                        <Link href="/blog/brussels-markets-guide" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🧺 Weekend markets</Link>
-                        <Link href="/blog/where-locals-eat-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🍟 Where locals eat</Link>
-                        <Link href="/blog/perfect-sunday-in-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">☀️ A perfect Sunday</Link>
+                {/* Calendar grid */}
+                <div className="rounded-2xl border border-orange-100 overflow-hidden bg-white shadow-sm mb-14 overflow-x-auto">
+                    <div className="min-w-[720px]">
+                        <div className="grid grid-cols-7 bg-amber-50 border-b border-orange-100">
+                            {WEEKDAYS.map((d) => (
+                                <div key={d} className="px-3 py-2.5 text-xs font-bold text-text-dark uppercase tracking-wide">{d}</div>
+                            ))}
+                        </div>
+                        {weeks.map((week, wi) => (
+                            <div key={wi} className="grid grid-cols-7 border-b border-orange-50 last:border-0">
+                                {week.map((cell) => {
+                                    const isToday = cell.iso === todayIso;
+                                    return (
+                                        <div key={cell.iso} className={`min-h-[110px] border-r border-orange-50 last:border-0 p-2 align-top ${cell.inMonth ? '' : 'bg-gray-50/60'}`}>
+                                            <div className={`text-xs font-semibold mb-1.5 inline-flex items-center justify-center w-6 h-6 rounded-full ${isToday ? 'bg-orange-500 text-white' : cell.inMonth ? 'text-text-dark' : 'text-gray-300'}`}>
+                                                {cell.date.getDate()}
+                                            </div>
+                                            <div className="space-y-1">
+                                                {cell.events.slice(0, 3).map((e) => (
+                                                    <div key={e.title} className={`text-[10px] leading-tight px-1.5 py-1 rounded-md font-medium truncate ${CATEGORY_STYLE[e.category].chip}`} title={`${e.title} — ${e.where}`}>
+                                                        {e.title}
+                                                    </div>
+                                                ))}
+                                                {cell.events.length > 3 && (
+                                                    <div className="text-[10px] text-gray-400 px-1.5">+{cell.events.length - 3} more</div>
+                                                )}
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        ))}
                     </div>
-                    <p className="text-xs text-gray-500 mt-5">
-                        Highlights are curated by our team and link to the official sources. For real-time listings, ticketing and the complete programme, always check{' '}
-                        <a href={WHATS_ON_AGENDA_URL} target="_blank" rel="noopener noreferrer" className="text-orange-500 hover:underline">visit.brussels</a>.
-                    </p>
-                </section>
+                </div>
+
+                {/* This month's highlights (full detail, on-site) */}
+                <div className="mb-12">
+                    <h2 className="text-2xl md:text-3xl font-bold font-heading text-text-dark mb-6">Highlights this month</h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+                        {highlights.map((e) => (
+                            <div key={e.title} className="bg-white rounded-2xl border border-orange-100 p-6 hover:shadow-premium transition-all">
+                                <div className="flex items-center gap-2 mb-2">
+                                    <span className={`text-[11px] font-bold px-2.5 py-1 rounded-full ${CATEGORY_STYLE[e.category].chip}`}>{e.category}</span>
+                                    <span className="text-xs font-semibold text-orange-500">
+                                        {fmt(e.start!)}{e.end && e.end !== e.start ? ` – ${fmt(e.end)}` : ''}
+                                    </span>
+                                </div>
+                                <h3 className="text-lg font-bold font-heading text-text-dark leading-snug">{e.title}</h3>
+                                <p className="text-xs text-gray-500 mb-2">📍 {e.where}</p>
+                                <p className="text-sm text-text leading-relaxed">{e.blurb}</p>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+
+                {/* Weekly rituals note */}
+                <div className="bg-amber-50 rounded-2xl border border-orange-100 p-6 mb-8">
+                    <h2 className="text-lg font-bold font-heading text-text-dark mb-2">Every week in Brussels</h2>
+                    <p className="text-sm text-text mb-4">Beyond the dated events, these markets and rituals run every week — they&apos;re on the calendar above too:</p>
+                    <div className="flex flex-wrap gap-2 text-sm">
+                        <Link href="/blog/brussels-markets-guide" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🧺 Markets guide</Link>
+                        <Link href="/blog/where-locals-eat-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🍟 Where locals eat</Link>
+                        <Link href="/blog/best-museums-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🖼️ Best museums</Link>
+                        <Link href="/blog/brussels-festivals-events-calendar" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">📅 Year-round festivals</Link>
+                        <Link href="/blog/brussels-nightlife-guide-newcomers" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🌃 Nightlife</Link>
+                    </div>
+                </div>
+
+                <p className="text-xs text-gray-400 text-center max-w-2xl mx-auto">
+                    Our team curates this calendar and keeps it current. Dates are indicative — for ticketing and the complete programme you can also check the city&apos;s official listings.
+                </p>
             </div>
         </div>
     );
