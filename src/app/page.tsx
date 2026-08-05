@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { getPublishedPosts } from '@/lib/api';
 import { getAllActors } from '@/lib/actors';
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
+import { WHATS_ON } from '@/lib/whatson';
 import { Metadata } from 'next';
 
 // Re-render twice a day so the "Latest Guides" section picks up newly-live posts.
@@ -270,6 +271,32 @@ export default function Home() {
           </div>
           <div className="mt-8 text-center md:hidden">
             <Link href="/blog" className="text-orange-500 font-bold hover:underline">View all guides →</Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ── What's On teaser ─────────────────────────────────── */}
+      <section className="py-24 bg-white border-t border-orange-100">
+        <div className="container mx-auto px-4">
+          <div className="flex flex-col md:flex-row justify-between md:items-end mb-10 gap-4">
+            <div className="max-w-2xl">
+              <div className="inline-flex items-center gap-2 text-orange-500 font-semibold text-sm mb-2">
+                <span className="w-1.5 h-1.5 bg-orange-400 rounded-full animate-pulse"></span>
+                What&apos;s on right now
+              </div>
+              <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-3">Never wonder what to do this weekend</h2>
+              <p className="text-text text-lg">Festivals, concerts, exhibitions and markets — our pick of what&apos;s happening in Brussels, refreshed regularly.</p>
+            </div>
+            <Link href="/whats-on" className="text-orange-500 font-bold hover:underline whitespace-nowrap text-sm shrink-0">See what&apos;s on →</Link>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {WHATS_ON[0].items.slice(0, 4).map((item) => (
+              <Link key={item.title} href="/whats-on" className="group bg-amber-50 border border-orange-100 rounded-2xl p-5 hover:shadow-md hover:-translate-y-1 transition-all">
+                <p className="text-xs font-semibold text-orange-500 mb-1.5">{item.when}</p>
+                <h3 className="font-bold font-heading text-text-dark group-hover:text-orange-500 transition-colors leading-snug mb-1">{item.title}</h3>
+                <p className="text-text text-xs line-clamp-2">{item.blurb}</p>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

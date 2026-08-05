@@ -44,10 +44,10 @@ export function homeFor(code: Locale): string {
 // Per-locale primary navigation. Add an array here when adding a language.
 export const NAV_BY_LOCALE: Record<Locale, { href: string; label: string }[]> = {
     en: [
-        { href: '/neighborhoods', label: 'Neighborhoods' },
         { href: '/actors', label: 'Coliving Spaces' },
+        { href: '/neighborhoods', label: 'Neighborhoods' },
+        { href: '/whats-on', label: "What's On" },
         { href: '/blog', label: 'Guides' },
-        { href: '/faq', label: 'FAQ' },
         { href: '/advertise', label: 'For Operators' },
     ],
     fr: [
