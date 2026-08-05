@@ -17,6 +17,7 @@ export default function Header() {
     en: { href: '/matchmaker', label: 'Find Your Home' },
     fr: { href: '/fr', label: 'Trouver un logement' },
     nl: { href: '/nl', label: 'Vind jouw thuis' },
+    es: { href: '/es', label: 'Encuentra tu hogar' },
   };
   const ctaHref = CTA[locale].href;
   const ctaLabel = CTA[locale].label;

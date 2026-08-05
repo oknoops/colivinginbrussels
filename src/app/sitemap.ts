@@ -54,6 +54,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
         { path: '/nl/blog', priority: 0.8, freq: 'daily' as const },
         { path: '/nl/adverteren', priority: 0.6, freq: 'monthly' as const },
         { path: '/nl/over-ons', priority: 0.4, freq: 'monthly' as const },
+        // Spanish (multilingual) pages
+        { path: '/es', priority: 0.9, freq: 'weekly' as const },
+        { path: '/es/coliving-bruselas', priority: 0.9, freq: 'weekly' as const },
+        { path: '/es/piso-compartido-bruselas', priority: 0.9, freq: 'weekly' as const },
+        { path: '/es/habitacion-estudiante-bruselas', priority: 0.85, freq: 'weekly' as const },
+        { path: '/es/precios-coliving-bruselas', priority: 0.85, freq: 'weekly' as const },
+        { path: '/es/barrios', priority: 0.8, freq: 'weekly' as const },
+        { path: '/es/faq', priority: 0.7, freq: 'weekly' as const },
+        { path: '/es/blog', priority: 0.8, freq: 'daily' as const },
+        { path: '/es/anunciar', priority: 0.6, freq: 'monthly' as const },
+        { path: '/es/sobre-nosotros', priority: 0.4, freq: 'monthly' as const },
     ].map(({ path, priority, freq }) => ({
         url: `${baseUrl}${path}`,
         lastModified: new Date(),

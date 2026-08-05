@@ -9,7 +9,7 @@
  * else needs touching.
  */
 
-export type Locale = 'en' | 'fr' | 'nl';
+export type Locale = 'en' | 'fr' | 'nl' | 'es';
 
 export type LocaleConfig = {
     code: Locale;
@@ -23,6 +23,7 @@ export const LOCALES: LocaleConfig[] = [
     { code: 'en', label: 'English', short: 'EN', hreflang: 'en', prefix: '' },
     { code: 'fr', label: 'Français', short: 'FR', hreflang: 'fr-BE', prefix: '/fr' },
     { code: 'nl', label: 'Nederlands', short: 'NL', hreflang: 'nl-BE', prefix: '/nl' },
+    { code: 'es', label: 'Español', short: 'ES', hreflang: 'es', prefix: '/es' },
 ];
 
 export const DEFAULT_LOCALE: Locale = 'en';
@@ -62,5 +63,12 @@ export const NAV_BY_LOCALE: Record<Locale, { href: string; label: string }[]> = 
         { href: '/nl/wijken', label: 'Wijken' },
         { href: '/nl/blog', label: 'Gidsen' },
         { href: '/nl/adverteren', label: 'Adverteren' },
+    ],
+    es: [
+        { href: '/es/coliving-bruselas', label: 'Coliving' },
+        { href: '/es/piso-compartido-bruselas', label: 'Pisos compartidos' },
+        { href: '/es/barrios', label: 'Barrios' },
+        { href: '/es/blog', label: 'Guías' },
+        { href: '/es/anunciar', label: 'Anunciar' },
     ],
 };

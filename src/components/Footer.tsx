@@ -54,6 +54,22 @@ const COPY = {
         about: 'Over ons', contact: 'Contact', privacy: 'Privacy', terms: 'Voorwaarden',
         made: 'Gemaakt met ❤️ in Brussel.',
     },
+    es: {
+        blurb: 'Tu guía local e independiente para encontrar hogar en la capital de Europa. Ayudamos a expats, estudiantes y nómadas digitales a comparar cada coliving, descubrir los barrios e instalarse sin estrés.',
+        independent: 'Independiente y objetivo. No cobramos comisiones de reserva.',
+        discover: 'Descubrir',
+        company: 'Nosotros',
+        links: {
+            neighborhoods: { href: '/es/barrios', label: 'Guías de barrios' },
+            matchmaker: { href: '/matchmaker', label: 'Encuentra tu match' },
+            actors: { href: '/es/coliving-bruselas', label: 'Coliving en Bruselas' },
+            blog: { href: '/es/blog', label: 'Guías y artículos' },
+            advertise: { href: '/es/anunciar', label: 'Para operadores' },
+        },
+        aboutHref: '/es/sobre-nosotros',
+        about: 'Sobre nosotros', contact: 'Contacto', privacy: 'Privacidad', terms: 'Términos',
+        made: 'Hecho con ❤️ en Bruselas.',
+    },
 };
 
 export default function Footer() {
