@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import Logo from '@/components/Logo';
+import { localeFromPath, homeFor } from '@/lib/i18n';
 
 const COPY = {
     en: {
@@ -37,12 +38,28 @@ const COPY = {
         about: 'À propos', contact: 'Contact', privacy: 'Confidentialité', terms: 'Conditions',
         made: 'Fait avec ❤️ à Bruxelles.',
     },
+    nl: {
+        blurb: 'Jouw lokale, onafhankelijke gids voor een thuis in de hoofdstad van Europa. We helpen expats, studenten en digitale nomaden om elke coliving te vergelijken, wijken te ontdekken en zich zorgeloos te settelen.',
+        independent: 'Onafhankelijk & objectief. We nemen geen boekingscommissies.',
+        discover: 'Ontdekken',
+        company: 'Over',
+        links: {
+            neighborhoods: { href: '/nl/wijken', label: 'Wijkengidsen' },
+            matchmaker: { href: '/matchmaker', label: 'Vind jouw match' },
+            actors: { href: '/nl/coliving-brussel', label: 'Coliving in Brussel' },
+            blog: { href: '/nl/blog', label: 'Gidsen & artikels' },
+            advertise: { href: '/nl/adverteren', label: 'Voor operators' },
+        },
+        aboutHref: '/nl/over-ons',
+        about: 'Over ons', contact: 'Contact', privacy: 'Privacy', terms: 'Voorwaarden',
+        made: 'Gemaakt met ❤️ in Brussel.',
+    },
 };
 
 export default function Footer() {
     const pathname = usePathname();
-    const isFr = pathname === '/fr' || pathname.startsWith('/fr/');
-    const t = isFr ? COPY.fr : COPY.en;
+    const locale = localeFromPath(pathname);
+    const t = COPY[locale];
     const year = 2026;
 
     return (
@@ -51,7 +68,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
                     {/* Brand */}
                     <div className="space-y-6 lg:col-span-2 max-w-sm">
-                        <Logo variant="light" href={isFr ? '/fr' : '/'} />
+                        <Logo variant="light" href={homeFor(locale)} />
                         <p className="text-gray-400 text-sm leading-relaxed">{t.blurb}</p>
                         <p className="text-gray-500 text-xs">{t.independent}</p>
                     </div>

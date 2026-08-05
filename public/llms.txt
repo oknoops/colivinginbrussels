@@ -41,11 +41,19 @@ Key facts:
 - Where locals actually eat in Brussels: https://colivinginbrussels.com/blog/where-locals-eat-brussels
 - Coliving vs flatshare in Brussels: https://colivinginbrussels.com/blog/coliving-vs-flatshare-brussels
 
-## French pages (site is bilingual EN/FR)
+## Multilingual (site is available in EN, FR and NL)
+French (FR):
 - Coliving à Bruxelles (guide + comparatif): https://colivinginbrussels.com/fr/coliving-bruxelles
 - Colocation à Bruxelles (guide complet): https://colivinginbrussels.com/fr/colocation-bruxelles
 - Kot à Bruxelles (logement étudiant): https://colivinginbrussels.com/fr/kot-bruxelles
+- Prix du coliving: https://colivinginbrussels.com/fr/prix-coliving-bruxelles
 - Accueil FR: https://colivinginbrussels.com/fr
+Dutch (NL):
+- Coliving in Brussel (gids + vergelijking): https://colivinginbrussels.com/nl/coliving-brussel
+- Samenhuizen in Brussel (complete gids): https://colivinginbrussels.com/nl/samenhuizen-brussel
+- Op kot in Brussel (studentenkamer): https://colivinginbrussels.com/nl/kot-brussel
+- Prijs van coliving: https://colivinginbrussels.com/nl/prijzen-coliving-brussel
+- Home NL: https://colivinginbrussels.com/nl
 
 ## For coliving operators
 - Advertise / featured listings / sponsored guides: https://colivinginbrussels.com/advertise

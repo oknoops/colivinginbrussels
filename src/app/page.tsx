@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     languages: {
       en: 'https://colivinginbrussels.com',
       'fr-BE': 'https://colivinginbrussels.com/fr',
+      'nl-BE': 'https://colivinginbrussels.com/nl',
       'x-default': 'https://colivinginbrussels.com',
     },
   },

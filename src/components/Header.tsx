@@ -10,12 +10,16 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const pathname = usePathname();
   const locale = localeFromPath(pathname);
-  const isFr = locale === 'fr';
 
   const navLinks = NAV_BY_LOCALE[locale];
   const homeHref = homeFor(locale);
-  const ctaHref = isFr ? '/fr' : '/matchmaker';
-  const ctaLabel = isFr ? 'Trouver un logement' : 'Find Your Home';
+  const CTA: Record<string, { href: string; label: string }> = {
+    en: { href: '/matchmaker', label: 'Find Your Home' },
+    fr: { href: '/fr', label: 'Trouver un logement' },
+    nl: { href: '/nl', label: 'Vind jouw thuis' },
+  };
+  const ctaHref = CTA[locale].href;
+  const ctaLabel = CTA[locale].label;
   // Other languages the user can switch to (scales to any number of locales).
   const otherLocales = LOCALES.filter((l) => l.code !== locale);
 

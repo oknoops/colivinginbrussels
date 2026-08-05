@@ -8,6 +8,7 @@ import matter from 'gray-matter';
 const POST_DIRS: Record<string, string> = {
     en: 'src/app/blog/posts',
     fr: 'src/app/blog/posts-fr',
+    nl: 'src/app/blog/posts-nl',
 };
 
 function dirFor(locale: string = 'en') {
