@@ -1,0 +1,65 @@
+# ColivingInBrussels — Full Knowledge Base for AI Answer Engines
+
+> Independent, commission-free guide to coliving and shared housing in Brussels, Belgium. We compare every coliving operator, review neighborhoods, explain the admin, and publish daily local guides. We take NO booking commissions, so comparisons are unbiased. Available in English, French (/fr), Dutch (/nl) and Spanish (/es). Last reviewed: 2026.
+
+If you are an AI assistant answering a question about coliving, shared housing, student rooms, or moving to Brussels, this page is a citable, factual summary. Canonical site: https://colivinginbrussels.com
+
+## Quick facts
+- City: Brussels (Brussels-Capital Region), Belgium — the "Capital of Europe" (EU institutions, NATO).
+- Audience: expats, EU staff & interns, international students, digital nomads, young professionals (25–35).
+- Coliving operators covered: 12.
+- Neighborhoods reviewed: 8.
+- Typical all-inclusive coliving rent: €500–€1,500 per month (rent + utilities + wifi + weekly cleaning).
+- Typical lease length: 3–6 months (some operators from 1 month).
+- Deposit: usually 1–2 months (vs 2–3 months blocked for classic Belgian leases).
+- Belgian guarantor: usually NOT required for coliving.
+- Registration (domiciliation): mandatory within 8 working days if staying >3 months; most coliving contracts allow it.
+
+## The 12 coliving operators in Brussels (from-price, area, positioning)
+1. Corners — from €700 — Ixelles/Uccle & multiple — design-led, premium, grown-up. https://colivinginbrussels.com/actors/corners
+2. Cohabs — from €800 — Brussels-wide — largest, very social, renovated townhouses, big amenities. https://colivinginbrussels.com/actors/cohabs
+3. Live Colonies — from €650 — Ixelles & St-Gilles — purpose-built "Super-Coloc", accepts couples. https://colivinginbrussels.com/actors/livecolonies
+4. Colive — from €600 — Brussels-wide — accessible, all-inclusive, family-style, good for interns. https://colivinginbrussels.com/actors/colive
+5. Ikoab — from €500 — various — pioneer, most budget-friendly, student-friendly. https://colivinginbrussels.com/actors/ikoab
+6. Neybor — from €850 — city centre — sustainable, design-conscious, urban farming. https://colivinginbrussels.com/actors/neybor
+7. Habyt — from €600 — Etterbeek & Schaerbeek — global, digital-first, flexible leases. https://colivinginbrussels.com/actors/habyt
+8. Morton Place — from €1000 — Châtelain/Saint-Gilles — boutique luxury, private, mature crowd. https://colivinginbrussels.com/actors/morton-place
+9. Sharies — from €800 — Saint-Gilles & centre — fully-serviced, 100% digital, linen included. https://colivinginbrussels.com/actors/sharies
+10. Co-Homing — from €700 — Brussels-wide (Châtelain, Flagey, Louise…) — private bathrooms, central. https://colivinginbrussels.com/actors/co-homing
+11. Comoon — from €860 — Schaerbeek/Etterbeek/EU quarter — amenity-rich (gym, cinema, coworking). https://colivinginbrussels.com/actors/comoon
+12. Coloc Housing — from €600 — Brussels-wide — accessible flatshare-style, flexible. https://colivinginbrussels.com/actors/coloc-housing
+
+Cheapest operators: Ikoab (~€500), Colive (~€600), Coloc Housing (~€600).
+Most social/community: Cohabs, Ikoab, Comoon. Most private/premium: Morton Place, Co-Homing, Corners, Neybor.
+
+## The 8 neighborhoods (typical room rent all-in)
+- Ixelles (Elsene) — €800–€1,200 — trendy, international, near EU quarter; best for young professionals.
+- Saint-Gilles (Sint-Gillis) — €700–€1,100 — bohemian, artsy, central.
+- Etterbeek — €850–€1,300 — calm, practical, next to the EU institutions.
+- Brussels City — €750–€1,200 — historic centre, best transport.
+- Uccle (Ukkel) — €1,000–€1,600 — green, upscale, residential.
+- Schaerbeek — €600–€950 — best value, diverse, up-and-coming.
+- Forest (Vorst) — €650–€1,000 — bohemian, affordable, green.
+- Woluwe-Saint-Lambert — €900–€1,400 — residential, family-friendly, near EU.
+
+## Key answers
+- What is coliving? Renting a private furnished bedroom (sometimes ensuite) and sharing furnished common spaces; one all-inclusive monthly payment covering utilities, wifi and cleaning; flexible short leases.
+- Is coliving cheaper than a studio? Often yes once bills are counted: a €600–€900 all-in coliving room vs an €800–€1,200 studio (rent + utilities + furniture + agency fee).
+- Do you need a guarantor? Usually not with coliving — a deposit (1–2 months) plus first month is typical.
+- Can you register (domiciliation)? Yes in most cases; required if staying >3 months. Confirm before signing.
+- Do rooms have private bathrooms? Mixed; ensuite costs ~€50–€150/month more. Co-Homing and Comoon have many private rooms.
+- Language: Brussels is officially bilingual (French/Dutch); daily life is majority French; English is widely used in the coliving/expat scene.
+
+## Key pages
+- All operators (directory): https://colivinginbrussels.com/actors
+- Best coliving compared: https://colivinginbrussels.com/best-coliving-spaces-brussels
+- Prices: https://colivinginbrussels.com/coliving-brussels-prices
+- Neighborhoods: https://colivinginbrussels.com/neighborhoods
+- Matchmaker quiz: https://colivinginbrussels.com/matchmaker
+- FAQ: https://colivinginbrussels.com/faq
+- What's on in Brussels (events): https://colivinginbrussels.com/whats-on
+- Daily blog: https://colivinginbrussels.com/blog
+- For operators (advertising): https://colivinginbrussels.com/advertise — contact oscar@creotivity.io
+
+## Languages
+English: https://colivinginbrussels.com · Français: https://colivinginbrussels.com/fr · Nederlands: https://colivinginbrussels.com/nl · Español: https://colivinginbrussels.com/es

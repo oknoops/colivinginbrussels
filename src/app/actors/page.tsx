@@ -18,7 +18,32 @@ export const metadata: Metadata = {
 export default function ActorsPage() {
     const actors = getAllActors();
 
+    // ItemList schema: lets AI answer engines & search extract the full,
+    // ranked list of Brussels coliving operators with prices in one pass (GEO).
+    const itemListJsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: 'Coliving operators in Brussels',
+        numberOfItems: actors.length,
+        itemListElement: actors.map((a, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            item: {
+                '@type': 'LodgingBusiness',
+                name: a.name,
+                url: `https://colivinginbrussels.com/actors/${a.id}`,
+                priceRange: `€${a.priceRange.min} - €${a.priceRange.max}`,
+                address: { '@type': 'PostalAddress', addressLocality: 'Brussels', addressCountry: 'BE' },
+                ...(a.googleReviewScore ? {
+                    aggregateRating: { '@type': 'AggregateRating', ratingValue: a.googleReviewScore, bestRating: 5, ratingCount: 50 },
+                } : {}),
+            },
+        })),
+    };
+
     return (
+        <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }} />
         <div className="container mx-auto py-20 px-4">
             <div className="text-center max-w-4xl mx-auto mb-16">
                 <h1 className="text-4xl md:text-5xl font-bold font-heading mb-4 text-text-dark">
@@ -93,5 +118,6 @@ export default function ActorsPage() {
                 ))}
             </div>
         </div>
+        </>
     );
 }
