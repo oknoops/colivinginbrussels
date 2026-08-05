@@ -4,6 +4,7 @@ import { getPublishedPosts } from '@/lib/api';
 import { getAllActors } from '@/lib/actors';
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
 import { WHATS_ON } from '@/lib/whatson';
+import BlogCover from '@/components/BlogCover';
 import { Metadata } from 'next';
 
 // Re-render twice a day so the "Latest Guides" section picks up newly-live posts.
@@ -248,14 +249,8 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {recentPosts.map((post: any) => (
               <Link href={`/blog/${post.slug}`} key={post.slug} className="group cursor-pointer">
-                <div className="relative h-56 mb-5 overflow-hidden rounded-2xl bg-gray-200">
-                  {post.coverImage ? (
-                    <Image src={post.coverImage} alt={post.title} fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
-                  ) : (
-                    <div className="absolute inset-0 bg-gradient-to-br from-orange-200 to-amber-300 flex items-center justify-center text-orange-600 text-sm font-medium">
-                      ColivingInBrussels
-                    </div>
-                  )}
+                <div className="relative h-56 mb-5 overflow-hidden rounded-2xl group-hover:brightness-105 transition">
+                  <BlogCover slug={post.slug} title={post.title} tags={post.tags} />
                 </div>
                 <div className="flex items-center gap-3 text-xs text-gray-400 mb-2">
                   <time dateTime={post.date}>{post.date}</time>

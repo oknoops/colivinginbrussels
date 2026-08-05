@@ -1,6 +1,6 @@
 import { getPublishedPosts } from '@/lib/api';
 import Link from 'next/link';
-import Image from 'next/image';
+import BlogCover from '@/components/BlogCover';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -34,12 +34,8 @@ export default function BlogIndexNl() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
                     {posts.map((post) => (
                         <article key={post.slug} className="group flex flex-col h-full bg-white rounded-2xl shadow-sm border border-border hover:shadow-lg transition-all duration-300 overflow-hidden">
-                            <Link href={`/nl/blog/${post.slug}`} className="block relative aspect-video bg-gray-200 overflow-hidden">
-                                {post.coverImage ? (
-                                    <Image src={post.coverImage} alt={post.title} fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
-                                ) : (
-                                    <div className="absolute inset-0 flex items-center justify-center text-gray-400 bg-gray-100">Geen afbeelding</div>
-                                )}
+                            <Link href={`/nl/blog/${post.slug}`} className="block relative aspect-video overflow-hidden group-hover:brightness-105 transition">
+                                <BlogCover slug={post.slug} title={post.title} />
                             </Link>
                             <div className="p-6 flex flex-col flex-grow">
                                 <div className="flex items-center gap-4 text-sm text-gray-500 mb-4">

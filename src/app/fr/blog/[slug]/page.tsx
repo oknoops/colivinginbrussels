@@ -2,7 +2,7 @@ import { getAllPosts, getPostBySlug } from '@/lib/api';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import Link from 'next/link';
-import Image from 'next/image';
+import BlogCover from '@/components/BlogCover';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 
@@ -91,11 +91,9 @@ export default async function BlogPostFr({ params }: { params: Promise<{ slug: s
                 </div>
             </div>
 
-            {post.coverImage && (
-                <div className="relative aspect-video w-full mb-12 rounded-2xl overflow-hidden bg-gray-100 shadow-lg">
-                    <Image src={post.coverImage} alt={post.title} fill className="object-cover object-center" priority />
-                </div>
-            )}
+            <div className="relative aspect-video w-full mb-12 rounded-2xl overflow-hidden shadow-lg">
+                <BlogCover slug={post.slug} title={post.title} variant="hero" />
+            </div>
 
             <div className="prose prose-lg prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500 mx-auto text-text">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content || ''}</ReactMarkdown>
