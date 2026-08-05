@@ -8,8 +8,10 @@ import { LOCALES, NAV_BY_LOCALE, localeFromPath, homeFor } from '@/lib/i18n';
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [langOpen, setLangOpen] = useState(false);
   const pathname = usePathname();
   const locale = localeFromPath(pathname);
+  const current = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
 
   const navLinks = NAV_BY_LOCALE[locale];
   const homeHref = homeFor(locale);
@@ -45,18 +47,34 @@ export default function Header() {
 
         {/* CTA + language + Mobile Button */}
         <div className="flex items-center gap-3">
-          <div className="hidden md:flex items-center gap-1">
-            {otherLocales.map((l, i) => (
-              <Link
-                key={l.code}
-                href={homeFor(l.code)}
-                className="inline-flex items-center gap-1 text-sm font-semibold text-text-dark hover:text-orange-500 transition-colors border border-border rounded-lg px-2.5 py-1.5"
-                aria-label={`Switch to ${l.label}`}
-              >
-                {i === 0 && <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>}
-                {l.short}
-              </Link>
-            ))}
+          <div className="hidden md:block relative">
+            <button
+              onClick={() => setLangOpen((v) => !v)}
+              onBlur={() => setTimeout(() => setLangOpen(false), 150)}
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-text-dark hover:text-orange-500 transition-colors border border-border rounded-lg px-3 py-2"
+              aria-haspopup="true"
+              aria-expanded={langOpen}
+              aria-label="Change language"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+              {current.short}
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className={`transition-transform ${langOpen ? 'rotate-180' : ''}`}><path d="m6 9 6 6 6-6" /></svg>
+            </button>
+            {langOpen && (
+              <div className="absolute right-0 mt-2 w-44 bg-white border border-border rounded-xl shadow-lg py-1 z-50">
+                {LOCALES.map((l) => (
+                  <Link
+                    key={l.code}
+                    href={homeFor(l.code)}
+                    onClick={() => setLangOpen(false)}
+                    className={`flex items-center justify-between px-4 py-2.5 text-sm transition-colors ${l.code === locale ? 'text-orange-500 font-semibold bg-orange-50/60' : 'text-text-dark hover:bg-gray-50'}`}
+                  >
+                    {l.label}
+                    {l.code === locale && <span className="text-orange-500">✓</span>}
+                  </Link>
+                ))}
+              </div>
+            )}
           </div>
 
           <Link href={ctaHref} className="hidden md:inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold text-sm px-5 py-2.5 rounded-lg transition-colors shadow-sm hover:shadow-md">
