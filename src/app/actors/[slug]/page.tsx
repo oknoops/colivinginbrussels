@@ -2,7 +2,15 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { ACTORS, getActorById } from '@/lib/actors';
+import ActorGallery from '@/components/ActorGallery';
 import { Metadata } from 'next';
+
+const SOCIAL_LABEL: Record<string, string> = {
+    instagram: 'Instagram',
+    facebook: 'Facebook',
+    linkedin: 'LinkedIn',
+    tiktok: 'TikTok',
+};
 
 export async function generateStaticParams() {
     return ACTORS.map((actor) => ({
@@ -81,47 +89,104 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
                 type="application/ld+json"
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
             />
-            {/* Hero Section */}
-            <div className="relative h-[50vh] w-full">
-                {/* Fallback to gray background if image fails */}
-                <div className="absolute inset-0 bg-gray-300" />
-                {actor.coverImage && (
-                    <Image
-                        src={actor.coverImage}
-                        alt={actor.name}
-                        fill
-                        className="object-cover"
-                        priority
-                    />
-                )}
-                <div className="absolute inset-0 flex items-center justify-center bg-black/40">
-                    <h1 className="text-5xl md:text-7xl font-bold font-heading text-white drop-shadow-lg text-center px-4">
-                        {actor.name}
-                    </h1>
-                </div>
-            </div>
 
-            <div className="container mx-auto px-4 -mt-20 relative z-10">
-                <div className="bg-white rounded-3xl shadow-xl p-8 md:p-12 border border-border">
-                    <div className="flex flex-col md:flex-row justify-between items-start gap-8 mb-8">
-                        <div>
-                            <div className="flex items-center gap-3 mb-2">
-                                <span className="bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-bold uppercase tracking-wide">
-                                    {actor.type}
-                                </span>
-                                {actor.googleReviewScore && (
-                                    <span className="flex items-center gap-1 bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-bold">
-                                        ⭐ {actor.googleReviewScore} Google Reviews
-                                    </span>
-                                )}
+            <div className="container mx-auto px-4 pt-8">
+                {/* Breadcrumb */}
+                <nav className="text-sm text-gray-500 mb-6 flex items-center gap-2 flex-wrap">
+                    <Link href="/" className="hover:text-primary transition-colors">Home</Link>
+                    <span>/</span>
+                    <Link href="/actors" className="hover:text-primary transition-colors">Coliving Spaces</Link>
+                    <span>/</span>
+                    <span className="text-text-dark font-medium">{actor.name}</span>
+                </nav>
+
+                {/* Header */}
+                <div className="mb-6">
+                    <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wide text-gray-400 mb-2">
+                        <span>{actor.type}</span>
+                        <span>·</span>
+                        <span>{actor.neighborhood}</span>
+                        {actor.googleReviewScore && (
+                            <>
+                                <span>·</span>
+                                <span className="text-text-dark normal-case font-semibold tracking-normal">{actor.googleReviewScore.toFixed(1)} on Google</span>
+                            </>
+                        )}
+                    </div>
+                    <h1 className="text-3xl md:text-5xl font-bold font-heading text-text-dark">{actor.name}</h1>
+                </div>
+
+                {/* Gallery */}
+                <ActorGallery images={actor.images.length ? actor.images : [actor.coverImage]} alt={actor.name} />
+
+                {/* Body */}
+                <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 mt-10">
+                    {/* Main column */}
+                    <div className="lg:col-span-2 space-y-10">
+                        {actor.idealFor && (
+                            <p className="text-lg md:text-xl font-heading font-semibold text-text-dark leading-snug border-l-4 border-primary pl-4">
+                                {actor.idealFor}
+                            </p>
+                        )}
+
+                        <p className="text-base text-text leading-relaxed">{actor.description}</p>
+
+                        {actor.quickFacts && actor.quickFacts.length > 0 && (
+                            <div>
+                                <h2 className="text-lg font-bold font-heading text-text-dark mb-4">Quick facts</h2>
+                                <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 border-t border-border pt-4">
+                                    {actor.quickFacts.map((f) => (
+                                        <div key={f.label} className="border-b border-border pb-4">
+                                            <dt className="text-xs font-bold uppercase tracking-wide text-gray-400 mb-1">{f.label}</dt>
+                                            <dd className="text-sm text-text-dark">{f.value}</dd>
+                                        </div>
+                                    ))}
+                                </dl>
                             </div>
-                            <h2 className="text-3xl font-bold font-heading text-text-dark mb-4">{actor.neighborhood}</h2>
-                            <p className="text-lg text-gray-600 max-w-2xl">{actor.description}</p>
+                        )}
+
+                        <div>
+                            <h2 className="text-lg font-bold font-heading text-text-dark mb-4">Amenities & features</h2>
+                            <div className="flex flex-wrap gap-2">
+                                {actor.amenities.map(amenity => (
+                                    <span key={amenity} className="px-3 py-1.5 bg-white rounded-lg text-sm text-text-dark border border-border">
+                                        {amenity}
+                                    </span>
+                                ))}
+                                {actor.features.map(feature => (
+                                    <span key={feature} className="px-3 py-1.5 bg-white rounded-lg text-sm text-text-dark border border-border">
+                                        {feature}
+                                    </span>
+                                ))}
+                            </div>
                         </div>
 
-                        <div className="bg-surface p-6 rounded-2xl border border-border min-w-[300px]">
-                            <p className="text-sm text-gray-500 mb-1">Monthly Rent</p>
-                            <p className="text-3xl font-bold text-primary mb-4">€{actor.priceRange.min} - €{actor.priceRange.max} <span className="text-sm text-gray-400 font-normal">/mo</span></p>
+                        {actor.goodToKnow && (
+                            <div className="bg-amber-50 border border-amber-200 rounded-xl p-5">
+                                <p className="text-xs font-bold uppercase tracking-wide text-amber-700 mb-1.5">Good to know</p>
+                                <p className="text-sm text-text-dark">{actor.goodToKnow}</p>
+                            </div>
+                        )}
+
+                        {actor.socials && Object.keys(actor.socials).length > 0 && (
+                            <div>
+                                <h2 className="text-lg font-bold font-heading text-text-dark mb-4">Connect</h2>
+                                <div className="flex flex-wrap gap-3">
+                                    {Object.entries(actor.socials).map(([key, url]) => url && (
+                                        <a key={key} href={url} target="_blank" rel="noopener noreferrer" className="text-sm font-semibold text-text-dark border border-border rounded-lg px-4 py-2 hover:border-primary hover:text-primary transition-colors">
+                                            {SOCIAL_LABEL[key] ?? key} ↗
+                                        </a>
+                                    ))}
+                                </div>
+                            </div>
+                        )}
+                    </div>
+
+                    {/* Sidebar */}
+                    <div className="lg:col-span-1">
+                        <div className="lg:sticky lg:top-24 bg-white p-6 rounded-2xl border border-border">
+                            <p className="text-sm text-gray-500 mb-1">Monthly rent</p>
+                            <p className="text-3xl font-bold text-primary mb-5">€{actor.priceRange.min} – €{actor.priceRange.max} <span className="text-sm text-gray-400 font-normal">/mo</span></p>
 
                             {actor.website && (
                                 <a
@@ -134,67 +199,20 @@ export default async function ActorPage({ params }: { params: Promise<{ slug: st
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
                                 </a>
                             )}
-                        </div>
-                    </div>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
-                        {/* Amenities */}
-                        <div>
-                            <h3 className="text-xl font-bold font-heading mb-6 border-b border-border pb-2">Amenities & Vibes</h3>
-                            <div className="flex flex-wrap gap-3">
-                                {actor.amenities.map(amenity => (
-                                    <span key={amenity} className="px-4 py-2 bg-gray-50 rounded-lg text-gray-700 font-medium border border-gray-100">
-                                        ✨ {amenity}
-                                    </span>
-                                ))}
-                                {actor.features.map(feature => (
-                                    <span key={feature} className="px-4 py-2 bg-blue-50 rounded-lg text-blue-700 font-medium border border-blue-100">
-                                        🏷️ {feature}
-                                    </span>
-                                ))}
+                            <Link href="/matchmaker" className="block text-center text-sm font-semibold text-text-dark border border-border rounded-lg px-4 py-2.5 mt-3 hover:border-primary hover:text-primary transition-colors">
+                                See if it&apos;s a match →
+                            </Link>
+
+                            <div className="mt-6 pt-5 border-t border-border">
+                                <Link href="/actors" className="text-sm text-gray-500 hover:text-primary transition-colors block mb-2">
+                                    ← Back to all coliving spaces
+                                </Link>
+                                <Link href="/advertise" className="text-sm text-gray-400 hover:text-orange-500 transition-colors block">
+                                    Is this your space? Feature it →
+                                </Link>
                             </div>
                         </div>
-
-                        {/* Socials */}
-                        <div>
-                            <h3 className="text-xl font-bold font-heading mb-6 border-b border-border pb-2">Connect</h3>
-                            <div className="grid grid-cols-2 gap-4">
-                                {actor.socials?.instagram && (
-                                    <a href={actor.socials.instagram} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-4 rounded-xl border border-border hover:border-pink-500 hover:bg-pink-50 transition-all group">
-                                        <div className="w-10 h-10 bg-pink-100 rounded-full flex items-center justify-center text-pink-600 group-hover:bg-pink-200">📸</div>
-                                        <span className="font-bold text-gray-700 group-hover:text-pink-700">Instagram</span>
-                                    </a>
-                                )}
-                                {actor.socials?.facebook && (
-                                    <a href={actor.socials.facebook} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-4 rounded-xl border border-border hover:border-blue-600 hover:bg-blue-50 transition-all group">
-                                        <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 group-hover:bg-blue-200">f</div>
-                                        <span className="font-bold text-gray-700 group-hover:text-blue-700">Facebook</span>
-                                    </a>
-                                )}
-                                {actor.socials?.linkedin && (
-                                    <a href={actor.socials.linkedin} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-4 rounded-xl border border-border hover:border-blue-700 hover:bg-blue-50 transition-all group">
-                                        <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-blue-800 group-hover:bg-blue-200">in</div>
-                                        <span className="font-bold text-gray-700 group-hover:text-blue-800">LinkedIn</span>
-                                    </a>
-                                )}
-                                {actor.socials?.tiktok && (
-                                    <a href={actor.socials.tiktok} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-4 rounded-xl border border-border hover:border-black hover:bg-gray-50 transition-all group">
-                                        <div className="w-10 h-10 bg-black/10 rounded-full flex items-center justify-center text-black group-hover:bg-black/20">🎵</div>
-                                        <span className="font-bold text-gray-700 group-hover:text-black">TikTok</span>
-                                    </a>
-                                )}
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* Back link + operator hook */}
-                    <div className="mt-8 pt-6 border-t border-border flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3">
-                        <Link href="/actors" className="text-sm text-gray-500 hover:text-primary transition-colors flex items-center gap-2">
-                            ← Back to all coliving spaces
-                        </Link>
-                        <Link href="/advertise" className="text-sm text-gray-400 hover:text-orange-500 transition-colors">
-                            Is this your space? Feature it →
-                        </Link>
                     </div>
                 </div>
             </div>

@@ -23,6 +23,12 @@ export type Actor = {
         tiktok?: string;
     };
     googleReviewScore?: number;
+    /** Short, comparable facts pulled from what we actually know about this operator — omit rather than guess. */
+    quickFacts?: { label: string; value: string }[];
+    /** One sentence: who this operator actually suits. Omit if not clear from the source description. */
+    idealFor?: string;
+    /** An honest caveat or trade-off, only when the description supports one — not required. */
+    goodToKnow?: string;
 };
 
 export const ACTORS: Actor[] = [
@@ -40,6 +46,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/corners-v2.jpg'],
         website: 'https://www.corners.co',
         features: ['Premium', 'Design', 'Comfort'],
+        quickFacts: [
+            { label: 'Bathroom', value: 'Private in the spacious suites' },
+            { label: 'Neighbourhoods', value: 'Ixelles, Uccle & other prestigious areas' },
+        ],
+        idealFor: 'International professionals who want privacy and design polish over a big social scene.',
         socials: {
             instagram: 'https://www.instagram.com/corners_coliving/',
             linkedin: 'https://www.linkedin.com/company/89196708/',
@@ -60,6 +71,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/cohabs.jpg'],
         website: 'https://cohabs.com',
         features: ['Social', 'High-end', 'Community'],
+        quickFacts: [
+            { label: 'Standout amenities', value: 'Cinema room, gym, rooftop terrace' },
+            { label: 'Community', value: 'Monthly events — yoga, cooking workshops, Sunday brunch' },
+        ],
+        idealFor: 'People who want a packed social calendar and to make friends fast.',
         socials: {
             instagram: 'https://www.instagram.com/cohabs/',
             facebook: 'https://www.facebook.com/cohabs',
@@ -81,6 +97,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/livecolonies.jpg'],
         website: 'https://livecolonies.com',
         features: ['Flexible', 'Young Pros', 'Central'],
+        quickFacts: [
+            { label: 'Couples', value: 'Accepted in many units — uncommon in this market' },
+            { label: 'Booking', value: 'Strong digital process, easy move in/out' },
+        ],
+        idealFor: 'Young professionals who want a hassle-free home base without the intensity of a big community.',
         socials: {
             instagram: 'https://www.instagram.com/live_colonies/',
             facebook: 'https://www.facebook.com/LiveColonies/',
@@ -102,6 +123,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/colive.webp'],
         website: 'https://colive.eu',
         features: ['Network', 'Accessible', 'Diverse'],
+        quickFacts: [
+            { label: 'Rent', value: 'All-inclusive — even covers household insurance' },
+            { label: 'Atmosphere', value: 'Family-style houses, cooking together is the norm' },
+        ],
+        idealFor: 'Interns and trainees arriving in Brussels for the first time.',
         socials: {
             instagram: 'https://www.instagram.com/colive.eu/',
             facebook: 'https://www.facebook.com/Colive.eu',
@@ -122,6 +148,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/ikoab.jpg'],
         website: 'https://ikoab.com',
         features: ['Established', 'Student-friendly', 'Budget'],
+        quickFacts: [
+            { label: 'House sizes', value: 'From 4-person apartments to larger mansions' },
+            { label: 'Price point', value: 'Among the most competitive in the market' },
+        ],
+        idealFor: 'Budget-conscious students and young professionals who still want the community experience.',
         socials: {
             instagram: 'https://www.instagram.com/ikoab_coliving/',
             facebook: 'https://www.facebook.com/ikoabcoliving/',
@@ -142,6 +173,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/neybor.jpg'],
         website: 'https://neybor.co',
         features: ['Sustainable', 'Urban', 'Unique'],
+        quickFacts: [
+            { label: 'Sustainability', value: 'Urban farming or aquaponics at some locations' },
+            { label: 'Interiors', value: 'Raw, natural materials — locally sourced furniture' },
+        ],
+        idealFor: 'Design-conscious residents who care about sustainability and city integration.',
         socials: {
             instagram: 'https://www.instagram.com/_neybor_/',
             facebook: 'https://www.facebook.com/neyborhomes',
@@ -162,6 +198,12 @@ export const ACTORS: Actor[] = [
         images: ['/actors/habyt.png'],
         website: 'https://www.habyt.com',
         features: ['Global', 'Digital', 'Efficient'],
+        quickFacts: [
+            { label: 'Network', value: 'Can transfer between cities in their global network' },
+            { label: 'Booking', value: 'Fully digital, standardized rooms' },
+        ],
+        idealFor: 'Digital nomads and short-term assignments who want consistency over character.',
+        goodToKnow: 'Less "boutique" than local operators — the trade-off is standardization and reliability.',
     },
     {
         id: 'morton-place',
@@ -176,6 +218,11 @@ export const ACTORS: Actor[] = [
         images: ['/actors/morton.jpg'],
         website: 'https://mortonplace.be',
         features: ['Luxury', 'Mature', 'Boutique'],
+        quickFacts: [
+            { label: 'Room style', value: 'Spacious, often feels like a hotel suite' },
+            { label: 'Typical age', value: 'Late 20s to 30s' },
+        ],
+        idealFor: 'A calm, sophisticated crowd who want wine tastings and dinner parties, not wild nights.',
         socials: {
             instagram: 'https://www.instagram.com/mortonplacecoliving/',
             facebook: 'https://www.facebook.com/mortonplacecoliving/',
@@ -196,6 +243,11 @@ export const ACTORS: Actor[] = [
         images: ['https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://sharies.co/en/city/brussels',
         features: ['Serviced', 'Digital', 'Flexible'],
+        quickFacts: [
+            { label: 'Rent', value: 'All-inclusive — utilities, wifi, weekly cleaning & fresh linen' },
+            { label: 'Management', value: 'On-site residence manager at each address' },
+        ],
+        idealFor: 'Anyone who wants zero admin and to move in the same week they land.',
         socials: {
             instagram: 'https://www.instagram.com/sharies_coliving/',
         },
@@ -214,6 +266,11 @@ export const ACTORS: Actor[] = [
         images: ['https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://co-homing.net',
         features: ['Central', 'Private', 'Professional'],
+        quickFacts: [
+            { label: 'Bathroom', value: 'Private in most rooms' },
+            { label: 'Typical resident', value: '6-month consultants, trainees, graduates' },
+        ],
+        idealFor: 'Mobile professionals who want privacy plus a genuinely central footprint.',
         socials: {
             instagram: 'https://www.instagram.com/co.homing/',
             facebook: 'https://www.facebook.com/Co.Homing',
@@ -233,6 +290,11 @@ export const ACTORS: Actor[] = [
         images: ['https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://comoon.be',
         features: ['Amenity-rich', 'EU Quarter', 'Community'],
+        quickFacts: [
+            { label: 'Bathroom', value: 'Private shower in every room' },
+            { label: 'Rent', value: 'All-inclusive after utilities, cleaning & internet' },
+        ],
+        idealFor: 'Digital nomads and EU-institution workers who want amenities handled in-house.',
         socials: {
             instagram: 'https://www.instagram.com/comoon.coliving/',
             facebook: 'https://www.facebook.com/comoon.coliving/',
@@ -253,6 +315,11 @@ export const ACTORS: Actor[] = [
         images: ['https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://www.colochousing.com/en/shared-houses-brussels',
         features: ['Accessible', 'Flexible', 'Classic'],
+        quickFacts: [
+            { label: 'Rent', value: 'All-in — utilities and wifi bundled' },
+            { label: 'Style', value: 'Closer to a classic flatshare than boutique coliving' },
+        ],
+        idealFor: 'Newcomers who want the coliving lifestyle without the premium price tag.',
         googleReviewScore: 4.2,
     },
 
