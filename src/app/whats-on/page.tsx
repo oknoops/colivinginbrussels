@@ -22,6 +22,19 @@ function fmt(iso: string) {
     return new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
 }
 
+/** Compact "14" or "14–18" day badge plus a 3-letter month, for the highlight cards. */
+function fmtBadge(e: { start?: string; end?: string }) {
+    const start = new Date(e.start!);
+    const month = start.toLocaleDateString('en-GB', { month: 'short' }).toUpperCase();
+    if (!e.end || e.end === e.start) return { day: String(start.getDate()), month };
+    const end = new Date(e.end);
+    if (end.getMonth() === start.getMonth()) {
+        return { day: `${start.getDate()}–${end.getDate()}`, month };
+    }
+    const endMonth = end.toLocaleDateString('en-GB', { month: 'short' }).toUpperCase();
+    return { day: `${start.getDate()} ${month}–${end.getDate()} ${endMonth}`, month: '' };
+}
+
 export default function WhatsOnPage() {
     const now = new Date();
     const todayIso = now.toISOString().slice(0, 10);
@@ -47,74 +60,47 @@ export default function WhatsOnPage() {
             </section>
 
             <div className="container mx-auto px-4 py-12 max-w-6xl">
-                {/* Legend */}
-                <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-6 text-xs">
-                    {CATEGORIES.map((c) => (
-                        <span key={c} className="inline-flex items-center gap-1.5 text-text">
-                            <span className={`w-2.5 h-2.5 rounded-full ${CATEGORY_STYLE[c].dot}`} /> {c}
-                        </span>
-                    ))}
-                </div>
+                {/* This month — the clear, primary section */}
+                <div className="mb-14">
+                    <div className="flex items-end justify-between mb-6 gap-4 flex-wrap">
+                        <h2 className="text-2xl md:text-3xl font-bold font-heading text-text-dark">This month in Brussels</h2>
+                        <a href="#calendar" className="text-sm font-semibold text-orange-500 hover:underline whitespace-nowrap">See full calendar ↓</a>
+                    </div>
 
-                {/* Calendar grid */}
-                <div className="rounded-2xl border border-orange-100 overflow-hidden bg-white shadow-sm mb-14 overflow-x-auto">
-                    <div className="min-w-[720px]">
-                        <div className="grid grid-cols-7 bg-amber-50 border-b border-orange-100">
-                            {WEEKDAYS.map((d) => (
-                                <div key={d} className="px-3 py-2.5 text-xs font-bold text-text-dark uppercase tracking-wide">{d}</div>
-                            ))}
-                        </div>
-                        {weeks.map((week, wi) => (
-                            <div key={wi} className="grid grid-cols-7 border-b border-orange-50 last:border-0">
-                                {week.map((cell) => {
-                                    const isToday = cell.iso === todayIso;
-                                    return (
-                                        <div key={cell.iso} className={`min-h-[110px] border-r border-orange-50 last:border-0 p-2 align-top ${cell.inMonth ? '' : 'bg-gray-50/60'}`}>
-                                            <div className={`text-xs font-semibold mb-1.5 inline-flex items-center justify-center w-6 h-6 rounded-full ${isToday ? 'bg-orange-500 text-white' : cell.inMonth ? 'text-text-dark' : 'text-gray-300'}`}>
-                                                {cell.date.getDate()}
-                                            </div>
-                                            <div className="space-y-1">
-                                                {cell.events.slice(0, 3).map((e) => (
-                                                    <div key={e.title} className={`text-[10px] leading-tight px-1.5 py-1 rounded-md font-medium truncate ${CATEGORY_STYLE[e.category].chip}`} title={`${e.title} — ${e.where}`}>
-                                                        {e.title}
-                                                    </div>
-                                                ))}
-                                                {cell.events.length > 3 && (
-                                                    <div className="text-[10px] text-gray-400 px-1.5">+{cell.events.length - 3} more</div>
-                                                )}
-                                            </div>
+                    {highlights.length === 0 ? (
+                        <p className="text-text bg-amber-50 border border-orange-100 rounded-2xl p-6">
+                            Nothing dated is confirmed yet for {label} — check back soon, or browse the weekly rituals below.
+                        </p>
+                    ) : (
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+                            {highlights.map((e) => {
+                                const badge = fmtBadge(e);
+                                const style = CATEGORY_STYLE[e.category];
+                                return (
+                                    <div key={e.title} className="group bg-white rounded-2xl border border-orange-100 p-5 flex gap-4 hover:shadow-premium hover:-translate-y-0.5 transition-all">
+                                        <div className={`shrink-0 w-16 h-16 rounded-xl bg-gradient-to-br ${style.badge} text-white flex flex-col items-center justify-center text-center leading-none shadow-sm`}>
+                                            <span className="text-lg font-extrabold">{badge.day}</span>
+                                            {badge.month && <span className="text-[9px] font-bold tracking-wide mt-0.5">{badge.month}</span>}
                                         </div>
-                                    );
-                                })}
-                            </div>
-                        ))}
-                    </div>
-                </div>
-
-                {/* This month's highlights (full detail, on-site) */}
-                <div className="mb-12">
-                    <h2 className="text-2xl md:text-3xl font-bold font-heading text-text-dark mb-6">Highlights this month</h2>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-                        {highlights.map((e) => (
-                            <div key={e.title} className="bg-white rounded-2xl border border-orange-100 p-6 hover:shadow-premium transition-all">
-                                <div className="flex items-center gap-2 mb-2">
-                                    <span className={`text-[11px] font-bold px-2.5 py-1 rounded-full ${CATEGORY_STYLE[e.category].chip}`}>{e.category}</span>
-                                    <span className="text-xs font-semibold text-orange-500">
-                                        {fmt(e.start!)}{e.end && e.end !== e.start ? ` – ${fmt(e.end)}` : ''}
-                                    </span>
-                                </div>
-                                <h3 className="text-lg font-bold font-heading text-text-dark leading-snug">{e.title}</h3>
-                                <p className="text-xs text-gray-500 mb-2">📍 {e.where}</p>
-                                <p className="text-sm text-text leading-relaxed">{e.blurb}</p>
-                            </div>
-                        ))}
-                    </div>
+                                        <div className="min-w-0">
+                                            <span className={`inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-full mb-1.5 ${style.chip}`}>
+                                                <span>{style.icon}</span>{e.category}
+                                            </span>
+                                            <h3 className="font-bold font-heading text-text-dark leading-snug mb-1">{e.title}</h3>
+                                            <p className="text-[11px] text-gray-500 mb-1.5 truncate">📍 {e.where}</p>
+                                            <p className="text-sm text-text leading-relaxed line-clamp-3">{e.blurb}</p>
+                                        </div>
+                                    </div>
+                                );
+                            })}
+                        </div>
+                    )}
                 </div>
 
                 {/* Weekly rituals note */}
-                <div className="bg-amber-50 rounded-2xl border border-orange-100 p-6 mb-8">
+                <div className="bg-amber-50 rounded-2xl border border-orange-100 p-6 mb-14">
                     <h2 className="text-lg font-bold font-heading text-text-dark mb-2">Every week in Brussels</h2>
-                    <p className="text-sm text-text mb-4">Beyond the dated events, these markets and rituals run every week — they&apos;re on the calendar above too:</p>
+                    <p className="text-sm text-text mb-4">Beyond the dated events above, these markets and rituals run every week — they&apos;re on the full calendar too:</p>
                     <div className="flex flex-wrap gap-2 text-sm">
                         <Link href="/blog/brussels-markets-guide" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🧺 Markets guide</Link>
                         <Link href="/blog/where-locals-eat-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🍟 Where locals eat</Link>
@@ -124,7 +110,67 @@ export default function WhatsOnPage() {
                     </div>
                 </div>
 
-                <p className="text-xs text-gray-400 text-center max-w-2xl mx-auto">
+                {/* Full calendar — reference tool, lower down & lower-key */}
+                <div id="calendar" className="scroll-mt-20">
+                    <details className="group/cal" open>
+                        <summary className="cursor-pointer list-none flex items-center justify-between gap-4 mb-5 select-none">
+                            <span className="text-lg font-bold font-heading text-text-dark flex items-center gap-2">
+                                📅 Full {label} calendar
+                            </span>
+                            <span className="text-xs font-semibold text-gray-400 border border-gray-200 rounded-full px-3 py-1 group-open/cal:hidden">Show</span>
+                            <span className="text-xs font-semibold text-gray-400 border border-gray-200 rounded-full px-3 py-1 hidden group-open/cal:inline">Hide</span>
+                        </summary>
+
+                        {/* Legend */}
+                        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mb-5 text-xs">
+                            {CATEGORIES.map((c) => (
+                                <span key={c} className="inline-flex items-center gap-1.5 text-gray-500">
+                                    <span className={`w-2 h-2 rounded-full ${CATEGORY_STYLE[c].dot}`} /> {c}
+                                </span>
+                            ))}
+                        </div>
+
+                        <div className="rounded-2xl border border-gray-200 overflow-hidden bg-white overflow-x-auto">
+                            <div className="min-w-[720px]">
+                                <div className="grid grid-cols-7 bg-gray-50 border-b border-gray-200">
+                                    {WEEKDAYS.map((d) => (
+                                        <div key={d} className="px-3 py-2.5 text-xs font-bold text-gray-500 uppercase tracking-wide text-center">{d}</div>
+                                    ))}
+                                </div>
+                                {weeks.map((week, wi) => (
+                                    <div key={wi} className="grid grid-cols-7 border-b border-gray-100 last:border-0">
+                                        {week.map((cell) => {
+                                            const isToday = cell.iso === todayIso;
+                                            const isWeekend = cell.date.getDay() === 0 || cell.date.getDay() === 6;
+                                            return (
+                                                <div
+                                                    key={cell.iso}
+                                                    className={`min-h-[92px] border-r border-gray-100 last:border-0 p-1.5 align-top transition-colors ${!cell.inMonth ? 'bg-gray-50/70' : isWeekend ? 'bg-amber-50/40' : 'bg-white'} ${cell.inMonth ? 'hover:bg-amber-50/70' : ''}`}
+                                                >
+                                                    <div className={`text-[11px] font-semibold mb-1 inline-flex items-center justify-center w-5 h-5 rounded-full ${isToday ? 'bg-orange-500 text-white' : cell.inMonth ? 'text-text-dark' : 'text-gray-300'}`}>
+                                                        {cell.date.getDate()}
+                                                    </div>
+                                                    <div className="space-y-0.5">
+                                                        {cell.events.slice(0, 2).map((e) => (
+                                                            <div key={e.title} className={`text-[9px] leading-tight px-1 py-0.5 rounded truncate border-l-2 ${CATEGORY_STYLE[e.category].chip}`} style={{ borderLeftColor: 'currentColor' }} title={`${e.title} — ${e.where}`}>
+                                                                {e.title}
+                                                            </div>
+                                                        ))}
+                                                        {cell.events.length > 2 && (
+                                                            <div className="text-[9px] text-gray-400 px-1">+{cell.events.length - 2} more</div>
+                                                        )}
+                                                    </div>
+                                                </div>
+                                            );
+                                        })}
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                    </details>
+                </div>
+
+                <p className="text-xs text-gray-400 text-center max-w-2xl mx-auto mt-10">
                     Our team curates this calendar and keeps it current. Dates are indicative — for ticketing and the complete programme you can also check the city&apos;s official listings.
                 </p>
             </div>

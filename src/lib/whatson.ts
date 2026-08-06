@@ -21,14 +21,14 @@ export type WhatsOnEvent = {
     url?: string;                   // optional official source (used sparingly)
 };
 
-export const CATEGORY_STYLE: Record<EventCategory, { dot: string; chip: string }> = {
-    Festival: { dot: 'bg-orange-500', chip: 'bg-orange-100 text-orange-700' },
-    Music: { dot: 'bg-fuchsia-500', chip: 'bg-fuchsia-100 text-fuchsia-700' },
-    Culture: { dot: 'bg-violet-500', chip: 'bg-violet-100 text-violet-700' },
-    Food: { dot: 'bg-rose-500', chip: 'bg-rose-100 text-rose-700' },
-    Market: { dot: 'bg-emerald-500', chip: 'bg-emerald-100 text-emerald-700' },
-    Nightlife: { dot: 'bg-indigo-500', chip: 'bg-indigo-100 text-indigo-700' },
-    Activity: { dot: 'bg-sky-500', chip: 'bg-sky-100 text-sky-700' },
+export const CATEGORY_STYLE: Record<EventCategory, { dot: string; chip: string; icon: string; badge: string }> = {
+    Festival: { dot: 'bg-orange-500', chip: 'bg-orange-100 text-orange-700', icon: '🎉', badge: 'from-orange-500 to-amber-500' },
+    Music: { dot: 'bg-fuchsia-500', chip: 'bg-fuchsia-100 text-fuchsia-700', icon: '🎵', badge: 'from-fuchsia-500 to-pink-500' },
+    Culture: { dot: 'bg-violet-500', chip: 'bg-violet-100 text-violet-700', icon: '🎭', badge: 'from-violet-500 to-purple-500' },
+    Food: { dot: 'bg-rose-500', chip: 'bg-rose-100 text-rose-700', icon: '🍽️', badge: 'from-rose-500 to-red-500' },
+    Market: { dot: 'bg-emerald-500', chip: 'bg-emerald-100 text-emerald-700', icon: '🧺', badge: 'from-emerald-500 to-teal-500' },
+    Nightlife: { dot: 'bg-indigo-500', chip: 'bg-indigo-100 text-indigo-700', icon: '🌃', badge: 'from-indigo-500 to-blue-500' },
+    Activity: { dot: 'bg-sky-500', chip: 'bg-sky-100 text-sky-700', icon: '🚴', badge: 'from-sky-500 to-cyan-500' },
 };
 
 // Dated highlights (curated). Keep these updated seasonally.
