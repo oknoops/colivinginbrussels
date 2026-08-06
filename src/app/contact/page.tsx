@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import ContactForm from '@/components/ContactForm';
 
 export const metadata: Metadata = {
     title: 'Contact | ColivingInBrussels',
@@ -21,70 +22,7 @@ export default function ContactPage() {
             </div>
 
             <div className="bg-white rounded-2xl border border-border shadow-sm p-8 md:p-10">
-                <form className="space-y-6">
-                    <div>
-                        <label htmlFor="name" className="block text-sm font-semibold text-text-dark mb-2">
-                            Your Name
-                        </label>
-                        <input
-                            type="text"
-                            id="name"
-                            name="name"
-                            placeholder="Jane Smith"
-                            className="w-full px-4 py-3 rounded-lg border border-border focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors text-text-dark"
-                        />
-                    </div>
-
-                    <div>
-                        <label htmlFor="email" className="block text-sm font-semibold text-text-dark mb-2">
-                            Email Address
-                        </label>
-                        <input
-                            type="email"
-                            id="email"
-                            name="email"
-                            placeholder="you@example.com"
-                            className="w-full px-4 py-3 rounded-lg border border-border focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors text-text-dark"
-                        />
-                    </div>
-
-                    <div>
-                        <label htmlFor="subject" className="block text-sm font-semibold text-text-dark mb-2">
-                            Subject
-                        </label>
-                        <select
-                            id="subject"
-                            name="subject"
-                            className="w-full px-4 py-3 rounded-lg border border-border focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors text-text-dark bg-white"
-                        >
-                            <option value="">Select a topic...</option>
-                            <option value="suggest-space">Suggest a coliving space</option>
-                            <option value="report-error">Report an inaccuracy</option>
-                            <option value="partnership">Partnership inquiry</option>
-                            <option value="other">Other</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <label htmlFor="message" className="block text-sm font-semibold text-text-dark mb-2">
-                            Message
-                        </label>
-                        <textarea
-                            id="message"
-                            name="message"
-                            rows={5}
-                            placeholder="Tell us what's on your mind..."
-                            className="w-full px-4 py-3 rounded-lg border border-border focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors text-text-dark resize-none"
-                        />
-                    </div>
-
-                    <button
-                        type="submit"
-                        className="btn btn-primary w-full py-4 text-base"
-                    >
-                        Send Message
-                    </button>
-                </form>
+                <ContactForm />
             </div>
 
             <div className="mt-10 text-center text-sm text-gray-500">
