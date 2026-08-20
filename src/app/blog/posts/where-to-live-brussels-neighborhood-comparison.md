@@ -49,6 +49,13 @@ The fastest way to do that honestly: take our [matchmaker quiz](/matchmaker). It
 
 One underrated point: with [coliving](/actors), the *house* matters as much as the neighbourhood. A great community in "boring" Etterbeek can beat a mediocre house share in trendy Ixelles. So choose the neighbourhood for the commute and vibe, but weight the operator and the specific house heavily too. Read [the complete map of operators](/blog/coliving-operators-brussels-full-landscape) to see who's where.
 
+## Coliving in each Brussels neighbourhood
+
+Want to see the coliving operators, prices and vibe for a specific area? We have a dedicated guide for each:
+
+- [Coliving in Ixelles](/coliving/ixelles) · [Coliving in Saint-Gilles](/coliving/saint-gilles) · [Coliving in Etterbeek](/coliving/etterbeek) · [Coliving in Brussels City](/coliving/brussels-city)
+- [Coliving in Uccle](/coliving/uccle) · [Coliving in Schaerbeek](/coliving/schaerbeek) · [Coliving in Forest](/coliving/forest) · [Coliving in Woluwe-Saint-Lambert](/coliving/woluwe-saint-lambert)
+
 ---
 
 **Ready to pick your patch?** Explore all [neighborhood guides](/neighborhoods), take the [matchmaker quiz](/matchmaker), or compare [coliving prices](/coliving-brussels-prices).
