@@ -98,13 +98,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.85,
     }));
 
-    // Coliving-by-neighborhood landing pages
-    const colivingHoodRoutes = NEIGHBORHOODS.map((hood) => ({
-        url: `${baseUrl}/coliving/${hood.slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
-        priority: 0.85,
-    }));
+    // Coliving-by-neighborhood landing pages (EN + FR/NL/ES)
+    const colivingHoodRoutes = NEIGHBORHOODS.flatMap((hood) =>
+        ['', '/fr', '/nl', '/es'].map((prefix) => ({
+            url: `${baseUrl}${prefix}/coliving/${hood.slug}`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly' as const,
+            priority: prefix === '' ? 0.85 : 0.8,
+        })),
+    );
 
     return [...routes, ...blogRoutes, ...actorRoutes, ...neighborhoodRoutes, ...colivingHoodRoutes];
 }

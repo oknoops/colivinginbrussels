@@ -44,7 +44,15 @@ export async function generateMetadata({ params }: { params: Promise<{ neighborh
     return {
         title: `Coliving in ${short}, Brussels — Best Spaces & Prices (2026)`,
         description: `Coliving in ${short}: which operators have rooms here, real prices (${hood.avgRent}/month), what the area is like, and how to find your place. An independent local guide.`,
-        alternates: { canonical: `https://colivinginbrussels.com/coliving/${neighborhood}` },
+        alternates: {
+            canonical: `https://colivinginbrussels.com/coliving/${neighborhood}`,
+            languages: {
+                en: `https://colivinginbrussels.com/coliving/${neighborhood}`,
+                'fr-BE': `https://colivinginbrussels.com/fr/coliving/${neighborhood}`,
+                'nl-BE': `https://colivinginbrussels.com/nl/coliving/${neighborhood}`,
+                es: `https://colivinginbrussels.com/es/coliving/${neighborhood}`,
+            },
+        },
         openGraph: {
             title: `Coliving in ${short}, Brussels`,
             description: `Operators, prices (${hood.avgRent}/mo) and local tips for coliving in ${short}.`,
