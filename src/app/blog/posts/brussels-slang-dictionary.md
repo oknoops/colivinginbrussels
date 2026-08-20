@@ -1,15 +1,15 @@
 ---
-title: "Brussels Slang 101: The Words That Make You Sound Like a Local"
-excerpt: "Nonante, dikkenek, a 'demi' that isn't half of anything — the Belgian and Brussels expressions every newcomer needs to survive the first month."
+title: "Brussels Slang & Jargon 101: Words That Make You Sound Like a Local"
+excerpt: "Nonante, dikkenek, zwanze — a dictionary of Brussels slang and Belgian jargon every newcomer needs to survive the first month and sound like a local."
 date: "2026-08-03"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
 tags: ["Brussels Slang", "Belgian Culture", "Language", "Newcomers"]
 ---
 
-# Brussels Slang 101: The Words That Make You Sound Like a Local
+# Brussels Slang & Jargon 101: The Words That Make You Sound Like a Local
 
-You can arrive in Brussels with flawless textbook French and still be completely lost by lunchtime. Belgium speaks its own version of French (and Dutch), stitched together with words that would make a Parisian raise an eyebrow. Learn a handful of them and two things happen: daily life gets easier, and locals warm to you instantly because you *made the effort*.
+This is your quick-start dictionary to **Brussels jargon and Belgian slang** — the local words that never make it into a textbook. You can arrive in Brussels with flawless textbook French and still be completely lost by lunchtime. Belgium speaks its own version of French (and Dutch), stitched together with words that would make a Parisian raise an eyebrow. Learn a handful of them and two things happen: daily life gets easier, and locals warm to you instantly because you *made the effort*.
 
 Here is the survival dictionary we wish someone had handed us on day one.
 

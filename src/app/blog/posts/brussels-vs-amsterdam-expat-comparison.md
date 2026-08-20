@@ -1,6 +1,6 @@
 ---
-title: "Brussels vs Amsterdam: Which City Should Expats Choose in 2026?"
-excerpt: "Both are top expat destinations in northern Europe. Here's an honest side-by-side comparison of housing, cost, social life, and career opportunities."
+title: "Brussels vs Amsterdam: Cost, Housing & Which to Choose (2026)"
+excerpt: "Is Brussels cheaper than Amsterdam? An honest side-by-side comparison of cost of living, housing, social life and careers — whether you're choosing where to move or planning a city break."
 date: "2026-02-23"
 author: "ColivingInBrussels"
 coverImage: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,18 @@ tags: ["Brussels", "Amsterdam", "Expats", "Comparison", "European Cities"]
 
 # Brussels vs Amsterdam: Which City is Better for Expats in 2026?
 
-If you're considering a move to northern Europe and have narrowed it down to **Brussels or Amsterdam**, you're not alone. Both cities attract tens of thousands of expats per year, both are international and English-friendly, and both offer very different experiences. Here's an honest, nuanced comparison.
+If you're considering a move to northern Europe and have narrowed it down to **Brussels or Amsterdam**, you're not alone. Both cities attract tens of thousands of expats per year, both are international and English-friendly, and both offer very different experiences. Here's an honest, nuanced comparison — useful whether you're deciding where to live or just comparing the two for a city break.
+
+## Is Brussels cheaper than Amsterdam?
+
+**Short answer: yes — noticeably.** Brussels is significantly cheaper than Amsterdam on almost every line item, and for many expats it's the single biggest deciding factor.
+
+- **Rent:** the clearest gap. A room or studio in Brussels typically costs **30–40% less** than the Amsterdam equivalent, where a chronic housing shortage has pushed prices to among the highest in Europe. An all-in [coliving room in Brussels](/coliving-brussels-prices) runs €600–€950; comparable Amsterdam rooms are far pricier and far harder to find.
+- **Eating & drinking out:** restaurants, beer and coffee are cheaper in Brussels.
+- **Groceries & transport:** broadly similar, with Brussels slightly cheaper.
+- **The catch:** salaries in the Netherlands can be a little higher, and the Dutch `30% ruling` tax break (where it applies) narrows the gap for some — but on raw cost of living, Brussels wins comfortably.
+
+For a **city break**, the same logic holds: Brussels is the better-value weekend, with cheaper hotels, food and beer, and Amsterdam just a ~2-hour train away if you want to do both.
 
 **Spoiler: Brussels wins on cost and underrated quality of life. Amsterdam wins on vibrancy and nature access.**
 
