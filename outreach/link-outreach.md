@@ -1,7 +1,7 @@
 # Link / referral outreach — non-operator sites
 
 Goal: earn backlinks & mentions from relevant expat, coliving and Belgium sites.
-Value-first, short, personalised line 1, ONE clear ask. Send from oscar@creotivity.io.
+Value-first, short, personalised line 1, ONE clear ask. Send from hello@colivinginbrussels.com.
 Match the variant to the target type (see the target list at the bottom).
 
 ---
@@ -29,7 +29,7 @@ operators in the city.
 Would that be useful? I can send a draft or a quick outline.
 
 Best,
-Oscar · ColivingInBrussels.com · oscar@creotivity.io
+Oscar · ColivingInBrussels.com · hello@colivinginbrussels.com
 
 ---
 
@@ -51,7 +51,7 @@ Everything you might need to list us:
 
 Anything else you need from me, just say and I'll send it over. Thanks!
 
-Oscar · ColivingInBrussels.com · oscar@creotivity.io
+Oscar · ColivingInBrussels.com · hello@colivinginbrussels.com
 
 ---
 
@@ -72,7 +72,7 @@ non-competing resource to point readers to — and we'll keep sending people you
 mutual mention sometime?
 
 Cheers,
-Oscar · ColivingInBrussels.com · oscar@creotivity.io
+Oscar · ColivingInBrussels.com · hello@colivinginbrussels.com
 
 ---
 
@@ -91,7 +91,7 @@ Would you consider adding us to your **useful-links / newcomer-resources** page?
 back to your resources from ours in return.
 
 Thank you,
-Oscar · ColivingInBrussels.com · oscar@creotivity.io
+Oscar · ColivingInBrussels.com · hello@colivinginbrussels.com
 
 ---
 

@@ -4,7 +4,7 @@ Goal: get the 12 coliving operators to (1) confirm/correct their profile listing
 (2) link to their profile page from their own site (a backlink — the biggest off-page
 SEO lever). Soft mention of paid featured placement.
 
-Send from a person (oscar@creotivity.io), personalise line 1, lead with the
+Send from a person (hello@colivinginbrussels.com), personalise line 1, lead with the
 "check your info" ask, and do ONE polite follow-up after ~5–7 days.
 
 ---
@@ -53,7 +53,7 @@ Thanks, and keep up the great work on the houses.
 
 Best,
 Oscar
-ColivingInBrussels.com · oscar@creotivity.io
+ColivingInBrussels.com · hello@colivinginbrussels.com
 
 ---
 
@@ -92,7 +92,7 @@ pression, la fiche reste gratuite.
 
 Bien à vous,
 Oscar
-ColivingInBrussels.com · oscar@creotivity.io
+ColivingInBrussels.com · hello@colivinginbrussels.com
 
 ---
 
