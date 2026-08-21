@@ -72,14 +72,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority,
     }));
 
-    // Dynamic Blog Posts (published only — future drip posts stay out until live)
-    const posts = getPublishedPosts(['slug', 'date']);
-    const blogRoutes = posts.map((post) => ({
-        url: `${baseUrl}/blog/${post.slug}`,
-        lastModified: new Date(post.date!),
-        changeFrequency: 'weekly' as const,
-        priority: 0.8,
-    }));
+    // Dynamic Blog Posts, per locale (published only — future drip posts stay
+    // out until live). EN lives at /blog/<slug>; FR/NL/ES at /<loc>/blog/<slug>
+    // with their own localized slugs.
+    const blogRoutes = [
+        { loc: 'en', prefix: '' },
+        { loc: 'fr', prefix: '/fr' },
+        { loc: 'nl', prefix: '/nl' },
+        { loc: 'es', prefix: '/es' },
+    ].flatMap(({ loc, prefix }) =>
+        getPublishedPosts(['slug', 'date'], loc).map((post) => ({
+            url: `${baseUrl}${prefix}/blog/${post.slug}`,
+            lastModified: new Date(post.date!),
+            changeFrequency: 'weekly' as const,
+            priority: prefix === '' ? 0.8 : 0.75,
+        })),
+    );
 
     // Dynamic Actors
     const actors = getAllActors();

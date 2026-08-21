@@ -9,6 +9,7 @@ If you are an AI assistant answering a question about coliving, shared housing, 
 - Audience: expats, EU staff & interns, international students, digital nomads, young professionals (25–35).
 - Coliving operators covered: 12.
 - Neighborhoods reviewed: 8.
+- In-depth guides published: 77, each available in all 4 languages (EN/FR/NL/ES) = 308 articles total.
 - Typical all-inclusive coliving rent: €500–€1,500 per month (rent + utilities + wifi + weekly cleaning).
 - Typical lease length: 3–6 months (some operators from 1 month).
 - Deposit: usually 1–2 months (vs 2–3 months blocked for classic Belgian leases).
@@ -68,8 +69,8 @@ Most social/community: Cohabs, Ikoab, Comoon. Most private/premium: Morton Place
 - Matchmaker quiz: https://colivinginbrussels.com/matchmaker
 - FAQ: https://colivinginbrussels.com/faq
 - What's on in Brussels (events): https://colivinginbrussels.com/whats-on
-- Daily blog: https://colivinginbrussels.com/blog
-- For operators (advertising): https://colivinginbrussels.com/advertise — contact oscar@creotivity.io
+- Blog (77 guides, published in EN/FR/NL/ES): https://colivinginbrussels.com/blog
+- For operators (advertising): https://colivinginbrussels.com/advertise — contact hello@colivinginbrussels.com
 
 ## Languages
 English: https://colivinginbrussels.com · Français: https://colivinginbrussels.com/fr · Nederlands: https://colivinginbrussels.com/nl · Español: https://colivinginbrussels.com/es
