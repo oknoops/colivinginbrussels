@@ -90,7 +90,7 @@ export default function AdvertisePage() {
                         We&apos;re where newcomers start their coliving search. Put your spaces in front of high-intent renters at the exact moment they&apos;re choosing where to live.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                        <a href="mailto:oscar@creotivity.io?subject=Advertising%20on%20ColivingInBrussels" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg">
+                        <a href="mailto:hello@colivinginbrussels.com?subject=Advertising%20on%20ColivingInBrussels" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg">
                             Get the media kit
                         </a>
                         <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold bg-white/10 border border-white/25 text-white hover:bg-white/20 transition-all">
@@ -173,7 +173,7 @@ export default function AdvertisePage() {
                                 </ul>
                                 <p className="text-xs text-gray-500 mb-6">Best for: {pkg.best}</p>
                                 <a
-                                    href={`mailto:oscar@creotivity.io?subject=Advertising:%20${encodeURIComponent(pkg.name)}`}
+                                    href={`mailto:hello@colivinginbrussels.com?subject=Advertising:%20${encodeURIComponent(pkg.name)}`}
                                     className={`text-center font-bold px-6 py-3 rounded-lg transition-colors ${pkg.featured ? 'bg-orange-500 hover:bg-orange-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-text-dark'}`}
                                 >
                                     Request pricing
@@ -192,7 +192,7 @@ export default function AdvertisePage() {
                 <div className="container mx-auto px-4 text-center max-w-3xl">
                     <h2 className="text-3xl md:text-4xl font-bold font-heading mb-4 text-white drop-shadow">Let&apos;s fill your rooms</h2>
                     <p className="text-white/90 text-lg mb-8">Tell us about your spaces and who you want to reach. We&apos;ll send the media kit and a proposal within a couple of days.</p>
-                    <a href="mailto:oscar@creotivity.io?subject=Advertising%20on%20ColivingInBrussels" className="inline-flex items-center gap-2 bg-white text-orange-500 font-bold px-10 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">
+                    <a href="mailto:hello@colivinginbrussels.com?subject=Advertising%20on%20ColivingInBrussels" className="inline-flex items-center gap-2 bg-white text-orange-500 font-bold px-10 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">
                         Get the media kit →
                     </a>
                 </div>

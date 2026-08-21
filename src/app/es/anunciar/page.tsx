@@ -36,7 +36,7 @@ export default function AnunciarEs() {
                     <h1 className="text-4xl md:text-6xl font-bold font-heading mb-6 leading-tight text-white">Llega a quien busca vivienda en Bruselas</h1>
                     <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl mx-auto">Somos el punto de partida de muchos recién llegados. Pon tus espacios ante inquilinos con alta intención, justo en el momento en que eligen dónde vivir.</p>
                     <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                        <a href="mailto:oscar@creotivity.io?subject=Anunciar%20en%20ColivingInBrussels" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg">Recibir el media kit</a>
+                        <a href="mailto:hello@colivinginbrussels.com?subject=Anunciar%20en%20ColivingInBrussels" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg">Recibir el media kit</a>
                         <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold bg-white/10 border border-white/25 text-white hover:bg-white/20 transition-all">Hablar con nosotros</Link>
                     </div>
                 </div>
@@ -80,7 +80,7 @@ export default function AnunciarEs() {
                                     {pkg.items.map((h) => (<li key={h} className="flex items-start gap-2 text-sm text-text"><span className="text-orange-500 mt-0.5">✓</span><span>{h}</span></li>))}
                                 </ul>
                                 <p className="text-xs text-gray-500 mb-6">Ideal para: {pkg.best}</p>
-                                <a href={`mailto:oscar@creotivity.io?subject=${encodeURIComponent('Anunciar: ' + pkg.name)}`} className={`text-center font-bold px-6 py-3 rounded-lg transition-colors ${pkg.featured ? 'bg-orange-500 hover:bg-orange-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-text-dark'}`}>Pedir precios</a>
+                                <a href={`mailto:hello@colivinginbrussels.com?subject=${encodeURIComponent('Anunciar: ' + pkg.name)}`} className={`text-center font-bold px-6 py-3 rounded-lg transition-colors ${pkg.featured ? 'bg-orange-500 hover:bg-orange-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-text-dark'}`}>Pedir precios</a>
                             </div>
                         ))}
                     </div>
@@ -92,7 +92,7 @@ export default function AnunciarEs() {
                 <div className="container mx-auto px-4 text-center max-w-3xl">
                     <h2 className="text-3xl md:text-4xl font-bold font-heading mb-4 text-white drop-shadow">Llenemos tus habitaciones</h2>
                     <p className="text-white/90 text-lg mb-8">Cuéntanos sobre tus espacios y a quién quieres llegar. Te enviamos el media kit y una propuesta en pocos días.</p>
-                    <a href="mailto:oscar@creotivity.io?subject=Anunciar%20en%20ColivingInBrussels" className="inline-flex items-center gap-2 bg-white text-orange-500 font-bold px-10 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">Recibir el media kit →</a>
+                    <a href="mailto:hello@colivinginbrussels.com?subject=Anunciar%20en%20ColivingInBrussels" className="inline-flex items-center gap-2 bg-white text-orange-500 font-bold px-10 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">Recibir el media kit →</a>
                 </div>
             </section>
         </>

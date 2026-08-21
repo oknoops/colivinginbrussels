@@ -35,7 +35,7 @@ export default function AdverterenNl() {
                     <h1 className="text-4xl md:text-6xl font-bold font-heading mb-6 leading-tight text-white">Bereik wie een woning zoekt in Brussel</h1>
                     <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl mx-auto">Wij zijn het startpunt van veel nieuwkomers. Zet jouw ruimtes voor huurders met een hoge intentie, precies op het moment dat ze kiezen waar ze gaan wonen.</p>
                     <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                        <a href="mailto:oscar@creotivity.io?subject=Adverteren%20op%20ColivingInBrussels" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg">Ontvang het media kit</a>
+                        <a href="mailto:hello@colivinginbrussels.com?subject=Adverteren%20op%20ColivingInBrussels" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg">Ontvang het media kit</a>
                         <Link href="/contact" className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg font-semibold bg-white/10 border border-white/25 text-white hover:bg-white/20 transition-all">Praat met ons</Link>
                     </div>
                 </div>
@@ -79,7 +79,7 @@ export default function AdverterenNl() {
                                     {pkg.items.map((h) => (<li key={h} className="flex items-start gap-2 text-sm text-text"><span className="text-orange-500 mt-0.5">✓</span><span>{h}</span></li>))}
                                 </ul>
                                 <p className="text-xs text-gray-500 mb-6">Ideaal voor: {pkg.best}</p>
-                                <a href={`mailto:oscar@creotivity.io?subject=${encodeURIComponent('Adverteren: ' + pkg.name)}`} className={`text-center font-bold px-6 py-3 rounded-lg transition-colors ${pkg.featured ? 'bg-orange-500 hover:bg-orange-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-text-dark'}`}>Vraag de prijzen</a>
+                                <a href={`mailto:hello@colivinginbrussels.com?subject=${encodeURIComponent('Adverteren: ' + pkg.name)}`} className={`text-center font-bold px-6 py-3 rounded-lg transition-colors ${pkg.featured ? 'bg-orange-500 hover:bg-orange-600 text-white' : 'bg-gray-100 hover:bg-gray-200 text-text-dark'}`}>Vraag de prijzen</a>
                             </div>
                         ))}
                     </div>
@@ -91,7 +91,7 @@ export default function AdverterenNl() {
                 <div className="container mx-auto px-4 text-center max-w-3xl">
                     <h2 className="text-3xl md:text-4xl font-bold font-heading mb-4 text-white drop-shadow">Laten we jouw kamers vullen</h2>
                     <p className="text-white/90 text-lg mb-8">Vertel ons over je ruimtes en wie je wil bereiken. We sturen het media kit en een voorstel binnen enkele dagen.</p>
-                    <a href="mailto:oscar@creotivity.io?subject=Adverteren%20op%20ColivingInBrussels" className="inline-flex items-center gap-2 bg-white text-orange-500 font-bold px-10 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">Ontvang het media kit →</a>
+                    <a href="mailto:hello@colivinginbrussels.com?subject=Adverteren%20op%20ColivingInBrussels" className="inline-flex items-center gap-2 bg-white text-orange-500 font-bold px-10 py-4 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-lg">Ontvang het media kit →</a>
                 </div>
             </section>
         </>

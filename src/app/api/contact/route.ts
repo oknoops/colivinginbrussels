@@ -32,11 +32,12 @@ export async function POST(request: Request) {
     }
 
     const resend = new Resend(apiKey);
-    const toEmail = process.env.CONTACT_TO_EMAIL || 'hello@colivinginbrussels.com';
 
     const { error } = await resend.emails.send({
-        from: 'ColivingInBrussels Contact Form <contact@colivinginbrussels.com>',
-        to: toEmail,
+        // `from` must be on the Resend-verified sending domain (form.colivinginbrussels.com).
+        // `to` is hardwired to the site inbox; replies go to the submitter via replyTo.
+        from: 'ColivingInBrussels Contact Form <contact@form.colivinginbrussels.com>',
+        to: 'hello@colivinginbrussels.com',
         replyTo: email.trim(),
         subject: `[Contact form] ${subject?.trim() || 'New message'} — ${name.trim()}`,
         text: `From: ${name.trim()} <${email.trim()}>\nSubject: ${subject?.trim() || '(none)'}\n\n${message.trim()}`,
