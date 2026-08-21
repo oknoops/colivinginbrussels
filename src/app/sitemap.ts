@@ -108,13 +108,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
         })),
     );
 
-    // Coliving-by-persona landing pages
-    const personaRoutes = ['students', 'interns', 'digital-nomads', 'young-professionals', 'couples', 'expats'].map((slug) => ({
-        url: `${baseUrl}/coliving-brussels-for/${slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
-        priority: 0.85,
-    }));
+    // Coliving-by-persona landing pages (EN + FR/NL/ES)
+    const personaSlugs = ['students', 'interns', 'digital-nomads', 'young-professionals', 'couples', 'expats'];
+    const personaRoutes = personaSlugs.flatMap((slug) =>
+        ['', '/fr', '/nl', '/es'].map((prefix) => ({
+            url: `${baseUrl}${prefix}/coliving-brussels-for/${slug}`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly' as const,
+            priority: prefix === '' ? 0.85 : 0.8,
+        })),
+    );
 
     return [...routes, ...blogRoutes, ...actorRoutes, ...neighborhoodRoutes, ...colivingHoodRoutes, ...personaRoutes];
 }

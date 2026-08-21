@@ -124,10 +124,15 @@ export async function generateMetadata({ params }: { params: Promise<{ persona: 
     const { persona } = await params;
     const p = PERSONAS.find((x) => x.slug === persona);
     if (!p) return {};
+    const base = 'https://colivinginbrussels.com';
+    const path = `/coliving-brussels-for/${p.slug}`;
     return {
         title: p.metaTitle,
         description: p.metaDesc,
-        alternates: { canonical: `https://colivinginbrussels.com/coliving-brussels-for/${p.slug}` },
+        alternates: {
+            canonical: `${base}${path}`,
+            languages: { en: `${base}${path}`, fr: `${base}/fr${path}`, nl: `${base}/nl${path}`, es: `${base}/es${path}` },
+        },
         openGraph: { title: p.h1, description: p.metaDesc },
     };
 }
