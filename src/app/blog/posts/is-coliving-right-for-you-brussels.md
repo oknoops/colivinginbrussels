@@ -53,6 +53,13 @@ For most people **moving to Brussels alone for a few months to a few years**, co
 
 The fastest way to find yours: our [matchmaker quiz](/matchmaker) turns your preferences into a shortlist in a minute, and our [full operator map](/blog/coliving-operators-brussels-full-landscape) shows every option side by side.
 
+## Coliving for your situation
+
+We've matched the operators to the people who suit them best — find your fit:
+
+- [Coliving for students](/coliving-brussels-for/students) · [for interns & trainees](/coliving-brussels-for/interns) · [for digital nomads](/coliving-brussels-for/digital-nomads)
+- [Coliving for young professionals](/coliving-brussels-for/young-professionals) · [for couples](/coliving-brussels-for/couples) · [for expats](/coliving-brussels-for/expats)
+
 ---
 
 **Ready to decide?** Take the [matchmaker quiz](/matchmaker), browse [all 12 operators](/actors), or compare [prices](/coliving-brussels-prices).

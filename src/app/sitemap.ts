@@ -108,5 +108,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         })),
     );
 
-    return [...routes, ...blogRoutes, ...actorRoutes, ...neighborhoodRoutes, ...colivingHoodRoutes];
+    // Coliving-by-persona landing pages
+    const personaRoutes = ['students', 'interns', 'digital-nomads', 'young-professionals', 'couples', 'expats'].map((slug) => ({
+        url: `${baseUrl}/coliving-brussels-for/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.85,
+    }));
+
+    return [...routes, ...blogRoutes, ...actorRoutes, ...neighborhoodRoutes, ...colivingHoodRoutes, ...personaRoutes];
 }
