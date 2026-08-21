@@ -53,6 +53,13 @@ Voor de meeste mensen die **alleen naar Brussel verhuizen, voor een paar maanden
 
 De snelste manier om de jouwe te vinden: onze [matchmaker-quiz](/matchmaker) zet je voorkeuren in een minuut om in een shortlist, en onze [gids over coliving in Brussel](/nl/coliving-brussel) toont elke optie naast elkaar.
 
+## Coliving volgens jouw situatie
+
+We matchten de operators met de mensen die het best bij hen passen — vind die van jou:
+
+- [Coliving voor studenten](/nl/coliving-brussels-for/students) · [voor stagiairs](/nl/coliving-brussels-for/interns) · [voor digitale nomaden](/nl/coliving-brussels-for/digital-nomads)
+- [Coliving voor jonge professionals](/nl/coliving-brussels-for/young-professionals) · [voor koppels](/nl/coliving-brussels-for/couples) · [voor expats](/nl/coliving-brussels-for/expats)
+
 ---
 
 **Klaar om te beslissen?** Doe de [matchmaker-quiz](/matchmaker), bekijk [alle 12 operators](/actors), of vergelijk [prijzen](/nl/prijzen-coliving-brussel).

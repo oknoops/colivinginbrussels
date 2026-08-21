@@ -53,6 +53,13 @@ Para la mayoría de la gente que **se muda sola a Bruselas de unos meses a unos 
 
 La forma más rápida de encontrar la tuya: nuestro [test de compatibilidad](/matchmaker) convierte tus preferencias en una lista corta en un minuto, y nuestra [guía del coliving en Bruselas](/es/coliving-bruselas) muestra todas las opciones lado a lado.
 
+## Coliving según tu situación
+
+Hemos emparejado los operadores con las personas que mejor encajan con ellos — encuentra el tuyo:
+
+- [Coliving para estudiantes](/es/coliving-brussels-for/students) · [para becarios](/es/coliving-brussels-for/interns) · [para nómadas digitales](/es/coliving-brussels-for/digital-nomads)
+- [Coliving para jóvenes profesionales](/es/coliving-brussels-for/young-professionals) · [para parejas](/es/coliving-brussels-for/couples) · [para expatriados](/es/coliving-brussels-for/expats)
+
 ---
 
 **¿Listo para decidir?** Haz el [test de compatibilidad](/matchmaker), explora [todos los operadores](/actors) o compara [precios](/es/precios-coliving-bruselas).

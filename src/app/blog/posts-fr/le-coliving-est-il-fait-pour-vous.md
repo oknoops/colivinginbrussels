@@ -53,6 +53,13 @@ Pour la plupart des gens qui **déménagent seuls à Bruxelles pour quelques moi
 
 Le moyen le plus rapide de trouver la vôtre : notre [quiz de matchmaking](/matchmaker) transforme vos préférences en une sélection en une minute, et notre [guide complet du coliving à Bruxelles](/fr/coliving-bruxelles) montre chaque option côte à côte.
 
+## Le coliving selon votre situation
+
+Nous avons associé les opérateurs aux personnes qui leur correspondent le mieux — trouvez le vôtre :
+
+- [Coliving pour étudiants](/fr/coliving-brussels-for/students) · [pour stagiaires](/fr/coliving-brussels-for/interns) · [pour nomades numériques](/fr/coliving-brussels-for/digital-nomads)
+- [Coliving pour jeunes actifs](/fr/coliving-brussels-for/young-professionals) · [pour couples](/fr/coliving-brussels-for/couples) · [pour expats](/fr/coliving-brussels-for/expats)
+
 ---
 
 **Prêt à décider ?** Faites le [quiz de matchmaking](/matchmaker), parcourez [les 12 opérateurs](/actors), ou comparez les [prix](/fr/prix-coliving-bruxelles).
