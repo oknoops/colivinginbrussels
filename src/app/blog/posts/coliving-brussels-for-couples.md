@@ -50,7 +50,7 @@ For couples **new to Brussels for under two years**, coliving can be the easier 
 
 ## The move that works for most couples
 
-Look at [Live Colonies](/actors/livecolonies) first (couple-friendly by design), then message 2–3 other operators about their specific couple rooms. Prioritise an **ensuite** room for comfort, confirm both of you can register, and weigh the all-in couple price against a private one-bedroom with bills. Often coliving wins for the first year — then you decide.
+Look at [Live Colonies](/actors/livecolonies) first (couple-friendly by design), then message 2–3 other operators about their specific couple rooms. Prioritise an **ensuite** room for comfort, confirm both of you can register, and weigh the all-in couple price against a private one-bedroom with bills. Often coliving wins for the first year — then you decide. See our [full shortlist of couple-friendly operators](/coliving-brussels-for/couples).
 
 ---
 

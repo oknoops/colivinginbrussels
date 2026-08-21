@@ -50,7 +50,7 @@ Para parejas **recién llegadas a Bruselas por menos de dos años**, el coliving
 
 ## La jugada que funciona para la mayoría de las parejas
 
-Mira primero [Live Colonies](/actors/livecolonies) (pensado para parejas por diseño), y luego escribe a 2-3 operadores más sobre sus habitaciones concretas para parejas. Prioriza una habitación **en suite** por comodidad, confirma que los dos podéis empadronaros y compara el precio de pareja todo incluido con un piso privado de un dormitorio más facturas. A menudo el coliving gana el primer año… y luego ya decidís.
+Mira primero [Live Colonies](/actors/livecolonies) (pensado para parejas por diseño), y luego escribe a 2-3 operadores más sobre sus habitaciones concretas para parejas. Prioriza una habitación **en suite** por comodidad, confirma que los dos podéis empadronaros y compara el precio de pareja todo incluido con un piso privado de un dormitorio más facturas. A menudo el coliving gana el primer año… y luego ya decidís. Mira nuestra [selección completa de operadores para parejas](/es/coliving-brussels-for/couples).
 
 ---
 

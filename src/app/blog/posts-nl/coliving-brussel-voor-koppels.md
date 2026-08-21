@@ -50,7 +50,7 @@ Voor koppels die **minder dan twee jaar nieuw zijn in Brussel** kan coliving de 
 
 ## De zet die voor de meeste koppels werkt
 
-Kijk eerst naar [Live Colonies](/actors/livecolonies) (koppelvriendelijk van bij het ontwerp), stuur dan 2-3 andere operators een bericht over hun specifieke koppelkamers. Geef voorrang aan een **ensuite**-kamer voor het comfort, bevestig dat jullie beiden kunnen domiciliëren, en weeg de all-in koppelprijs af tegen een private eenslaapkamer met facturen. Vaak wint coliving voor het eerste jaar — daarna beslis je.
+Kijk eerst naar [Live Colonies](/actors/livecolonies) (koppelvriendelijk van bij het ontwerp), stuur dan 2-3 andere operators een bericht over hun specifieke koppelkamers. Geef voorrang aan een **ensuite**-kamer voor het comfort, bevestig dat jullie beiden kunnen domiciliëren, en weeg de all-in koppelprijs af tegen een private eenslaapkamer met facturen. Vaak wint coliving voor het eerste jaar — daarna beslis je. Bekijk onze [volledige selectie koppelvriendelijke operators](/nl/coliving-brussels-for/couples).
 
 ---
 

@@ -50,7 +50,7 @@ Pour les couples **nouveaux à Bruxelles pour moins de deux ans**, le coliving p
 
 ## Le montage qui fonctionne pour la plupart des couples
 
-Regardez d'abord [Live Colonies](/actors/livecolonies) (pensé pour les couples), puis contactez 2 à 3 autres opérateurs au sujet de leurs chambres couple spécifiques. Privilégiez une chambre **en-suite** pour le confort, confirmez que vous pouvez vous domicilier tous les deux, et comparez le prix couple tout compris avec un appartement une chambre charges incluses. Souvent, le coliving l'emporte la première année — ensuite, vous déciderez.
+Regardez d'abord [Live Colonies](/actors/livecolonies) (pensé pour les couples), puis contactez 2 à 3 autres opérateurs au sujet de leurs chambres couple spécifiques. Privilégiez une chambre **en-suite** pour le confort, confirmez que vous pouvez vous domicilier tous les deux, et comparez le prix couple tout compris avec un appartement une chambre charges incluses. Souvent, le coliving l'emporte la première année — ensuite, vous déciderez. Voir notre [sélection complète d'opérateurs adaptés aux couples](/fr/coliving-brussels-for/couples).
 
 ---
 
