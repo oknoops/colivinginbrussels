@@ -17,7 +17,7 @@ Los contratos de alquiler belgas clásicos son largos por diseño:
 
 *   **El contrato de 9 años** es el contrato residencial estándar (normalmente puedes irte antes con preaviso y, en los primeros años, una penalización).
 *   **Los contratos de 3 años y de corta duración** existen y son más habituales en el mercado móvil/expatriado.
-*   **Los plazos de preaviso** aplican —normalmente unos meses—, así que lee bien las condiciones de salida.
+*   **Los plazos de preaviso** aplican, normalmente unos meses, así que lee bien las condiciones de salida.
 
 Para alguien que está aquí de 6 a 18 meses, firmar un contrato de 9 años y negociar una salida anticipada es un engorro. Esta es la primera razón por la que existe el coliving.
 
@@ -60,7 +60,7 @@ Aquí va el argumento honesto para recién llegados: el [coliving](/actors) se d
 | El empadronamiento depende del propietario | Contratos que facilitan el empadronamiento |
 | Buscar compañeros de piso por tu cuenta | Comunidad instantánea |
 
-Para una primera etapa en Bruselas —sobre todo solo, para menos de dos años— el coliving es sencillamente el camino de menor resistencia. Cambias un poco de espacio y control total por una comodidad enorme y una vida social ya hecha.
+Para una primera etapa en Bruselas, sobre todo solo, para menos de dos años, el coliving es sencillamente el camino de menor resistencia. Cambias un poco de espacio y control total por una comodidad enorme y una vida social ya hecha.
 
 ## ¿Qué deberías elegir *tú*?
 

@@ -1,6 +1,6 @@
 ---
 title: "Wonen bij de Europese wijk in Brussel: de complete gids"
-excerpt: "Alles wat EU-professionals moeten weten over wonen bij Schuman — wijken, transport, restaurants en coliving-opties."
+excerpt: "Alles wat EU-professionals moeten weten over wonen bij Schuman, wijken, transport, restaurants en coliving-opties."
 date: "2026-03-03"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=1200&q=80&auto=format&fit=crop"
@@ -11,13 +11,13 @@ tags: ["Europese wijk", "Wijken", "Expats"]
 
 Elk jaar verhuizen duizenden professionals naar Brussel om in en rond de Europese instellingen te werken. Of je nu een nieuwe fonctionnaire bij de Europese Commissie bent, een stagiair bij het Parlement, een beleidsmedewerker bij een ngo of een lobbyist aan de Wetstraat, één vraag domineert je eerste weken: waar moet ik wonen?
 
-Deze gids behandelt alles wat je moet weten over wonen bij de Europese wijk — de beste buurten, transportopties, restaurants en coliving-plekken binnen handbereik.
+Deze gids behandelt alles wat je moet weten over wonen bij de Europese wijk, de beste buurten, transportopties, restaurants en coliving-plekken binnen handbereik.
 
 ## De Europese wijk begrijpen
 
 De Europese wijk (ook wel het Europakwartier of Quartier Européen genoemd) is gecentreerd rond het Schumanplein, waar het Berlaymontgebouw van de Europese Commissie staat naast het Europagebouw van de Europese Raad. Het Europees Parlement ligt op een korte wandeling zuidwaarts, richting het Luxemburgplein.
 
-Het gebied zelf wordt gedomineerd door kantoorgebouwen, lobbykantoren en institutionele infrastructuur. Het is geen woonwijk in de traditionele zin — het loopt na 18 uur op weekdagen leeg en wordt een spookstad in het weekend. Wonen in de Europese wijk zelf is niet aan te raden.
+Het gebied zelf wordt gedomineerd door kantoorgebouwen, lobbykantoren en institutionele infrastructuur. Het is geen woonwijk in de traditionele zin, het loopt na 18 uur op weekdagen leeg en wordt een spookstad in het weekend. Wonen in de Europese wijk zelf is niet aan te raden.
 
 De slimme zet is om in de woonwijken rond de Europese wijk te wonen, wat je een korte pendel én een echt buurtleven bezorgt. Dit zijn je beste opties.
 
@@ -27,10 +27,10 @@ Etterbeek is de gemeente die het meest rechtstreeks verbonden is met de Europese
 
 ### Wat Etterbeek te bieden heeft
 
-- **Jourdanplein** — de sociale kern van de buurt, met restaurants, cafés en het legendarische frietkraam Maison Antoine
-- **Jubelpark** — het grootste park van Brussel, ideaal voor een joggingtocht tijdens de middag en om te ontspannen in het weekend. De aangrenzende musea (Autoworld, Koninklijk Legermuseum) zijn een bezoek waard.
-- **Merode** — een handig metro- en tramknooppunt met winkels en diensten
-- **Residentiële rust** — met bomen omzoomde straten met een mix van art-nouveauwoningen en moderne appartementen
+- **Jourdanplein**, de sociale kern van de buurt, met restaurants, cafés en het legendarische frietkraam Maison Antoine
+- **Jubelpark**, het grootste park van Brussel, ideaal voor een joggingtocht tijdens de middag en om te ontspannen in het weekend. De aangrenzende musea (Autoworld, Koninklijk Legermuseum) zijn een bezoek waard.
+- **Merode**, een handig metro- en tramknooppunt met winkels en diensten
+- **Residentiële rust**, met bomen omzoomde straten met een mix van art-nouveauwoningen en moderne appartementen
 
 ### Coliving in Etterbeek
 
@@ -50,14 +50,14 @@ De prijzen liggen doorgaans tussen 750 en 1.050 EUR/maand.
 
 ## Elsene (boven): dichtbij en bruisend
 
-Het bovenste deel van Elsene — vooral rond het Luxemburgplein, Maalbeek en het gebied tussen de Naamsepoort en het Jourdanplein — plaatst je dicht bij de Europese wijk terwijl je in een van de meest dynamische buurten van Brussel woont.
+Het bovenste deel van Elsene, vooral rond het Luxemburgplein, Maalbeek en het gebied tussen de Naamsepoort en het Jourdanplein, plaatst je dicht bij de Europese wijk terwijl je in een van de meest dynamische buurten van Brussel woont.
 
 ### Wat boven-Elsene te bieden heeft
 
-- **Luxemburgplein** — de onofficiële afterworkbar voor EU-personeel. Op donderdagavond zitten de terrassen vol. Je houdt ervan of je mijdt het.
-- **Matongé** — de Congolese wijk van Brussel rond de Naamsepoort, met ongelooflijke Afrikaanse restaurants en een bruisende straatcultuur
-- **Flagey** — op 15 minuten wandelen naar het zuiden ligt het culturele hart van Elsene, met bioscopen, markten en het iconische Café Belga
-- **De as van de Louizalaan** — chique winkels en restaurants
+- **Luxemburgplein**, de onofficiële afterworkbar voor EU-personeel. Op donderdagavond zitten de terrassen vol. Je houdt ervan of je mijdt het.
+- **Matongé**, de Congolese wijk van Brussel rond de Naamsepoort, met ongelooflijke Afrikaanse restaurants en een bruisende straatcultuur
+- **Flagey**, op 15 minuten wandelen naar het zuiden ligt het culturele hart van Elsene, met bioscopen, markten en het iconische Café Belga
+- **De as van de Louizalaan**, chique winkels en restaurants
 
 ### Coliving in boven-Elsene
 
@@ -78,14 +78,14 @@ De prijzen liggen tussen 700 en 1.200 EUR/maand.
 
 ## Brussel-centrum (oostkant)
 
-De oostelijke rand van het stadscentrum — rond Kunst-Wet en het Warandepark — overbrugt de kloof tussen stedelijk wonen en nabijheid van de EU.
+De oostelijke rand van het stadscentrum, rond Kunst-Wet en het Warandepark, overbrugt de kloof tussen stedelijk wonen en nabijheid van de EU.
 
 ### Wat dit gebied te bieden heeft
 
-- **Warandepark** — het centrale park van de stad, dat het Koninklijk Paleis rechtstreeks met de Europese wijk verbindt
-- **Koningsstraat en Koningsplein** — musea, culturele locaties, historische architectuur
-- **Zavel** — antiekwinkels, chocoladeboetieks en enkele van de beste restaurants van Brussel (15 minuten wandelen)
-- **Stedelijke energie** — cafés, restaurants en nachtleven op wandelafstand
+- **Warandepark**, het centrale park van de stad, dat het Koninklijk Paleis rechtstreeks met de Europese wijk verbindt
+- **Koningsstraat en Koningsplein**, musea, culturele locaties, historische architectuur
+- **Zavel**, antiekwinkels, chocoladeboetieks en enkele van de beste restaurants van Brussel (15 minuten wandelen)
+- **Stedelijke energie**, cafés, restaurants en nachtleven op wandelafstand
 
 ### Coliving in Brussel-centrum
 
@@ -107,10 +107,10 @@ Voor wie meer ruimte, groen en rust wil, biedt Sint-Lambrechts-Woluwe (ten ooste
 
 ### Wat Woluwe te bieden heeft
 
-- **Shopping center Woluwe** — een van de grootste winkelcentra van Brussel
-- **Park van Woluwe en het Woluwepark** — uitgestrekte groene ruimtes
-- **Gezinsvriendelijke sfeer** — populair bij EU-personeel met kinderen
-- **Grotere appartementen** — meer ruimte voor minder geld dan in de centrale gemeenten
+- **Shopping center Woluwe**, een van de grootste winkelcentra van Brussel
+- **Park van Woluwe en het Woluwepark**, uitgestrekte groene ruimtes
+- **Gezinsvriendelijke sfeer**, populair bij EU-personeel met kinderen
+- **Grotere appartementen**, meer ruimte voor minder geld dan in de centrale gemeenten
 
 ### Pendel naar Schuman
 
@@ -144,30 +144,30 @@ Een van de onderschatte troeven van de Europese wijk is de wandelbaarheid. Woon 
 
 ### Lunchadressen
 
-- **Maison Antoine** (Jourdanplein) — het bekendste frietkraam van Brussel. De wachtrij is het waard.
-- **Exki** — gezonde fastfoodketen met meerdere vestigingen in de Europese wijk
-- **Le Pain Quotidien** — Belgische bakkersketen, perfect voor een snelle lunch
-- **La Piazza** (Archimedesstraat) — degelijk Italiaans lunchmenu, populair bij het personeel van de Commissie
-- **Stirwen** (Faiderstraat) — uitstekende Frans-Belgische keuken, de wandeling van 10 minuten vanuit Schuman waard
+- **Maison Antoine** (Jourdanplein), het bekendste frietkraam van Brussel. De wachtrij is het waard.
+- **Exki**, gezonde fastfoodketen met meerdere vestigingen in de Europese wijk
+- **Le Pain Quotidien**, Belgische bakkersketen, perfect voor een snelle lunch
+- **La Piazza** (Archimedesstraat), degelijk Italiaans lunchmenu, populair bij het personeel van de Commissie
+- **Stirwen** (Faiderstraat), uitstekende Frans-Belgische keuken, de wandeling van 10 minuten vanuit Schuman waard
 
 ### Afterwork
 
-- **Terrassen van het Luxemburgplein** — de donderdagtraditie. Bier, collega's, netwerken.
-- **Café Belga** (Flagey) — meer ontspannen dan het Luxemburgplein, met een hipper publiek
-- **Fat Boy's** (Jourdanplein) — sportbar met goede burgers en speciaalbier
-- **The Wild Geese** (Livingstonelaan) — Iers pub dicht bij Schuman, een geliefd waterhole in de Europese wijk
+- **Terrassen van het Luxemburgplein**, de donderdagtraditie. Bier, collega's, netwerken.
+- **Café Belga** (Flagey), meer ontspannen dan het Luxemburgplein, met een hipper publiek
+- **Fat Boy's** (Jourdanplein), sportbar met goede burgers en speciaalbier
+- **The Wild Geese** (Livingstonelaan), Iers pub dicht bij Schuman, een geliefd waterhole in de Europese wijk
 
 ### Weekenddiners
 
-- **Buurt van Flagey** — tientallen restaurants langs de Lesbroussartstraat en rond het plein
-- **Matongé** — Congolese, Kameroense en Ethiopische restaurants voor avontuurlijke eters
-- **Zavel** — chique dineren voor speciale gelegenheden
+- **Buurt van Flagey**, tientallen restaurants langs de Lesbroussartstraat en rond het plein
+- **Matongé**, Congolese, Kameroense en Ethiopische restaurants voor avontuurlijke eters
+- **Zavel**, chique dineren voor speciale gelegenheden
 
 ## Praktische tips specifiek voor de EU
 
 ### Het budget van de stagiair
 
-Ben je een Blue Book- of Parlementsstagiair, dan maakt je nettoloon (ruwweg 1.300 tot 1.400 EUR/maand) budgetbeheer cruciaal. Coliving aan 650 tot 750 EUR/maand (kijk naar Colive of LiveColonies) houdt je woonkosten beheersbaar. Eet in de kantines van de Commissie of het Parlement — de maaltijden zijn gesubsidieerd en verrassend goed.
+Ben je een Blue Book- of Parlementsstagiair, dan maakt je nettoloon (ruwweg 1.300 tot 1.400 EUR/maand) budgetbeheer cruciaal. Coliving aan 650 tot 750 EUR/maand (kijk naar Colive of LiveColonies) houdt je woonkosten beheersbaar. Eet in de kantines van de Commissie of het Parlement, de maaltijden zijn gesubsidieerd en verrassend goed.
 
 ### Meubelvergoeding
 
@@ -179,10 +179,10 @@ Donderdag is de onofficiële uitgaansavond van de EU-bubbel. Het Luxemburgplein 
 
 ### Ontsnap aan de bubbel
 
-De Europese wijk kan een bubbel worden — je socialiseert met collega's, woont dicht bij de instellingen en verkent nooit de rest van Brussel. Verzet je daartegen. De beste buurten, restaurants en culturele ervaringen van Brussel liggen buiten de Europese wijk. Coliving in Elsene of Sint-Gillis trekt je vanzelf de bredere stad in.
+De Europese wijk kan een bubbel worden, je socialiseert met collega's, woont dicht bij de instellingen en verkent nooit de rest van Brussel. Verzet je daartegen. De beste buurten, restaurants en culturele ervaringen van Brussel liggen buiten de Europese wijk. Coliving in Elsene of Sint-Gillis trekt je vanzelf de bredere stad in.
 
 ## Onze aanbeveling
 
-Voor de meeste EU-professionals die in Brussel aankomen, is Etterbeek de gulden middenweg — korte pendel, echt buurtgevoel, redelijke prijzen. Geef je voorrang aan nachtleven en sociale energie, dan is boven-Elsene jouw keuze. En zit je krap bij kas (dag stagiairs), kijk dan naar coliving in Schaarbeek of Sint-Gillis en neem een pendel van 20 tot 25 minuten voor lief.
+Voor de meeste EU-professionals die in Brussel aankomen, is Etterbeek de gulden middenweg, korte pendel, echt buurtgevoel, redelijke prijzen. Geef je voorrang aan nachtleven en sociale energie, dan is boven-Elsene jouw keuze. En zit je krap bij kas (dag stagiairs), kijk dan naar coliving in Schaarbeek of Sint-Gillis en neem een pendel van 20 tot 25 minuten voor lief.
 
 Wat je ook kiest, weersta de verleiding om bovenop de instellingen te wonen. De Europese wijk is er om te werken, niet om te wonen. Je Brusselse ervaring wordt rijker wanneer je wat afstand legt tussen je kantoor en je thuis.

@@ -32,7 +32,7 @@ export default async function NeighborhoodPage({ params }: { params: Promise<{ s
 
     return (
         <div className="min-h-screen bg-amber-50">
-            {/* Neighborhood Hero — real photo + vibrant gradient overlay */}
+            {/* Neighborhood Hero, real photo + vibrant gradient overlay */}
             <section className="relative h-[65vh] flex items-center justify-center overflow-hidden">
                 <Image
                     src={neighborhood.image}

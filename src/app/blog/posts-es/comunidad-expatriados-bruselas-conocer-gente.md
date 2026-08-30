@@ -1,6 +1,6 @@
 ---
 title: "Cómo encontrar tu comunidad de expatriados y conocer gente en Bruselas"
-excerpt: "Una guía práctica sobre la comunidad de expatriados en Bruselas — los mejores grupos, encuentros, intercambios de idiomas y apps para hacer amigos rápido, además de cómo el coliving te da comunidad al instante."
+excerpt: "Una guía práctica sobre la comunidad de expatriados en Bruselas, los mejores grupos, encuentros, intercambios de idiomas y apps para hacer amigos rápido, además de cómo el coliving te da comunidad al instante."
 date: "2026-08-19"
 author: "Guía Local de Bruselas"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
@@ -26,7 +26,7 @@ El truco es decir que sí pronto y a menudo durante tus primeros tres meses.
 Algunas formas fiables de conectar con el ambiente:
 
 - Los **grupos internacionales y de expatriados** organizan afterworks, cenas y salidas con regularidad. Busca grupos de expatriados de Bruselas en Meetup y Facebook.
-- Los **clubes de hobbies y deporte** —grupos de running, rocódromos, ligas de fútbol, noches de juegos de mesa y coros— son puntos de entrada sencillos donde la amistad surge de forma natural.
+- Los **clubes de hobbies y deporte**, grupos de running, rocódromos, ligas de fútbol, noches de juegos de mesa y coros, son puntos de entrada sencillos donde la amistad surge de forma natural.
 - Las **redes profesionales** en torno a las instituciones de la UE, la tecnología y las startups organizan encuentros frecuentes.
 - El **voluntariado** te conecta con la gente local y con una causa al mismo tiempo.
 
@@ -34,14 +34,14 @@ Consulta nuestro [calendario de What's On](/whats-on) para ver eventos y activid
 
 ## Intercambios de idiomas
 
-Los intercambios de idiomas son una de las mejores formas —y de las más económicas— de conocer gente: gratuitos, recurrentes y acogedores. Bruselas tiene veladas periódicas de "tándem" en francés, neerlandés e inglés en cafés y centros culturales. Aunque tu objetivo sea más la amistad que la fluidez, son relajados y sociales. Aprender un poco de francés también te ayuda a conectar con la cara local, no expatriada, de la ciudad.
+Los intercambios de idiomas son una de las mejores formas, y de las más económicas, de conocer gente: gratuitos, recurrentes y acogedores. Bruselas tiene veladas periódicas de "tándem" en francés, neerlandés e inglés en cafés y centros culturales. Aunque tu objetivo sea más la amistad que la fluidez, son relajados y sociales. Aprender un poco de francés también te ayuda a conectar con la cara local, no expatriada, de la ciudad.
 
 ## Apps que de verdad ayudan
 
-- **Meetup** — la columna vertebral de los eventos por intereses.
-- **Grupos de Facebook** — comunidades del tipo "Expats in Brussels" publican a diario eventos, vivienda y preguntas.
-- **Bumble BFF y similares** — para emparejar amistades uno a uno.
-- **Plataformas de eventos** — muchos espacios culturales publican sus propios programas; sigue los que tengas cerca.
+- **Meetup**, la columna vertebral de los eventos por intereses.
+- **Grupos de Facebook**, comunidades del tipo "Expats in Brussels" publican a diario eventos, vivienda y preguntas.
+- **Bumble BFF y similares**, para emparejar amistades uno a uno.
+- **Plataformas de eventos**, muchos espacios culturales publican sus propios programas; sigue los que tengas cerca.
 
 Usa las apps para encontrar el evento, pero haz la conexión real en persona: intercambia números y propón un siguiente plan.
 
@@ -58,7 +58,7 @@ Es una enorme ventaja de partida comparada con llegar a un estudio vacío y cons
 ## Preguntas frecuentes
 
 **¿Cuánto se tarda en hacer amigos en Bruselas?**
-Si eres proactivo —apuntándote a eventos y diciendo que sí a las invitaciones—, la mayoría construye un buen círculo en sus primeros dos o tres meses. El coliving lo acelera drásticamente.
+Si eres proactivo, apuntándote a eventos y diciendo que sí a las invitaciones, la mayoría construye un buen círculo en sus primeros dos o tres meses. El coliving lo acelera drásticamente.
 
 **¿Necesito hablar francés para socializar?**
 No. El ambiente expatriado funciona en gran medida en inglés. Dicho esto, un poco de francés abre puertas a las amistades locales y a la vida cotidiana.

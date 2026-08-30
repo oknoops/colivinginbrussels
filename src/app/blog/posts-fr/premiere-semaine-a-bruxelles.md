@@ -1,6 +1,6 @@
 ---
 title: "Votre première semaine à Bruxelles : le guide de survie du nouvel arrivant"
-excerpt: "Vous venez d'atterrir à Bruxelles ? Voici exactement quoi faire pendant vos sept premiers jours — de l'inscription à la commune à la carte de transport, la carte SIM et vos premières frites."
+excerpt: "Vous venez d'atterrir à Bruxelles ? Voici exactement quoi faire pendant vos sept premiers jours, de l'inscription à la commune à la carte de transport, la carte SIM et vos premières frites."
 date: "2026-07-31"
 author: "Guide Local Bruxelles"
 coverImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop"
@@ -9,11 +9,11 @@ tags: ["S'installer à Bruxelles", "Nouveaux arrivants", "Expats", "Checklist"]
 
 # Votre première semaine à Bruxelles : le guide de survie du nouvel arrivant
 
-La première semaine dans une nouvelle ville, c'est un tourbillon de démarches administratives, de décalage horaire et de recherche du magasin le plus proche pour acheter du lait. Bruxelles est plus accueillante que la plupart des villes — surtout si quelqu'un vous donne le bon ordre des choses. Voici votre guide de survie jour par jour pour la première semaine.
+La première semaine dans une nouvelle ville, c'est un tourbillon de démarches administratives, de décalage horaire et de recherche du magasin le plus proche pour acheter du lait. Bruxelles est plus accueillante que la plupart des villes, surtout si quelqu'un vous donne le bon ordre des choses. Voici votre guide de survie jour par jour pour la première semaine.
 
 ## Avant tout : réglez votre point de chute
 
-Tout ce qui suit est plus simple si vous avez une adresse stable dès le premier jour. C'est le plus grand argument en faveur d'un [espace de coliving](/actors) plutôt qu'un Airbnb nu : vous atterrissez dans une chambre meublée, une cuisine fonctionnelle, le wifi et — surtout — une adresse où vous pouvez vous domicilier. Si vous n'avez pas encore réglé la question du logement, notre [quiz de matchmaking](/matchmaker) réduit 12 opérateurs à votre sélection en une minute.
+Tout ce qui suit est plus simple si vous avez une adresse stable dès le premier jour. C'est le plus grand argument en faveur d'un [espace de coliving](/actors) plutôt qu'un Airbnb nu : vous atterrissez dans une chambre meublée, une cuisine fonctionnelle, le wifi et, surtout, une adresse où vous pouvez vous domicilier. Si vous n'avez pas encore réglé la question du logement, notre [quiz de matchmaking](/matchmaker) réduit 12 opérateurs à votre sélection en une minute.
 
 ## Jour 1–2 : Installez-vous et connectez-vous
 
@@ -23,7 +23,7 @@ Tout ce qui suit est plus simple si vous avez une adresse stable dès le premier
 
 ## Jour 2–3 : La commune (domiciliation)
 
-Le gros morceau. La loi vous oblige à inscrire votre adresse à votre **commune** — Ixelles, Saint-Gilles, Schaerbeek, etc. — dans les **8 jours ouvrables** suivant votre arrivée.
+Le gros morceau. La loi vous oblige à inscrire votre adresse à votre **commune**, Ixelles, Saint-Gilles, Schaerbeek, etc., dans les **8 jours ouvrables** suivant votre arrivée.
 
 *   Apportez votre **passeport/carte d'identité**, votre **contrat de bail** (votre opérateur de coliving vous le fournit) et des photos d'identité par sécurité.
 *   Vous vous inscrivez à la commune du quartier où vous habitez. Un agent de police peut ensuite passer vérifier que vous y vivez réellement.
@@ -34,7 +34,7 @@ Notre [guide complet de la domiciliation](/fr/blog/louer-a-bruxelles-guide) couv
 ## Jour 3–4 : Argent et santé
 
 *   **Compte bancaire.** Vous pouvez commencer avec un compte européen ou une banque en ligne (Revolut, N26, Wise) dès le premier jour, mais pour un compte local à long terme il vous faudra généralement avoir entamé votre domiciliation. Consultez notre [guide sur le coliving à Bruxelles](/fr/coliving-bruxelles).
-*   **Mutuelle.** En Belgique, vous vous affiliez à une *mutuelle* pour les soins de santé. Choisissez-en une (il y en a plusieurs) et lancez les démarches — c'est nécessaire pour le remboursement des consultations médicales.
+*   **Mutuelle.** En Belgique, vous vous affiliez à une *mutuelle* pour les soins de santé. Choisissez-en une (il y en a plusieurs) et lancez les démarches, c'est nécessaire pour le remboursement des consultations médicales.
 
 ## Jour 4–5 : Prenez vos repères (et amusez-vous un peu)
 
@@ -48,9 +48,9 @@ L'administratif est épuisant ; équilibrez. Passez un après-midi à réellemen
 
 Les nouveaux arrivants qui s'épanouissent sont ceux qui ne s'isolent pas dès la première semaine :
 
-*   Dites **oui à vos colocs.** Si vous êtes dans une maison de coliving, il y a presque toujours un dîner de groupe ou un apéro qui se prépare — allez-y, même décalé.
+*   Dites **oui à vos colocs.** Si vous êtes dans une maison de coliving, il y a presque toujours un dîner de groupe ou un apéro qui se prépare, allez-y, même décalé.
 *   Suivez les **événements de votre commune** et quelques groupes de nouveaux arrivants/expats.
-*   Apprenez cinq mots de français — en commençant par « Bonjour » avant chaque demande. Notre [guide du coliving](/fr/coliving-bruxelles) vous aidera à vous intégrer plus vite.
+*   Apprenez cinq mots de français, en commençant par « Bonjour » avant chaque demande. Notre [guide du coliving](/fr/coliving-bruxelles) vous aidera à vous intégrer plus vite.
 
 ## Votre checklist de la première semaine
 
@@ -63,7 +63,7 @@ Les nouveaux arrivants qui s'épanouissent sont ceux qui ne s'isolent pas dès l
 - [ ] Premières frites mangées
 - [ ] Dit oui à une activité sociale
 
-Faites ces huit choses et vous aurez accompli en une semaine plus que beaucoup en un mois. Bienvenue à Bruxelles — vous allez vous plaire ici.
+Faites ces huit choses et vous aurez accompli en une semaine plus que beaucoup en un mois. Bienvenue à Bruxelles, vous allez vous plaire ici.
 
 ---
 

@@ -39,14 +39,14 @@ export default function ContactForm() {
             <div className="text-center py-10">
                 <p className="text-2xl mb-2">✓</p>
                 <h2 className="text-xl font-bold font-heading text-text-dark mb-2">Message sent</h2>
-                <p className="text-text">Thanks for reaching out — we typically respond within 48 hours.</p>
+                <p className="text-text">Thanks for reaching out, we typically respond within 48 hours.</p>
             </div>
         );
     }
 
     return (
         <form className="space-y-6" onSubmit={handleSubmit}>
-            {/* Honeypot — hidden from real visitors, bots tend to fill every field */}
+            {/* Honeypot, hidden from real visitors, bots tend to fill every field */}
             <input
                 type="text"
                 name="company"

@@ -1,6 +1,6 @@
 ---
 title: "Student Coliving in Brussels: Affordable Options Near Universities"
-excerpt: "A guide to student-friendly coliving options in Brussels — near ULB, VUB, and KU Leuven Brussels campus with budget-friendly pricing."
+excerpt: "A guide to student-friendly coliving options in Brussels, near ULB, VUB, and KU Leuven Brussels campus with budget-friendly pricing."
 date: "2026-03-01"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Students", "Coliving", "Budget"]
 
 # Student Coliving in Brussels: Affordable Options Near Universities
 
-Brussels is home to some of Belgium's most prestigious universities, attracting thousands of international students each year. Finding accommodation as a student can be stressful — university housing is limited, and the private rental market can be daunting for newcomers. Coliving offers a compelling alternative: furnished rooms, flexible contracts, built-in community, and no bureaucratic headaches.
+Brussels is home to some of Belgium's most prestigious universities, attracting thousands of international students each year. Finding accommodation as a student can be stressful, university housing is limited, and the private rental market can be daunting for newcomers. Coliving offers a compelling alternative: furnished rooms, flexible contracts, built-in community, and no bureaucratic headaches.
 
 Here's how to find the best student-friendly coliving options in Brussels.
 
@@ -35,7 +35,7 @@ Saint-Louis University (near the center), LUCA School of Arts, and various Haute
 
 ### No Furniture Shopping
 
-As a student arriving from abroad (or even from another Belgian city), buying furniture for a rental is expensive and impractical. Coliving rooms come fully equipped — bed, desk, wardrobe, and access to a fully stocked shared kitchen.
+As a student arriving from abroad (or even from another Belgian city), buying furniture for a rental is expensive and impractical. Coliving rooms come fully equipped, bed, desk, wardrobe, and access to a fully stocked shared kitchen.
 
 ### All-Inclusive Pricing
 
@@ -53,7 +53,7 @@ Moving to a new city for university is exciting but isolating. Coliving puts you
 
 ### Colive (From 650 EUR/month)
 
-Colive is the most affordable coliving option in Brussels and has properties near ULB in Ixelles and in Schaerbeek. Their no-frills approach keeps prices low while still delivering the core coliving experience. Some rooms at their Schaerbeek locations start at 650 EUR — competitive with private flatshare rooms once you factor in utilities.
+Colive is the most affordable coliving option in Brussels and has properties near ULB in Ixelles and in Schaerbeek. Their no-frills approach keeps prices low while still delivering the core coliving experience. Some rooms at their Schaerbeek locations start at 650 EUR, competitive with private flatshare rooms once you factor in utilities.
 
 **Student-friendly features:** Low prices, flexible contracts, properties near university areas.
 
@@ -117,11 +117,11 @@ Belgium offers rental assistance (allocation de loyer) for low-income residents,
 
 ### Look for Student Discounts
 
-Some coliving operators offer student rates or semester-length contract discounts. Always ask — even if it's not advertised, operators may be willing to negotiate for a guaranteed multi-month booking.
+Some coliving operators offer student rates or semester-length contract discounts. Always ask, even if it's not advertised, operators may be willing to negotiate for a guaranteed multi-month booking.
 
 ### Consider Shared Rooms
 
-A few operators offer shared rooms (two people sharing a larger room) at significantly reduced rates — sometimes 30-40% less than a private room. If you're comfortable sharing, this can bring coliving costs down to 450-550 EUR/month.
+A few operators offer shared rooms (two people sharing a larger room) at significantly reduced rates, sometimes 30-40% less than a private room. If you're comfortable sharing, this can bring coliving costs down to 450-550 EUR/month.
 
 ### Split Costs Strategically
 
@@ -129,7 +129,7 @@ Some students pair coliving with part-time work. Belgium allows international st
 
 ## Coliving vs. University Housing
 
-University housing (kots) at ULB or VUB is cheaper — typically 350-500 EUR/month. But availability is extremely limited, and the application process is competitive. Wait lists are long, and rooms are basic.
+University housing (kots) at ULB or VUB is cheaper, typically 350-500 EUR/month. But availability is extremely limited, and the application process is competitive. Wait lists are long, and rooms are basic.
 
 Coliving costs more but offers:
 

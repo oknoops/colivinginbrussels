@@ -1,6 +1,6 @@
 ---
 title: "Living Near the EU Quarter in Brussels: A Complete Guide"
-excerpt: "Everything EU professionals need to know about living near Schuman — neighborhoods, transport, restaurants, and coliving options."
+excerpt: "Everything EU professionals need to know about living near Schuman, neighborhoods, transport, restaurants, and coliving options."
 date: "2026-03-03"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=1200&q=80&auto=format&fit=crop"
@@ -11,13 +11,13 @@ tags: ["EU Quarter", "Neighborhoods", "Expats"]
 
 Every year, thousands of professionals move to Brussels to work in and around the European institutions. Whether you're a new fonctionnaire at the European Commission, a stagiaire at the Parliament, an NGO policy officer, or a lobbyist on Rue de la Loi, one question dominates your first weeks: where should I live?
 
-This guide covers everything you need to know about living near the EU Quarter — the best neighborhoods, transport options, restaurants, and coliving spaces within easy reach.
+This guide covers everything you need to know about living near the EU Quarter, the best neighborhoods, transport options, restaurants, and coliving spaces within easy reach.
 
 ## Understanding the EU Quarter
 
 The EU Quarter (also called the European Quarter or Quartier Europeen) is centered around Schuman roundabout, where the European Commission's Berlaymont building stands alongside the European Council's Europa building. The European Parliament is a short walk south toward Luxembourg square.
 
-The area itself is dominated by office buildings, lobbying firms, and institutional infrastructure. It's not a residential neighborhood in the traditional sense — it empties after 18:00 on weekdays and becomes a ghost town on weekends. Living in the EU Quarter itself is not recommended.
+The area itself is dominated by office buildings, lobbying firms, and institutional infrastructure. It's not a residential neighborhood in the traditional sense, it empties after 18:00 on weekdays and becomes a ghost town on weekends. Living in the EU Quarter itself is not recommended.
 
 Instead, the smart move is to live in the residential neighborhoods that border the EU Quarter, giving you a short commute and a genuine neighborhood life. Here are your best options.
 
@@ -27,10 +27,10 @@ Etterbeek is the commune most directly connected to the EU Quarter. The area bet
 
 ### What Etterbeek Offers
 
-- **Place Jourdan** — the neighborhood's social hub, with restaurants, cafes, and the legendary Maison Antoine frites stand
-- **Parc du Cinquantenaire** — Brussels' grandest park, perfect for lunchtime jogs and weekend relaxation. The adjacent museums (Autoworld, Royal Museum of the Armed Forces) are worth visiting.
-- **Merode** — a convenient metro/tram hub with shops and services
-- **Residential calm** — tree-lined streets with a mix of Art Nouveau townhouses and modern apartments
+- **Place Jourdan**, the neighborhood's social hub, with restaurants, cafes, and the legendary Maison Antoine frites stand
+- **Parc du Cinquantenaire**, Brussels' grandest park, perfect for lunchtime jogs and weekend relaxation. The adjacent museums (Autoworld, Royal Museum of the Armed Forces) are worth visiting.
+- **Merode**, a convenient metro/tram hub with shops and services
+- **Residential calm**, tree-lined streets with a mix of Art Nouveau townhouses and modern apartments
 
 ### Coliving in Etterbeek
 
@@ -50,14 +50,14 @@ Prices typically range from 750-1,050 EUR/month.
 
 ## Ixelles (Upper): Close and Vibrant
 
-The upper part of Ixelles — particularly around Place du Luxembourg, Maelbeek, and the area between Porte de Namur and Place Jourdan — puts you near the EU Quarter while living in one of Brussels' most dynamic neighborhoods.
+The upper part of Ixelles, particularly around Place du Luxembourg, Maelbeek, and the area between Porte de Namur and Place Jourdan, puts you near the EU Quarter while living in one of Brussels' most dynamic neighborhoods.
 
 ### What Upper Ixelles Offers
 
-- **Place du Luxembourg** — the unofficial after-work bar for EU staff. Terraces packed on Thursday evenings. Love it or avoid it.
-- **Matongé** — Brussels' Congolese quarter around Porte de Namur, offering incredible African restaurants and a vibrant street culture
-- **Flagey** — a 15-minute walk south, this is Ixelles' cultural heart with cinemas, markets, and the iconic Cafe Belga
-- **Avenue Louise corridor** — upscale shopping and dining
+- **Place du Luxembourg**, the unofficial after-work bar for EU staff. Terraces packed on Thursday evenings. Love it or avoid it.
+- **Matongé**, Brussels' Congolese quarter around Porte de Namur, offering incredible African restaurants and a vibrant street culture
+- **Flagey**, a 15-minute walk south, this is Ixelles' cultural heart with cinemas, markets, and the iconic Cafe Belga
+- **Avenue Louise corridor**, upscale shopping and dining
 
 ### Coliving in Upper Ixelles
 
@@ -78,14 +78,14 @@ Prices range from 700-1,200 EUR/month.
 
 ## Brussels Centre (East Side)
 
-The eastern edge of the city center — around Arts-Loi and Parc de Bruxelles — bridges the gap between urban living and EU proximity.
+The eastern edge of the city center, around Arts-Loi and Parc de Bruxelles, bridges the gap between urban living and EU proximity.
 
 ### What This Area Offers
 
-- **Parc de Bruxelles** — the city's central park, directly connecting the Royal Palace to the European Quarter
-- **Rue Royale and Place Royale** — museums, cultural venues, historic architecture
-- **Sablon** — antique shops, chocolate boutiques, and some of Brussels' best restaurants (15-minute walk)
-- **Urban energy** — cafes, restaurants, and nightlife within walking distance
+- **Parc de Bruxelles**, the city's central park, directly connecting the Royal Palace to the European Quarter
+- **Rue Royale and Place Royale**, museums, cultural venues, historic architecture
+- **Sablon**, antique shops, chocolate boutiques, and some of Brussels' best restaurants (15-minute walk)
+- **Urban energy**, cafes, restaurants, and nightlife within walking distance
 
 ### Coliving in Brussels Centre
 
@@ -107,10 +107,10 @@ For those who want more space, greenery, and calm, Woluwe-Saint-Lambert (east of
 
 ### What Woluwe Offers
 
-- **Woluwe shopping center** — one of Brussels' largest malls
-- **Parc de Woluwe and Parc de la Woluwe** — extensive green spaces
-- **Family-friendly atmosphere** — popular among EU staff with children
-- **Larger apartments** — more space for less money than central communes
+- **Woluwe shopping center**, one of Brussels' largest malls
+- **Parc de Woluwe and Parc de la Woluwe**, extensive green spaces
+- **Family-friendly atmosphere**, popular among EU staff with children
+- **Larger apartments**, more space for less money than central communes
 
 ### Commute to Schuman
 
@@ -144,30 +144,30 @@ One of the EU Quarter's underrated advantages is walkability. If you live in Ett
 
 ### Lunch Spots
 
-- **Maison Antoine** (Place Jourdan) — Brussels' most famous frites stand. The queue is worth it.
-- **Exki** — healthy fast food chain with multiple EU Quarter locations
-- **Pain Quotidien** — Belgian bakery chain, perfect for a quick lunch
-- **La Piazza** (Rue Archimede) — solid Italian lunch menu, popular with Commission staff
-- **Stirwen** (Rue Faider) — excellent French-Belgian cuisine, worth the 10-minute walk from Schuman
+- **Maison Antoine** (Place Jourdan), Brussels' most famous frites stand. The queue is worth it.
+- **Exki**, healthy fast food chain with multiple EU Quarter locations
+- **Pain Quotidien**, Belgian bakery chain, perfect for a quick lunch
+- **La Piazza** (Rue Archimede), solid Italian lunch menu, popular with Commission staff
+- **Stirwen** (Rue Faider), excellent French-Belgian cuisine, worth the 10-minute walk from Schuman
 
 ### After-Work
 
-- **Place du Luxembourg terraces** — the Thursday tradition. Beer, colleagues, networking.
-- **Cafe Belga** (Flagey) — more relaxed than Place Lux, with a hipper crowd
-- **Fat Boy's** (Place Jourdan) — sports bar with good burgers and craft beer
-- **The Wild Geese** (Avenue Livingstone) — Irish pub near Schuman, popular EU Quarter watering hole
+- **Place du Luxembourg terraces**, the Thursday tradition. Beer, colleagues, networking.
+- **Cafe Belga** (Flagey), more relaxed than Place Lux, with a hipper crowd
+- **Fat Boy's** (Place Jourdan), sports bar with good burgers and craft beer
+- **The Wild Geese** (Avenue Livingstone), Irish pub near Schuman, popular EU Quarter watering hole
 
 ### Weekend Dining
 
-- **Flagey area** — dozens of restaurants along Rue Lesbroussart and around the square
-- **Matongé** — Congolese, Cameroonian, and Ethiopian restaurants for adventurous eaters
-- **Sablon** — upscale dining for special occasions
+- **Flagey area**, dozens of restaurants along Rue Lesbroussart and around the square
+- **Matongé**, Congolese, Cameroonian, and Ethiopian restaurants for adventurous eaters
+- **Sablon**, upscale dining for special occasions
 
 ## EU-Specific Practical Tips
 
 ### The Stagiaire Budget
 
-If you're a Blue Book or Parliament stagiaire, your net salary (roughly 1,300-1,400 EUR/month) makes budget management critical. Coliving at 650-750 EUR/month (look at Colive or LiveColonies) keeps your housing costs manageable. Eat at the Commission or Parliament canteens — meals are subsidized and surprisingly good.
+If you're a Blue Book or Parliament stagiaire, your net salary (roughly 1,300-1,400 EUR/month) makes budget management critical. Coliving at 650-750 EUR/month (look at Colive or LiveColonies) keeps your housing costs manageable. Eat at the Commission or Parliament canteens, meals are subsidized and surprisingly good.
 
 ### Furniture Allowance
 
@@ -179,10 +179,10 @@ Thursday is the unofficial social night for the EU bubble. Place du Luxembourg f
 
 ### Escape the Bubble
 
-The EU Quarter can become a bubble — you socialize with colleagues, live near the institutions, and never explore the rest of Brussels. Fight this. Brussels' best neighborhoods, restaurants, and cultural experiences are outside the EU Quarter. Coliving in Ixelles or Saint-Gilles naturally pulls you into the broader city.
+The EU Quarter can become a bubble, you socialize with colleagues, live near the institutions, and never explore the rest of Brussels. Fight this. Brussels' best neighborhoods, restaurants, and cultural experiences are outside the EU Quarter. Coliving in Ixelles or Saint-Gilles naturally pulls you into the broader city.
 
 ## Our Recommendation
 
-For most EU professionals arriving in Brussels, Etterbeek is the sweet spot — short commute, genuine neighborhood feel, reasonable prices. If you prioritize nightlife and social energy, upper Ixelles is your pick. And if budget is tight (hello, stagiaires), look at coliving in Schaerbeek or Saint-Gilles and accept a 20-25 minute commute.
+For most EU professionals arriving in Brussels, Etterbeek is the sweet spot, short commute, genuine neighborhood feel, reasonable prices. If you prioritize nightlife and social energy, upper Ixelles is your pick. And if budget is tight (hello, stagiaires), look at coliving in Schaerbeek or Saint-Gilles and accept a 20-25 minute commute.
 
 Whichever you choose, resist the temptation to live on top of the institutions. The EU Quarter is for working, not living. Your Brussels experience will be richer for putting some distance between your office and your home.

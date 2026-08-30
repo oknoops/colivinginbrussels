@@ -1,6 +1,6 @@
 ---
 title: "Mudarse a Bruselas siendo estadounidense: guía para ciudadanos de EE. UU."
-excerpt: "Una guía práctica para ciudadanos estadounidenses que viven en Bruselas — nociones básicas de residencia y visado, diferencias culturales, cómo encontrar vivienda sin avalista belga, banca, sanidad y una nota sobre impuestos."
+excerpt: "Una guía práctica para ciudadanos estadounidenses que viven en Bruselas, nociones básicas de residencia y visado, diferencias culturales, cómo encontrar vivienda sin avalista belga, banca, sanidad y una nota sobre impuestos."
 date: "2026-08-20"
 author: "Guía Local de Bruselas"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Estadounidenses", "Expatriados", "Guía de mudanza", "Bruselas"]
 
 # Mudarse a Bruselas siendo estadounidense: guía para ciudadanos de EE. UU.
 
-Para un **ciudadano estadounidense que vive en Bruselas**, la mudanza es emocionante pero conlleva una curva de aprendizaje: papeleo distinto, una ciudad de menor escala y algunas sorpresas culturales. Esta guía acompaña a los recién llegados de EE. UU. por lo esencial —nociones de residencia, vivienda, banca, sanidad e impuestos— para que tus primeros meses resulten mucho menos abrumadores.
+Para un **ciudadano estadounidense que vive en Bruselas**, la mudanza es emocionante pero conlleva una curva de aprendizaje: papeleo distinto, una ciudad de menor escala y algunas sorpresas culturales. Esta guía acompaña a los recién llegados de EE. UU. por lo esencial, nociones de residencia, vivienda, banca, sanidad e impuestos, para que tus primeros meses resulten mucho menos abrumadores.
 
 > Las normas de inmigración e impuestos cambian y dependen de tu situación personal. Toma esto como una orientación, no como asesoramiento legal, y confirma siempre los requisitos actuales en fuentes oficiales (ver más abajo).
 

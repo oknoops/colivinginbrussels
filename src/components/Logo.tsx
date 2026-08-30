@@ -13,7 +13,7 @@ type LogoProps = {
 
 /**
  * The ColivingInBrussels brand mark: a cozy house with a glowing heart-window,
- * in a warm amber→rose gradient. Signals "home" and "warmth" — the core promise
+ * in a warm amber→rose gradient. Signals "home" and "warmth", the core promise
  * of the site. Rendered as inline SVG so it stays crisp at every size and both
  * light/dark placements share one source of truth.
  */
@@ -58,7 +58,7 @@ export default function Logo({ variant = 'dark', markOnly = false, href = '/', c
         <Link
             href={href}
             onClick={onClick}
-            aria-label="ColivingInBrussels — home"
+            aria-label="ColivingInBrussels, home"
             className={`inline-flex items-center gap-2.5 shrink-0 group ${className}`}
         >
             <LogoMark size={40} className="transition-transform duration-300 group-hover:-rotate-3 group-hover:scale-105" />

@@ -9,16 +9,16 @@ tags: ["short-term housing", "coliving"]
 
 # Alojamiento de corta estancia en Bruselas: opciones para 1–6 meses
 
-Encontrar **alojamiento de corta estancia en Bruselas** es una de las partes más complicadas de mudarse aquí. La mayoría de los contratos de alquiler belgas clásicos duran un año o más, exigen una fianza elevada y esperan que compres tus propios muebles. Si solo necesitas un lugar para uno a seis meses —unas prácticas, un proyecto, un periodo de prueba antes de comprometerte— necesitas algo más flexible. La buena noticia: Bruselas tiene varias opciones realmente de corta estancia, y las diferencias de precio entre ellas son grandes. Así se comparan.
+Encontrar **alojamiento de corta estancia en Bruselas** es una de las partes más complicadas de mudarse aquí. La mayoría de los contratos de alquiler belgas clásicos duran un año o más, exigen una fianza elevada y esperan que compres tus propios muebles. Si solo necesitas un lugar para uno a seis meses, unas prácticas, un proyecto, un periodo de prueba antes de comprometerte, necesitas algo más flexible. La buena noticia: Bruselas tiene varias opciones realmente de corta estancia, y las diferencias de precio entre ellas son grandes. Así se comparan.
 
 ## Las principales opciones de corta estancia
 
 Para estancias de menos de seis meses, en realidad eliges entre cuatro formatos:
 
-- **Coliving** — una habitación privada amueblada en una casa o edificio compartido, con todos los gastos incluidos, limpieza y espacios comunes. Los contratos suelen ser flexibles (3–6 meses, a veces mes a mes).
-- **Aparthoteles** — estudios de estilo hotelero con cocina americana, reservados por noche o por mes. Cero compromiso, pero lo más caro por mes.
-- **Subarriendos** — alquilar una habitación o piso de alguien que está fuera. Barato y flexible, pero la oferta es impredecible y la calidad varía.
-- **Pisos con servicios** — apartamentos totalmente amueblados e independientes que se alquilan por mes, pensados para profesionales que se trasladan.
+- **Coliving**, una habitación privada amueblada en una casa o edificio compartido, con todos los gastos incluidos, limpieza y espacios comunes. Los contratos suelen ser flexibles (3–6 meses, a veces mes a mes).
+- **Aparthoteles**, estudios de estilo hotelero con cocina americana, reservados por noche o por mes. Cero compromiso, pero lo más caro por mes.
+- **Subarriendos**, alquilar una habitación o piso de alguien que está fuera. Barato y flexible, pero la oferta es impredecible y la calidad varía.
+- **Pisos con servicios**, apartamentos totalmente amueblados e independientes que se alquilan por mes, pensados para profesionales que se trasladan.
 
 Cada uno se adapta a un presupuesto y una situación distintos. Vamos a desglosarlos.
 

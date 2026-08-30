@@ -1,6 +1,6 @@
 ---
 title: "Brussels Rent Prices in 2026: What You'll Actually Pay"
-excerpt: "A clear, up-to-date breakdown of what rent costs in Brussels in 2026 — coliving rooms, studios, and apartments by neighborhood, plus the hidden costs newcomers forget."
+excerpt: "A clear, up-to-date breakdown of what rent costs in Brussels in 2026, coliving rooms, studios, and apartments by neighborhood, plus the hidden costs newcomers forget."
 date: "2026-07-30"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Rent Prices", "Cost of Living", "Housing", "2026"]
 
 # Brussels Rent Prices in 2026: What You'll Actually Pay
 
-Brussels remains one of the more affordable capital cities in Western Europe — but "affordable" still means real money, and the headline rent is rarely the full story. Here's a clear 2026 breakdown of what you'll actually pay, plus the hidden costs newcomers routinely forget.
+Brussels remains one of the more affordable capital cities in Western Europe, but "affordable" still means real money, and the headline rent is rarely the full story. Here's a clear 2026 breakdown of what you'll actually pay, plus the hidden costs newcomers routinely forget.
 
 ## Coliving room prices (all-inclusive)
 
@@ -33,7 +33,7 @@ For classic apartments, the rent excludes utilities and charges:
 | 1-bedroom | €900–€1,300 | €1,050–€1,500 |
 | 2-bedroom | €1,200–€1,700 | €1,400–€2,000 |
 
-Add roughly **€100–€250/month** for utilities, internet, water, and building charges on top of bare rent — plus a **2–3 month deposit** and possible agency/inventory fees up front. See [renting in Brussels](/blog/renting-in-brussels-guide).
+Add roughly **€100–€250/month** for utilities, internet, water, and building charges on top of bare rent, plus a **2–3 month deposit** and possible agency/inventory fees up front. See [renting in Brussels](/blog/renting-in-brussels-guide).
 
 ## Prices by neighborhood (room level)
 
@@ -59,12 +59,12 @@ Budgeting only for rent is the classic mistake. Also plan for:
 *   **Furniture** (unfurnished flats): a big one-off.
 *   **Registration & admin** time (not money, but real friction).
 
-This is why coliving's single all-in number appeals to so many newcomers — there are no surprises on the bill.
+This is why coliving's single all-in number appeals to so many newcomers, there are no surprises on the bill.
 
 ## How to get the best value
 
 1.  **Coliving in a value neighbourhood** (Schaerbeek, Forest) beats a studio almost every time once bills are counted.
-2.  **Compare all-in vs bare rent honestly** — a "cheaper" studio often costs more after utilities.
+2.  **Compare all-in vs bare rent honestly**, a "cheaper" studio often costs more after utilities.
 3.  **Cook with housemates** to cut the second-biggest cost after rent.
 4.  **Avoid peak season** (Sep/Feb) for better availability.
 

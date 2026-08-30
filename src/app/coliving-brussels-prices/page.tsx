@@ -73,7 +73,7 @@ export default function ColivingPricesPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Price Overview</h2>
                     <p>
-                        Coliving prices in Brussels typically range from 550 EUR to 1,200 EUR per month, depending on the operator, room type, neighborhood, and included amenities. This is an all-inclusive price — meaning utilities, Wi-Fi, cleaning of common areas, and basic maintenance are all covered.
+                        Coliving prices in Brussels typically range from 550 EUR to 1,200 EUR per month, depending on the operator, room type, neighborhood, and included amenities. This is an all-inclusive price, meaning utilities, Wi-Fi, cleaning of common areas, and basic maintenance are all covered.
                     </p>
                     <p className="mt-4">
                         Compared to renting a traditional apartment, coliving can actually be more affordable when you factor in the hidden costs of a regular lease: utility bills (easily 100 to 150 EUR per month), internet (40 EUR), cleaning supplies, furniture, and the upfront costs of a deposit plus guarantor. With coliving, what you see is what you pay.
@@ -130,24 +130,24 @@ export default function ColivingPricesPage() {
                         Location plays a significant role in pricing. Central and trendy neighborhoods command higher rents, while emerging areas offer better value.
                     </p>
                     <ul className="mt-4 space-y-2">
-                        <li><Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> — Premium pricing (700 to 1,100 EUR). Most popular expat neighborhood, close to EU Quarter and universities.</li>
-                        <li><Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link> — Mid to high range (650 to 1,000 EUR). Ideal for EU institution workers, quieter residential feel.</li>
-                        <li><Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link> — Mid range (600 to 900 EUR). Artsy and diverse, excellent food scene, slightly more affordable.</li>
-                        <li><Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link> — Wide range (600 to 1,100 EUR). Central location, prices vary greatly by exact street.</li>
-                        <li>Schaerbeek — Budget-friendly (550 to 800 EUR). Up-and-coming, multicultural, great transport links.</li>
-                        <li>Forest — Budget-friendly (550 to 750 EUR). Green and quiet, increasingly popular with young professionals.</li>
-                        <li>Uccle — Mid range (650 to 900 EUR). Leafy and residential, popular with families.</li>
-                        <li>Woluwe-Saint-Lambert — Mid range (600 to 850 EUR). Quiet, well-connected by metro.</li>
+                        <li><Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link>, Premium pricing (700 to 1,100 EUR). Most popular expat neighborhood, close to EU Quarter and universities.</li>
+                        <li><Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link>, Mid to high range (650 to 1,000 EUR). Ideal for EU institution workers, quieter residential feel.</li>
+                        <li><Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link>, Mid range (600 to 900 EUR). Artsy and diverse, excellent food scene, slightly more affordable.</li>
+                        <li><Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link>, Wide range (600 to 1,100 EUR). Central location, prices vary greatly by exact street.</li>
+                        <li>Schaerbeek, Budget-friendly (550 to 800 EUR). Up-and-coming, multicultural, great transport links.</li>
+                        <li>Forest, Budget-friendly (550 to 750 EUR). Green and quiet, increasingly popular with young professionals.</li>
+                        <li>Uccle, Mid range (650 to 900 EUR). Leafy and residential, popular with families.</li>
+                        <li>Woluwe-Saint-Lambert, Mid range (600 to 850 EUR). Quiet, well-connected by metro.</li>
                     </ul>
                 </div>
 
                 <div className="bg-amber-50 rounded-2xl border border-amber-200 p-8">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Coliving vs. Regular Rent: The Real Comparison</h2>
                     <p>
-                        A studio apartment in Brussels costs around 700 to 900 EUR per month in rent alone. Add utilities (120 EUR), internet (40 EUR), renters insurance (15 EUR), and you are looking at 875 to 1,075 EUR — without any furniture, cleaning, or community. You also need to budget 2,000 to 3,000 EUR upfront for a deposit and first month, plus furniture costs if the apartment is unfurnished.
+                        A studio apartment in Brussels costs around 700 to 900 EUR per month in rent alone. Add utilities (120 EUR), internet (40 EUR), renters insurance (15 EUR), and you are looking at 875 to 1,075 EUR, without any furniture, cleaning, or community. You also need to budget 2,000 to 3,000 EUR upfront for a deposit and first month, plus furniture costs if the apartment is unfurnished.
                     </p>
                     <p className="mt-4">
-                        With coliving, a comparable room with all of the above included starts at around 650 to 800 EUR. The upfront cost is typically just one to two months deposit. When you run the numbers, coliving often comes out cheaper — and you get a community, events, and maintenance included.
+                        With coliving, a comparable room with all of the above included starts at around 650 to 800 EUR. The upfront cost is typically just one to two months deposit. When you run the numbers, coliving often comes out cheaper, and you get a community, events, and maintenance included.
                     </p>
                     <p className="mt-4">
                         Browse all operators on our <Link href="/actors" className="text-primary hover:underline">comparison page</Link> or read our <Link href="/blog" className="text-primary hover:underline">blog</Link> for detailed price breakdowns.

@@ -1,6 +1,6 @@
 ---
 title: "Où habiter à Bruxelles : comparatif des quartiers pour les nouveaux arrivants"
-excerpt: "Ixelles vs Saint-Gilles vs Etterbeek vs Schaerbeek et au-delà — un guide honnête et côte à côte pour choisir le bon quartier bruxellois selon votre budget et votre style de vie."
+excerpt: "Ixelles vs Saint-Gilles vs Etterbeek vs Schaerbeek et au-delà, un guide honnête et côte à côte pour choisir le bon quartier bruxellois selon votre budget et votre style de vie."
 date: "2026-07-28"
 author: "Guide Local Bruxelles"
 coverImage: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Quartiers", "Où habiter", "Nouveaux arrivants", "Comparatif"]
 
 # Où habiter à Bruxelles : comparatif des quartiers pour les nouveaux arrivants
 
-Choisir un quartier bruxellois, c'est en réalité choisir un mode de vie. La ville est une mosaïque de 19 communes, chacune avec son caractère, son budget et son public. Voici un comparatif honnête côte à côte pour vous aider à choisir — puis plongez dans nos [guides de quartiers](/neighborhoods) pour tous les détails.
+Choisir un quartier bruxellois, c'est en réalité choisir un mode de vie. La ville est une mosaïque de 19 communes, chacune avec son caractère, son budget et son public. Voici un comparatif honnête côte à côte pour vous aider à choisir, puis plongez dans nos [guides de quartiers](/neighborhoods) pour tous les détails.
 
 ## Le comparatif rapide
 
@@ -34,16 +34,16 @@ Si vous voulez des terrasses, des bars et croiser des gens en permanence, allez 
 ### 2. Quel est votre trajet ?
 *   **Institutions européennes (Schuman) :** [Etterbeek](/neighborhoods/etterbeek), [Ixelles](/neighborhoods/ixelles), ou le quartier européen lui-même. Voyez notre [guide du coliving à Bruxelles](/fr/coliving-bruxelles).
 *   **Bureaux du centre-ville :** [Bruxelles-Ville](/neighborhoods/brussels-city), [Saint-Gilles](/neighborhoods/saint-gilles) (près de Midi pour les trains).
-*   **Télétravail/flexible :** n'importe où — privilégiez l'ambiance au trajet, et lisez notre [guide du coliving à Bruxelles](/fr/coliving-bruxelles).
+*   **Télétravail/flexible :** n'importe où, privilégiez l'ambiance au trajet, et lisez notre [guide du coliving à Bruxelles](/fr/coliving-bruxelles).
 
 ### 3. Quel est votre budget honnête ?
 Bruxelles est abordable pour une capitale d'Europe de l'Ouest, mais les quartiers varient. Pour le meilleur rapport qualité-prix sans sacrifier la vie, **[Schaerbeek](/neighborhoods/schaerbeek)** et **[Forest](/neighborhoods/forest)** en offrent plus que leur prix ne le laisse penser. Pour un calme premium, **[Uccle](/neighborhoods/uccle)** se paie plus cher.
 
 ## Le raccourci du nouvel arrivant
 
-La plupart des nouveaux arrivants se focalisent trop sur les noms célèbres (Ixelles, centre-ville) et passent à côté de pépites au bon rapport qualité-prix comme Schaerbeek et Forest, qui sont à un arrêt de tram et des centaines d'euros moins chers. Ne choisissez pas par défaut — accordez le quartier à *votre* vie.
+La plupart des nouveaux arrivants se focalisent trop sur les noms célèbres (Ixelles, centre-ville) et passent à côté de pépites au bon rapport qualité-prix comme Schaerbeek et Forest, qui sont à un arrêt de tram et des centaines d'euros moins chers. Ne choisissez pas par défaut, accordez le quartier à *votre* vie.
 
-Le moyen le plus rapide et honnête de le faire : faites notre [quiz de matchmaking](/matchmaker). Il pèse votre budget, votre trajet et vos préférences sociales et vous oriente à la fois vers le bon **quartier** et les bons **opérateurs de coliving** qui s'y trouvent — pour ne pas avancer à l'aveugle.
+Le moyen le plus rapide et honnête de le faire : faites notre [quiz de matchmaking](/matchmaker). Il pèse votre budget, votre trajet et vos préférences sociales et vous oriente à la fois vers le bon **quartier** et les bons **opérateurs de coliving** qui s'y trouvent, pour ne pas avancer à l'aveugle.
 
 ## Un mot sur la façon dont le coliving change le calcul
 

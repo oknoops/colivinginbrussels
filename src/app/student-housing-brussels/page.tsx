@@ -83,7 +83,7 @@ export default function StudentHousingPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Coliving for Students</h2>
                     <p>
-                        While coliving spaces in Brussels are primarily designed for young professionals and expats, they are increasingly attractive to students — especially graduate and international students who value convenience and community.
+                        While coliving spaces in Brussels are primarily designed for young professionals and expats, they are increasingly attractive to students, especially graduate and international students who value convenience and community.
                     </p>
                     <p className="mt-4">
                         Operators like <Link href="/actors/colive" className="text-primary hover:underline">Colive</Link> and <Link href="/actors/ikoab" className="text-primary hover:underline">Ikoab</Link> offer rooms at the more affordable end of the spectrum, starting around 550 to 700 EUR per month with everything included. For students tired of dealing with landlords, bills, and furnishing an empty room, coliving is a compelling alternative.
@@ -100,19 +100,19 @@ export default function StudentHousingPage() {
                     </p>
                     <ul className="mt-4 space-y-3">
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link></strong> — The heart of student life in Brussels. Home to the ULB Solbosch campus, the Flagey area, and the famous Cimetiere d&apos;Ixelles nightlife strip. Lively, diverse, and well-connected. Coliving operators like <Link href="/actors/cohabs" className="text-primary hover:underline">Cohabs</Link> and <Link href="/actors/corners" className="text-primary hover:underline">Corners</Link> have properties here.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link></strong>, The heart of student life in Brussels. Home to the ULB Solbosch campus, the Flagey area, and the famous Cimetiere d&apos;Ixelles nightlife strip. Lively, diverse, and well-connected. Coliving operators like <Link href="/actors/cohabs" className="text-primary hover:underline">Cohabs</Link> and <Link href="/actors/corners" className="text-primary hover:underline">Corners</Link> have properties here.
                         </li>
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link></strong> — Close to the VUB campus and the ULB La Plaine campus. Quieter than Ixelles, with good metro connections. <Link href="/actors/neybor" className="text-primary hover:underline">Neybor</Link> and <Link href="/actors/habyt" className="text-primary hover:underline">Habyt</Link> operate in this area.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link></strong>, Close to the VUB campus and the ULB La Plaine campus. Quieter than Ixelles, with good metro connections. <Link href="/actors/neybor" className="text-primary hover:underline">Neybor</Link> and <Link href="/actors/habyt" className="text-primary hover:underline">Habyt</Link> operate in this area.
                         </li>
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link></strong> — Artsy and multicultural, popular with creative students. More affordable than Ixelles, with great restaurants and bars around Parvis de Saint-Gilles.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link></strong>, Artsy and multicultural, popular with creative students. More affordable than Ixelles, with great restaurants and bars around Parvis de Saint-Gilles.
                         </li>
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link></strong> — Central, close to UCLouvain Saint-Louis and the Royal Conservatory. Higher prices but unbeatable connectivity.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link></strong>, Central, close to UCLouvain Saint-Louis and the Royal Conservatory. Higher prices but unbeatable connectivity.
                         </li>
                         <li>
-                            <strong className="text-text-dark">Schaerbeek</strong> — Budget-friendly option with great transport links. Increasingly popular with students priced out of Ixelles.
+                            <strong className="text-text-dark">Schaerbeek</strong>, Budget-friendly option with great transport links. Increasingly popular with students priced out of Ixelles.
                         </li>
                     </ul>
                 </div>

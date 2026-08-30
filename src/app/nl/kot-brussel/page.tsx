@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 const FAQ = [
     { q: 'Hoeveel kost een kot in Brussel?', a: 'Een studentenkot in Brussel kost doorgaans tussen €400 en €700 per maand, afhankelijk van de wijk, grootte en voorzieningen. Kots met eigen badkamer of in een beheerde residentie zijn duurder. Studenten-coliving, alles inclusief, start rond €500–€650.' },
     { q: 'Wat zijn de beste wijken voor een kot?', a: 'Elsene is dé studentenwijk, dicht bij de ULB en VUB, met veel leven. Etterbeek en Oudergem zijn praktisch voor de campussen Solbosch en La Plaine. Sint-Gillis en Schaarbeek bieden een betere prijs-kwaliteit op enkele tramhaltes.' },
-    { q: 'Kot of coliving: wat is het verschil?', a: 'Een klassiek kot is een studentenkamer, vaak met gedeelde keuken en sanitair, gehuurd via de universiteit of een privé-eigenaar. Coliving is beheerd, gemeubeld en all-in samenhuizen, met een community en flexibele contracten — ideaal voor Erasmus- en internationale studenten die geen gedoe willen.' },
+    { q: 'Kot of coliving: wat is het verschil?', a: 'Een klassiek kot is een studentenkamer, vaak met gedeelde keuken en sanitair, gehuurd via de universiteit of een privé-eigenaar. Coliving is beheerd, gemeubeld en all-in samenhuizen, met een community en flexibele contracten, ideaal voor Erasmus- en internationale studenten die geen gedoe willen.' },
     { q: 'Hoe vind je een kot te huur in Brussel?', a: 'Ga via de huisvestingsdienst van je universiteit (ULB, VUB, Saint-Louis…), kot-platformen en studenten-Facebookgroepen. Voor een beheerde optie zonder oplichting verwelkomen betaalbare coliving-operators zoals Ikoab, Colive of Coloc Housing graag studenten.' },
 ];
 
@@ -52,7 +52,7 @@ export default function KotBrussel() {
                 <p className="text-sm text-orange-500 font-semibold mb-3">Studentengids · Brussel</p>
                 <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-6 leading-tight">Op kot in Brussel: de gids om een studentenkamer te vinden</h1>
                 <p className="text-xl text-text mb-10 leading-relaxed">
-                    Zoek je een kot in Brussel? Tussen de prijzen, de wijken bij de universiteiten en koten die snel weg zijn, is het niet altijd makkelijk. Dit is de complete gids — plus een alternatief dat veel studenten geweldig vinden: coliving.
+                    Zoek je een kot in Brussel? Tussen de prijzen, de wijken bij de universiteiten en koten die snel weg zijn, is het niet altijd makkelijk. Dit is de complete gids, plus een alternatief dat veel studenten geweldig vinden: coliving.
                 </p>
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
@@ -63,22 +63,22 @@ export default function KotBrussel() {
 
                     <h2>Beste wijken voor een kot</h2>
                     <ul>
-                        <li><strong><Link href="/neighborhoods/ixelles">Elsene</Link></strong> — DÉ studentenwijk, dicht bij de ULB en VUB, vol bars en leven (Flagey, Begraafplaats van Elsene).</li>
-                        <li><strong><Link href="/neighborhoods/etterbeek">Etterbeek</Link></strong> — praktisch voor de campussen, rustig en goed bereikbaar.</li>
-                        <li><strong><Link href="/neighborhoods/saint-gilles">Sint-Gillis</Link></strong> — centraal, levendig, iets goedkoper.</li>
-                        <li><strong><Link href="/neighborhoods/schaerbeek">Schaarbeek</Link></strong> — de beste prijs-kwaliteit, op enkele tramhaltes.</li>
+                        <li><strong><Link href="/neighborhoods/ixelles">Elsene</Link></strong>, DÉ studentenwijk, dicht bij de ULB en VUB, vol bars en leven (Flagey, Begraafplaats van Elsene).</li>
+                        <li><strong><Link href="/neighborhoods/etterbeek">Etterbeek</Link></strong>, praktisch voor de campussen, rustig en goed bereikbaar.</li>
+                        <li><strong><Link href="/neighborhoods/saint-gilles">Sint-Gillis</Link></strong>, centraal, levendig, iets goedkoper.</li>
+                        <li><strong><Link href="/neighborhoods/schaerbeek">Schaarbeek</Link></strong>, de beste prijs-kwaliteit, op enkele tramhaltes.</li>
                     </ul>
 
                     <h2>Klassiek kot of coliving: wat kiezen?</h2>
                     <p>
-                        Een <strong>klassiek kot</strong> is vaak het goedkoopst, maar je regelt alles zelf (lasten, eventueel meubels, zoeken). <strong>Coliving</strong> is beheerd, gemeubeld en all-in, met een echte community — perfect voor <Link href="/nl/blog/eerste-week-in-brussel">Erasmus- en internationale studenten</Link> die alleen aankomen en nul administratie willen.
+                        Een <strong>klassiek kot</strong> is vaak het goedkoopst, maar je regelt alles zelf (lasten, eventueel meubels, zoeken). <strong>Coliving</strong> is beheerd, gemeubeld en all-in, met een echte community, perfect voor <Link href="/nl/blog/eerste-week-in-brussel">Erasmus- en internationale studenten</Link> die alleen aankomen en nul administratie willen.
                     </p>
 
                     <h2>Waar vind je een kot te huur</h2>
                     <ol>
                         <li>De <strong>huisvestingsdienst van je universiteit</strong> (ULB, VUB, Saint-Louis, USL-B…).</li>
                         <li>De <strong>kot-platformen</strong> en studenten-Facebookgroepen.</li>
-                        <li>De <strong>betaalbare coliving-operators</strong> — <Link href="/actors/ikoab">Ikoab</Link>, <Link href="/actors/colive">Colive</Link> en <Link href="/actors/coloc-housing">Coloc Housing</Link> verwelkomen graag studenten, zonder waarborgoplichting.</li>
+                        <li>De <strong>betaalbare coliving-operators</strong>, <Link href="/actors/ikoab">Ikoab</Link>, <Link href="/actors/colive">Colive</Link> en <Link href="/actors/coloc-housing">Coloc Housing</Link> verwelkomen graag studenten, zonder waarborgoplichting.</li>
                     </ol>
                     <p>Tip: begin op tijd (september en februari zijn erg gegeerd) en betaal nooit een waarborg voor je de kamer gezien hebt.</p>
                 </div>

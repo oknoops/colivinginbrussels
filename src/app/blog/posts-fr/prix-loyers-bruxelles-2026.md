@@ -1,6 +1,6 @@
 ---
 title: "Prix des loyers à Bruxelles en 2026 : ce que vous paierez vraiment"
-excerpt: "Un décryptage clair et à jour du coût des loyers à Bruxelles en 2026 — chambres de coliving, studios et appartements par quartier, plus les coûts cachés que les nouveaux venus oublient."
+excerpt: "Un décryptage clair et à jour du coût des loyers à Bruxelles en 2026, chambres de coliving, studios et appartements par quartier, plus les coûts cachés que les nouveaux venus oublient."
 date: "2026-07-30"
 author: "Guide Local Bruxelles"
 coverImage: "https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Prix des loyers", "Coût de la vie", "Logement", "2026"]
 
 # Prix des loyers à Bruxelles en 2026 : ce que vous paierez vraiment
 
-Bruxelles reste l'une des capitales les plus abordables d'Europe de l'Ouest — mais « abordable » représente quand même de l'argent bien réel, et le loyer affiché est rarement toute l'histoire. Voici un décryptage clair, version 2026, de ce que vous paierez vraiment, plus les coûts cachés que les nouveaux venus oublient systématiquement.
+Bruxelles reste l'une des capitales les plus abordables d'Europe de l'Ouest, mais « abordable » représente quand même de l'argent bien réel, et le loyer affiché est rarement toute l'histoire. Voici un décryptage clair, version 2026, de ce que vous paierez vraiment, plus les coûts cachés que les nouveaux venus oublient systématiquement.
 
 ## Prix des chambres de coliving (tout compris)
 
@@ -33,7 +33,7 @@ Pour les appartements classiques, le loyer exclut les charges et frais :
 | 1 chambre | 900–1 300 € | 1 050–1 500 € |
 | 2 chambres | 1 200–1 700 € | 1 400–2 000 € |
 
-Comptez environ **100 à 250 €/mois** en plus pour les charges, l'internet, l'eau et les charges d'immeuble par-dessus le loyer nu — plus une **caution de 2 à 3 mois** et d'éventuels frais d'agence ou d'état des lieux au départ. Voyez notre [guide de la colocation à Bruxelles](/fr/colocation-bruxelles).
+Comptez environ **100 à 250 €/mois** en plus pour les charges, l'internet, l'eau et les charges d'immeuble par-dessus le loyer nu, plus une **caution de 2 à 3 mois** et d'éventuels frais d'agence ou d'état des lieux au départ. Voyez notre [guide de la colocation à Bruxelles](/fr/colocation-bruxelles).
 
 ## Prix par quartier (niveau chambre)
 
@@ -59,12 +59,12 @@ Ne budgéter que le loyer, c'est l'erreur classique. Prévoyez aussi :
 *   **Les meubles** (appartements non meublés) : une grosse dépense ponctuelle.
 *   **Le temps d'inscription et d'administratif** (pas de l'argent, mais une vraie friction).
 
-C'est pourquoi le chiffre unique et tout compris du coliving séduit tant de nouveaux venus — aucune surprise sur la facture.
+C'est pourquoi le chiffre unique et tout compris du coliving séduit tant de nouveaux venus, aucune surprise sur la facture.
 
 ## Comment obtenir le meilleur rapport qualité-prix
 
 1.  **Un coliving dans un quartier au bon rapport qualité-prix** (Schaerbeek, Forest) bat un studio presque à chaque fois une fois les charges comptées.
-2.  **Comparez honnêtement tout compris vs loyer nu** — un studio « moins cher » revient souvent plus cher après les charges.
+2.  **Comparez honnêtement tout compris vs loyer nu**, un studio « moins cher » revient souvent plus cher après les charges.
 3.  **Cuisinez avec vos colocs** pour réduire le deuxième plus gros poste après le loyer.
 4.  **Évitez la haute saison** (septembre/février) pour une meilleure disponibilité.
 

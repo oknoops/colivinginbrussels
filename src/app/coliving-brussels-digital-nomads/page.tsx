@@ -65,7 +65,7 @@ export default function DigitalNomadsPage() {
                     Coliving in Brussels for <span className="text-primary">Digital Nomads</span>
                 </h1>
                 <p className="text-xl text-text">
-                    Fast Wi-Fi, flexible leases, and a global community — Brussels is a digital nomad sweet spot.
+                    Fast Wi-Fi, flexible leases, and a global community, Brussels is a digital nomad sweet spot.
                 </p>
             </div>
 
@@ -79,7 +79,7 @@ export default function DigitalNomadsPage() {
                         The city has excellent internet infrastructure. Belgium consistently ranks among the top European countries for broadband speeds, with average connections exceeding 100 Mbps. Most coliving spaces offer dedicated fiber connections, and you will find reliable Wi-Fi in cafes and coworking spaces across the city.
                     </p>
                     <p className="mt-4">
-                        Cost of living is moderate compared to other Western European capitals. You can live well in Brussels for significantly less than in London, Paris, or Amsterdam — while enjoying a comparable quality of life and cultural richness.
+                        Cost of living is moderate compared to other Western European capitals. You can live well in Brussels for significantly less than in London, Paris, or Amsterdam, while enjoying a comparable quality of life and cultural richness.
                     </p>
                 </div>
 
@@ -90,20 +90,20 @@ export default function DigitalNomadsPage() {
                     </p>
                     <ul className="mt-4 space-y-3">
                         <li>
-                            <Link href="/actors/corners" className="text-primary hover:underline font-medium">Corners</Link> — Dedicated coworking areas in many houses, high-speed Wi-Fi, and a community of professionals. Their spaces are designed with work-from-home in mind, with quiet zones and meeting-friendly common rooms.
+                            <Link href="/actors/corners" className="text-primary hover:underline font-medium">Corners</Link>, Dedicated coworking areas in many houses, high-speed Wi-Fi, and a community of professionals. Their spaces are designed with work-from-home in mind, with quiet zones and meeting-friendly common rooms.
                         </li>
                         <li>
-                            <Link href="/actors/livecolonies" className="text-primary hover:underline font-medium">LiveColonies</Link> — Large-scale buildings often include dedicated coworking floors or rooms. Their purpose-built spaces offer the most professional work environment of any coliving operator in Brussels.
+                            <Link href="/actors/livecolonies" className="text-primary hover:underline font-medium">LiveColonies</Link>, Large-scale buildings often include dedicated coworking floors or rooms. Their purpose-built spaces offer the most professional work environment of any coliving operator in Brussels.
                         </li>
                         <li>
-                            <Link href="/actors/cohabs" className="text-primary hover:underline font-medium">Cohabs</Link> — Spacious common areas in renovated townhouses, suitable for working. Many houses have dining tables, living rooms, and garden spaces where you can set up your laptop.
+                            <Link href="/actors/cohabs" className="text-primary hover:underline font-medium">Cohabs</Link>, Spacious common areas in renovated townhouses, suitable for working. Many houses have dining tables, living rooms, and garden spaces where you can set up your laptop.
                         </li>
                         <li>
-                            <Link href="/actors/habyt" className="text-primary hover:underline font-medium">Habyt</Link> — Month-to-month flexibility that suits the nomad lifestyle. Rooms are designed to double as workspaces with proper desks and ergonomic chairs.
+                            <Link href="/actors/habyt" className="text-primary hover:underline font-medium">Habyt</Link>, Month-to-month flexibility that suits the nomad lifestyle. Rooms are designed to double as workspaces with proper desks and ergonomic chairs.
                         </li>
                     </ul>
                     <p className="mt-4">
-                        Operators like <Link href="/actors/neybor" className="text-primary hover:underline">Neybor</Link>, <Link href="/actors/colive" className="text-primary hover:underline">Colive</Link>, <Link href="/actors/ikoab" className="text-primary hover:underline">Ikoab</Link>, and <Link href="/actors/morton-place" className="text-primary hover:underline">Morton Place</Link> also provide comfortable rooms with desks and good Wi-Fi — all the essentials for productive remote work.
+                        Operators like <Link href="/actors/neybor" className="text-primary hover:underline">Neybor</Link>, <Link href="/actors/colive" className="text-primary hover:underline">Colive</Link>, <Link href="/actors/ikoab" className="text-primary hover:underline">Ikoab</Link>, and <Link href="/actors/morton-place" className="text-primary hover:underline">Morton Place</Link> also provide comfortable rooms with desks and good Wi-Fi, all the essentials for productive remote work.
                     </p>
                 </div>
 
@@ -114,19 +114,19 @@ export default function DigitalNomadsPage() {
                     </p>
                     <ul className="mt-4 space-y-3">
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link></strong> — The Flagey and Place Fernand Cocq areas are packed with cafes perfect for working: Belga, The Sister, and many independent spots. Multiple coworking spaces nearby (Silversquare, WeWork). Vibrant social scene in the evenings.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link></strong>, The Flagey and Place Fernand Cocq areas are packed with cafes perfect for working: Belga, The Sister, and many independent spots. Multiple coworking spaces nearby (Silversquare, WeWork). Vibrant social scene in the evenings.
                         </li>
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link></strong> — The creative heart of Brussels, with independent cafes, artist studios, and a laid-back vibe. More affordable than Ixelles, with great food from around the world.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link></strong>, The creative heart of Brussels, with independent cafes, artist studios, and a laid-back vibe. More affordable than Ixelles, with great food from around the world.
                         </li>
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link></strong> — Maximum convenience, with coworking spaces, cafes, and transport all at your doorstep. Dansaert area is particularly popular with the creative and tech crowd.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link></strong>, Maximum convenience, with coworking spaces, cafes, and transport all at your doorstep. Dansaert area is particularly popular with the creative and tech crowd.
                         </li>
                         <li>
-                            <strong className="text-text-dark"><Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link></strong> — Quieter working environment, close to the green spaces of Cinquantenaire park. Good for those who prefer focus over buzz.
+                            <strong className="text-text-dark"><Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link></strong>, Quieter working environment, close to the green spaces of Cinquantenaire park. Good for those who prefer focus over buzz.
                         </li>
                         <li>
-                            <strong className="text-text-dark">Schaerbeek</strong> — Up-and-coming with new cafes and creative spaces opening regularly. More affordable, with an authentic Brussels feel.
+                            <strong className="text-text-dark">Schaerbeek</strong>, Up-and-coming with new cafes and creative spaces opening regularly. More affordable, with an authentic Brussels feel.
                         </li>
                     </ul>
                 </div>
@@ -140,7 +140,7 @@ export default function DigitalNomadsPage() {
                         For non-EU digital nomads, the situation is more nuanced. Belgium does not currently have a dedicated digital nomad visa. However, you can stay in the Schengen zone for up to 90 days within a 180-day period on a tourist visa. For longer stays, you would need to explore options like a professional card (for self-employed workers) or a work permit through a Belgian employer.
                     </p>
                     <p className="mt-4">
-                        Many digital nomads use Brussels as a base for rotating through European cities, staying within the 90-day Schengen limit. Coliving operators with month-to-month leases — like <Link href="/actors/habyt" className="text-primary hover:underline">Habyt</Link> — are ideal for this lifestyle.
+                        Many digital nomads use Brussels as a base for rotating through European cities, staying within the 90-day Schengen limit. Coliving operators with month-to-month leases, like <Link href="/actors/habyt" className="text-primary hover:underline">Habyt</Link>, are ideal for this lifestyle.
                     </p>
                 </div>
 

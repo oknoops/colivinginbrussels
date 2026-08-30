@@ -9,7 +9,7 @@ tags: ["Transport", "Brussels", "Practical Guide", "Expats", "Metro", "Tram"]
 
 # Brussels Public Transport Guide 2026
 
-One of the first questions newcomers ask is: **do I need a car in Brussels?** For most people living in the central communes (Ixelles, Saint-Gilles, Etterbeek, Brussels City), the answer is a clear **no**. Brussels has a comprehensive public transport network that covers the city thoroughly — and the EU's famous traffic congestion makes car ownership a headache rather than a convenience.
+One of the first questions newcomers ask is: **do I need a car in Brussels?** For most people living in the central communes (Ixelles, Saint-Gilles, Etterbeek, Brussels City), the answer is a clear **no**. Brussels has a comprehensive public transport network that covers the city thoroughly, and the EU's famous traffic congestion makes car ownership a headache rather than a convenience.
 
 Here's everything you need to know.
 
@@ -53,12 +53,12 @@ Brussels has four metro lines, forming an interconnected network across the city
 Trams are often the most useful form of transport for everyday life in Brussels, as they cover neighborhoods the metro doesn't reach directly.
 
 ### Most Useful Tram Lines for Expats
-- **Tram 81**: Ixelles (Place Flagey ↔ Albert) — runs through the heart of Ixelles and Saint-Gilles. Essential for the Châtelain/Flagey area.
+- **Tram 81**: Ixelles (Place Flagey ↔ Albert), runs through the heart of Ixelles and Saint-Gilles. Essential for the Châtelain/Flagey area.
 - **Tram 7**: Vanderkindere ↔ Stade → passes through Ixelles and towards the EU Quarter.
 - **Tram 25**: Connects ULB (university) area with the city center.
 - **Tram 3/4**: Saint-Gilles and Ixelles toward Forest.
 - **Tram 51**: South Brussels through Forest.
-- **Tram 92/93**: Along the Louise/Barrière axis — very useful for Ixelles.
+- **Tram 92/93**: Along the Louise/Barrière axis, very useful for Ixelles.
 
 **Pro tip**: The STIB app shows real-time tram arrivals, which is essential. Brussels trams are reliable but can have delays; the app saves a lot of waiting.
 
@@ -70,7 +70,7 @@ Buses fill in the gaps of the metro/tram network and reach areas that rails don'
 
 ### Notable Bus Lines
 - **Bus 71**: A workhorse line from Etterbeek down through Ixelles to the city center. Very frequent.
-- **Bus 60**: Covers Uccle and southern Brussels — essential if you live in the southern communes.
+- **Bus 60**: Covers Uccle and southern Brussels, essential if you live in the southern communes.
 - **Bus 95**: Connects north Brussels to the city center.
 
 Night buses (N-lines) run on Friday and Saturday nights from roughly midnight to 3am, covering all major zones. They terminate at **Midi, Central, or Noord** stations.
@@ -83,7 +83,7 @@ Night buses (N-lines) run on Friday and Saturday nights from roughly midnight to
 - **€2.50** when bought in advance (via app or ticket machine)
 - **€3.00** if bought from the driver (tram/bus only; metro doesn't have drivers selling tickets)
 - Valid for **60 minutes** of unlimited transfers within the STIB network
-- **Do not enter the tram/bus without validating** — inspectors appear regularly and fines are €150+
+- **Do not enter the tram/bus without validating**, inspectors appear regularly and fines are €150+
 
 ### 10-Trip Card
 - **€14.90** for 10 trips
@@ -91,14 +91,14 @@ Night buses (N-lines) run on Friday and Saturday nights from roughly midnight to
 
 ### Monthly Pass
 - **€54/month** for the STIB-only network
-- **€54.90/month for Brupass XL** — covers STIB + De Lijn (Flemish buses) + TEC (Walloon buses) + SNCB trains within Brussels region
+- **€54.90/month for Brupass XL**, covers STIB + De Lijn (Flemish buses) + TEC (Walloon buses) + SNCB trains within Brussels region
 
 ### Annual Pass
-- **€499/year** for the full network — saves approximately €150 vs 12 monthly passes
+- **€499/year** for the full network, saves approximately €150 vs 12 monthly passes
 - Worth it if you're staying more than 6 months
 
 ### Brupass vs Brupass XL
-The **Brupass** covers STIB + some connecting buses to surrounding municipalities. The **Brupass XL** adds all regional trains (SNCB) within the Brussels region — very useful if you live near a train station or commute to Leuven, Ghent, Antwerp.
+The **Brupass** covers STIB + some connecting buses to surrounding municipalities. The **Brupass XL** adds all regional trains (SNCB) within the Brussels region, very useful if you live near a train station or commute to Leuven, Ghent, Antwerp.
 
 ### Free Travel
 - **Under 12**: Free on STIB with no pass needed
@@ -143,7 +143,7 @@ Brussels is rapidly improving its cycling infrastructure, though it still lags b
 ### Options
 - **Blue-bike**: Belgium's national station-based bike sharing. Annual subscription is ~€30/year. Good for commuting short distances from train stations.
 - **Villo!**: Brussels' local bike-sharing system, with 180+ stations across the city. Day pass €1.60, annual subscription €35. First 30 minutes free each ride.
-- **Personal bike**: Highly recommended for regular commuters. Lock it well — bike theft exists.
+- **Personal bike**: Highly recommended for regular commuters. Lock it well, bike theft exists.
 
 The **RER cycling routes** (smooth, separated paths) connect many communes. The **Cycling in Brussels** app helps navigate safe routes.
 
@@ -152,22 +152,22 @@ The **RER cycling routes** (smooth, separated paths) connect many communes. The 
 ## Getting Around Without a Car: Reality Check
 
 Living in:
-- **Ixelles** — excellent. Metro + trams + cycling. No car needed.
-- **Saint-Gilles** — excellent. Multiple tram lines + metro.
-- **Etterbeek** — very good. Metro (Schuman, Arts-Loi) + buses + train at Brussels-Luxembourg.
-- **Brussels City** — best coverage. All metro lines converge here.
-- **Uccle** — harder. Buses only in many parts. Some people use bikes or occasional car for remote areas.
-- **Schaerbeek / Anderlecht** — good metro/tram coverage; less dense than central communes.
+- **Ixelles**, excellent. Metro + trams + cycling. No car needed.
+- **Saint-Gilles**, excellent. Multiple tram lines + metro.
+- **Etterbeek**, very good. Metro (Schuman, Arts-Loi) + buses + train at Brussels-Luxembourg.
+- **Brussels City**, best coverage. All metro lines converge here.
+- **Uccle**, harder. Buses only in many parts. Some people use bikes or occasional car for remote areas.
+- **Schaerbeek / Anderlecht**, good metro/tram coverage; less dense than central communes.
 
 ---
 
 ## Common Mistakes to Avoid
 
-1. **Not validating your ticket** — inspectors are active and the €150 fine is non-negotiable.
-2. **Not downloading the STIB app** — waiting without real-time info is frustrating.
-3. **Taking the metro during rush hour without a pass** — buying a single ticket and waiting in queues at rush hour is slower than having your MOBIB card or phone ready.
-4. **Assuming the tram is less valid than metro** — for many journeys, trams are actually faster and more direct.
-5. **Not checking for disruptions** — weekend maintenance shutdowns happen. Always check before heading to the station on a Sunday.
+1. **Not validating your ticket**, inspectors are active and the €150 fine is non-negotiable.
+2. **Not downloading the STIB app**, waiting without real-time info is frustrating.
+3. **Taking the metro during rush hour without a pass**, buying a single ticket and waiting in queues at rush hour is slower than having your MOBIB card or phone ready.
+4. **Assuming the tram is less valid than metro**, for many journeys, trams are actually faster and more direct.
+5. **Not checking for disruptions**, weekend maintenance shutdowns happen. Always check before heading to the station on a Sunday.
 
 ---
 

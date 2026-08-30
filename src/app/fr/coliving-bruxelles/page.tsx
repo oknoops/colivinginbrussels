@@ -24,7 +24,7 @@ export const metadata: Metadata = {
 };
 
 const FAQ = [
-    { q: 'Qu\'est-ce que le coliving ?', a: 'Le coliving est une forme moderne de logement partagé : vous louez une chambre privée (parfois avec salle de bain privée) et partagez des espaces communs meublés — cuisine, salon, parfois salle de sport ou espace de coworking. Le loyer est tout compris (charges, wifi, ménage) et le bail est flexible. C\'est la solution idéale pour les nouveaux arrivants à Bruxelles.' },
+    { q: 'Qu\'est-ce que le coliving ?', a: 'Le coliving est une forme moderne de logement partagé : vous louez une chambre privée (parfois avec salle de bain privée) et partagez des espaces communs meublés, cuisine, salon, parfois salle de sport ou espace de coworking. Le loyer est tout compris (charges, wifi, ménage) et le bail est flexible. C\'est la solution idéale pour les nouveaux arrivants à Bruxelles.' },
     { q: 'Combien coûte le coliving à Bruxelles ?', a: 'Une chambre en coliving à Bruxelles coûte généralement entre 500 € et 1 500 € par mois, tout compris. Les options budget (Ikoab, Colive, Coloc Housing) démarrent autour de 500–650 €, les offres standard entre 700 et 950 €, et le premium avec salle de bain privée peut atteindre 1 500 €.' },
     { q: 'Le coliving est-il moins cher qu\'un studio ?', a: 'Souvent oui. Une chambre en coliving à 600–900 € tout compris est généralement plus avantageuse qu\'un studio à 700–1 000 € auquel s\'ajoutent charges, wifi, assurance et meubles. Sans compter qu\'il n\'y a ni frais d\'agence ni garant belge exigé dans la plupart des cas.' },
     { q: 'Peut-on se domicilier à une adresse de coliving ?', a: 'Oui, dans la quasi-totalité des cas. La domiciliation à la commune est obligatoire au-delà de 3 mois en Belgique, et la plupart des opérateurs fournissent un contrat qui la permet. Confirmez-le toujours avant de signer.' },
@@ -67,10 +67,10 @@ export default function ColivingBruxelles() {
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500 mb-12">
                     <h2>Pourquoi choisir le coliving ?</h2>
                     <ul>
-                        <li><strong>Tout compris</strong> — un seul paiement pour le loyer, les charges, le wifi et le ménage.</li>
-                        <li><strong>Flexible</strong> — des baux de 1 à 6 mois, parfaits pour un stage, un Erasmus ou une première année.</li>
-                        <li><strong>Sans tracas</strong> — meublé, sans garant belge exigé, avec domiciliation possible.</li>
-                        <li><strong>Une communauté</strong> — dîners partagés et événements : vous arrivez seul, vous repartez avec des amis.</li>
+                        <li><strong>Tout compris</strong>, un seul paiement pour le loyer, les charges, le wifi et le ménage.</li>
+                        <li><strong>Flexible</strong>, des baux de 1 à 6 mois, parfaits pour un stage, un Erasmus ou une première année.</li>
+                        <li><strong>Sans tracas</strong>, meublé, sans garant belge exigé, avec domiciliation possible.</li>
+                        <li><strong>Une communauté</strong>, dîners partagés et événements : vous arrivez seul, vous repartez avec des amis.</li>
                     </ul>
                     <p>Pour comprendre la différence avec une <Link href="/fr/colocation-bruxelles">colocation classique</Link>, consultez notre guide dédié.</p>
                 </div>

@@ -9,12 +9,12 @@ tags: ["Coliving", "Checklist", "Contract", "Newcomers"]
 
 # 15 Questions to Ask Before Signing a Coliving Contract in Brussels
 
-Coliving in Brussels is usually smooth — but the difference between a great experience and a frustrating one often comes down to the questions you *didn't* ask before signing. Here's the checklist. Copy it into your first message to any operator.
+Coliving in Brussels is usually smooth, but the difference between a great experience and a frustrating one often comes down to the questions you *didn't* ask before signing. Here's the checklist. Copy it into your first message to any operator.
 
 ## About the money
 
 **1. What exactly is included in the rent?**
-Confirm utilities (water, gas, electricity), wifi, cleaning of common areas, and any extras (household supplies, Netflix). "All-inclusive" should mean it — get the list.
+Confirm utilities (water, gas, electricity), wifi, cleaning of common areas, and any extras (household supplies, Netflix). "All-inclusive" should mean it, get the list.
 
 **2. How much is the deposit, and when do I get it back?**
 Usually 1–2 months. Ask *how* and *when* it's returned, and what could reduce it (damage, cleaning, early exit).
@@ -34,15 +34,15 @@ Line the lease up with your stage, semester, or contract. See [renting in Brusse
 Typically 1–3 months. Know it before you sign.
 
 **7. What happens if I need to leave early?**
-Penalty? Lost deposit? Or can you find a replacement? This matters if your plans are uncertain — read [is coliving right for you](/blog/is-coliving-right-for-you-brussels).
+Penalty? Lost deposit? Or can you find a replacement? This matters if your plans are uncertain, read [is coliving right for you](/blog/is-coliving-right-for-you-brussels).
 
 **8. Can I register (domiciliation) at this address?**
-Crucial if you're staying over 3 months. Most [operators](/actors) allow it, but confirm — it's a legal requirement and unlocks your bank account and residence card. See our [registration guide](/blog/how-to-register-brussels-expat-guide).
+Crucial if you're staying over 3 months. Most [operators](/actors) allow it, but confirm, it's a legal requirement and unlocks your bank account and residence card. See our [registration guide](/blog/how-to-register-brussels-expat-guide).
 
 ## About the room & house
 
 **9. Can I see photos or a video of the *specific* room?**
-Not the house in general — the actual room you'll get. Never pay a deposit sight-unseen.
+Not the house in general, the actual room you'll get. Never pay a deposit sight-unseen.
 
 **10. Private or shared bathroom?**
 If an ensuite matters to you, confirm it's truly private, not "semi-private" between two rooms. See [coliving with a private bathroom](/blog/coliving-private-bathroom-brussels).
@@ -51,7 +51,7 @@ If an ensuite matters to you, confirm it's truly private, not "semi-private" bet
 Intimate (6–8) or large (12–15+)? This shapes the whole vibe.
 
 **12. Is there outdoor space, a workspace, or specific amenities?**
-Garden, terrace, coworking, gym — confirm what you're actually getting.
+Garden, terrace, coworking, gym, confirm what you're actually getting.
 
 ## About the community & rules
 
@@ -75,7 +75,7 @@ Sticking with **established, reviewed operators** (browse our [directory](/actor
 
 ## The smart way to shortlist
 
-Rather than sending 15 questions to twelve operators, narrow the field first. Our [matchmaker quiz](/matchmaker) matches your budget, neighbourhood, and preferences to a shortlist in a minute — then you only run the checklist on the two or three that actually fit.
+Rather than sending 15 questions to twelve operators, narrow the field first. Our [matchmaker quiz](/matchmaker) matches your budget, neighbourhood, and preferences to a shortlist in a minute, then you only run the checklist on the two or three that actually fit.
 
 Ask these questions, trust reputable operators, and see the room before you pay. Do that, and your Brussels coliving experience starts on solid ground.
 

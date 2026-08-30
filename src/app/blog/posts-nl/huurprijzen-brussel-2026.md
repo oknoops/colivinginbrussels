@@ -1,6 +1,6 @@
 ---
 title: "Huurprijzen in Brussel in 2026: wat je écht betaalt"
-excerpt: "Een helder, actueel overzicht van wat huren kost in Brussel in 2026 — coliving-kamers, studio's en appartementen per wijk, plus de verborgen kosten die nieuwkomers vergeten."
+excerpt: "Een helder, actueel overzicht van wat huren kost in Brussel in 2026, coliving-kamers, studio's en appartementen per wijk, plus de verborgen kosten die nieuwkomers vergeten."
 date: "2026-07-30"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1556122071-e404eaedb77f?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Huurprijzen", "Levenskosten", "Huisvesting", "2026"]
 
 # Huurprijzen in Brussel in 2026: wat je écht betaalt
 
-Brussel blijft een van de betaalbaardere hoofdsteden van West-Europa — maar "betaalbaar" betekent nog steeds echt geld, en de huur op de affiche is zelden het hele verhaal. Hier is een helder overzicht voor 2026 van wat je effectief betaalt, plus de verborgen kosten die nieuwkomers steevast vergeten.
+Brussel blijft een van de betaalbaardere hoofdsteden van West-Europa, maar "betaalbaar" betekent nog steeds echt geld, en de huur op de affiche is zelden het hele verhaal. Hier is een helder overzicht voor 2026 van wat je effectief betaalt, plus de verborgen kosten die nieuwkomers steevast vergeten.
 
 ## Prijzen coliving-kamers (all-inclusive)
 
@@ -33,7 +33,7 @@ Voor klassieke appartementen zijn de nutsvoorzieningen en lasten niet in de huur
 | Eén slaapkamer | €900–€1.300 | €1.050–€1.500 |
 | Twee slaapkamers | €1.200–€1.700 | €1.400–€2.000 |
 
-Reken ruwweg **€100–€250/maand** extra voor nutsvoorzieningen, internet, water en gebouwlasten bovenop de kale huur — plus een **waarborg van 2 tot 3 maanden** en mogelijke makelaars-/plaatsbeschrijvingskosten vooraf. Zie [huren in Brussel](/nl/kot-brussel).
+Reken ruwweg **€100–€250/maand** extra voor nutsvoorzieningen, internet, water en gebouwlasten bovenop de kale huur, plus een **waarborg van 2 tot 3 maanden** en mogelijke makelaars-/plaatsbeschrijvingskosten vooraf. Zie [huren in Brussel](/nl/kot-brussel).
 
 ## Prijzen per wijk (kamerniveau)
 
@@ -59,12 +59,12 @@ Enkel voor de huur budgetteren is de klassieke fout. Hou ook rekening met:
 *   **Meubilair** (ongemeubelde flats): een grote eenmalige uitgave.
 *   **Inschrijving & administratie**: tijd (geen geld, maar echte wrijving).
 
-Daarom spreekt het ene all-in cijfer van coliving zoveel nieuwkomers aan — geen verrassingen op de rekening.
+Daarom spreekt het ene all-in cijfer van coliving zoveel nieuwkomers aan, geen verrassingen op de rekening.
 
 ## Hoe je de beste prijs-kwaliteit haalt
 
 1.  **Coliving in een voordelige wijk** (Schaarbeek, Vorst) verslaat een studio bijna altijd zodra de kosten meegeteld zijn.
-2.  **Vergelijk all-in vs. kale huur eerlijk** — een "goedkopere" studio kost vaak meer na de nutskosten.
+2.  **Vergelijk all-in vs. kale huur eerlijk**, een "goedkopere" studio kost vaak meer na de nutskosten.
 3.  **Kook met je huisgenoten** om de op één na grootste kost na huur te drukken.
 4.  **Vermijd het hoogseizoen** (sep/feb) voor betere beschikbaarheid.
 

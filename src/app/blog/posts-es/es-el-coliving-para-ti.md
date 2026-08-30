@@ -55,7 +55,7 @@ La forma más rápida de encontrar la tuya: nuestro [test de compatibilidad](/ma
 
 ## Coliving según tu situación
 
-Hemos emparejado los operadores con las personas que mejor encajan con ellos — encuentra el tuyo:
+Hemos emparejado los operadores con las personas que mejor encajan con ellos, encuentra el tuyo:
 
 - [Coliving para estudiantes](/es/coliving-brussels-for/students) · [para becarios](/es/coliving-brussels-for/interns) · [para nómadas digitales](/es/coliving-brussels-for/digital-nomads)
 - [Coliving para jóvenes profesionales](/es/coliving-brussels-for/young-professionals) · [para parejas](/es/coliving-brussels-for/couples) · [para expatriados](/es/coliving-brussels-for/expats)

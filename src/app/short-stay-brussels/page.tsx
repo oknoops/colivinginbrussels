@@ -65,7 +65,7 @@ export default function ShortStayPage() {
                     Short Stay Housing in <span className="text-primary">Brussels</span>
                 </h1>
                 <p className="text-xl text-text">
-                    Flexible housing options for stays from one month to one year — no long-term lease required.
+                    Flexible housing options for stays from one month to one year, no long-term lease required.
                 </p>
             </div>
 
@@ -73,7 +73,7 @@ export default function ShortStayPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">The Challenge of Short-Term Housing in Brussels</h2>
                     <p>
-                        The Belgian rental market is notoriously rigid when it comes to lease lengths. Standard residential leases run for three years (with a penalty for early termination), and even &quot;short-term&quot; leases are typically a minimum of one year. For people who need housing for just a few months — interns, project workers, digital nomads, or expats testing the city — this is a major problem.
+                        The Belgian rental market is notoriously rigid when it comes to lease lengths. Standard residential leases run for three years (with a penalty for early termination), and even &quot;short-term&quot; leases are typically a minimum of one year. For people who need housing for just a few months, interns, project workers, digital nomads, or expats testing the city, this is a major problem.
                     </p>
                     <p className="mt-4">
                         Airbnb is an option for very short stays, but it is expensive for anything longer than a couple of weeks. Serviced apartments exist but can cost 1,500 to 2,500 EUR per month. Subletting carries legal risks in Belgium if not done properly.
@@ -90,22 +90,22 @@ export default function ShortStayPage() {
                     </p>
                     <ul className="mt-4 space-y-3">
                         <li>
-                            <Link href="/actors/habyt" className="text-primary hover:underline font-medium">Habyt</Link> — One of the most flexible operators. Offers month-to-month contracts with short notice periods. Ideal for digital nomads and people who are unsure how long they will stay.
+                            <Link href="/actors/habyt" className="text-primary hover:underline font-medium">Habyt</Link>, One of the most flexible operators. Offers month-to-month contracts with short notice periods. Ideal for digital nomads and people who are unsure how long they will stay.
                         </li>
                         <li>
-                            <Link href="/actors/livecolonies" className="text-primary hover:underline font-medium">LiveColonies</Link> — Offers flexible lease terms starting from three months. Their hotel-like amenities make them particularly suited for temporary stays.
+                            <Link href="/actors/livecolonies" className="text-primary hover:underline font-medium">LiveColonies</Link>, Offers flexible lease terms starting from three months. Their hotel-like amenities make them particularly suited for temporary stays.
                         </li>
                         <li>
-                            <Link href="/actors/corners" className="text-primary hover:underline font-medium">Corners</Link> — Minimum stay of three months, with flexible extensions. Premium experience for professionals on project-based assignments.
+                            <Link href="/actors/corners" className="text-primary hover:underline font-medium">Corners</Link>, Minimum stay of three months, with flexible extensions. Premium experience for professionals on project-based assignments.
                         </li>
                         <li>
-                            <Link href="/actors/cohabs" className="text-primary hover:underline font-medium">Cohabs</Link> — Standard leases of six to twelve months, but some properties offer shorter terms. Worth inquiring about availability for shorter stays.
+                            <Link href="/actors/cohabs" className="text-primary hover:underline font-medium">Cohabs</Link>, Standard leases of six to twelve months, but some properties offer shorter terms. Worth inquiring about availability for shorter stays.
                         </li>
                         <li>
-                            <Link href="/actors/neybor" className="text-primary hover:underline font-medium">Neybor</Link> — Flexible terms available, typically starting from three months. Good mid-range option for short stays.
+                            <Link href="/actors/neybor" className="text-primary hover:underline font-medium">Neybor</Link>, Flexible terms available, typically starting from three months. Good mid-range option for short stays.
                         </li>
                         <li>
-                            <Link href="/actors/colive" className="text-primary hover:underline font-medium">Colive</Link>, <Link href="/actors/ikoab" className="text-primary hover:underline font-medium">Ikoab</Link>, and <Link href="/actors/morton-place" className="text-primary hover:underline font-medium">Morton Place</Link> — Vary by property, but generally more flexible than the traditional market. Contact them directly for short-stay options.
+                            <Link href="/actors/colive" className="text-primary hover:underline font-medium">Colive</Link>, <Link href="/actors/ikoab" className="text-primary hover:underline font-medium">Ikoab</Link>, and <Link href="/actors/morton-place" className="text-primary hover:underline font-medium">Morton Place</Link>, Vary by property, but generally more flexible than the traditional market. Contact them directly for short-stay options.
                         </li>
                     </ul>
                 </div>
@@ -126,7 +126,7 @@ export default function ShortStayPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Monthly Rentals and Internships</h2>
                     <p>
-                        Brussels hosts thousands of interns every year, particularly at EU institutions, law firms, and NGOs. Most internships last three to six months — a period that is too long for a hotel but too short for a traditional lease.
+                        Brussels hosts thousands of interns every year, particularly at EU institutions, law firms, and NGOs. Most internships last three to six months, a period that is too long for a hotel but too short for a traditional lease.
                     </p>
                     <p className="mt-4">
                         Coliving is the ideal solution for interns. The all-inclusive pricing makes budgeting easy, the community aspect helps you build a social network fast, and the furnished rooms mean you can focus on your work rather than setting up a household.

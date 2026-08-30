@@ -24,9 +24,9 @@ export const metadata: Metadata = {
 const FAQ = [
     { q: '¿Cuánto cuesta compartir piso en Bruselas?', a: 'Una habitación en piso compartido en Bruselas cuesta normalmente entre 450 € y 750 € al mes en un piso compartido clásico, y entre 500 € y 1.000 € todo incluido en coliving gestionado. El precio depende del barrio, del tamaño de la habitación y de si tiene baño propio. Barrios más económicos como Schaerbeek o Forest arrancan más bajo; Ixelles y Uccle son más caros.' },
     { q: '¿Cuál es la diferencia entre piso compartido y coliving?', a: 'El piso compartido clásico es alquilar una habitación en un piso: alquiler más bajo, pero gestionas tú los suministros, los muebles y la búsqueda de compañeros. El coliving es un piso compartido gestionado y amueblado: un solo pago todo incluido (alquiler, suministros, wifi, limpieza), contratos flexibles y a menudo una comunidad real con eventos. El coliving cuesta algo más pero elimina casi toda la gestión.' },
-    { q: '¿Necesitas avalista para compartir piso en Bruselas?', a: 'En un alquiler clásico suele pedirse un avalista o una fianza bloqueada (2 o 3 meses). Los operadores de coliving raramente piden un avalista belga: una fianza (normalmente 1 o 2 meses) y el primer mes de alquiler suelen bastar — ideal para recién llegados e internacionales.' },
-    { q: '¿Puedes empadronarte en un piso compartido?', a: 'Sí. Si te quedas más de 3 meses, el empadronamiento en el ayuntamiento es obligatorio. La mayoría de pisos compartidos y operadores de coliving facilitan un contrato que lo permite — compruébalo siempre antes de firmar, porque es necesario para tu tarjeta de residencia, cuenta bancaria y seguro médico.' },
-    { q: '¿Dónde encontrar piso compartido en Bruselas?', a: 'Para un piso compartido clásico: grupos de Facebook, Immoweb y Appartager. Para uno gestionado (coliving), recurre a operadores consolidados y de confianza como Cohabs, Colive, Ikoab o Coloc Housing — más seguro, sin estafas de fianza y a menudo todo incluido.' },
+    { q: '¿Necesitas avalista para compartir piso en Bruselas?', a: 'En un alquiler clásico suele pedirse un avalista o una fianza bloqueada (2 o 3 meses). Los operadores de coliving raramente piden un avalista belga: una fianza (normalmente 1 o 2 meses) y el primer mes de alquiler suelen bastar, ideal para recién llegados e internacionales.' },
+    { q: '¿Puedes empadronarte en un piso compartido?', a: 'Sí. Si te quedas más de 3 meses, el empadronamiento en el ayuntamiento es obligatorio. La mayoría de pisos compartidos y operadores de coliving facilitan un contrato que lo permite, compruébalo siempre antes de firmar, porque es necesario para tu tarjeta de residencia, cuenta bancaria y seguro médico.' },
+    { q: '¿Dónde encontrar piso compartido en Bruselas?', a: 'Para un piso compartido clásico: grupos de Facebook, Immoweb y Appartager. Para uno gestionado (coliving), recurre a operadores consolidados y de confianza como Cohabs, Colive, Ikoab o Coloc Housing, más seguro, sin estafas de fianza y a menudo todo incluido.' },
 ];
 
 export default function PisoCompartidoBruselas() {
@@ -54,15 +54,15 @@ export default function PisoCompartidoBruselas() {
                 <p className="text-sm text-orange-500 font-semibold mb-3">Guía · Bruselas</p>
                 <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-6 leading-tight">Piso compartido en Bruselas: la guía completa (2026)</h1>
                 <p className="text-xl text-text mb-10 leading-relaxed">
-                    Compartir piso en Bruselas puede parecer complicado: precios, barrios, avalistas, empadronamiento… Esta es la guía local e independiente para entenderlo todo y encontrar una habitación donde sentirte como en casa — sin estrés y sin comisiones.
+                    Compartir piso en Bruselas puede parecer complicado: precios, barrios, avalistas, empadronamiento… Esta es la guía local e independiente para entenderlo todo y encontrar una habitación donde sentirte como en casa, sin estrés y sin comisiones.
                 </p>
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
                     <h2>¿Piso compartido o coliving?</h2>
                     <p>En Bruselas tienes dos grandes opciones para compartir vivienda:</p>
                     <ul>
-                        <li><strong>Piso compartido clásico</strong> — alquilas una habitación en un piso o casa. Alquiler más bajo, pero gestionas tú los suministros (agua, gas, electricidad), el wifi, los muebles y la búsqueda de compañeros de confianza.</li>
-                        <li><strong>Coliving</strong> — un piso compartido gestionado y totalmente amueblado. Un solo pago todo incluido (alquiler + suministros + wifi + limpieza), contratos flexibles de 1 a 6 meses, y a menudo una comunidad real con cenas y eventos.</li>
+                        <li><strong>Piso compartido clásico</strong>, alquilas una habitación en un piso o casa. Alquiler más bajo, pero gestionas tú los suministros (agua, gas, electricidad), el wifi, los muebles y la búsqueda de compañeros de confianza.</li>
+                        <li><strong>Coliving</strong>, un piso compartido gestionado y totalmente amueblado. Un solo pago todo incluido (alquiler + suministros + wifi + limpieza), contratos flexibles de 1 a 6 meses, y a menudo una comunidad real con cenas y eventos.</li>
                     </ul>
                     <p>Para una primera estancia en Bruselas, sobre todo solo y por unos meses o años, el <Link href="/es/coliving-bruselas">coliving</Link> suele ser lo más fácil: cero gestión y vida social desde el primer día.</p>
 
@@ -93,10 +93,10 @@ export default function PisoCompartidoBruselas() {
 
                     <h2>Los mejores barrios para compartir piso</h2>
                     <ul>
-                        <li><strong><Link href="/neighborhoods/ixelles">Ixelles</Link></strong> — el barrio estrella para jóvenes profesionales e internacionales (800–1.200 €).</li>
-                        <li><strong><Link href="/neighborhoods/saint-gilles">Saint-Gilles</Link></strong> — bohemio, céntrico, algo más barato (700–1.100 €).</li>
-                        <li><strong><Link href="/neighborhoods/schaerbeek">Schaerbeek</Link></strong> — la mejor relación calidad-precio (600–950 €).</li>
-                        <li><strong><Link href="/neighborhoods/etterbeek">Etterbeek</Link></strong> — tranquilo y práctico, cerca de las instituciones europeas.</li>
+                        <li><strong><Link href="/neighborhoods/ixelles">Ixelles</Link></strong>, el barrio estrella para jóvenes profesionales e internacionales (800–1.200 €).</li>
+                        <li><strong><Link href="/neighborhoods/saint-gilles">Saint-Gilles</Link></strong>, bohemio, céntrico, algo más barato (700–1.100 €).</li>
+                        <li><strong><Link href="/neighborhoods/schaerbeek">Schaerbeek</Link></strong>, la mejor relación calidad-precio (600–950 €).</li>
+                        <li><strong><Link href="/neighborhoods/etterbeek">Etterbeek</Link></strong>, tranquilo y práctico, cerca de las instituciones europeas.</li>
                     </ul>
                     <p>Descubre todas nuestras <Link href="/es/barrios">guías de barrios</Link> para encontrar el tuyo.</p>
 
@@ -123,7 +123,7 @@ export default function PisoCompartidoBruselas() {
 
                 <div className="mt-16 bg-amber-50 rounded-2xl border border-orange-100 p-8 text-center">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-3">Encuentra tu sitio en Bruselas</h2>
-                    <p className="text-text mb-6">Compara los operadores de coliving o descubre los pisos compartidos clásicos — te ayudamos a encontrar un sitio acogedor.</p>
+                    <p className="text-text mb-6">Compara los operadores de coliving o descubre los pisos compartidos clásicos, te ayudamos a encontrar un sitio acogedor.</p>
                     <div className="flex flex-col sm:flex-row gap-3 justify-center">
                         <Link href="/actors" className="bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-lg transition-colors">Ver los operadores</Link>
                         <Link href="/es/coliving-bruselas" className="bg-white border border-border hover:border-orange-400 text-text-dark font-semibold px-8 py-3 rounded-lg transition-colors">El coliving explicado</Link>

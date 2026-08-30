@@ -1,6 +1,6 @@
 ---
 title: "The Real Cost of Living in Brussels in 2026: An Honest Expat Breakdown"
-excerpt: "Rent, food, transport, going out — here's what Brussels actually costs per month, with real numbers from people who live there."
+excerpt: "Rent, food, transport, going out, here's what Brussels actually costs per month, with real numbers from people who live there."
 date: "2026-02-25"
 author: "ColivingInBrussels"
 coverImage: "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Cost of Living", "Brussels", "Expats", "Budget", "Finance"]
 
 # The Real Cost of Living in Brussels in 2026
 
-Brussels has a reputation for being expensive. But compared to London, Paris, or Amsterdam, it's surprisingly affordable — especially if you know how to navigate it. Here's an honest breakdown of what you'll actually spend each month.
+Brussels has a reputation for being expensive. But compared to London, Paris, or Amsterdam, it's surprisingly affordable, especially if you know how to navigate it. Here's an honest breakdown of what you'll actually spend each month.
 
 ---
 
@@ -30,7 +30,7 @@ A comfortable expat life in Brussels typically costs between **€1,400 and €2
 
 ## Housing: Your Biggest Cost
 
-Housing is where Brussels surprises people — it's significantly cheaper than comparable European capitals.
+Housing is where Brussels surprises people, it's significantly cheaper than comparable European capitals.
 
 ### Coliving (the smartest option for newcomers)
 If you're new to Brussels, **coliving is the best value option**. Everything is included: furniture, utilities, WiFi, often cleaning. Prices range from:
@@ -46,7 +46,7 @@ If you want your own apartment:
 - **1-bedroom**: €1,000–€1,400/month
 - **Outside the pentagon (Etterbeek, Schaerbeek)**: €700–€950/month
 
-Most landlords require 2 months' security deposit plus the first month's rent upfront — budget **€2,500–€3,500** to move in.
+Most landlords require 2 months' security deposit plus the first month's rent upfront, budget **€2,500–€3,500** to move in.
 
 ---
 
@@ -124,7 +124,7 @@ Be prepared for these upfront costs in your first month:
 - **Security deposit** (if renting privately): 2 months rent
 - **Moving/shipping**: varies wildly
 
-If you're doing coliving, you can skip most of this — one suitcase is genuinely enough to get started.
+If you're doing coliving, you can skip most of this, one suitcase is genuinely enough to get started.
 
 ---
 

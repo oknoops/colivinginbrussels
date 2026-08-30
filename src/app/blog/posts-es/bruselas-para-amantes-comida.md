@@ -9,7 +9,7 @@ tags: ["Comida", "Restaurantes", "Sibaritas", "Qué hacer"]
 
 # Bruselas para amantes de la comida: el mapa gastronómico del recién llegado
 
-Bruselas es, sin hacer ruido, una de las grandes ciudades gastronómicas de Europa. Tiene más estrellas Michelin per cápita que la mayoría de las capitales, una feroz herencia de chocolate y cerveza y —porque un tercio de la ciudad es internacional— una asombrosa variedad de cocinas del mundo. Si te encanta comer, te has mudado al lugar correcto. Aquí tienes tu mapa.
+Bruselas es, sin hacer ruido, una de las grandes ciudades gastronómicas de Europa. Tiene más estrellas Michelin per cápita que la mayoría de las capitales, una feroz herencia de chocolate y cerveza y, porque un tercio de la ciudad es internacional, una asombrosa variedad de cocinas del mundo. Si te encanta comer, te has mudado al lugar correcto. Aquí tienes tu mapa.
 
 ## Los clásicos belgas (empieza por estos)
 

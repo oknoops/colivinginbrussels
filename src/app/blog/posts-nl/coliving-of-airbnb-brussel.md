@@ -23,18 +23,18 @@ Airbnb-prijzen zijn gebouwd voor korte toeristische verblijven, en zelfs met maa
 | Service-/boekingskosten | 10–20% bovenop | Geen (één huur) |
 | Meubels & keuken | Ja | Ja |
 
-Voor een verblijf van 1–6 maanden is coliving heel vaak **de helft van de prijs of minder** — en je slaat de Airbnb-servicekosten en verrassende schoonmaakfacturen over. Vergelijk echte operatorprijzen op onze [prijzenpagina](/nl/prijzen-coliving-brussel).
+Voor een verblijf van 1–6 maanden is coliving heel vaak **de helft van de prijs of minder**, en je slaat de Airbnb-servicekosten en verrassende schoonmaakfacturen over. Vergelijk echte operatorprijzen op onze [prijzenpagina](/nl/prijzen-coliving-brussel).
 
 ## Het verschil in levensstijl
 
 Geld terzijde, de grotere kloof zit in *hoe het voelt*:
 
-*   **Airbnb = een kamer, alleen.** Geweldig voor een week. Over maanden is het isolerend — je komt aan in een leeg appartement in een nieuwe stad en moet vanaf nul een sociaal leven opbouwen.
+*   **Airbnb = een kamer, alleen.** Geweldig voor een week. Over maanden is het isolerend, je komt aan in een leeg appartement in een nieuwe stad en moet vanaf nul een sociaal leven opbouwen.
 *   **Coliving = een thuis met mensen.** Je landt in een groep huisgenoten, gedeelde etentjes en een kant-en-klare vriendenkring. Voor nieuwkomers is dit het verschil tussen een eenzame periode en de mooiste maanden van je leven. Lees [is coliving iets voor jou](/nl/blog/is-coliving-iets-voor-jou).
 
 ## Het verschil in administratie
 
-*   **Inschrijven (domiciliëren):** België verplicht je om je adres in te schrijven als je langer dan 3 maanden blijft. De meeste [coliving-operators](/actors) bezorgen een degelijk huurcontract dat dit toelaat. Airbnb-hosts laten je meestal **niet** inschrijven — een echt probleem voor langere verblijven. Zie onze [gids over huren in Brussel](/nl/blog/huren-in-brussel-gids).
+*   **Inschrijven (domiciliëren):** België verplicht je om je adres in te schrijven als je langer dan 3 maanden blijft. De meeste [coliving-operators](/actors) bezorgen een degelijk huurcontract dat dit toelaat. Airbnb-hosts laten je meestal **niet** inschrijven, een echt probleem voor langere verblijven. Zie onze [gids over huren in Brussel](/nl/blog/huren-in-brussel-gids).
 *   **Flexibiliteit:** coliving-contracten lopen 1–6 maanden met duidelijke voorwaarden; Airbnb van maand tot maand werkt ook, maar aan premium-tarieven afgeleid van de nachtprijs.
 *   **Ondersteuning:** coliving-huizen hebben beheerders; Airbnb-support is op afstand en wisselvallig.
 
@@ -49,11 +49,11 @@ Een slimme zet die veel nieuwkomers gebruiken: boek een **paar nachten op Airbnb
 
 ## Wanneer coliving wint (meestal dus)
 
-Voor de typische nieuwkomer — **1–6 maanden, alleen, met de wens om echt mensen te leren kennen en niet te veel uit te geven** — wint coliving op kost, community en administratie. Het is geen close call.
+Voor de typische nieuwkomer, **1–6 maanden, alleen, met de wens om echt mensen te leren kennen en niet te veel uit te geven**, wint coliving op kost, community en administratie. Het is geen close call.
 
 ## De conclusie
 
-Airbnb is een prima alternatief voor een hotel en een slechte woonst op middellange termijn. Blijf je een maand of langer in Brussel, dan is coliving goedkoper, warmer en veel minder eenzaam — en het lost de inschrijvingshoofdpijn op die Airbnb creëert. Gebruik Airbnb voor je eerste paar nachten als het moet, en trek daarna in een echte thuis.
+Airbnb is een prima alternatief voor een hotel en een slechte woonst op middellange termijn. Blijf je een maand of langer in Brussel, dan is coliving goedkoper, warmer en veel minder eenzaam, en het lost de inschrijvingshoofdpijn op die Airbnb creëert. Gebruik Airbnb voor je eerste paar nachten als het moet, en trek daarna in een echte thuis.
 
 ---
 

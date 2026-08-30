@@ -40,7 +40,7 @@ Si prefieres una vía formal y más rápida:
 
 ## La etiqueta que importa más que la gramática
 
-Antes de tener fluidez, un hábito transforma cada interacción: **saluda primero en francés.** Un simple "Bonjour" antes de pedir nada —en tiendas, en mostradores, por teléfono— es la diferencia entre ser educado o maleducado en Bélgica. Añade "s'il vous plaît", "merci" y "bonne journée" y habrás comprado una enorme buena voluntad con cuatro palabras. Consulta [cómo integrarte](/es/blog/como-integrarse-en-bruselas).
+Antes de tener fluidez, un hábito transforma cada interacción: **saluda primero en francés.** Un simple "Bonjour" antes de pedir nada, en tiendas, en mostradores, por teléfono, es la diferencia entre ser educado o maleducado en Bélgica. Añade "s'il vous plaît", "merci" y "bonne journée" y habrás comprado una enorme buena voluntad con cuatro palabras. Consulta [cómo integrarte](/es/blog/como-integrarse-en-bruselas).
 
 Y recuerda que el francés belga tiene sus rarezas: **septante** (70) y **nonante** (90), además de expresiones locales. Nuestra [guía de jerga de Bruselas](/es/blog/diccionario-jerga-bruselas) te hará sonar como un local.
 

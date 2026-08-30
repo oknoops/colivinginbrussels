@@ -9,7 +9,7 @@ tags: ["Inschrijving", "Administratie", "Expats", "Brussel", "Praktische gids"]
 
 # Je domiciliëren als expat in Brussel (gids 2026)
 
-Je adres inschrijven in België — **domiciliëren** genoemd — is een van de eerste en belangrijkste administratieve stappen wanneer je naar Brussel verhuist. Het ontgrendelt je Belgische identiteitskaart, toegang tot gezondheidszorg, stemrecht (voor EU-burgers) en je belastingdossier. Dit is precies hoe je het aanpakt.
+Je adres inschrijven in België, **domiciliëren** genoemd, is een van de eerste en belangrijkste administratieve stappen wanneer je naar Brussel verhuist. Het ontgrendelt je Belgische identiteitskaart, toegang tot gezondheidszorg, stemrecht (voor EU-burgers) en je belastingdossier. Dit is precies hoe je het aanpakt.
 
 ---
 
@@ -96,10 +96,10 @@ Zodra je inschrijving bevestigd is, krijg je een brief die je uitnodigt om je id
 
 Zodra je je identiteitskaart hebt (of je rijksregisternummer/NISS van de gemeente), sluit je je aan bij een **mutualiteit** (ziekenfonds). De belangrijkste opties:
 
-- **Christelijke Mutualiteit / Mutualité Chrétienne (CM/MC)** — de grootste en handigste
-- **Solidaris** — voor werknemers aangesloten bij bepaalde vakbonden
-- **Liberale Mutualiteit / Mutualité Libérale** — politiek liberaler
-- **Partenamut** — neutraal
+- **Christelijke Mutualiteit / Mutualité Chrétienne (CM/MC)**, de grootste en handigste
+- **Solidaris**, voor werknemers aangesloten bij bepaalde vakbonden
+- **Liberale Mutualiteit / Mutualité Libérale**, politiek liberaler
+- **Partenamut**, neutraal
 
 De aansluiting is gratis (je betaalt een kleine jaarlijkse bijdrage van €40-€90). Na je aansluiting krijg je je **SIS-kaart** en begin je te genieten van de Belgische terugbetalingen in de gezondheidszorg (meestal 75% terug op de meeste zorg).
 
@@ -109,15 +109,15 @@ De aansluiting is gratis (je betaalt een kleine jaarlijkse bijdrage van €40-�
 
 **"De gemeente aanvaardt mijn coliving-adres niet"**
 
-Dit is zeldzaam, maar gebeurt af en toe. Vraag je coliving-operator een officiële brief op briefpapier die bevestigt dat je er woont. Blijft het probleem, vraag de operator of ze hier ervaring mee hebben — de meeste gevestigde operators wel.
+Dit is zeldzaam, maar gebeurt af en toe. Vraag je coliving-operator een officiële brief op briefpapier die bevestigt dat je er woont. Blijft het probleem, vraag de operator of ze hier ervaring mee hebben, de meeste gevestigde operators wel.
 
 **"Ik krijg wekenlang geen afspraak"**
 
 Veel gemeenten hebben vrije loketuren in de ochtend. Kom vroeg langs op maandag of dinsdag. Of ga naar een kleinere gemeente (zoals Elsene of Watermaal-Bosvoorde), die soms kortere wachtrijen heeft dan de centrale gemeente Brussel.
 
-**"Mijn verificatiebezoek mislukte — ik was niet thuis"**
+**"Mijn verificatiebezoek mislukte, ik was niet thuis"**
 
-Je krijgt een bericht om je met je documenten aan te bieden bij het lokale politiekantoor. Geen paniek — dit komt vaak voor en is makkelijk op te lossen. Breng je contract en identiteitskaart mee.
+Je krijgt een bericht om je met je documenten aan te bieden bij het lokale politiekantoor. Geen paniek, dit komt vaak voor en is makkelijk op te lossen. Breng je contract en identiteitskaart mee.
 
 **"Ik heb een Belgische bankrekening nodig maar kan me nog niet inschrijven"**
 

@@ -30,7 +30,7 @@ A partir de ahí, un curso de francés para principiantes renta socialmente much
 Bruselas funciona con ritmos que los recién llegados suelen pasar por alto:
 
 *   **Los mercados de los domingos** son instituciones sociales, no solo compras. Gare du Midi (enorme, barato, caótico), Flagey, Châtelain los miércoles. Ir con regularidad te conecta con el pulso de un barrio.
-*   **La cultura del *apéro* es real.** La copa después del trabajo en una terraza — una *pils*, un *spritz*, un plato de queso y salami — es donde de verdad nacen las amistades. Di que sí al apéro.
+*   **La cultura del *apéro* es real.** La copa después del trabajo en una terraza, una *pils*, un *spritz*, un plato de queso y salami, es donde de verdad nacen las amistades. Di que sí al apéro.
 *   **Los domingos son lentos.** Muchas tiendas cierran. Aprovéchalo: una comida larga, un paseo por el Bois de la Cambre, un museo.
 
 ## 4. Abraza la filosofía del tiempo

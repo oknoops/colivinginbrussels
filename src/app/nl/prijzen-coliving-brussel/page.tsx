@@ -83,7 +83,7 @@ export default function PrijzenColivingBrussel() {
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
                     <h2>Wat is inbegrepen in de huur</h2>
-                    <p>In tegenstelling tot een klassieke huur is de huur bij coliving <strong>all-in</strong> — één maandelijkse betaling die omvat:</p>
+                    <p>In tegenstelling tot een klassieke huur is de huur bij coliving <strong>all-in</strong>, één maandelijkse betaling die omvat:</p>
                     <ul>
                         <li>De lasten (water, gas, elektriciteit)</li>
                         <li>Snelle wifi</li>
@@ -94,7 +94,7 @@ export default function PrijzenColivingBrussel() {
 
                     <h2>Coliving of studio: de echte rekening</h2>
                     <p>
-                        Een studio in Brussel kost €700–€1.000 kale huur, plus €100–€200 lasten, wifi en verzekering — dus €800–€1.200 totaal, zonder meubels. Een kamer in coliving van €600–€900 all-in is vaak voordeliger, gemeubeld, en zonder makelaarskosten of Belgische borgsteller. Zie ook onze gids over <Link href="/nl/samenhuizen-brussel">samenhuizen in Brussel</Link>.
+                        Een studio in Brussel kost €700–€1.000 kale huur, plus €100–€200 lasten, wifi en verzekering, dus €800–€1.200 totaal, zonder meubels. Een kamer in coliving van €600–€900 all-in is vaak voordeliger, gemeubeld, en zonder makelaarskosten of Belgische borgsteller. Zie ook onze gids over <Link href="/nl/samenhuizen-brussel">samenhuizen in Brussel</Link>.
                     </p>
 
                     <h2>Prijs per wijk</h2>

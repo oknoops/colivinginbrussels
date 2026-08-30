@@ -109,7 +109,7 @@ export default function AdvertisePage() {
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         {[
-                            { emoji: '🎯', title: 'High purchase intent', body: 'Our visitors aren&apos;t browsing — they&apos;re moving. They&apos;re comparing operators and neighborhoods with a decision weeks away.' },
+                            { emoji: '🎯', title: 'High purchase intent', body: 'Our visitors aren&apos;t browsing, they&apos;re moving. They&apos;re comparing operators and neighborhoods with a decision weeks away.' },
                             { emoji: '🔎', title: 'Built to be found', body: `A fast-growing library of SEO guides and ${operatorCount} operator profiles that rank for exactly the searches your future residents type.` },
                             { emoji: '🤝', title: 'Trusted &amp; independent', body: 'We take no booking commissions, so our recommendations carry weight. A feature here reads as credible, not salesy.' },
                         ].map((b) => (
@@ -140,7 +140,7 @@ export default function AdvertisePage() {
                         ))}
                     </div>
                     <p className="text-center text-xs text-gray-500 mt-8 max-w-xl mx-auto">
-                        We&apos;re early and growing fast. Ask us for current traffic and audience figures — we&apos;ll share them transparently, and early partners lock in founder pricing.
+                        We&apos;re early and growing fast. Ask us for current traffic and audience figures, we&apos;ll share them transparently, and early partners lock in founder pricing.
                     </p>
                 </div>
             </section>

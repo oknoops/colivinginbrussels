@@ -114,6 +114,6 @@ Los espacios de coliving tienden a concentrarse en barrios populares: Elsene (Ix
 
 ## Nuestra recomendación
 
-Para quienes acaban de llegar a Bruselas, en general recomendamos empezar con coliving. La flexibilidad, la comunidad ya integrada y la ausencia de complicaciones de montaje lo convierten en la plataforma de aterrizaje perfecta. Una vez que te hayas asentado —conozcas los barrios, hagas amigos y decidas dónde quieres instalarte— siempre puedes pasar a un piso compartido tradicional para ahorrar.
+Para quienes acaban de llegar a Bruselas, en general recomendamos empezar con coliving. La flexibilidad, la comunidad ya integrada y la ausencia de complicaciones de montaje lo convierten en la plataforma de aterrizaje perfecta. Una vez que te hayas asentado, conozcas los barrios, hagas amigos y decidas dónde quieres instalarte, siempre puedes pasar a un piso compartido tradicional para ahorrar.
 
 Bruselas tiene uno de los mercados de coliving más competitivos de Europa, con operadores consolidados que ofrecen un amplio abanico de precios y estilos. Aprovéchalo.

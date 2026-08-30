@@ -9,12 +9,12 @@ tags: ["Coliving", "Checklist", "Contrat", "Nouveaux venus"]
 
 # 15 questions à poser avant de signer un contrat de coliving à Bruxelles
 
-Le coliving à Bruxelles se passe généralement sans accroc — mais la différence entre une super expérience et une expérience frustrante tient souvent aux questions que vous *n'avez pas* posées avant de signer. Voici la checklist. Copiez-la dans votre premier message à n'importe quel opérateur.
+Le coliving à Bruxelles se passe généralement sans accroc, mais la différence entre une super expérience et une expérience frustrante tient souvent aux questions que vous *n'avez pas* posées avant de signer. Voici la checklist. Copiez-la dans votre premier message à n'importe quel opérateur.
 
 ## À propos de l'argent
 
 **1. Qu'est-ce qui est inclus exactement dans le loyer ?**
-Confirmez les charges (eau, gaz, électricité), le wifi, le ménage des espaces communs et tout extra (produits d'entretien, Netflix). « Tout compris » doit vraiment tout comprendre — demandez la liste.
+Confirmez les charges (eau, gaz, électricité), le wifi, le ménage des espaces communs et tout extra (produits d'entretien, Netflix). « Tout compris » doit vraiment tout comprendre, demandez la liste.
 
 **2. Combien coûte la caution, et quand la récupère-t-on ?**
 En général 1 à 2 mois. Demandez *comment* et *quand* elle est restituée, et ce qui pourrait la réduire (dégâts, ménage, départ anticipé).
@@ -34,15 +34,15 @@ Alignez le bail sur votre stage, votre semestre ou votre contrat. Voyez notre [g
 Typiquement 1 à 3 mois. Sachez-le avant de signer.
 
 **7. Que se passe-t-il si je dois partir plus tôt ?**
-Pénalité ? Caution perdue ? Ou pouvez-vous trouver un remplaçant ? Ça compte si vos projets sont incertains — lisez [le coliving est-il fait pour vous](/fr/blog/le-coliving-est-il-fait-pour-vous).
+Pénalité ? Caution perdue ? Ou pouvez-vous trouver un remplaçant ? Ça compte si vos projets sont incertains, lisez [le coliving est-il fait pour vous](/fr/blog/le-coliving-est-il-fait-pour-vous).
 
 **8. Puis-je me domicilier à cette adresse ?**
-Crucial si vous restez plus de 3 mois. La plupart des [opérateurs](/actors) le permettent, mais confirmez — c'est une obligation légale qui débloque votre compte en banque et votre titre de séjour. Voyez notre [guide complet du coliving à Bruxelles](/fr/coliving-bruxelles).
+Crucial si vous restez plus de 3 mois. La plupart des [opérateurs](/actors) le permettent, mais confirmez, c'est une obligation légale qui débloque votre compte en banque et votre titre de séjour. Voyez notre [guide complet du coliving à Bruxelles](/fr/coliving-bruxelles).
 
 ## À propos de la chambre et de la maison
 
 **9. Puis-je voir des photos ou une vidéo de la chambre *précise* ?**
-Pas la maison en général — la chambre exacte que vous aurez. Ne payez jamais une caution sans avoir vu.
+Pas la maison en général, la chambre exacte que vous aurez. Ne payez jamais une caution sans avoir vu.
 
 **10. Salle de bain privative ou partagée ?**
 Si une salle de bain attenante compte pour vous, confirmez qu'elle est vraiment privative, et non « semi-privative » entre deux chambres. Voyez notre [guide du coliving à Bruxelles](/fr/coliving-bruxelles).
@@ -51,7 +51,7 @@ Si une salle de bain attenante compte pour vous, confirmez qu'elle est vraiment 
 Intime (6–8) ou grande (12–15 et plus) ? Ça façonne toute l'ambiance.
 
 **12. Y a-t-il un espace extérieur, un espace de travail ou des équipements précis ?**
-Jardin, terrasse, coworking, salle de sport — confirmez ce que vous obtenez réellement.
+Jardin, terrasse, coworking, salle de sport, confirmez ce que vous obtenez réellement.
 
 ## À propos de la communauté et des règles
 
@@ -75,7 +75,7 @@ S'en tenir à des **opérateurs établis et évalués** (parcourez notre [annuai
 
 ## La façon intelligente d'établir une shortlist
 
-Plutôt que d'envoyer 15 questions à douze opérateurs, resserrez d'abord le champ. Notre [quiz de matchmaking](/matchmaker) associe votre budget, votre quartier et vos préférences à une shortlist en une minute — ensuite, vous ne faites tourner la checklist que sur les deux ou trois qui collent vraiment.
+Plutôt que d'envoyer 15 questions à douze opérateurs, resserrez d'abord le champ. Notre [quiz de matchmaking](/matchmaker) associe votre budget, votre quartier et vos préférences à une shortlist en une minute, ensuite, vous ne faites tourner la checklist que sur les deux ou trois qui collent vraiment.
 
 Posez ces questions, faites confiance aux opérateurs réputés, et voyez la chambre avant de payer. Faites ça, et votre expérience de coliving à Bruxelles démarrera sur des bases solides.
 

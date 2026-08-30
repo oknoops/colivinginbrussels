@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 // AI answer-engine crawlers we explicitly welcome (GEO). Being explicitly
-// allow-listed makes it clear these bots may index and cite the site — the
+// allow-listed makes it clear these bots may index and cite the site, the
 // whole point of appearing in ChatGPT, Perplexity, Gemini, Claude, etc.
 const AI_BOTS = [
     'GPTBot',           // OpenAI training/index

@@ -98,9 +98,9 @@ export type HoodUI = {
 export const HOOD_UI: Record<Loc, HoodUI> = {
     fr: {
         city: 'Bruxelles', prefix: '/fr', hoodsHref: '/fr/quartiers',
-        metaTitle: (n) => `Coliving à ${n}, Bruxelles — Prix & meilleurs espaces (2026)`,
+        metaTitle: (n) => `Coliving à ${n}, Bruxelles, Prix & meilleurs espaces (2026)`,
         metaDesc: (n, rent) => `Coliving à ${n} : quels opérateurs ont des chambres, les vrais prix (${rent}/mois), l'ambiance du quartier et comment trouver votre logement. Guide local et indépendant.`,
-        intro: (n) => `Voici où trouver un coliving à ${n} — les opérateurs présents, les vrais prix et à quoi ressemble la vie dans le quartier.`,
+        intro: (n) => `Voici où trouver un coliving à ${n}, les opérateurs présents, les vrais prix et à quoi ressemble la vie dans le quartier.`,
         perMonth: '/mois', operatorsWord: 'opérateurs',
         basedHeading: (n) => `Colivings à ${n}`,
         citywideHeading: (n) => `Opérateurs présents dans tout Bruxelles, y compris à ${n}`,
@@ -122,9 +122,9 @@ export const HOOD_UI: Record<Loc, HoodUI> = {
     },
     nl: {
         city: 'Brussel', prefix: '/nl', hoodsHref: '/nl/wijken',
-        metaTitle: (n) => `Coliving in ${n}, Brussel — Prijzen & beste plekken (2026)`,
+        metaTitle: (n) => `Coliving in ${n}, Brussel, Prijzen & beste plekken (2026)`,
         metaDesc: (n, rent) => `Coliving in ${n}: welke operators kamers hebben, de echte prijzen (${rent}/maand), de sfeer van de wijk en hoe je jouw plek vindt. Lokale, onafhankelijke gids.`,
-        intro: (n) => `Hier vind je coliving in ${n} — de operators die er kamers hebben, de echte prijzen en hoe het is om er te wonen.`,
+        intro: (n) => `Hier vind je coliving in ${n}, de operators die er kamers hebben, de echte prijzen en hoe het is om er te wonen.`,
         perMonth: '/maand', operatorsWord: 'operators',
         basedHeading: (n) => `Colivings in ${n}`,
         citywideHeading: (n) => `Operators actief in heel Brussel, ook in ${n}`,
@@ -146,9 +146,9 @@ export const HOOD_UI: Record<Loc, HoodUI> = {
     },
     es: {
         city: 'Bruselas', prefix: '/es', hoodsHref: '/es/barrios',
-        metaTitle: (n) => `Coliving en ${n}, Bruselas — Precios y mejores espacios (2026)`,
+        metaTitle: (n) => `Coliving en ${n}, Bruselas, Precios y mejores espacios (2026)`,
         metaDesc: (n, rent) => `Coliving en ${n}: qué operadores tienen habitaciones, los precios reales (${rent}/mes), el ambiente del barrio y cómo encontrar tu sitio. Guía local e independiente.`,
-        intro: (n) => `Aquí tienes dónde encontrar coliving en ${n} — los operadores presentes, los precios reales y cómo es vivir en el barrio.`,
+        intro: (n) => `Aquí tienes dónde encontrar coliving en ${n}, los operadores presentes, los precios reales y cómo es vivir en el barrio.`,
         perMonth: '/mes', operatorsWord: 'operadores',
         basedHeading: (n) => `Colivings en ${n}`,
         citywideHeading: (n) => `Operadores presentes en toda Bruselas, también en ${n}`,

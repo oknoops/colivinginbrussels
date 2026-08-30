@@ -13,7 +13,7 @@ tags: ["Seguridad", "Recién llegados", "Expatriados", "Práctico"]
 
 ## El panorama general
 
-Para el día a día —desplazarse, trabajar, salir, comprar— Bruselas se siente segura y manejable. El delito violento no es una preocupación habitual para los residentes. Los problemas más comunes son el **hurto y los carteristas** en los puntos calientes turísticos y de transporte concurridos, algo cierto en París, Barcelona, Roma y cualquier ciudad comparable.
+Para el día a día, desplazarse, trabajar, salir, comprar, Bruselas se siente segura y manejable. El delito violento no es una preocupación habitual para los residentes. Los problemas más comunes son el **hurto y los carteristas** en los puntos calientes turísticos y de transporte concurridos, algo cierto en París, Barcelona, Roma y cualquier ciudad comparable.
 
 ## Dónde estar un poco más alerta
 
@@ -21,7 +21,7 @@ Para el día a día —desplazarse, trabajar, salir, comprar— Bruselas se sien
 - **Zonas turísticas concurridas** (Grand-Place, Rue Neuve): territorio clásico de carteristas. Vigila tus bolsillos entre la multitud.
 - **Algunos rincones de la ciudad de noche**: como en cualquier sitio, usa el sentido común después del anochecer.
 
-Los barrios populares para el coliving —[Ixelles](/es/coliving/ixelles), [Saint-Gilles](/es/coliving/saint-gilles), [Etterbeek](/es/coliving/etterbeek), [Uccle](/es/coliving/uccle)— son animados, residenciales y se consideran seguros para la vida diaria.
+Los barrios populares para el coliving, [Ixelles](/es/coliving/ixelles), [Saint-Gilles](/es/coliving/saint-gilles), [Etterbeek](/es/coliving/etterbeek), [Uccle](/es/coliving/uccle), son animados, residenciales y se consideran seguros para la vida diaria.
 
 ## Transporte público de noche
 
@@ -41,7 +41,7 @@ Aquí va un punto que rara vez aparece en las guías de seguridad: **llegar a un
 
 ## En resumen
 
-Bruselas es una ciudad segura y acogedora para la inmensa mayoría de sus residentes. Usa la precaución normal de gran ciudad —cuida tus bolsillos entre la multitud, mantente alerta cerca de Midi y de noche— y te instalarás cómodamente. No dejes que los titulares sensacionalistas te echen atrás; la realidad vivida por locales y expatriados es una capital amable y habitable.
+Bruselas es una ciudad segura y acogedora para la inmensa mayoría de sus residentes. Usa la precaución normal de gran ciudad, cuida tus bolsillos entre la multitud, mantente alerta cerca de Midi y de noche, y te instalarás cómodamente. No dejes que los titulares sensacionalistas te echen atrás; la realidad vivida por locales y expatriados es una capital amable y habitable.
 
 ---
 

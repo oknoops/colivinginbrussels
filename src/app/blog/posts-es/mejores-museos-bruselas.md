@@ -14,7 +14,7 @@ Bruselas juega absurdamente por encima de su liga en cuanto a museos. Es una ciu
 ## Los imprescindibles
 
 ### Museo Magritte
-El museo más bruselense que existe. René Magritte —bombines, manzanas flotantes, "Ceci n'est pas une pipe"— era de aquí, y este museo alberga la mayor colección de su obra del mundo. El surrealismo no es solo un movimiento artístico aquí: es prácticamente el temperamento nacional. Empieza por aquí para entender el sentido del humor de la ciudad.
+El museo más bruselense que existe. René Magritte, bombines, manzanas flotantes, "Ceci n'est pas une pipe", era de aquí, y este museo alberga la mayor colección de su obra del mundo. El surrealismo no es solo un movimiento artístico aquí: es prácticamente el temperamento nacional. Empieza por aquí para entender el sentido del humor de la ciudad.
 
 ### Museos Reales de Bellas Artes de Bélgica
 Un complejo inmenso en el Mont des Arts que abarca a los **Maestros Antiguos** (Bruegel, Rubens, Van Dyck), el **Museo Fin-de-Siècle** y más. Solo las escenas campesinas y los paisajes nevados de Bruegel ya justifican la visita. Dedícale media jornada; es más grande de lo que parece.
@@ -54,7 +54,7 @@ El panorama museístico de Bruselas no deja de moverse. El gran proyecto a largo
 
 ## Por cuál empezar
 
-Si solo haces uno en tu primer mes, que sea el **Museo Magritte** seguido de un paseo hasta el Museo del Cómic. Juntos explican más sobre la imaginación belga —surreal, divertida, un poco melancólica— que cualquier guía de viajes.
+Si solo haces uno en tu primer mes, que sea el **Museo Magritte** seguido de un paseo hasta el Museo del Cómic. Juntos explican más sobre la imaginación belga, surreal, divertida, un poco melancólica, que cualquier guía de viajes.
 
 ---
 

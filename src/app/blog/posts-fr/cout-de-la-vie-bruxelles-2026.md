@@ -1,6 +1,6 @@
 ---
 title: "Le vrai coût de la vie à Bruxelles en 2026 : le décompte honnête d'un expat"
-excerpt: "Loyer, courses, transport, sorties — voici ce que Bruxelles coûte réellement par mois, avec de vrais chiffres de gens qui y vivent."
+excerpt: "Loyer, courses, transport, sorties, voici ce que Bruxelles coûte réellement par mois, avec de vrais chiffres de gens qui y vivent."
 date: "2026-02-25"
 author: "Guide Local Bruxelles"
 coverImage: "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Coût de la vie", "Bruxelles", "Expats", "Budget", "Finances"]
 
 # Le vrai coût de la vie à Bruxelles en 2026
 
-Bruxelles a la réputation d'être chère. Mais comparée à Londres, Paris ou Amsterdam, elle est étonnamment abordable — surtout si vous savez vous y prendre. Voici un décompte honnête de ce que vous dépenserez réellement chaque mois.
+Bruxelles a la réputation d'être chère. Mais comparée à Londres, Paris ou Amsterdam, elle est étonnamment abordable, surtout si vous savez vous y prendre. Voici un décompte honnête de ce que vous dépenserez réellement chaque mois.
 
 ---
 
@@ -30,7 +30,7 @@ Une vie d'expat confortable à Bruxelles coûte généralement entre **1 400 et 
 
 ## Logement : votre plus gros poste
 
-C'est sur le logement que Bruxelles surprend — c'est nettement moins cher que dans les capitales européennes comparables.
+C'est sur le logement que Bruxelles surprend, c'est nettement moins cher que dans les capitales européennes comparables.
 
 ### Le coliving (l'option la plus maligne pour les nouveaux arrivants)
 Si vous débarquez à Bruxelles, **le coliving est la meilleure option qualité-prix**. Tout est inclus : mobilier, charges, WiFi, souvent le ménage. Les prix vont de :
@@ -46,7 +46,7 @@ Si vous voulez votre propre appartement :
 - **Une chambre** : 1 000–1 400 €/mois
 - **Hors du pentagone (Etterbeek, Schaerbeek)** : 700–950 €/mois
 
-La plupart des propriétaires demandent 2 mois de garantie locative plus le premier mois de loyer d'avance — prévoyez **2 500–3 500 €** pour emménager.
+La plupart des propriétaires demandent 2 mois de garantie locative plus le premier mois de loyer d'avance, prévoyez **2 500–3 500 €** pour emménager.
 
 ---
 
@@ -124,7 +124,7 @@ Préparez-vous à ces dépenses initiales lors de votre premier mois :
 - **Garantie locative** (en location privée) : 2 mois de loyer
 - **Déménagement / expédition** : très variable
 
-Si vous optez pour le coliving, vous pouvez faire l'impasse sur la plupart de ces frais — une seule valise suffit vraiment pour démarrer.
+Si vous optez pour le coliving, vous pouvez faire l'impasse sur la plupart de ces frais, une seule valise suffit vraiment pour démarrer.
 
 ---
 

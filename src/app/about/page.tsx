@@ -25,7 +25,7 @@ export default function AboutPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Our Story</h2>
                     <p>
-                        ColivingInBrussels was built by expats, for expats. When we moved to Brussels — from different countries, at different times — we all faced the same challenge: finding a decent place to live without getting ripped off or ending up in the wrong neighborhood.
+                        ColivingInBrussels was built by expats, for expats. When we moved to Brussels, from different countries, at different times, we all faced the same challenge: finding a decent place to live without getting ripped off or ending up in the wrong neighborhood.
                     </p>
                     <p className="mt-4">
                         The information online was fragmented, biased, or completely outdated. Agency websites pushed their own listings. Reddit threads were hit-or-miss. We spent weeks researching what should have taken hours.
@@ -39,7 +39,7 @@ export default function AboutPage() {
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">What We Do</h2>
                     <ul className="space-y-3">
                         {[
-                            'Review every major coliving operator in Brussels — honestly and without commissions.',
+                            'Review every major coliving operator in Brussels, honestly and without commissions.',
                             'Write detailed neighborhood guides so you know what each district actually feels like to live in.',
                             'Publish practical expat advice: registration, healthcare, transport, and more.',
                             'Help you find your best match with our free quiz.',
@@ -55,7 +55,7 @@ export default function AboutPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Our Promise</h2>
                     <p>
-                        We do not earn referral fees or commissions from any coliving operator. Our reviews and rankings are based solely on research, community feedback, and our own experience. When we recommend a space, it is because we genuinely think it is good — not because someone paid us.
+                        We do not earn referral fees or commissions from any coliving operator. Our reviews and rankings are based solely on research, community feedback, and our own experience. When we recommend a space, it is because we genuinely think it is good, not because someone paid us.
                     </p>
                 </div>
             </div>

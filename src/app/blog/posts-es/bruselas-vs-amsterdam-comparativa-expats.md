@@ -116,7 +116,7 @@ El reto en Ámsterdam es que **el estrés por la vivienda** suele dominar las co
 ## Calidad de vida en el día a día
 
 ### Bruselas
-- **Comida**: de primera. La cocina belga —moules, frites, stoemp, gofres, y algunos de los mejores chocolates y cervezas del planeta— es extraordinaria. Su escena gastronómica está infravalorada a nivel mundial.
+- **Comida**: de primera. La cocina belga, moules, frites, stoemp, gofres, y algunos de los mejores chocolates y cervezas del planeta, es extraordinaria. Su escena gastronómica está infravalorada a nivel mundial.
 - **Arquitectura**: joyas del Art Nouveau, la Grand Place, el Atomium. Peculiar, hermosa, imperfecta.
 - **Clima**: gris y lluvioso, parecido al de Londres. No lo voy a endulzar.
 - **Zonas verdes**: Bois de la Cambre, parque de Laeken, Bosque de Soignes; extensas y accesibles.

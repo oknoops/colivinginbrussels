@@ -13,7 +13,7 @@ La primera semana en una ciudad nueva es un torbellino de trámites, jet lag y a
 
 ## Antes de nada: resuelve tu base de operaciones
 
-Todo lo que viene a continuación es más fácil si tienes una dirección estable desde el primer día. Este es el mayor argumento a favor de aterrizar en un [espacio de coliving](/actors) en lugar de un Airbnb vacío: llegas a una habitación amueblada, una cocina que funciona, wifi y —lo más importante— una dirección donde empadronarte. Si aún no has resuelto el alojamiento, nuestro [test de compatibilidad](/matchmaker) reduce 12 operadores a tu lista corta en un minuto.
+Todo lo que viene a continuación es más fácil si tienes una dirección estable desde el primer día. Este es el mayor argumento a favor de aterrizar en un [espacio de coliving](/actors) en lugar de un Airbnb vacío: llegas a una habitación amueblada, una cocina que funciona, wifi y, lo más importante, una dirección donde empadronarte. Si aún no has resuelto el alojamiento, nuestro [test de compatibilidad](/matchmaker) reduce 12 operadores a tu lista corta en un minuto.
 
 ## Día 1–2: instálate y conéctate
 
@@ -23,7 +23,7 @@ Todo lo que viene a continuación es más fácil si tienes una dirección establ
 
 ## Día 2–3: el ayuntamiento (empadronamiento)
 
-El trámite grande. Por ley debes registrar tu dirección en tu **ayuntamiento** (comuna) —Ixelles, Saint-Gilles, Schaerbeek, etc.— en un plazo de **8 días laborables** desde tu llegada.
+El trámite grande. Por ley debes registrar tu dirección en tu **ayuntamiento** (comuna), Ixelles, Saint-Gilles, Schaerbeek, etc., en un plazo de **8 días laborables** desde tu llegada.
 
 *   Lleva tu **pasaporte/DNI**, tu **contrato de alquiler** (tu operador de coliving te lo proporciona) y fotos de carné por si acaso.
 *   Te registras en el ayuntamiento del barrio en el que vives. Un agente de policía puede pasar más adelante para confirmar que realmente vives allí.

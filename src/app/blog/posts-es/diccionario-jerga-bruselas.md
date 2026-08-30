@@ -25,37 +25,37 @@ Cuando alguien te dé un número de teléfono o un precio, usará *septante* y *
 
 ## Pedir comida y bebida como un belga
 
-*   **Une pistolet** — un panecillo redondo y crujiente, el clásico para un bocadillo rápido. "Un pistolet fromage" es una institución a la hora de comer.
-*   **Un demi** — de forma confusa, en Bélgica un "demi" suele significar un vaso normal de cerveza de 25 cl, no medio litro. Ante la duda, pide simplemente "une pils".
-*   **Une chique** — un caramelo o una golosina (en Francia, "un bonbon").
-*   **Un stoemp** — puré de patata mezclado con verduras, puro comfort food de Bruselas.
-*   **Une américain** — steak tartar. Pídelo esperando carne picada cruda, no una hamburguesa. Este ha pillado por sorpresa a más de un recién llegado.
+*   **Une pistolet**, un panecillo redondo y crujiente, el clásico para un bocadillo rápido. "Un pistolet fromage" es una institución a la hora de comer.
+*   **Un demi**, de forma confusa, en Bélgica un "demi" suele significar un vaso normal de cerveza de 25 cl, no medio litro. Ante la duda, pide simplemente "une pils".
+*   **Une chique**, un caramelo o una golosina (en Francia, "un bonbon").
+*   **Un stoemp**, puré de patata mezclado con verduras, puro comfort food de Bruselas.
+*   **Une américain**, steak tartar. Pídelo esperando carne picada cruda, no una hamburguesa. Este ha pillado por sorpresa a más de un recién llegado.
 
 ## Palabras para personas y estados de ánimo
 
-*   **Dikkenek** — literalmente "cuello gordo", significa un fanfarrón o presumido. Maravillosamente expresivo.
-*   **Ket** — un chaval o un chico joven, directo del dialecto de Bruselas (Brusseleir). "Un ket de Molenbeek".
-*   **Zieverer** — alguien que dice tonterías o se enrolla.
-*   **Snul** — un poco bobo, dicho más con cariño que con maldad.
-*   **Blinquer** — brillar o relucir (del neerlandés *blinken*). Tu cocina "blinque" después de la limpieza semanal del coliving.
+*   **Dikkenek**, literalmente "cuello gordo", significa un fanfarrón o presumido. Maravillosamente expresivo.
+*   **Ket**, un chaval o un chico joven, directo del dialecto de Bruselas (Brusseleir). "Un ket de Molenbeek".
+*   **Zieverer**, alguien que dice tonterías o se enrolla.
+*   **Snul**, un poco bobo, dicho más con cariño que con maldad.
+*   **Blinquer**, brillar o relucir (del neerlandés *blinken*). Tu cocina "blinque" después de la limpieza semanal del coliving.
 
 ## Expresiones cotidianas que oirás constantemente
 
-*   **"Ça va?"** — no solo "¿qué tal?". En Bélgica es hola, adiós, "¿todo bien?" y "¿vale?", todo a la vez. "Ça va, ça va".
-*   **"Une fois"** — el estereotipo del habla belga ("ven aquí una vez"). Lo oirás menos de lo que sugieren los memes, pero es real, normalmente para suavizar una petición.
-*   **"Non, peut-être?!"** — literalmente "¿no, quizás?!", pero en realidad significa "¡sí, obviamente!". Un ejemplo perfecto de la ironía belga. Domina esto y habrás subido de nivel.
-*   **"Ça goûte?"** — "¿está bueno?" (una traducción directa del neerlandés *het smaakt*). Ningún parisino que se precie diría esto.
-*   **"Kot"** — una habitación de estudiante o un piso pequeño. Si un belga te pregunta por tu "kot", se refiere a tu casa. Central en la vida estudiantil de toda Bélgica.
-*   **"Faire la file"** — hacer cola (en lugar de "faire la queue").
+*   **"Ça va?"**, no solo "¿qué tal?". En Bélgica es hola, adiós, "¿todo bien?" y "¿vale?", todo a la vez. "Ça va, ça va".
+*   **"Une fois"**, el estereotipo del habla belga ("ven aquí una vez"). Lo oirás menos de lo que sugieren los memes, pero es real, normalmente para suavizar una petición.
+*   **"Non, peut-être?!"**, literalmente "¿no, quizás?!", pero en realidad significa "¡sí, obviamente!". Un ejemplo perfecto de la ironía belga. Domina esto y habrás subido de nivel.
+*   **"Ça goûte?"**, "¿está bueno?" (una traducción directa del neerlandés *het smaakt*). Ningún parisino que se precie diría esto.
+*   **"Kot"**, una habitación de estudiante o un piso pequeño. Si un belga te pregunta por tu "kot", se refiere a tu casa. Central en la vida estudiantil de toda Bélgica.
+*   **"Faire la file"**, hacer cola (en lugar de "faire la queue").
 
 ## Unas cuantas joyas del flamenco/Brusseleir
 
 Aunque vivas tu vida en francés, Bruselas es oficialmente bilingüe y el dialecto local (Brusseleir) se filtra en todo:
 
-*   **Zwanze** — el intraducible sentido bruselense del humor autoburlón y absurdo. Si sabes apreciar el *zwanze*, entiendes la ciudad.
-*   **Broebeleir** — alguien que masculla o se hace un lío con las palabras.
-*   **Amai!** — una exclamación de sorpresa para todo ("¡vaya!" / "¡madre mía!"). La adoptarás en una semana lo planees o no.
-*   **Kotmadam** — la (a menudo legendaria) casera de un kot de estudiante.
+*   **Zwanze**, el intraducible sentido bruselense del humor autoburlón y absurdo. Si sabes apreciar el *zwanze*, entiendes la ciudad.
+*   **Broebeleir**, alguien que masculla o se hace un lío con las palabras.
+*   **Amai!**, una exclamación de sorpresa para todo ("¡vaya!" / "¡madre mía!"). La adoptarás en una semana lo planees o no.
+*   **Kotmadam**, la (a menudo legendaria) casera de un kot de estudiante.
 
 ## Por qué molestarse con la jerga sí importa
 

@@ -9,7 +9,7 @@ tags: ["Coliving", "Eigen badkamer", "Ensuite", "Comfort"]
 
 # Coliving met eigen badkamer in Brussel: waar je ensuitekamers vindt
 
-Voor veel mensen maakt of kraakt één ding het samenwonen: de badkamer. Het goede nieuws is dat coliving in Brussel volwassen is geworden, en **privékamers met eigen badkamer (ensuite)** zijn nu gangbaar — je kan de community *én* je eigen badkamer hebben. Dit is waar je moet zoeken.
+Voor veel mensen maakt of kraakt één ding het samenwonen: de badkamer. Het goede nieuws is dat coliving in Brussel volwassen is geworden, en **privékamers met eigen badkamer (ensuite)** zijn nu gangbaar, je kan de community *én* je eigen badkamer hebben. Dit is waar je moet zoeken.
 
 ## Waarom een ensuite alles verandert
 
@@ -25,7 +25,7 @@ Het is de troef die "ik zou hier een paar maanden kunnen" verandert in "ik zou h
 
 ### [Co-Homing](/actors/co-homing)
 
-Uitdrukkelijk gebouwd rond "privacy waar het telt" — de meeste kamers hebben een **eigen badkamer** en aparte keukenberging, verspreid over een tiental centrale huizen (Châtelain, Flagey, Louiza, Jubelpark). Een van de beste keuzes als een ensuite een must is.
+Uitdrukkelijk gebouwd rond "privacy waar het telt", de meeste kamers hebben een **eigen badkamer** en aparte keukenberging, verspreid over een tiental centrale huizen (Châtelain, Flagey, Louiza, Jubelpark). Een van de beste keuzes als een ensuite een must is.
 
 ### [Comoon](/actors/comoon)
 
@@ -33,11 +33,11 @@ Ingerichte privékamers met een **eigen douche**, plus een fitness, coworking en
 
 ### [Morton Place](/actors/morton-place)
 
-Boutique, volwassen coliving waar kamers vaak aanvoelen als **hotelsuites** — ruim en privé, in het chique Sint-Gillis en Elsene. Het premium-segment, maar het comfort is ernaar.
+Boutique, volwassen coliving waar kamers vaak aanvoelen als **hotelsuites**, ruim en privé, in het chique Sint-Gillis en Elsene. Het premium-segment, maar het comfort is ernaar.
 
 ### [Cohabs](/actors/cohabs) & [Corners](/actors/corners)
 
-Beide renoveren herenhuizen met een **mix** van ensuitekamers en kamers met gedeelde badkamer. Vraag specifiek naar een ensuite bij je aanvraag — ze bestaan, maar zijn snel weg.
+Beide renoveren herenhuizen met een **mix** van ensuitekamers en kamers met gedeelde badkamer. Vraag specifiek naar een ensuite bij je aanvraag, ze bestaan, maar zijn snel weg.
 
 ### [Neybor](/actors/neybor) & [Habyt](/actors/habyt)
 
@@ -45,20 +45,20 @@ Nieuwere, moderne panden die doorgaans meer ensuitekamers aanbieden dan oudere w
 
 ## Wat het kost
 
-Als vuistregel loopt een ensuitekamer ongeveer **€50-€150/maand hoger** dan een gelijkwaardige kamer met gedeelde badkamer in hetzelfde huis. Gezien wat je ervoor krijgt — geen rijen, echte privacy — zeggen de meesten die het kunnen rekken dat het het beste bestede geld is. Bekijk de volledige vorken op onze [prijzenpagina](/nl/prijzen-coliving-brussel).
+Als vuistregel loopt een ensuitekamer ongeveer **€50-€150/maand hoger** dan een gelijkwaardige kamer met gedeelde badkamer in hetzelfde huis. Gezien wat je ervoor krijgt, geen rijen, echte privacy, zeggen de meesten die het kunnen rekken dat het het beste bestede geld is. Bekijk de volledige vorken op onze [prijzenpagina](/nl/prijzen-coliving-brussel).
 
 ## Zo zorg je dat je er echt een krijgt
 
 Kamertypes verschillen *binnen* hetzelfde huis, dus een beetje zorgvuldigheid loont:
 
-1.  **Zeg expliciet "ensuite / eigen badkamer"** in je eerste bericht — ga er niet zomaar van uit.
+1.  **Zeg expliciet "ensuite / eigen badkamer"** in je eerste bericht, ga er niet zomaar van uit.
 2.  **Vraag foto's of een videotour** van de *specifieke* kamer, niet van het huis in het algemeen.
 3.  **Bevestig dat ze écht privé is**, en geen "semi-private" badkamer gedeeld tussen twee kamers.
-4.  **Boek vroeg** — ensuitekamers zijn als eerste weg, zeker in [Elsene](/neighborhoods/ixelles) en de centrale huizen.
+4.  **Boek vroeg**, ensuitekamers zijn als eerste weg, zeker in [Elsene](/neighborhoods/ixelles) en de centrale huizen.
 
 ## De sweet spot: privékamer, sociaal huis
 
-De droomformule voor de meeste nieuwkomers is precies dit — je terugtrekken in je eigen ensuitekamer wanneer je wil, en dan een levendige keuken vol huisgenoten instappen wanneer je gezelschap zoekt. Die balans van **privacy én community** is wat modern coliving het best doet, en in Brussel is ze goed haalbaar.
+De droomformule voor de meeste nieuwkomers is precies dit, je terugtrekken in je eigen ensuitekamer wanneer je wil, en dan een levendige keuken vol huisgenoten instappen wanneer je gezelschap zoekt. Die balans van **privacy én community** is wat modern coliving het best doet, en in Brussel is ze goed haalbaar.
 
 ## Vind je ensuite snel
 

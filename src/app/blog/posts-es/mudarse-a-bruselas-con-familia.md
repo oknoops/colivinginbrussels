@@ -15,11 +15,11 @@ Mudarse a Bruselas con familia es un proyecto muy distinto a llegar en solitario
 
 Bruselas es un mosaico de 19 comunas, cada una con su propio carácter. Para las familias, unas cuantas destacan de forma constante.
 
-- **[Uccle](/neighborhoods/uccle)** — frondosa, residencial y tranquila, con grandes parques y una mezcla de casas y pisos amplios. Es una favorita histórica de las familias que buscan calles verdes y espacio para respirar.
-- **[Woluwe-Saint-Lambert](/neighborhoods/woluwe-saint-lambert)** — más verde, más tranquila y bien dotada de parques y colegios, popular entre familias internacionales y personal de la UE.
-- **[Etterbeek](/neighborhoods/etterbeek)** — más céntrica y transitable a pie, sin dejar de funcionar para familias; muy práctica si uno de los padres se desplaza al barrio europeo.
+- **[Uccle](/neighborhoods/uccle)**, frondosa, residencial y tranquila, con grandes parques y una mezcla de casas y pisos amplios. Es una favorita histórica de las familias que buscan calles verdes y espacio para respirar.
+- **[Woluwe-Saint-Lambert](/neighborhoods/woluwe-saint-lambert)**, más verde, más tranquila y bien dotada de parques y colegios, popular entre familias internacionales y personal de la UE.
+- **[Etterbeek](/neighborhoods/etterbeek)**, más céntrica y transitable a pie, sin dejar de funcionar para familias; muy práctica si uno de los padres se desplaza al barrio europeo.
 
-Si quieres comparar el panorama completo — ambiente, transporte y a quién le conviene cada zona — repasa todos los [barrios de Bruselas](/es/barrios) uno al lado del otro antes de comprometerte a una visita.
+Si quieres comparar el panorama completo, ambiente, transporte y a quién le conviene cada zona, repasa todos los [barrios de Bruselas](/es/barrios) uno al lado del otro antes de comprometerte a una visita.
 
 ## Colegios: empieza pronto
 
@@ -33,12 +33,12 @@ Dos reglas de oro: inscríbete lo antes que puedas, porque los colegios populare
 
 ## Vivienda: por qué las familias suelen querer alquiler, no coliving
 
-Una nota sincera. La mayor parte del coliving en Bruselas está pensado para personas individuales — jóvenes profesionales, trabajadores en remoto y recién llegados que quieren una habitación privada más espacios comunes compartidos y una comunidad instantánea. Es un formato genial para una persona o una pareja que aterrizan rápido, pero no está diseñado para familias con hijos.
+Una nota sincera. La mayor parte del coliving en Bruselas está pensado para personas individuales, jóvenes profesionales, trabajadores en remoto y recién llegados que quieren una habitación privada más espacios comunes compartidos y una comunidad instantánea. Es un formato genial para una persona o una pareja que aterrizan rápido, pero no está diseñado para familias con hijos.
 
-Para una familia, casi siempre querrás un **alquiler estándar, amueblado o sin amueblar** — una casa o un piso con suficientes dormitorios, idealmente cerca del colegio elegido y de un parque. Algunas cosas que conviene saber del mercado de alquiler belga:
+Para una familia, casi siempre querrás un **alquiler estándar, amueblado o sin amueblar**, una casa o un piso con suficientes dormitorios, idealmente cerca del colegio elegido y de un parque. Algunas cosas que conviene saber del mercado de alquiler belga:
 
 - **Los contratos de alquiler** suelen ser de larga duración (el clásico contrato de vivienda residencial dura varios años, aunque existen plazos más cortos). Lee bien la duración antes de firmar.
-- **El empadronamiento** — registrar tu domicilio en la comuna — es obligatorio cuando te quedas más de tres meses, y está vinculado a la inscripción escolar, la sanidad y los trámites de residencia. Ocúpate de ello pronto.
+- **El empadronamiento**, registrar tu domicilio en la comuna, es obligatorio cuando te quedas más de tres meses, y está vinculado a la inscripción escolar, la sanidad y los trámites de residencia. Ocúpate de ello pronto.
 - **Fianzas y garantías** para alquileres familiares suelen ser más formales que en el coliving. Presupuesta una garantía de alquiler y comprueba qué exige el propietario.
 
 Dicho esto, el coliving todavía puede jugar un papel útil: si llegas antes que tu familia o necesitas un aterrizaje suave mientras buscas casa, una habitación en un coliving te da margen en la ciudad. Explora los [operadores de coliving](/actors) para ver la variedad, o usa la [guía de precios](/es/precios-coliving-bruselas) para comparar costes mensuales antes de contrastarlos con los alquileres familiares.

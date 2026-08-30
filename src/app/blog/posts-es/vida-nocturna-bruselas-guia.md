@@ -13,7 +13,7 @@ Bruselas no presume de su vida nocturna como lo hacen Berlín o Ámsterdam, y po
 
 ## El apéro es el principio de todo
 
-Antes que nada, entiende el **apéro**. La copa de after-work en la terraza —una *pils*, un spritz, un plato de queso y salami— es el motor social de la ciudad. La mayoría de las noches de fiesta *empiezan* como un apéro que va escalando poco a poco. Di que sí al apéro y lo demás viene solo.
+Antes que nada, entiende el **apéro**. La copa de after-work en la terraza, una *pils*, un spritz, un plato de queso y salami, es el motor social de la ciudad. La mayoría de las noches de fiesta *empiezan* como un apéro que va escalando poco a poco. Di que sí al apéro y lo demás viene solo.
 
 ## Dónde ir, según el ánimo
 

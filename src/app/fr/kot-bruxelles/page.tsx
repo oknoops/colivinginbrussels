@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 const FAQ = [
     { q: 'Combien coûte un kot à Bruxelles ?', a: 'Un kot étudiant à Bruxelles coûte généralement entre 400 € et 700 € par mois selon le quartier, la taille et les équipements. Les kots avec salle de bain privée ou en résidence gérée sont plus chers. Le coliving étudiant, tout compris, démarre autour de 500–650 €.' },
     { q: 'Quels sont les meilleurs quartiers pour un kot ?', a: 'Ixelles est le quartier étudiant par excellence, proche de l\'ULB et de la VUB, avec beaucoup de vie. Etterbeek et Auderghem sont pratiques pour le campus du Solbosch et de la Plaine. Saint-Gilles et Schaerbeek offrent un meilleur rapport qualité-prix à quelques arrêts de tram.' },
-    { q: 'Kot ou coliving : quelle différence ?', a: 'Un kot classique est une chambre étudiante, souvent avec cuisine et sanitaires partagés, loué via l\'université ou un propriétaire privé. Le coliving est une colocation gérée, meublée et tout compris, avec une communauté et des baux flexibles — idéal pour les Erasmus et étudiants internationaux qui veulent zéro tracas.' },
+    { q: 'Kot ou coliving : quelle différence ?', a: 'Un kot classique est une chambre étudiante, souvent avec cuisine et sanitaires partagés, loué via l\'université ou un propriétaire privé. Le coliving est une colocation gérée, meublée et tout compris, avec une communauté et des baux flexibles, idéal pour les Erasmus et étudiants internationaux qui veulent zéro tracas.' },
     { q: 'Comment trouver un kot à louer à Bruxelles ?', a: 'Passez par le service logement de votre université (ULB, VUB, Saint-Louis…), les plateformes de kots, et les groupes Facebook étudiants. Pour une option gérée et sans arnaque, les opérateurs de coliving abordables comme Ikoab, Colive ou Coloc Housing accueillent volontiers les étudiants.' },
 ];
 
@@ -50,7 +50,7 @@ export default function KotBruxelles() {
                 <p className="text-sm text-orange-500 font-semibold mb-3">Guide étudiant · Bruxelles</p>
                 <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-6 leading-tight">Kot à Bruxelles : le guide pour trouver un logement étudiant</h1>
                 <p className="text-xl text-text mb-10 leading-relaxed">
-                    Vous cherchez un kot à Bruxelles ? Entre les prix, les quartiers proches des universités et les kots à louer qui partent vite, pas toujours facile de s&apos;y retrouver. Voici le guide complet — et une alternative que beaucoup d&apos;étudiants adorent : le coliving.
+                    Vous cherchez un kot à Bruxelles ? Entre les prix, les quartiers proches des universités et les kots à louer qui partent vite, pas toujours facile de s&apos;y retrouver. Voici le guide complet, et une alternative que beaucoup d&apos;étudiants adorent : le coliving.
                 </p>
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
@@ -61,22 +61,22 @@ export default function KotBruxelles() {
 
                     <h2>Meilleurs quartiers pour un kot</h2>
                     <ul>
-                        <li><strong><Link href="/neighborhoods/ixelles">Ixelles</Link></strong> — LE quartier étudiant, proche de l&apos;ULB et de la VUB, plein de bars et de vie (Flagey, Cimetière d&apos;Ixelles).</li>
-                        <li><strong><Link href="/neighborhoods/etterbeek">Etterbeek</Link></strong> — pratique pour les campus, calme et bien desservi.</li>
-                        <li><strong><Link href="/neighborhoods/saint-gilles">Saint-Gilles</Link></strong> — central, animé, un peu moins cher.</li>
-                        <li><strong><Link href="/neighborhoods/schaerbeek">Schaerbeek</Link></strong> — le meilleur rapport qualité-prix, à quelques arrêts de tram.</li>
+                        <li><strong><Link href="/neighborhoods/ixelles">Ixelles</Link></strong>, LE quartier étudiant, proche de l&apos;ULB et de la VUB, plein de bars et de vie (Flagey, Cimetière d&apos;Ixelles).</li>
+                        <li><strong><Link href="/neighborhoods/etterbeek">Etterbeek</Link></strong>, pratique pour les campus, calme et bien desservi.</li>
+                        <li><strong><Link href="/neighborhoods/saint-gilles">Saint-Gilles</Link></strong>, central, animé, un peu moins cher.</li>
+                        <li><strong><Link href="/neighborhoods/schaerbeek">Schaerbeek</Link></strong>, le meilleur rapport qualité-prix, à quelques arrêts de tram.</li>
                     </ul>
 
                     <h2>Kot classique ou coliving : que choisir ?</h2>
                     <p>
-                        Le <strong>kot classique</strong> est souvent le moins cher, mais vous gérez tout vous-même (charges, meubles éventuels, recherche). Le <strong>coliving</strong> est une colocation gérée, meublée et tout compris, avec une vraie communauté — parfait pour les <Link href="/blog/erasmus-brussels-accommodation">étudiants Erasmus</Link> et internationaux qui arrivent sans connaître personne et veulent zéro administration.
+                        Le <strong>kot classique</strong> est souvent le moins cher, mais vous gérez tout vous-même (charges, meubles éventuels, recherche). Le <strong>coliving</strong> est une colocation gérée, meublée et tout compris, avec une vraie communauté, parfait pour les <Link href="/blog/erasmus-brussels-accommodation">étudiants Erasmus</Link> et internationaux qui arrivent sans connaître personne et veulent zéro administration.
                     </p>
 
                     <h2>Où trouver un kot à louer</h2>
                     <ol>
                         <li>Le <strong>service logement de votre université</strong> (ULB, VUB, Saint-Louis, USL-B…).</li>
                         <li>Les <strong>plateformes de kots</strong> et les groupes Facebook étudiants.</li>
-                        <li>Les <strong>opérateurs de coliving abordables</strong> — <Link href="/actors/ikoab">Ikoab</Link>, <Link href="/actors/colive">Colive</Link> et <Link href="/actors/coloc-housing">Coloc Housing</Link> accueillent volontiers les étudiants, sans arnaque de caution.</li>
+                        <li>Les <strong>opérateurs de coliving abordables</strong>, <Link href="/actors/ikoab">Ikoab</Link>, <Link href="/actors/colive">Colive</Link> et <Link href="/actors/coloc-housing">Coloc Housing</Link> accueillent volontiers les étudiants, sans arnaque de caution.</li>
                     </ol>
                     <p>
                         Conseil : commencez tôt (les rentrées de septembre et février sont très demandées) et ne payez jamais de caution avant d&apos;avoir vu la chambre.

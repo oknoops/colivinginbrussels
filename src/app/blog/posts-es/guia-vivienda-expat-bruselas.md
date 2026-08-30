@@ -31,10 +31,10 @@ La opción más cómoda para los expats. Operadores como Cohabs, Corners, Colive
 
 ### Plataformas online
 
-- **Immoweb.be** — el mayor portal inmobiliario de Bélgica. Filtra por comuna, presupuesto y tipo de propiedad. Disponible en francés, neerlandés e inglés.
-- **Zimmo.be** — otro gran portal inmobiliario belga, ideal para contrastar información.
-- **Grupos de Facebook** — "Brussels Housing", "Expats in Brussels Housing" y los grupos por barrio son minas de oro para encontrar anuncios directos.
-- **Webs de operadores de coliving** — consulta cada operador directamente. Cohabs, Corners y Colive tienen reserva online con visitas virtuales.
+- **Immoweb.be**, el mayor portal inmobiliario de Bélgica. Filtra por comuna, presupuesto y tipo de propiedad. Disponible en francés, neerlandés e inglés.
+- **Zimmo.be**, otro gran portal inmobiliario belga, ideal para contrastar información.
+- **Grupos de Facebook**, "Brussels Housing", "Expats in Brussels Housing" y los grupos por barrio son minas de oro para encontrar anuncios directos.
+- **Webs de operadores de coliving**, consulta cada operador directamente. Cohabs, Corners y Colive tienen reserva online con visitas virtuales.
 
 ### Cuándo buscar
 
@@ -52,11 +52,11 @@ El mercado de alquiler de Bruselas se mueve más rápido en agosto-septiembre (t
 
 Los propietarios y las agencias belgas suelen pedir:
 
-- **Documento de identidad** — pasaporte o carné de identidad
-- **Justificante de ingresos** — contrato de trabajo, nóminas recientes (normalmente las tres últimas) o un certificado laboral. Para autónomos: declaraciones de la renta o carta del gestor.
-- **Justificante de empleo** — una carta de tu empresa que confirme tu puesto y salario
-- **Referencias** — algunos propietarios piden una referencia de un arrendador anterior
-- **Avalista** — ocasionalmente requerido si acabas de llegar a Bélgica y no tienes historial de ingresos local
+- **Documento de identidad**, pasaporte o carné de identidad
+- **Justificante de ingresos**, contrato de trabajo, nóminas recientes (normalmente las tres últimas) o un certificado laboral. Para autónomos: declaraciones de la renta o carta del gestor.
+- **Justificante de empleo**, una carta de tu empresa que confirme tu puesto y salario
+- **Referencias**, algunos propietarios piden una referencia de un arrendador anterior
+- **Avalista**, ocasionalmente requerido si acabas de llegar a Bélgica y no tienes historial de ingresos local
 
 Para el coliving, el proceso es más sencillo. La mayoría de operadores solo piden un documento de identidad y un justificante de empleo o matrícula. No hace falta avalista.
 
@@ -106,9 +106,9 @@ En Bélgica, todos los contratos de alquiler de más de un año deben registrars
 
 Si alquilas un piso privado, tendrás que contratar:
 
-- **Electricidad y gas** — entre los proveedores están Engie Electrabel, Luminus, TotalEnergies y otros. Usa un comparador como Monenergie.be.
-- **Internet** — Proximus, Telenet (Flandes/algunas zonas de Bruselas), Orange y Scarlet son los principales proveedores. Cuenta con 30-50 €/mes por una buena conexión.
-- **Agua** — normalmente la gestiona Vivaqua en Bruselas y suele estar incluida en las cargas del edificio.
+- **Electricidad y gas**, entre los proveedores están Engie Electrabel, Luminus, TotalEnergies y otros. Usa un comparador como Monenergie.be.
+- **Internet**, Proximus, Telenet (Flandes/algunas zonas de Bruselas), Orange y Scarlet son los principales proveedores. Cuenta con 30-50 €/mes por una buena conexión.
+- **Agua**, normalmente la gestiona Vivaqua en Bruselas y suele estar incluida en las cargas del edificio.
 
 ¿En coliving? Todos los suministros van incluidos. Una de las mayores ventajas.
 

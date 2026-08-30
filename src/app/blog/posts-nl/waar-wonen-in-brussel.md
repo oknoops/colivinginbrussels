@@ -1,6 +1,6 @@
 ---
 title: "Waar wonen in Brussel: een buurtvergelijking voor nieuwkomers"
-excerpt: "Elsene vs Sint-Gillis vs Etterbeek vs Schaarbeek en verder — een eerlijke gids naast elkaar om de juiste Brusselse buurt te kiezen voor jouw budget en sfeer."
+excerpt: "Elsene vs Sint-Gillis vs Etterbeek vs Schaarbeek en verder, een eerlijke gids naast elkaar om de juiste Brusselse buurt te kiezen voor jouw budget en sfeer."
 date: "2026-07-28"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Buurten", "Waar wonen", "Nieuwkomers", "Vergelijking"]
 
 # Waar wonen in Brussel: een buurtvergelijking voor nieuwkomers
 
-Een Brusselse buurt kiezen is eigenlijk een levensstijl kiezen. De stad is een lappendeken van 19 gemeenten, elk met een eigen karakter, budget en publiek. Hier is een eerlijke vergelijking naast elkaar om je te helpen kiezen — duik daarna in onze volledige [buurtgidsen](/neighborhoods) voor alle details.
+Een Brusselse buurt kiezen is eigenlijk een levensstijl kiezen. De stad is een lappendeken van 19 gemeenten, elk met een eigen karakter, budget en publiek. Hier is een eerlijke vergelijking naast elkaar om je te helpen kiezen, duik daarna in onze volledige [buurtgidsen](/neighborhoods) voor alle details.
 
 ## De snelle vergelijking
 
@@ -34,16 +34,16 @@ Wil je terrassen, bars en constant mensen tegen het lijf lopen, ga dan voor **[E
 ### 2. Wat is je woon-werkverkeer?
 *   **EU-instellingen (Schuman):** [Etterbeek](/neighborhoods/etterbeek), [Elsene](/neighborhoods/ixelles) of de Europese wijk zelf.
 *   **Kantoren in het centrum:** [Brussel-Stad](/neighborhoods/brussels-city), [Sint-Gillis](/neighborhoods/saint-gilles) (dicht bij Zuidstation voor de trein).
-*   **Remote/flexibel:** overal — geef voorrang aan sfeer boven pendeltijd.
+*   **Remote/flexibel:** overal, geef voorrang aan sfeer boven pendeltijd.
 
 ### 3. Wat is je eerlijke budget?
 Brussel is betaalbaar naar de maatstaven van West-Europese hoofdsteden, maar buurten verschillen. Voor de beste prijs-kwaliteit zonder in te boeten op leven boksen **[Schaarbeek](/neighborhoods/schaerbeek)** en **[Vorst](/neighborhoods/forest)** boven hun gewicht. Voor premium kalmte vraagt **[Ukkel](/neighborhoods/uccle)** meer.
 
 ## De shortcut voor nieuwkomers
 
-De meeste nieuwkomers focussen te hard op de bekende namen (Elsene, centrum) en kijken over waardeparels als Schaarbeek en Vorst heen, die één tramhalte verder liggen en honderden euro's goedkoper zijn. Kies niet zomaar het standaardpad — stem de buurt af op *jouw* leven.
+De meeste nieuwkomers focussen te hard op de bekende namen (Elsene, centrum) en kijken over waardeparels als Schaarbeek en Vorst heen, die één tramhalte verder liggen en honderden euro's goedkoper zijn. Kies niet zomaar het standaardpad, stem de buurt af op *jouw* leven.
 
-De snelste manier om dat eerlijk te doen: doe onze [matchmaker-quiz](/matchmaker). Die weegt je budget, pendeltijd en sociale voorkeuren en wijst je naar zowel de juiste **buurt** als de juiste **coliving-operators** daar — zodat je niet moet gokken.
+De snelste manier om dat eerlijk te doen: doe onze [matchmaker-quiz](/matchmaker). Die weegt je budget, pendeltijd en sociale voorkeuren en wijst je naar zowel de juiste **buurt** als de juiste **coliving-operators** daar, zodat je niet moet gokken.
 
 ## Een woordje over hoe coliving de rekening verandert
 

@@ -53,7 +53,7 @@ Bruselas tiene cuatro líneas de metro, que forman una red interconectada por to
 Los tranvías suelen ser el medio de transporte más útil para el día a día en Bruselas, ya que cubren barrios a los que el metro no llega directamente.
 
 ### Las líneas de tranvía más útiles para expatriados
-- **Tranvía 81**: Ixelles (Place Flagey ↔ Albert) — recorre el corazón de Ixelles y Saint-Gilles. Imprescindible para la zona de Châtelain/Flagey.
+- **Tranvía 81**: Ixelles (Place Flagey ↔ Albert), recorre el corazón de Ixelles y Saint-Gilles. Imprescindible para la zona de Châtelain/Flagey.
 - **Tranvía 7**: Vanderkindere ↔ Stade → pasa por Ixelles y hacia el Barrio Europeo.
 - **Tranvía 25**: conecta la zona de la ULB (universidad) con el centro de la ciudad.
 - **Tranvía 3/4**: Saint-Gilles e Ixelles hacia Forest.
@@ -91,10 +91,10 @@ Los autobuses nocturnos (líneas N) circulan las noches de viernes y sábado des
 
 ### Abono mensual
 - **54 €/mes** para la red exclusiva de STIB
-- **54,90 €/mes con el Brupass XL** — cubre STIB + De Lijn (autobuses flamencos) + TEC (autobuses valones) + trenes de la SNCB dentro de la región de Bruselas
+- **54,90 €/mes con el Brupass XL**, cubre STIB + De Lijn (autobuses flamencos) + TEC (autobuses valones) + trenes de la SNCB dentro de la región de Bruselas
 
 ### Abono anual
-- **499 €/año** para toda la red — ahorra aproximadamente 150 € frente a 12 abonos mensuales
+- **499 €/año** para toda la red, ahorra aproximadamente 150 € frente a 12 abonos mensuales
 - Merece la pena si te quedas más de 6 meses
 
 ### Brupass vs Brupass XL
@@ -152,22 +152,22 @@ Las **rutas ciclistas RER** (carriles suaves y separados) conectan muchos munici
 ## Moverse sin coche: la realidad
 
 Vivir en:
-- **Ixelles** — excelente. Metro + tranvías + bici. No hace falta coche.
-- **Saint-Gilles** — excelente. Varias líneas de tranvía + metro.
-- **Etterbeek** — muy bueno. Metro (Schuman, Arts-Loi) + autobuses + tren en Brussels-Luxembourg.
-- **Centro de Bruselas** — la mejor cobertura. Todas las líneas de metro convergen aquí.
-- **Uccle** — más difícil. Solo autobuses en muchas zonas. Algunas personas usan la bici o el coche de vez en cuando para las zonas más alejadas.
-- **Schaerbeek / Anderlecht** — buena cobertura de metro/tranvía; menos densa que en los municipios centrales.
+- **Ixelles**, excelente. Metro + tranvías + bici. No hace falta coche.
+- **Saint-Gilles**, excelente. Varias líneas de tranvía + metro.
+- **Etterbeek**, muy bueno. Metro (Schuman, Arts-Loi) + autobuses + tren en Brussels-Luxembourg.
+- **Centro de Bruselas**, la mejor cobertura. Todas las líneas de metro convergen aquí.
+- **Uccle**, más difícil. Solo autobuses en muchas zonas. Algunas personas usan la bici o el coche de vez en cuando para las zonas más alejadas.
+- **Schaerbeek / Anderlecht**, buena cobertura de metro/tranvía; menos densa que en los municipios centrales.
 
 ---
 
 ## Errores frecuentes que evitar
 
-1. **No validar el billete** — los inspectores están activos y la multa de 150 € no es negociable.
-2. **No descargar la app de STIB** — esperar sin información en tiempo real es frustrante.
-3. **Coger el metro en hora punta sin abono** — comprar un billete sencillo y hacer cola en hora punta es más lento que tener lista tu tarjeta MOBIB o el móvil.
-4. **Suponer que el tranvía vale menos que el metro** — para muchos trayectos, los tranvías son en realidad más rápidos y directos.
-5. **No comprobar las incidencias** — los cierres por mantenimiento del fin de semana ocurren. Comprueba siempre antes de ir a la estación un domingo.
+1. **No validar el billete**, los inspectores están activos y la multa de 150 € no es negociable.
+2. **No descargar la app de STIB**, esperar sin información en tiempo real es frustrante.
+3. **Coger el metro en hora punta sin abono**, comprar un billete sencillo y hacer cola en hora punta es más lento que tener lista tu tarjeta MOBIB o el móvil.
+4. **Suponer que el tranvía vale menos que el metro**, para muchos trayectos, los tranvías son en realidad más rápidos y directos.
+5. **No comprobar las incidencias**, los cierres por mantenimiento del fin de semana ocurren. Comprueba siempre antes de ir a la estación un domingo.
 
 ---
 

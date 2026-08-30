@@ -73,10 +73,10 @@ export default function FurnishedRoomsPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Why Furnished Rooms Matter</h2>
                     <p>
-                        Finding a furnished room in Brussels through the traditional rental market is surprisingly difficult. Most apartments and flatshares are rented unfurnished — meaning you need to buy a bed, desk, wardrobe, kitchen items, and more. For expats arriving from another country or professionals on a temporary assignment, this is a major hassle and expense.
+                        Finding a furnished room in Brussels through the traditional rental market is surprisingly difficult. Most apartments and flatshares are rented unfurnished, meaning you need to buy a bed, desk, wardrobe, kitchen items, and more. For expats arriving from another country or professionals on a temporary assignment, this is a major hassle and expense.
                     </p>
                     <p className="mt-4">
-                        Furnishing a room from scratch in Brussels typically costs 1,500 to 3,000 EUR — money you will likely lose when you move out and have to sell or discard everything. IKEA runs are part of Brussels expat folklore for a reason.
+                        Furnishing a room from scratch in Brussels typically costs 1,500 to 3,000 EUR, money you will likely lose when you move out and have to sell or discard everything. IKEA runs are part of Brussels expat folklore for a reason.
                     </p>
                     <p className="mt-4">
                         Coliving eliminates this problem entirely. Every coliving room in Brussels comes fully furnished and equipped. You arrive, unpack your suitcase, and you are home.
@@ -104,28 +104,28 @@ export default function FurnishedRoomsPage() {
                     </p>
                     <ul className="mt-4 space-y-3">
                         <li>
-                            <Link href="/actors/corners" className="text-primary hover:underline font-medium">Corners</Link> — Premium, design-forward furnishings. Think boutique hotel meets Scandinavian apartment. Custom-made furniture, high-quality mattresses, and curated decor. The most visually appealing rooms in Brussels.
+                            <Link href="/actors/corners" className="text-primary hover:underline font-medium">Corners</Link>, Premium, design-forward furnishings. Think boutique hotel meets Scandinavian apartment. Custom-made furniture, high-quality mattresses, and curated decor. The most visually appealing rooms in Brussels.
                         </li>
                         <li>
-                            <Link href="/actors/cohabs" className="text-primary hover:underline font-medium">Cohabs</Link> — High quality with a warm, contemporary aesthetic. Each house has its own design identity. Well-maintained and regularly updated.
+                            <Link href="/actors/cohabs" className="text-primary hover:underline font-medium">Cohabs</Link>, High quality with a warm, contemporary aesthetic. Each house has its own design identity. Well-maintained and regularly updated.
                         </li>
                         <li>
-                            <Link href="/actors/livecolonies" className="text-primary hover:underline font-medium">LiveColonies</Link> — Modern and functional with a hotel-like quality. Purpose-built spaces mean everything is new and well-designed. Excellent common areas.
+                            <Link href="/actors/livecolonies" className="text-primary hover:underline font-medium">LiveColonies</Link>, Modern and functional with a hotel-like quality. Purpose-built spaces mean everything is new and well-designed. Excellent common areas.
                         </li>
                         <li>
-                            <Link href="/actors/habyt" className="text-primary hover:underline font-medium">Habyt</Link> — Clean, minimalist, and consistent across all locations. Standard quality is good, with a focus on functionality over aesthetics.
+                            <Link href="/actors/habyt" className="text-primary hover:underline font-medium">Habyt</Link>, Clean, minimalist, and consistent across all locations. Standard quality is good, with a focus on functionality over aesthetics.
                         </li>
                         <li>
-                            <Link href="/actors/neybor" className="text-primary hover:underline font-medium">Neybor</Link> — Comfortable and practical. Newer properties tend to have better furnishings. Good value for the price point.
+                            <Link href="/actors/neybor" className="text-primary hover:underline font-medium">Neybor</Link>, Comfortable and practical. Newer properties tend to have better furnishings. Good value for the price point.
                         </li>
                         <li>
-                            <Link href="/actors/morton-place" className="text-primary hover:underline font-medium">Morton Place</Link> — Cozy and homey feel. Furnishings are solid and well-maintained, with a focus on creating a welcoming atmosphere.
+                            <Link href="/actors/morton-place" className="text-primary hover:underline font-medium">Morton Place</Link>, Cozy and homey feel. Furnishings are solid and well-maintained, with a focus on creating a welcoming atmosphere.
                         </li>
                         <li>
-                            <Link href="/actors/colive" className="text-primary hover:underline font-medium">Colive</Link> — Functional and budget-friendly. Furnishings get the job done at a lower price point. Great for those who prioritize value over design.
+                            <Link href="/actors/colive" className="text-primary hover:underline font-medium">Colive</Link>, Functional and budget-friendly. Furnishings get the job done at a lower price point. Great for those who prioritize value over design.
                         </li>
                         <li>
-                            <Link href="/actors/ikoab" className="text-primary hover:underline font-medium">Ikoab</Link> — Simple and practical. Smaller-scale operator with a personal touch. Quality varies by property but generally good for the price.
+                            <Link href="/actors/ikoab" className="text-primary hover:underline font-medium">Ikoab</Link>, Simple and practical. Smaller-scale operator with a personal touch. Quality varies by property but generally good for the price.
                         </li>
                     </ul>
                 </div>
@@ -136,7 +136,7 @@ export default function FurnishedRoomsPage() {
                         Furnished coliving rooms are available across Brussels, with the highest concentration in popular expat neighborhoods. In <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> and <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link>, you will find options from multiple operators. <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link> has great options near the EU Quarter. The <Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">city center</Link> offers the most central locations.
                     </p>
                     <p className="mt-4">
-                        Operators are also expanding into neighborhoods like Schaerbeek, Forest, Uccle, and Woluwe-Saint-Lambert — offering furnished rooms at slightly lower price points while still maintaining the same quality and service.
+                        Operators are also expanding into neighborhoods like Schaerbeek, Forest, Uccle, and Woluwe-Saint-Lambert, offering furnished rooms at slightly lower price points while still maintaining the same quality and service.
                     </p>
                     <p className="mt-4">
                         Ready to find your furnished room? Browse our <Link href="/actors" className="text-primary hover:underline">operator comparison page</Link> or check out our <Link href="/blog" className="text-primary hover:underline">blog</Link> for the latest listings and tips.

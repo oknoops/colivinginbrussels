@@ -23,11 +23,11 @@ export type Actor = {
         tiktok?: string;
     };
     googleReviewScore?: number;
-    /** Short, comparable facts pulled from what we actually know about this operator — omit rather than guess. */
+    /** Short, comparable facts pulled from what we actually know about this operator, omit rather than guess. */
     quickFacts?: { label: string; value: string }[];
     /** One sentence: who this operator actually suits. Omit if not clear from the source description. */
     idealFor?: string;
-    /** An honest caveat or trade-off, only when the description supports one — not required. */
+    /** An honest caveat or trade-off, only when the description supports one, not required. */
     goodToKnow?: string;
 };
 
@@ -41,7 +41,7 @@ export const ACTORS: Actor[] = [
         priceRange: { min: 700, max: 1100 },
         rating: 4.8,
         amenities: ['Design Interiors', 'Events', 'App'],
-        description: 'Corners is redefining urban living with a focus on "simplicity and style." Their homes are typically located in prestigious maisonettes in Brussels favorite neighborhoods like Ixelles and Uccle. The vibe is decidedly grown-up and design-forward—think mid-century modern furniture, curated art pieces, and plenty of natural light. Rooms range from comfortable private bedrooms to spacious suites with private bathrooms. The community is often a mix of international professionals who value privacy just as much as a good dinner party. It’s less about forced fun and more about organic connections in a beautiful setting.',
+        description: 'Corners is redefining urban living with a focus on "simplicity and style." Their homes are typically located in prestigious maisonettes in Brussels favorite neighborhoods like Ixelles and Uccle. The vibe is decidedly grown-up and design-forward, think mid-century modern furniture, curated art pieces, and plenty of natural light. Rooms range from comfortable private bedrooms to spacious suites with private bathrooms. The community is often a mix of international professionals who value privacy just as much as a good dinner party. It’s less about forced fun and more about organic connections in a beautiful setting.',
         coverImage: '/actors/corners-v2.jpg',
         images: ['/actors/corners-v2.jpg'],
         website: 'https://www.corners.co',
@@ -73,7 +73,7 @@ export const ACTORS: Actor[] = [
         features: ['Social', 'High-end', 'Community'],
         quickFacts: [
             { label: 'Standout amenities', value: 'Cinema room, gym, rooftop terrace' },
-            { label: 'Community', value: 'Monthly events — yoga, cooking workshops, Sunday brunch' },
+            { label: 'Community', value: 'Monthly events, yoga, cooking workshops, Sunday brunch' },
         ],
         idealFor: 'People who want a packed social calendar and to make friends fast.',
         socials: {
@@ -98,7 +98,7 @@ export const ACTORS: Actor[] = [
         website: 'https://livecolonies.com',
         features: ['Flexible', 'Young Pros', 'Central'],
         quickFacts: [
-            { label: 'Couples', value: 'Accepted in many units — uncommon in this market' },
+            { label: 'Couples', value: 'Accepted in many units, uncommon in this market' },
             { label: 'Booking', value: 'Strong digital process, easy move in/out' },
         ],
         idealFor: 'Young professionals who want a hassle-free home base without the intensity of a big community.',
@@ -124,7 +124,7 @@ export const ACTORS: Actor[] = [
         website: 'https://colive.eu',
         features: ['Network', 'Accessible', 'Diverse'],
         quickFacts: [
-            { label: 'Rent', value: 'All-inclusive — even covers household insurance' },
+            { label: 'Rent', value: 'All-inclusive, even covers household insurance' },
             { label: 'Atmosphere', value: 'Family-style houses, cooking together is the norm' },
         ],
         idealFor: 'Interns and trainees arriving in Brussels for the first time.',
@@ -175,7 +175,7 @@ export const ACTORS: Actor[] = [
         features: ['Sustainable', 'Urban', 'Unique'],
         quickFacts: [
             { label: 'Sustainability', value: 'Urban farming or aquaponics at some locations' },
-            { label: 'Interiors', value: 'Raw, natural materials — locally sourced furniture' },
+            { label: 'Interiors', value: 'Raw, natural materials, locally sourced furniture' },
         ],
         idealFor: 'Design-conscious residents who care about sustainability and city integration.',
         socials: {
@@ -203,7 +203,7 @@ export const ACTORS: Actor[] = [
             { label: 'Booking', value: 'Fully digital, standardized rooms' },
         ],
         idealFor: 'Digital nomads and short-term assignments who want consistency over character.',
-        goodToKnow: 'Less "boutique" than local operators — the trade-off is standardization and reliability.',
+        goodToKnow: 'Less "boutique" than local operators, the trade-off is standardization and reliability.',
     },
     {
         id: 'morton-place',
@@ -244,7 +244,7 @@ export const ACTORS: Actor[] = [
         website: 'https://sharies.co/en/city/brussels',
         features: ['Serviced', 'Digital', 'Flexible'],
         quickFacts: [
-            { label: 'Rent', value: 'All-inclusive — utilities, wifi, weekly cleaning & fresh linen' },
+            { label: 'Rent', value: 'All-inclusive, utilities, wifi, weekly cleaning & fresh linen' },
             { label: 'Management', value: 'On-site residence manager at each address' },
         ],
         idealFor: 'Anyone who wants zero admin and to move in the same week they land.',
@@ -261,7 +261,7 @@ export const ACTORS: Actor[] = [
         priceRange: { min: 700, max: 1100 },
         rating: 4.5,
         amenities: ['Private Bathroom', 'House Management', 'Furnished'],
-        description: 'Co-Homing operates a dozen furnished houses scattered across some of the most liveable corners of Brussels — Châtelain, Flagey, Louise, Cinquantenaire, Dailly, Altitude 100 and more. Their philosophy is "privacy where it counts, social when you want it": most rooms come with a private bathroom and dedicated kitchen storage, while the shared living rooms, kitchens and gardens carry the community side. The typical resident is a mobile professional — the six-month consultant, the trainee who wants stability without a nine-year lease, the graduate who needs a calm place to work. Reliable house management and a genuinely central footprint are the draws here.',
+        description: 'Co-Homing operates a dozen furnished houses scattered across some of the most liveable corners of Brussels, Châtelain, Flagey, Louise, Cinquantenaire, Dailly, Altitude 100 and more. Their philosophy is "privacy where it counts, social when you want it": most rooms come with a private bathroom and dedicated kitchen storage, while the shared living rooms, kitchens and gardens carry the community side. The typical resident is a mobile professional, the six-month consultant, the trainee who wants stability without a nine-year lease, the graduate who needs a calm place to work. Reliable house management and a genuinely central footprint are the draws here.',
         coverImage: 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80&auto=format&fit=crop',
         images: ['https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://co-homing.net',
@@ -285,7 +285,7 @@ export const ACTORS: Actor[] = [
         priceRange: { min: 860, max: 1050 },
         rating: 4.4,
         amenities: ['Gym', 'Cinema Room', 'Coworking'],
-        description: 'Comoon is built around the EU-quarter axis, with houses near Schuman, Montgomery and Schaerbeek that pack in more shared amenities than most. Alongside a furnished private room with its own shower, residents get a coworking space with meeting rooms, a cinema room, a fully-equipped gym, laundry, a shared garden and secure bike parking — all folded into one monthly cost after utilities, cleaning and internet. It leans towards digital nomads and young professionals who want the practical stuff (a real desk, a gym, fast wifi) handled without leaving the house. A solid, amenity-heavy pick for anyone working in or around the European institutions.',
+        description: 'Comoon is built around the EU-quarter axis, with houses near Schuman, Montgomery and Schaerbeek that pack in more shared amenities than most. Alongside a furnished private room with its own shower, residents get a coworking space with meeting rooms, a cinema room, a fully-equipped gym, laundry, a shared garden and secure bike parking, all folded into one monthly cost after utilities, cleaning and internet. It leans towards digital nomads and young professionals who want the practical stuff (a real desk, a gym, fast wifi) handled without leaving the house. A solid, amenity-heavy pick for anyone working in or around the European institutions.',
         coverImage: 'https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80&auto=format&fit=crop',
         images: ['https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://comoon.be',
@@ -310,13 +310,13 @@ export const ACTORS: Actor[] = [
         priceRange: { min: 600, max: 950 },
         rating: 4.2,
         amenities: ['Flexible Stays', 'Furnished', 'All-in Rent'],
-        description: 'Coloc Housing sits at the more classic, accessible end of the market — furnished shared houses across Brussels with flexible stays and all-in rent. It is closer to a well-managed colocation (flatshare) than a heavily-branded boutique coliving, which is exactly the appeal for many newcomers: fewer frills, friendlier prices, and rooms that are easy to move into for a semester or a first job. Expect practical, comfortable bedrooms in real Brussels townhouses, with utilities and wifi bundled in. A dependable entry point if you want the coliving lifestyle without the premium price tag.',
+        description: 'Coloc Housing sits at the more classic, accessible end of the market, furnished shared houses across Brussels with flexible stays and all-in rent. It is closer to a well-managed colocation (flatshare) than a heavily-branded boutique coliving, which is exactly the appeal for many newcomers: fewer frills, friendlier prices, and rooms that are easy to move into for a semester or a first job. Expect practical, comfortable bedrooms in real Brussels townhouses, with utilities and wifi bundled in. A dependable entry point if you want the coliving lifestyle without the premium price tag.',
         coverImage: 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80&auto=format&fit=crop',
         images: ['https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80&auto=format&fit=crop'],
         website: 'https://www.colochousing.com/en/shared-houses-brussels',
         features: ['Accessible', 'Flexible', 'Classic'],
         quickFacts: [
-            { label: 'Rent', value: 'All-in — utilities and wifi bundled' },
+            { label: 'Rent', value: 'All-in, utilities and wifi bundled' },
             { label: 'Style', value: 'Closer to a classic flatshare than boutique coliving' },
         ],
         idealFor: 'Newcomers who want the coliving lifestyle without the premium price tag.',

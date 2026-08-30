@@ -1,6 +1,6 @@
 ---
 title: "Consejos para mudarse a Bruselas: 15 cosas que saber antes de instalarte"
-excerpt: "Quince consejos prácticos para mudarse a Bruselas — desde el empadronamiento en el municipio y la vivienda sin avalista hasta la banca, el transporte y los errores de recién llegado que conviene evitar."
+excerpt: "Quince consejos prácticos para mudarse a Bruselas, desde el empadronamiento en el municipio y la vivienda sin avalista hasta la banca, el transporte y los errores de recién llegado que conviene evitar."
 date: "2026-08-17"
 author: "Guía Local de Bruselas"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Mudanza", "Guía de mudanza", "Bruselas", "Expatriados"]
 
 # Consejos para mudarse a Bruselas: 15 cosas que saber antes de instalarte
 
-¿Planeas mudarte a la capital de Europa? Estos **consejos para mudarse a Bruselas** cubren las cosas prácticas que los recién llegados desearían haber sabido antes —el papeleo, la vivienda, el transporte y los pequeños detalles culturales—, además de los errores habituales que cuestan tiempo y dinero. Léelo antes de reservar nada.
+¿Planeas mudarte a la capital de Europa? Estos **consejos para mudarse a Bruselas** cubren las cosas prácticas que los recién llegados desearían haber sabido antes, el papeleo, la vivienda, el transporte y los pequeños detalles culturales, además de los errores habituales que cuestan tiempo y dinero. Léelo antes de reservar nada.
 
 ## Trámites y papeleo
 
@@ -51,10 +51,10 @@ tags: ["Mudanza", "Guía de mudanza", "Bruselas", "Expatriados"]
 
 ## Errores habituales de recién llegado que conviene evitar
 
-- **Subestimar los plazos administrativos** — empieza de inmediato con el municipio y el banco.
-- **Firmar un contrato largo e inflexible antes de conocer la ciudad** — mantén la flexibilidad primero.
+- **Subestimar los plazos administrativos**, empieza de inmediato con el municipio y el banco.
+- **Firmar un contrato largo e inflexible antes de conocer la ciudad**, mantén la flexibilidad primero.
 - **Elegir una vivienda solo por el precio** y acabar con un trayecto largo y agotador.
-- **Transferir fianzas a caseros sin verificar** — usa operadores de confianza.
+- **Transferir fianzas a caseros sin verificar**, usa operadores de confianza.
 
 ## Preguntas frecuentes
 

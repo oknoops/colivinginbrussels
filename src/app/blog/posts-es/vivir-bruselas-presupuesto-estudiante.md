@@ -15,7 +15,7 @@ Bruselas es una de las capitales más asequibles de Europa Occidental, pero los 
 
 El alquiler es con diferencia tu mayor gasto, así que aquí es donde más rentan las buenas decisiones.
 
-*   **El coliving económico** gana a un estudio solitario en relación calidad-precio: un único pago todo incluido (alquiler + suministros + wifi + limpieza), sin muebles que comprar y con comunidad al instante. Los operadores más baratos — [Ikoab](/actors/ikoab), [Colive](/actors/colive) y [Coloc Housing](/actors/coloc-housing) — empiezan en torno a 500-650 €/mes.
+*   **El coliving económico** gana a un estudio solitario en relación calidad-precio: un único pago todo incluido (alquiler + suministros + wifi + limpieza), sin muebles que comprar y con comunidad al instante. Los operadores más baratos, [Ikoab](/actors/ikoab), [Colive](/actors/colive) y [Coloc Housing](/actors/coloc-housing), empiezan en torno a 500-650 €/mes.
 *   **Barrios más baratos:** [Schaerbeek](/neighborhoods/schaerbeek) y [Forest](/neighborhoods/forest) ofrecen buena relación calidad-precio a un tranvía del centro.
 *   **Compara antes de firmar:** nuestra [comparativa de precios](/es/precios-coliving-bruselas) muestra el rango de cada operador uno al lado del otro.
 

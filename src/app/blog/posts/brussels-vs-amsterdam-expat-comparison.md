@@ -1,6 +1,6 @@
 ---
 title: "Brussels vs Amsterdam: Cost, Housing & Which to Choose (2026)"
-excerpt: "Is Brussels cheaper than Amsterdam? An honest side-by-side comparison of cost of living, housing, social life and careers — whether you're choosing where to move or planning a city break."
+excerpt: "Is Brussels cheaper than Amsterdam? An honest side-by-side comparison of cost of living, housing, social life and careers, whether you're choosing where to move or planning a city break."
 date: "2026-02-23"
 author: "ColivingInBrussels"
 coverImage: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80&auto=format&fit=crop"
@@ -9,16 +9,16 @@ tags: ["Brussels", "Amsterdam", "Expats", "Comparison", "European Cities"]
 
 # Brussels vs Amsterdam: Which City is Better for Expats in 2026?
 
-If you're considering a move to northern Europe and have narrowed it down to **Brussels or Amsterdam**, you're not alone. Both cities attract tens of thousands of expats per year, both are international and English-friendly, and both offer very different experiences. Here's an honest, nuanced comparison — useful whether you're deciding where to live or just comparing the two for a city break.
+If you're considering a move to northern Europe and have narrowed it down to **Brussels or Amsterdam**, you're not alone. Both cities attract tens of thousands of expats per year, both are international and English-friendly, and both offer very different experiences. Here's an honest, nuanced comparison, useful whether you're deciding where to live or just comparing the two for a city break.
 
 ## Is Brussels cheaper than Amsterdam?
 
-**Short answer: yes — noticeably.** Brussels is significantly cheaper than Amsterdam on almost every line item, and for many expats it's the single biggest deciding factor.
+**Short answer: yes, noticeably.** Brussels is significantly cheaper than Amsterdam on almost every line item, and for many expats it's the single biggest deciding factor.
 
 - **Rent:** the clearest gap. A room or studio in Brussels typically costs **30–40% less** than the Amsterdam equivalent, where a chronic housing shortage has pushed prices to among the highest in Europe. An all-in [coliving room in Brussels](/coliving-brussels-prices) runs €600–€950; comparable Amsterdam rooms are far pricier and far harder to find.
 - **Eating & drinking out:** restaurants, beer and coffee are cheaper in Brussels.
 - **Groceries & transport:** broadly similar, with Brussels slightly cheaper.
-- **The catch:** salaries in the Netherlands can be a little higher, and the Dutch `30% ruling` tax break (where it applies) narrows the gap for some — but on raw cost of living, Brussels wins comfortably.
+- **The catch:** salaries in the Netherlands can be a little higher, and the Dutch `30% ruling` tax break (where it applies) narrows the gap for some, but on raw cost of living, Brussels wins comfortably.
 
 For a **city break**, the same logic holds: Brussels is the better-value weekend, with cheaper hotels, food and beer, and Amsterdam just a ~2-hour train away if you want to do both.
 
@@ -38,7 +38,7 @@ This is where the two cities differ most dramatically.
 | Coliving (all-in) | €600–€1,300 | €900–€1,800 |
 | Room in shared flat | €550–€850 | €900–€1,400 |
 
-**Amsterdam is 50–80% more expensive for housing.** The housing crisis in Amsterdam is severe — waitlists for social housing can be 10+ years, and the private rental market is brutal.
+**Amsterdam is 50–80% more expensive for housing.** The housing crisis in Amsterdam is severe, waitlists for social housing can be 10+ years, and the private rental market is brutal.
 
 ### General Costs
 - Groceries: roughly similar (Brussels slightly cheaper)
@@ -87,7 +87,7 @@ French is the dominant language for local administration, restaurants, and daily
 The culture is relaxed, understated, and self-deprecating. Belgians have a deep appreciation for food, beer, and art, without the self-promotion that characterizes some neighboring cultures.
 
 ### Amsterdam
-Amsterdam is remarkably English-friendly — the Dutch have an extraordinarily high level of English proficiency. You can genuinely live there without learning Dutch for years.
+Amsterdam is remarkably English-friendly, the Dutch have an extraordinarily high level of English proficiency. You can genuinely live there without learning Dutch for years.
 
 The culture is direct, progressive, and open. The Dutch are known for their bluntness, which some find refreshing and others find difficult at first.
 
@@ -98,7 +98,7 @@ The culture is direct, progressive, and open. The Dutch are known for their blun
 ## Social Life & Making Friends
 
 ### Brussels
-Brussels has a reputation for being hard to break into, and there's some truth to it. Belgians are often described as "warm insides, cold outsides" — private and slow to invite new people into their circles.
+Brussels has a reputation for being hard to break into, and there's some truth to it. Belgians are often described as "warm insides, cold outsides", private and slow to invite new people into their circles.
 
 However, **the expat community is enormous and extremely social**. With thousands of new arrivals every year from the EU institutions, international organizations, and multinationals, Brussels has a very active expat meetup scene. Facebook groups, Meetup.com, and events like BrussExpats are busy.
 
@@ -116,10 +116,10 @@ The challenge in Amsterdam is that **housing stress** often dominates expat conv
 ## Quality of Life Day-to-Day
 
 ### Brussels
-- **Food**: World-class. Belgian cuisine — moules, frites, stoemp, waffles, and some of the best chocolate and beer on Earth — is extraordinary. The restaurant scene is underrated globally.
+- **Food**: World-class. Belgian cuisine, moules, frites, stoemp, waffles, and some of the best chocolate and beer on Earth, is extraordinary. The restaurant scene is underrated globally.
 - **Architecture**: Art Nouveau gems, Grand Place, the Atomium. Quirky, beautiful, imperfect.
 - **Weather**: Grey and rainy, similar to London. Not going to sugarcoat it.
-- **Green spaces**: Bois de la Cambre, Laeken Park, Forêt de Soignes — extensive and accessible.
+- **Green spaces**: Bois de la Cambre, Laeken Park, Forêt de Soignes, extensive and accessible.
 - **Travel**: 2 hours from Paris and London by train. Central hub for European travel.
 
 ### Amsterdam
@@ -162,4 +162,4 @@ The challenge in Amsterdam is that **housing stress** often dominates expat conv
 - You have a premium salary package
 - You love cycling, water, and Dutch directness
 
-Either way — **coliving is the smartest way to start in both cities**. In Brussels, explore all our options: [Browse coliving spaces →](/actors)
+Either way, **coliving is the smartest way to start in both cities**. In Brussels, explore all our options: [Browse coliving spaces →](/actors)

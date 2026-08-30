@@ -1,10 +1,10 @@
 /*
- * "What's On in Brussels" — event data + calendar helpers.
+ * "What's On in Brussels", event data + calendar helpers.
  *
  * Curated, on-site events (facts in our own words). Dated events use ISO
  * start/end; weekly recurring events (markets) use a `recurring` weekday rule
  * and are expanded onto the current month by getMonthEvents(). This is NOT a
- * live scrape — to auto-populate from the official agenda, wire the
+ * live scrape, to auto-populate from the official agenda, wire the
  * agenda.brussels API (free api.brussels token) into getMonthEvents().
  */
 
@@ -33,17 +33,17 @@ export const CATEGORY_STYLE: Record<EventCategory, { dot: string; chip: string; 
 
 // Dated highlights (curated). Keep these updated seasonally.
 export const EVENTS: WhatsOnEvent[] = [
-    { title: 'Foire du Midi (Midi Fair)', category: 'Festival', where: 'Boulevard du Midi', start: '2026-07-10', end: '2026-08-16', blurb: 'One of Europe’s largest funfairs takes over the boulevard for a month — rides, lights and fair-food classics.' },
+    { title: 'Foire du Midi (Midi Fair)', category: 'Festival', where: 'Boulevard du Midi', start: '2026-07-10', end: '2026-08-16', blurb: 'One of Europe’s largest funfairs takes over the boulevard for a month, rides, lights and fair-food classics.' },
     { title: 'Brussels Summer Festival', category: 'Music', where: 'Mont des Arts & centre', start: '2026-08-14', end: '2026-08-18', blurb: 'The big open-air summer music festival, with stages across the Mont des Arts and free stages around the centre.' },
     { title: 'Flower Carpet (Tapis de Fleurs)', category: 'Culture', where: 'Grand-Place', start: '2026-08-14', end: '2026-08-17', blurb: 'Hundreds of thousands of begonias carpet the Grand-Place in a giant design (every 2 years). Go up to the Town Hall balcony.' },
-    { title: 'Meyboom', category: 'Culture', where: 'City centre', start: '2026-08-09', blurb: 'A centuries-old Brussels folklore tradition — the planting of the “May tree.” Pure local, joyfully absurd.' },
+    { title: 'Meyboom', category: 'Culture', where: 'City centre', start: '2026-08-09', blurb: 'A centuries-old Brussels folklore tradition, the planting of the “May tree.” Pure local, joyfully absurd.' },
     { title: 'Open-air cinema nights', category: 'Activity', where: 'Parks & rooftops', start: '2026-08-01', end: '2026-08-31', blurb: 'Summer means pop-up open-air screenings across the city’s parks and rooftops. Bring a blanket.' },
 
     // Weekly recurring markets & rituals
-    { title: 'Marché du Midi (Sunday market)', category: 'Market', where: 'Gare du Midi', recurring: 'sun', blurb: 'One of Europe’s largest markets — fruit, spices, street food. Go early for calm, late for bargains.' },
-    { title: 'Jeu de Balle flea market', category: 'Market', where: 'Place du Jeu de Balle, Marolles', recurring: 'daily', blurb: 'The daily flea market — best and busiest at the weekend. Antiques, junk and genuine treasures.' },
+    { title: 'Marché du Midi (Sunday market)', category: 'Market', where: 'Gare du Midi', recurring: 'sun', blurb: 'One of Europe’s largest markets, fruit, spices, street food. Go early for calm, late for bargains.' },
+    { title: 'Jeu de Balle flea market', category: 'Market', where: 'Place du Jeu de Balle, Marolles', recurring: 'daily', blurb: 'The daily flea market, best and busiest at the weekend. Antiques, junk and genuine treasures.' },
     { title: 'Flagey food market', category: 'Market', where: 'Place Flagey, Ixelles', recurring: 'weekend', blurb: 'Organic produce, cheese, oysters and street food by the ponds. A perfect weekend morning.' },
-    { title: 'Châtelain market & apéro', category: 'Market', where: 'Place du Châtelain, Ixelles', recurring: 'wed', blurb: 'As much apéro as market — wine, oysters and tapas from the stalls as work lets out on Wednesday.' },
+    { title: 'Châtelain market & apéro', category: 'Market', where: 'Place du Châtelain, Ixelles', recurring: 'wed', blurb: 'As much apéro as market, wine, oysters and tapas from the stalls as work lets out on Wednesday.' },
 ];
 
 const WEEKDAY: Record<string, number[]> = {

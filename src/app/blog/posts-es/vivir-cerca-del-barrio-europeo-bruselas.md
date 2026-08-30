@@ -27,10 +27,10 @@ Etterbeek es la commune más directamente conectada con el Barrio Europeo. La zo
 
 ### Qué ofrece Etterbeek
 
-- **Place Jourdan** — el núcleo social del barrio, con restaurantes, cafés y el legendario puesto de patatas fritas Maison Antoine
-- **Parc du Cinquantenaire** — el parque más majestuoso de Bruselas, perfecto para carreras a la hora de comer y para relajarse los fines de semana. Los museos contiguos (Autoworld, Museo Real del Ejército) merecen una visita.
-- **Merode** — un cómodo nudo de metro/tranvía con tiendas y servicios
-- **Calma residencial** — calles arboladas con una mezcla de casas señoriales Art Nouveau y apartamentos modernos
+- **Place Jourdan**, el núcleo social del barrio, con restaurantes, cafés y el legendario puesto de patatas fritas Maison Antoine
+- **Parc du Cinquantenaire**, el parque más majestuoso de Bruselas, perfecto para carreras a la hora de comer y para relajarse los fines de semana. Los museos contiguos (Autoworld, Museo Real del Ejército) merecen una visita.
+- **Merode**, un cómodo nudo de metro/tranvía con tiendas y servicios
+- **Calma residencial**, calles arboladas con una mezcla de casas señoriales Art Nouveau y apartamentos modernos
 
 ### Coliving en Etterbeek
 
@@ -50,14 +50,14 @@ Los precios suelen ir de 750 a 1.050 EUR/mes.
 
 ## Ixelles (parte alta): cerca y con mucha vida
 
-La parte alta de Ixelles —en particular en torno a la Place du Luxembourg, Maelbeek y la zona entre Porte de Namur y la Place Jourdan— te sitúa cerca del Barrio Europeo mientras vives en uno de los barrios más dinámicos de Bruselas.
+La parte alta de Ixelles, en particular en torno a la Place du Luxembourg, Maelbeek y la zona entre Porte de Namur y la Place Jourdan, te sitúa cerca del Barrio Europeo mientras vives en uno de los barrios más dinámicos de Bruselas.
 
 ### Qué ofrece la parte alta de Ixelles
 
-- **Place du Luxembourg** — el bar extraoficial de after-work del personal de la UE. Terrazas a rebosar los jueves por la tarde. O te encanta o lo evitas.
-- **Matongé** — el barrio congoleño de Bruselas en torno a Porte de Namur, con increíbles restaurantes africanos y una cultura de calle vibrante
-- **Flagey** — a 15 minutos a pie hacia el sur, es el corazón cultural de Ixelles, con cines, mercados y el icónico Café Belga
-- **Corredor de la Avenue Louise** — compras y restaurantes de gama alta
+- **Place du Luxembourg**, el bar extraoficial de after-work del personal de la UE. Terrazas a rebosar los jueves por la tarde. O te encanta o lo evitas.
+- **Matongé**, el barrio congoleño de Bruselas en torno a Porte de Namur, con increíbles restaurantes africanos y una cultura de calle vibrante
+- **Flagey**, a 15 minutos a pie hacia el sur, es el corazón cultural de Ixelles, con cines, mercados y el icónico Café Belga
+- **Corredor de la Avenue Louise**, compras y restaurantes de gama alta
 
 ### Coliving en la parte alta de Ixelles
 
@@ -78,14 +78,14 @@ Los precios van de 700 a 1.200 EUR/mes.
 
 ## Centro de Bruselas (lado este)
 
-El extremo oriental del centro de la ciudad —en torno a Arts-Loi y el Parc de Bruxelles— tiende un puente entre la vida urbana y la proximidad a la UE.
+El extremo oriental del centro de la ciudad, en torno a Arts-Loi y el Parc de Bruxelles, tiende un puente entre la vida urbana y la proximidad a la UE.
 
 ### Qué ofrece esta zona
 
-- **Parc de Bruxelles** — el parque central de la ciudad, que conecta directamente el Palacio Real con el Barrio Europeo
-- **Rue Royale y Place Royale** — museos, locales culturales, arquitectura histórica
-- **Sablon** — tiendas de antigüedades, boutiques de chocolate y algunos de los mejores restaurantes de Bruselas (a 15 minutos a pie)
-- **Energía urbana** — cafés, restaurantes y vida nocturna a distancia caminable
+- **Parc de Bruxelles**, el parque central de la ciudad, que conecta directamente el Palacio Real con el Barrio Europeo
+- **Rue Royale y Place Royale**, museos, locales culturales, arquitectura histórica
+- **Sablon**, tiendas de antigüedades, boutiques de chocolate y algunos de los mejores restaurantes de Bruselas (a 15 minutos a pie)
+- **Energía urbana**, cafés, restaurantes y vida nocturna a distancia caminable
 
 ### Coliving en el centro de Bruselas
 
@@ -107,10 +107,10 @@ Para quienes quieren más espacio, verde y calma, Woluwe-Saint-Lambert (al este 
 
 ### Qué ofrece Woluwe
 
-- **Centro comercial Woluwe** — uno de los centros comerciales más grandes de Bruselas
-- **Parc de Woluwe y Parc de la Woluwe** — amplios espacios verdes
-- **Ambiente familiar** — popular entre el personal de la UE con hijos
-- **Apartamentos más grandes** — más espacio por menos dinero que en las communes céntricas
+- **Centro comercial Woluwe**, uno de los centros comerciales más grandes de Bruselas
+- **Parc de Woluwe y Parc de la Woluwe**, amplios espacios verdes
+- **Ambiente familiar**, popular entre el personal de la UE con hijos
+- **Apartamentos más grandes**, más espacio por menos dinero que en las communes céntricas
 
 ### Trayecto a Schuman
 
@@ -144,24 +144,24 @@ Una de las ventajas infravaloradas del Barrio Europeo es que se puede recorrer a
 
 ### Sitios para comer
 
-- **Maison Antoine** (Place Jourdan) — el puesto de patatas fritas más famoso de Bruselas. La cola merece la pena.
-- **Exki** — cadena de comida rápida saludable con varios locales en el Barrio Europeo
-- **Pain Quotidien** — cadena de panadería belga, perfecta para una comida rápida
-- **La Piazza** (Rue Archimède) — sólido menú italiano de mediodía, popular entre el personal de la Comisión
-- **Stirwen** (Rue Faider) — excelente cocina franco-belga, merece los 10 minutos a pie desde Schuman
+- **Maison Antoine** (Place Jourdan), el puesto de patatas fritas más famoso de Bruselas. La cola merece la pena.
+- **Exki**, cadena de comida rápida saludable con varios locales en el Barrio Europeo
+- **Pain Quotidien**, cadena de panadería belga, perfecta para una comida rápida
+- **La Piazza** (Rue Archimède), sólido menú italiano de mediodía, popular entre el personal de la Comisión
+- **Stirwen** (Rue Faider), excelente cocina franco-belga, merece los 10 minutos a pie desde Schuman
 
 ### After-work
 
-- **Terrazas de la Place du Luxembourg** — la tradición de los jueves. Cerveza, colegas, networking.
-- **Café Belga** (Flagey) — más relajado que la Place Lux, con un público más moderno
-- **Fat Boy's** (Place Jourdan) — bar deportivo con buenas hamburguesas y cerveza artesana
-- **The Wild Geese** (Avenue Livingstone) — pub irlandés cerca de Schuman, un abrevadero popular del Barrio Europeo
+- **Terrazas de la Place du Luxembourg**, la tradición de los jueves. Cerveza, colegas, networking.
+- **Café Belga** (Flagey), más relajado que la Place Lux, con un público más moderno
+- **Fat Boy's** (Place Jourdan), bar deportivo con buenas hamburguesas y cerveza artesana
+- **The Wild Geese** (Avenue Livingstone), pub irlandés cerca de Schuman, un abrevadero popular del Barrio Europeo
 
 ### Cenas de fin de semana
 
-- **Zona de Flagey** — decenas de restaurantes por la Rue Lesbroussart y alrededor de la plaza
-- **Matongé** — restaurantes congoleños, cameruneses y etíopes para los comensales aventureros
-- **Sablon** — cocina de gama alta para ocasiones especiales
+- **Zona de Flagey**, decenas de restaurantes por la Rue Lesbroussart y alrededor de la plaza
+- **Matongé**, restaurantes congoleños, cameruneses y etíopes para los comensales aventureros
+- **Sablon**, cocina de gama alta para ocasiones especiales
 
 ## Consejos prácticos específicos para la UE
 

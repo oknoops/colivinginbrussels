@@ -1,6 +1,6 @@
 ---
 title: "De Echte Kosten van het Leven in Brussel in 2026: Een Eerlijke Expat-Analyse"
-excerpt: "Huur, eten, vervoer, uitgaan — dit is wat Brussel écht kost per maand, met reële cijfers van mensen die er wonen."
+excerpt: "Huur, eten, vervoer, uitgaan, dit is wat Brussel écht kost per maand, met reële cijfers van mensen die er wonen."
 date: "2026-02-25"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Levensonderhoud", "Brussel", "Expats", "Budget", "Financiën"]
 
 # De Echte Kosten van het Leven in Brussel in 2026
 
-Brussel heeft de reputatie duur te zijn. Maar vergeleken met Londen, Parijs of Amsterdam is de stad verrassend betaalbaar — zeker als je weet hoe je de zaken aanpakt. Hier is een eerlijke opdeling van wat je elke maand effectief uitgeeft.
+Brussel heeft de reputatie duur te zijn. Maar vergeleken met Londen, Parijs of Amsterdam is de stad verrassend betaalbaar, zeker als je weet hoe je de zaken aanpakt. Hier is een eerlijke opdeling van wat je elke maand effectief uitgeeft.
 
 ---
 
@@ -30,7 +30,7 @@ Een comfortabel expat-leven in Brussel kost doorgaans tussen **€1.400 en €2.
 
 ## Huisvesting: je grootste kost
 
-Huisvesting is waar Brussel mensen verrast — het is beduidend goedkoper dan vergelijkbare Europese hoofdsteden.
+Huisvesting is waar Brussel mensen verrast, het is beduidend goedkoper dan vergelijkbare Europese hoofdsteden.
 
 ### Coliving (de slimste optie voor nieuwkomers)
 Ben je nieuw in Brussel, dan is **coliving de beste prijs-kwaliteitverhouding**. Alles zit inbegrepen: meubels, nutsvoorzieningen, wifi, vaak poetsdienst. De prijzen schommelen tussen:
@@ -46,7 +46,7 @@ Wil je je eigen appartement:
 - **Eén slaapkamer**: €1.000–€1.400/maand
 - **Buiten de vijfhoek (Etterbeek, Schaarbeek)**: €700–€950/maand
 
-De meeste verhuurders vragen 2 maanden huurwaarborg plus de eerste maand huur op voorhand — reken op **€2.500–€3.500** om erin te trekken.
+De meeste verhuurders vragen 2 maanden huurwaarborg plus de eerste maand huur op voorhand, reken op **€2.500–€3.500** om erin te trekken.
 
 ---
 
@@ -124,7 +124,7 @@ Wees voorbereid op deze opstartkosten in je eerste maand:
 - **Huurwaarborg** (bij private huur): 2 maanden huur
 - **Verhuis/transport**: sterk variabel
 
-Kies je voor coliving, dan sla je het meeste hiervan over — één koffer volstaat echt om te starten.
+Kies je voor coliving, dan sla je het meeste hiervan over, één koffer volstaat echt om te starten.
 
 ---
 

@@ -52,7 +52,7 @@ export default function HomeNl() {
                         Vind een plek waar je je <span className="text-orange-500">thuis</span> voelt
                     </h1>
                     <p className="text-lg md:text-xl mb-10 text-text font-light max-w-2xl mx-auto leading-relaxed">
-                        Verhuis je naar Brussel? Wij helpen je een warme plek te vinden. Vergelijk coliving en samenhuizen, ontdek elke wijk en word deel van een echte community — nog voor je aankomt.
+                        Verhuis je naar Brussel? Wij helpen je een warme plek te vinden. Vergelijk coliving en samenhuizen, ontdek elke wijk en word deel van een echte community, nog voor je aankomt.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-3 justify-center">
                         <Link href="/nl/coliving-brussel" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg text-base">
@@ -95,7 +95,7 @@ export default function HomeNl() {
                     <div className="flex flex-col md:flex-row justify-between md:items-end mb-12 gap-4">
                         <div className="max-w-2xl">
                             <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-3">Coliving-ruimtes met een ziel</h2>
-                            <p className="text-text text-lg">Van karaktervolle herenhuizen tot gezellige, betaalbare woonvormen — een greep uit de communities die we behandelen. Elk een echt thuis, met echte mensen.</p>
+                            <p className="text-text text-lg">Van karaktervolle herenhuizen tot gezellige, betaalbare woonvormen, een greep uit de communities die we behandelen. Elk een echt thuis, met echte mensen.</p>
                         </div>
                         <Link href="/actors" className="text-orange-500 font-bold hover:underline whitespace-nowrap text-sm shrink-0">Bekijk alle 12 →</Link>
                     </div>
@@ -128,7 +128,7 @@ export default function HomeNl() {
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-12 max-w-2xl mx-auto">
                         <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-4">Vind jouw hoekje van Brussel</h2>
-                        <p className="text-text text-lg">Elke wijk heeft zijn eigen ritme. Het bohemien Sint-Gillis, het hippe Elsene, het groene Ukkel — vind waar jij je thuis voelt.</p>
+                        <p className="text-text text-lg">Elke wijk heeft zijn eigen ritme. Het bohemien Sint-Gillis, het hippe Elsene, het groene Ukkel, vind waar jij je thuis voelt.</p>
                     </div>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-5">
                         {NEIGHBORHOODS.map((hood) => (

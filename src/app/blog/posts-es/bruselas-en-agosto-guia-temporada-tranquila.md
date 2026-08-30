@@ -7,7 +7,7 @@ coverImage: "https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=1200
 tags: ["temporada", "vida en bruselas", "consejos prácticos", "verano"]
 ---
 
-Si acabas de llegar a Bruselas este mes de agosto y la ciudad te parece inusualmente tranquila —tranvías medio vacíos, tu panadería de barrio favorita cerrada, una notita escrita a mano de "cierre anual" pegada en la puerta de un café— no te has topado con una ciudad fantasma. Has descubierto uno de los ritmos más antiguos de la ciudad: el éxodo de agosto.
+Si acabas de llegar a Bruselas este mes de agosto y la ciudad te parece inusualmente tranquila, tranvías medio vacíos, tu panadería de barrio favorita cerrada, una notita escrita a mano de "cierre anual" pegada en la puerta de un café, no te has topado con una ciudad fantasma. Has descubierto uno de los ritmos más antiguos de la ciudad: el éxodo de agosto.
 
 Como en gran parte de la Europa continental, los belgas consideran las vacaciones de verano casi sagradas. Muchos reservan la mayor parte de agosto (o al menos las dos últimas semanas) para ir a la costa belga, a las Ardenas, o más al sur, a Francia, España o Italia. Restaurantes familiares enteros, peluquerías y comercios independientes cierran durante dos, tres o incluso cuatro semanas seguidas. Para quien acaba de llegar, esto puede resultar desconcertante. Para el resto, en realidad es una de las épocas más agradables para vivir aquí, siempre que sepas adaptarte a este ritmo en lugar de luchar contra él.
 
@@ -16,7 +16,7 @@ Como en gran parte de la Europa continental, los belgas consideran las vacacione
 Es un mito que Bruselas "se cierra" en agosto: las grandes instituciones, los hospitales, los supermercados y el transporte público funcionan con normalidad. Lo que sí se ralentiza es algo más pequeño y personal:
 
 - **Los restaurantes y cafés independientes** suelen cerrar durante un periodo fijo, normalmente anunciado en la puerta o en su ficha de Google con semanas de antelación. Las cadenas y los locales más grandes, en cambio, permanecen abiertos.
-- **Los comercios y servicios de barrio** —la panadería de la esquina, la tintorería, tu peluquería habitual— pueden funcionar con horario reducido o cerrar por completo una o dos semanas.
+- **Los comercios y servicios de barrio**, la panadería de la esquina, la tintorería, tu peluquería habitual, pueden funcionar con horario reducido o cerrar por completo una o dos semanas.
 - **Las instituciones europeas y muchas oficinas corporativas** se vacían considerablemente, ya que gran parte de la población internacional de Bruselas organiza sus vacaciones en torno a este mes. Si vives cerca del Barrio Europeo, notarás la diferencia de inmediato.
 - **El tráfico y los desplazamientos al trabajo** se vuelven notablemente más fluidos. Si te preocupaba tu trayecto diario, agosto es el mes más sencillo para probarlo.
 - **Algunos servicios administrativos** (ayuntamientos, ciertas ventanillas públicas) funcionan con personal mínimo, así que conviene iniciar cualquier trámite urgente antes del verano, o armarse de paciencia hasta septiembre.
@@ -53,4 +53,4 @@ Unos pequeños hábitos hacen que agosto en Bruselas resulte mucho más llevader
 
 A principios de septiembre, la ciudad recupera por completo su ritmo: las oficinas se llenan de nuevo, los restaurantes reabren, colegios y universidades retoman el curso, y el mercado del alquiler se reactiva con una nueva oleada de estudiantes y profesionales. Si estás planeando una mudanza, llegar en las últimas semanas de agosto te permite instalarte durante la calma previa a ese ajetreo, ganando ventaja para encontrar vivienda, registrarte en el ayuntamiento y conocer tu barrio antes de que vuelva a llenarse de actividad.
 
-Ya estés instalado desde hace tiempo o acabes de llegar a Bruselas este mes, agosto recompensa un poco de flexibilidad. Hay menos cosas abiertas, pero lo que queda —los parques, las terrazas, esta versión más tranquila de la ciudad— es, posiblemente, Bruselas en su versión más habitable.
+Ya estés instalado desde hace tiempo o acabes de llegar a Bruselas este mes, agosto recompensa un poco de flexibilidad. Hay menos cosas abiertas, pero lo que queda, los parques, las terrazas, esta versión más tranquila de la ciudad, es, posiblemente, Bruselas en su versión más habitable.

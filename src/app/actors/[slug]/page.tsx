@@ -23,10 +23,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const actor = getActorById(slug);
     if (!actor) return {};
     return {
-        title: `${actor.name} Coliving Brussels — Reviews, Prices & Rooms (2026)`,
+        title: `${actor.name} Coliving Brussels, Reviews, Prices & Rooms (2026)`,
         description: `${actor.name} coliving in Brussels: honest review, real prices from €${actor.priceRange.min}/month, amenities, neighborhoods and how to book. ${actor.description.slice(0, 90)}...`,
         openGraph: {
-            title: `${actor.name} — Coliving in Brussels`,
+            title: `${actor.name}, Coliving in Brussels`,
             description: `From €${actor.priceRange.min}/month. ${actor.neighborhood}. ${actor.features.join(', ')}.`,
             ...(actor.coverImage ? { images: [{ url: actor.coverImage }] } : {}),
         },

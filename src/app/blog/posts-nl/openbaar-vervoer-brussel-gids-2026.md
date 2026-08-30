@@ -9,7 +9,7 @@ tags: ["Vervoer", "Brussel", "Praktische gids", "Expats", "Metro", "Tram"]
 
 # Gids openbaar vervoer Brussel 2026
 
-Een van de eerste vragen die nieuwkomers stellen, is: **heb ik een auto nodig in Brussel?** Voor de meeste mensen die in de centrale gemeenten wonen (Elsene, Sint-Gillis, Etterbeek, Brussel-Stad) is het antwoord een duidelijk **nee**. Brussel heeft een uitgebreid openbaarvervoernetwerk dat de stad grondig bedient — en de fameuze verkeersopstoppingen in de EU-hoofdstad maken autobezit eerder een hoofdpijndossier dan een gemak.
+Een van de eerste vragen die nieuwkomers stellen, is: **heb ik een auto nodig in Brussel?** Voor de meeste mensen die in de centrale gemeenten wonen (Elsene, Sint-Gillis, Etterbeek, Brussel-Stad) is het antwoord een duidelijk **nee**. Brussel heeft een uitgebreid openbaarvervoernetwerk dat de stad grondig bedient, en de fameuze verkeersopstoppingen in de EU-hoofdstad maken autobezit eerder een hoofdpijndossier dan een gemak.
 
 Hier is alles wat je moet weten.
 
@@ -53,12 +53,12 @@ Brussel heeft vier metrolijnen die samen een onderling verbonden netwerk over de
 Trams zijn vaak de handigste vervoersvorm voor het dagelijkse leven in Brussel, omdat ze buurten bedienen die de metro niet rechtstreeks bereikt.
 
 ### De handigste tramlijnen voor expats
-- **Tram 81**: Elsene (Flageyplein ↔ Albert) — rijdt door het hart van Elsene en Sint-Gillis. Onmisbaar voor de buurt Châtelain/Flagey.
+- **Tram 81**: Elsene (Flageyplein ↔ Albert), rijdt door het hart van Elsene en Sint-Gillis. Onmisbaar voor de buurt Châtelain/Flagey.
 - **Tram 7**: Vanderkindere ↔ Stade → passeert door Elsene en richting de Europese wijk.
 - **Tram 25**: verbindt de buurt van de ULB (universiteit) met het stadscentrum.
 - **Tram 3/4**: Sint-Gillis en Elsene richting Vorst.
 - **Tram 51**: Zuid-Brussel via Vorst.
-- **Tram 92/93**: langs de as Louiza/Bareel — heel handig voor Elsene.
+- **Tram 92/93**: langs de as Louiza/Bareel, heel handig voor Elsene.
 
 **Pro-tip**: de MIVB-app toont de realtime aankomsttijden van de trams, en dat is essentieel. De Brusselse trams zijn betrouwbaar, maar kunnen vertraging hebben; de app bespaart je veel wachttijd.
 
@@ -70,7 +70,7 @@ Bussen vullen de gaten in het metro-/tramnetwerk op en bereiken zones die de spo
 
 ### Opvallende buslijnen
 - **Bus 71**: een werkpaard van een lijn, van Etterbeek door Elsene tot het stadscentrum. Heel frequent.
-- **Bus 60**: bedient Ukkel en Zuid-Brussel — onmisbaar als je in de zuidelijke gemeenten woont.
+- **Bus 60**: bedient Ukkel en Zuid-Brussel, onmisbaar als je in de zuidelijke gemeenten woont.
 - **Bus 95**: verbindt Noord-Brussel met het stadscentrum.
 
 Nachtbussen (N-lijnen) rijden op vrijdag- en zaterdagnacht van ongeveer middernacht tot 3 uur en bedienen alle grote zones. Ze eindigen aan de stations **Zuid, Centraal of Noord**.
@@ -83,7 +83,7 @@ Nachtbussen (N-lijnen) rijden op vrijdag- en zaterdagnacht van ongeveer midderna
 - **€2,50** bij voorafgaande aankoop (via de app of een ticketautomaat)
 - **€3,00** bij aankoop bij de chauffeur (enkel tram/bus; de metro heeft geen chauffeurs die tickets verkopen)
 - Geldig voor **60 minuten** onbeperkt overstappen binnen het MIVB-netwerk
-- **Stap niet op tram/bus zonder te ontwaarden** — controleurs duiken regelmatig op en de boetes bedragen €150+
+- **Stap niet op tram/bus zonder te ontwaarden**, controleurs duiken regelmatig op en de boetes bedragen €150+
 
 ### 10-rittenkaart
 - **€14,90** voor 10 ritten
@@ -91,14 +91,14 @@ Nachtbussen (N-lijnen) rijden op vrijdag- en zaterdagnacht van ongeveer midderna
 
 ### Maandabonnement
 - **€54/maand** voor enkel het MIVB-netwerk
-- **€54,90/maand voor Brupass XL** — dekt MIVB + De Lijn (Vlaamse bussen) + TEC (Waalse bussen) + NMBS-treinen binnen het Brussels Gewest
+- **€54,90/maand voor Brupass XL**, dekt MIVB + De Lijn (Vlaamse bussen) + TEC (Waalse bussen) + NMBS-treinen binnen het Brussels Gewest
 
 ### Jaarabonnement
-- **€499/jaar** voor het volledige netwerk — bespaart ongeveer €150 ten opzichte van 12 maandabonnementen
+- **€499/jaar** voor het volledige netwerk, bespaart ongeveer €150 ten opzichte van 12 maandabonnementen
 - De moeite waard als je langer dan 6 maanden blijft
 
 ### Brupass vs. Brupass XL
-De **Brupass** dekt MIVB + enkele aansluitende bussen naar de omliggende gemeenten. De **Brupass XL** voegt alle gewestelijke treinen (NMBS) binnen het Brussels Gewest toe — heel handig als je nabij een treinstation woont of pendelt naar Leuven, Gent of Antwerpen.
+De **Brupass** dekt MIVB + enkele aansluitende bussen naar de omliggende gemeenten. De **Brupass XL** voegt alle gewestelijke treinen (NMBS) binnen het Brussels Gewest toe, heel handig als je nabij een treinstation woont of pendelt naar Leuven, Gent of Antwerpen.
 
 ### Gratis vervoer
 - **Onder 12 jaar**: gratis bij de MIVB, geen abonnement nodig
@@ -143,7 +143,7 @@ Brussel verbetert zijn fietsinfrastructuur razendsnel, al loopt het nog achter o
 ### Opties
 - **Blue-bike**: het nationale, stationsgebonden deelfietssysteem van België. Een jaarabonnement kost ongeveer €30/jaar. Handig om korte afstanden vanaf treinstations te overbruggen.
 - **Villo!**: het lokale deelfietssysteem van Brussel, met 180+ stations verspreid over de stad. Dagpas €1,60, jaarabonnement €35. De eerste 30 minuten van elke rit zijn gratis.
-- **Eigen fiets**: sterk aanbevolen voor wie regelmatig pendelt. Sluit hem goed vast — fietsdiefstal bestaat.
+- **Eigen fiets**: sterk aanbevolen voor wie regelmatig pendelt. Sluit hem goed vast, fietsdiefstal bestaat.
 
 De **GEN-fietsroutes** (vlakke, afgescheiden paden) verbinden veel gemeenten. De app **Cycling in Brussels** helpt je veilige routes te vinden.
 
@@ -152,22 +152,22 @@ De **GEN-fietsroutes** (vlakke, afgescheiden paden) verbinden veel gemeenten. De
 ## Je verplaatsen zonder auto: de realiteit
 
 Wonen in:
-- **Elsene** — uitstekend. Metro + trams + fietsen. Geen auto nodig.
-- **Sint-Gillis** — uitstekend. Meerdere tramlijnen + metro.
-- **Etterbeek** — heel goed. Metro (Schuman, Kunst-Wet) + bussen + trein aan Brussel-Luxemburg.
-- **Brussel-Stad** — de beste dekking. Alle metrolijnen komen hier samen.
-- **Ukkel** — lastiger. In veel delen enkel bussen. Sommige mensen gebruiken de fiets of af en toe een auto voor de meer afgelegen buurten.
-- **Schaarbeek / Anderlecht** — goede metro-/tramdekking; minder dicht dan de centrale gemeenten.
+- **Elsene**, uitstekend. Metro + trams + fietsen. Geen auto nodig.
+- **Sint-Gillis**, uitstekend. Meerdere tramlijnen + metro.
+- **Etterbeek**, heel goed. Metro (Schuman, Kunst-Wet) + bussen + trein aan Brussel-Luxemburg.
+- **Brussel-Stad**, de beste dekking. Alle metrolijnen komen hier samen.
+- **Ukkel**, lastiger. In veel delen enkel bussen. Sommige mensen gebruiken de fiets of af en toe een auto voor de meer afgelegen buurten.
+- **Schaarbeek / Anderlecht**, goede metro-/tramdekking; minder dicht dan de centrale gemeenten.
 
 ---
 
 ## Veelgemaakte fouten om te vermijden
 
-1. **Je ticket niet ontwaarden** — controleurs zijn actief en de boete van €150 valt niet te onderhandelen.
-2. **De MIVB-app niet downloaden** — wachten zonder realtime-info is frustrerend.
-3. **De metro nemen tijdens de spits zonder abonnement** — een enkel ticket kopen en aanschuiven in de rij tijdens de spits is trager dan je MOBIB-kaart of telefoon klaar te hebben.
-4. **Denken dat de tram minder waard is dan de metro** — voor veel trajecten zijn trams eigenlijk sneller en directer.
-5. **Niet controleren op verstoringen** — in het weekend zijn er soms onderhoudswerken. Kijk het altijd na voor je op een zondag naar het station vertrekt.
+1. **Je ticket niet ontwaarden**, controleurs zijn actief en de boete van €150 valt niet te onderhandelen.
+2. **De MIVB-app niet downloaden**, wachten zonder realtime-info is frustrerend.
+3. **De metro nemen tijdens de spits zonder abonnement**, een enkel ticket kopen en aanschuiven in de rij tijdens de spits is trager dan je MOBIB-kaart of telefoon klaar te hebben.
+4. **Denken dat de tram minder waard is dan de metro**, voor veel trajecten zijn trams eigenlijk sneller en directer.
+5. **Niet controleren op verstoringen**, in het weekend zijn er soms onderhoudswerken. Kijk het altijd na voor je op een zondag naar het station vertrekt.
 
 ---
 

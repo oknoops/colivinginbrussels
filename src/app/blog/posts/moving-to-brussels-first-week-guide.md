@@ -1,6 +1,6 @@
 ---
 title: "Your First Week in Brussels: A Newcomer's Survival Guide"
-excerpt: "Landed in Brussels? Here's exactly what to do in your first seven days — from registering at the commune to getting a transport card, a SIM, and your first frites."
+excerpt: "Landed in Brussels? Here's exactly what to do in your first seven days, from registering at the commune to getting a transport card, a SIM, and your first frites."
 date: "2026-07-31"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop"
@@ -9,11 +9,11 @@ tags: ["Moving to Brussels", "Newcomers", "Expats", "Checklist"]
 
 # Your First Week in Brussels: A Newcomer's Survival Guide
 
-The first week in a new city is a blur of admin, jet lag, and figuring out where to buy milk. Brussels is friendlier than most — especially if someone hands you the right order of operations. Here's your day-by-day survival guide for week one.
+The first week in a new city is a blur of admin, jet lag, and figuring out where to buy milk. Brussels is friendlier than most, especially if someone hands you the right order of operations. Here's your day-by-day survival guide for week one.
 
 ## Before anything: sort your home base
 
-Everything below is easier if you have a stable address from day one. This is the single biggest argument for arriving into a [coliving space](/actors) rather than a bare Airbnb: you land into a furnished room, a working kitchen, wifi, and — crucially — an address you can register at. If you haven't sorted housing yet, our [matchmaker quiz](/matchmaker) narrows 12 operators to your shortlist in a minute.
+Everything below is easier if you have a stable address from day one. This is the single biggest argument for arriving into a [coliving space](/actors) rather than a bare Airbnb: you land into a furnished room, a working kitchen, wifi, and, crucially, an address you can register at. If you haven't sorted housing yet, our [matchmaker quiz](/matchmaker) narrows 12 operators to your shortlist in a minute.
 
 ## Day 1–2: Settle and get connected
 
@@ -23,7 +23,7 @@ Everything below is easier if you have a stable address from day one. This is th
 
 ## Day 2–3: The commune (domiciliation)
 
-The big one. By law you must register your address at your **commune** (municipality) — Ixelles, Saint-Gilles, Schaerbeek, etc. — within **8 working days** of arriving.
+The big one. By law you must register your address at your **commune** (municipality), Ixelles, Saint-Gilles, Schaerbeek, etc., within **8 working days** of arriving.
 
 *   Bring your **passport/ID**, your **rental agreement** (your coliving operator provides this), and passport photos to be safe.
 *   You register at the commune of the neighbourhood you live in. A police officer may later visit to confirm you actually live there.
@@ -34,7 +34,7 @@ Our full [registration walkthrough](/blog/how-to-register-brussels-expat-guide) 
 ## Day 3–4: Money and health
 
 *   **Bank account.** You can start with an EU account or a digital bank (Revolut, N26, Wise) on day one, but for a long-term local account you'll usually want your registration underway. See our [Brussels bank account guide](/blog/how-to-open-bank-account-brussels).
-*   **Health insurance (mutuelle/mutualiteit).** In Belgium you register with a *mutuelle* for healthcare. Pick one (there are several) and start the paperwork — it's needed for reimbursement of doctor visits.
+*   **Health insurance (mutuelle/mutualiteit).** In Belgium you register with a *mutuelle* for healthcare. Pick one (there are several) and start the paperwork, it's needed for reimbursement of doctor visits.
 
 ## Day 4–5: Get your bearings (and have some fun)
 
@@ -48,9 +48,9 @@ Admin is exhausting; balance it. Spend an afternoon actually *enjoying* the city
 
 The newcomers who thrive are the ones who don't isolate in week one:
 
-*   Say **yes to your housemates.** If you're in a coliving house, there's almost certainly a group dinner or apéro happening — go, even jet-lagged.
+*   Say **yes to your housemates.** If you're in a coliving house, there's almost certainly a group dinner or apéro happening, go, even jet-lagged.
 *   Follow your **commune's events** and a couple of newcomer/expat groups.
-*   Learn five words of French — starting with "Bonjour" before every request. Our [slang guide](/blog/brussels-slang-dictionary) makes you sound less like a tourist fast.
+*   Learn five words of French, starting with "Bonjour" before every request. Our [slang guide](/blog/brussels-slang-dictionary) makes you sound less like a tourist fast.
 
 ## Your week-one checklist
 
@@ -63,7 +63,7 @@ The newcomers who thrive are the ones who don't isolate in week one:
 - [ ] First frites eaten
 - [ ] Said yes to one social thing
 
-Do those eight things and you've done more in a week than many manage in a month. Welcome to Brussels — you're going to like it here.
+Do those eight things and you've done more in a week than many manage in a month. Welcome to Brussels, you're going to like it here.
 
 ---
 

@@ -9,7 +9,7 @@ tags: ["Empadronamiento", "Trámites", "Expats", "Bruselas", "Guía práctica"]
 
 # Cómo empadronarte como expat en Bruselas (guía 2026)
 
-Registrar tu dirección en Bélgica —lo que se llama **empadronamiento** (domiciliation)— es uno de los primeros y más importantes trámites administrativos al mudarte a Bruselas. Es la llave que abre tu documento de identidad belga, el acceso a la sanidad, el derecho a voto (para ciudadanos de la UE) y tu expediente fiscal. Aquí te contamos exactamente cómo hacerlo.
+Registrar tu dirección en Bélgica, lo que se llama **empadronamiento** (domiciliation), es uno de los primeros y más importantes trámites administrativos al mudarte a Bruselas. Es la llave que abre tu documento de identidad belga, el acceso a la sanidad, el derecho a voto (para ciudadanos de la UE) y tu expediente fiscal. Aquí te contamos exactamente cómo hacerlo.
 
 ---
 
@@ -89,10 +89,10 @@ Una vez confirmado tu empadronamiento, recibirás una carta invitándote a recog
 ## Paso 6: date de alta en una mutualité (seguro médico)
 
 Cuando tengas tu documento de identidad (o tu número BSN/NISS de la comuna), date de alta en una **mutualité** (fondo de seguro médico). Las principales opciones:
-- **Mutualité Chrétienne / Christelijke Mutualiteit (CM/MC)** — la mayor y más cómoda
-- **Solidaris** — para trabajadores afiliados a determinados sindicatos
-- **Mutualité Libérale** — más liberal políticamente
-- **Partenamut** — neutral
+- **Mutualité Chrétienne / Christelijke Mutualiteit (CM/MC)**, la mayor y más cómoda
+- **Solidaris**, para trabajadores afiliados a determinados sindicatos
+- **Mutualité Libérale**, más liberal políticamente
+- **Partenamut**, neutral
 
 El alta es gratuita (pagas una pequeña cuota anual de 40-90 €). Tras registrarte, recibirás tu **tarjeta SIS** y empezarás a beneficiarte de los reembolsos de la sanidad belga (normalmente el 75 % de la mayoría de la atención médica).
 

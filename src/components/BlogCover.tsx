@@ -3,7 +3,7 @@ import { blogTheme } from '@/lib/blogTheme';
 /**
  * On-brand blog cover: a topical emoji on a warm gradient, derived from the
  * post's subject (slug/tags/title). Replaces the mismatched stock photos so a
- * cover always fits its post. Presentational only — safe in server components.
+ * cover always fits its post. Presentational only, safe in server components.
  */
 export default function BlogCover({
     slug,

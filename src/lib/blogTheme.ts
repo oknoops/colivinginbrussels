@@ -4,7 +4,7 @@
  * The markdown posts reused a small set of generic stock photos that rarely
  * matched the topic. Rather than ship mismatched photography, we derive an
  * on-brand cover (a topical emoji on a warm gradient) from each post's subject.
- * One source of truth, applied at render time across every language — so a beer
+ * One source of truth, applied at render time across every language, so a beer
  * guide gets a beer icon, a museum guide an art icon, etc.
  */
 

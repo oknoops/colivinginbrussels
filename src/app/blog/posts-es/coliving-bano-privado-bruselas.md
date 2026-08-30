@@ -39,7 +39,7 @@ Inmuebles más nuevos y modernos que tienden a ofrecer más habitaciones en suit
 
 ## Cuánto cuesta
 
-Como regla general, una habitación en suite cuesta aproximadamente **50-150 €/mes más** que su equivalente con baño compartido en la misma casa. Por lo que obtienes —sin colas, privacidad real—, la mayoría de quienes pueden permitírselo dicen que es el mejor dinero que gastan. Consulta los rangos completos en nuestra [página de precios](/es/precios-coliving-bruselas).
+Como regla general, una habitación en suite cuesta aproximadamente **50-150 €/mes más** que su equivalente con baño compartido en la misma casa. Por lo que obtienes, sin colas, privacidad real, la mayoría de quienes pueden permitírselo dicen que es el mejor dinero que gastan. Consulta los rangos completos en nuestra [página de precios](/es/precios-coliving-bruselas).
 
 ## Cómo asegurarte de conseguir una de verdad
 

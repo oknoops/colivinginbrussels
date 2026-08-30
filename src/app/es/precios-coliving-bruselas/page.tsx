@@ -84,7 +84,7 @@ export default function PreciosColivingBruselas() {
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
                     <h2>Qué incluye el alquiler</h2>
-                    <p>A diferencia de un alquiler clásico, el alquiler del coliving es <strong>todo incluido</strong> — un solo pago mensual que cubre:</p>
+                    <p>A diferencia de un alquiler clásico, el alquiler del coliving es <strong>todo incluido</strong>, un solo pago mensual que cubre:</p>
                     <ul>
                         <li>Los suministros (agua, gas, electricidad)</li>
                         <li>Wifi de alta velocidad</li>
@@ -95,7 +95,7 @@ export default function PreciosColivingBruselas() {
 
                     <h2>Coliving o estudio: la cuenta real</h2>
                     <p>
-                        Un estudio en Bruselas cuesta 700–1.000 € de alquiler, más 100–200 € de suministros, wifi y seguro — es decir 800–1.200 € en total, sin muebles. Una habitación en coliving de 600–900 € todo incluido suele salir más a cuenta, amueblada, y sin comisiones de agencia ni avalista belga. Consulta también nuestra guía sobre <Link href="/es/piso-compartido-bruselas">pisos compartidos en Bruselas</Link>.
+                        Un estudio en Bruselas cuesta 700–1.000 € de alquiler, más 100–200 € de suministros, wifi y seguro, es decir 800–1.200 € en total, sin muebles. Una habitación en coliving de 600–900 € todo incluido suele salir más a cuenta, amueblada, y sin comisiones de agencia ni avalista belga. Consulta también nuestra guía sobre <Link href="/es/piso-compartido-bruselas">pisos compartidos en Bruselas</Link>.
                     </p>
 
                     <h2>Precio por barrio</h2>

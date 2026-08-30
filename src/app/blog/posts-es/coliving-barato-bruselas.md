@@ -13,16 +13,16 @@ El coliving en Bruselas no tiene por qué ser caro. Aunque los operadores premiu
 
 ## Los operadores más económicos
 
-### [Ikoab](/actors/ikoab) — desde ~€500
+### [Ikoab](/actors/ikoab), desde ~€500
 Uno de los pioneros del coliving belga y de forma consistente entre los más baratos. Casas compartidas al estilo clásico "Auberge Espagnole" con verdadera energía de comunidad, pensadas justo para estudiantes y jóvenes profesionales que cuidan su presupuesto.
 
-### [Colive](/actors/colive) — desde ~€600
+### [Colive](/actors/colive), desde ~€600
 Una red por toda la ciudad con un modelo realmente todo incluido (hasta el seguro del hogar). Casas de estilo familiar, habitaciones amuebladas y prácticas, y un gran punto de entrada para becarios y primerizos.
 
-### [Coloc Housing](/actors/coloc-housing) — desde ~€600
+### [Coloc Housing](/actors/coloc-housing), desde ~€600
 Coliving accesible, estilo piso compartido, con estancias flexibles y alquiler todo incluido. Menos lujos, precios más amables: fácil para instalarse un semestre o para tu primer trabajo.
 
-### [Co-Homing](/actors/co-homing) — desde ~€700
+### [Co-Homing](/actors/co-homing), desde ~€700
 Un paso adelante en acabados pero aún razonable, con una docena de casas céntricas (muchas habitaciones con baño privado). Buena relación calidad-precio por la ubicación.
 
 Compáralos todos lado a lado en nuestra [página de precios](/es/precios-coliving-bruselas).
@@ -31,9 +31,9 @@ Compáralos todos lado a lado en nuestra [página de precios](/es/precios-colivi
 
 Dónde buscas importa tanto como qué operador eliges:
 
-*   **[Schaerbeek](/neighborhoods/schaerbeek)** — la mejor relación calidad-precio de la ciudad, diverso y en auge, con buenas conexiones de tranvía (€600–€950).
-*   **[Forest](/neighborhoods/forest)** — residencial, asequible y justo al lado del moderno Saint-Gilles (€650–€1.000).
-*   **[Saint-Gilles](/neighborhoods/saint-gilles)** — bohemio y céntrico, más barato que el vecino Ixelles (€700–€1.100).
+*   **[Schaerbeek](/neighborhoods/schaerbeek)**, la mejor relación calidad-precio de la ciudad, diverso y en auge, con buenas conexiones de tranvía (€600–€950).
+*   **[Forest](/neighborhoods/forest)**, residencial, asequible y justo al lado del moderno Saint-Gilles (€650–€1.000).
+*   **[Saint-Gilles](/neighborhoods/saint-gilles)**, bohemio y céntrico, más barato que el vecino Ixelles (€700–€1.100).
 
 Evita irte por defecto al caro Ixelles o Uccle si el presupuesto es ajustado: una parada de tranvía más allá puede ahorrarte cientos de euros. Consulta nuestra [comparativa de barrios](/es/blog/donde-vivir-en-bruselas).
 

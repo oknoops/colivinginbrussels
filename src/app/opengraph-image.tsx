@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
-export const alt = 'ColivingInBrussels — Find your coliving home in Brussels';
+export const alt = 'ColivingInBrussels, Find your coliving home in Brussels';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 

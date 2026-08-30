@@ -13,10 +13,10 @@ Bruselas es uno de los mejores destinos Erasmus de Europa: céntrica, internacio
 
 ## Tus opciones como estudiante Erasmus
 
-1.  **Residencia universitaria / kot** — habitaciones de estudiante belgas («kots») a través de tu universidad de acogida (ULB, VUB, Saint-Louis, etc.). Baratas cuando hay, pero la demanda supera a la oferta y puedes acabar lejos del ambiente.
-2.  **Residencias de estudiantes privadas** — alojamiento estudiantil construido para ese fin; cómodo, pero puede ser caro e impersonal.
-3.  **Coliving** — una habitación privada en una casa compartida y gestionada con otros jóvenes internacionales. El punto dulce para muchos Erasmus: flexible, social y todo incluido.
-4.  **Piso compartido clásico (coloc)** — lo más barato por habitación, pero te encargas tú de las facturas, los muebles y de encontrar compañeros de confianza.
+1.  **Residencia universitaria / kot**, habitaciones de estudiante belgas («kots») a través de tu universidad de acogida (ULB, VUB, Saint-Louis, etc.). Baratas cuando hay, pero la demanda supera a la oferta y puedes acabar lejos del ambiente.
+2.  **Residencias de estudiantes privadas**, alojamiento estudiantil construido para ese fin; cómodo, pero puede ser caro e impersonal.
+3.  **Coliving**, una habitación privada en una casa compartida y gestionada con otros jóvenes internacionales. El punto dulce para muchos Erasmus: flexible, social y todo incluido.
+4.  **Piso compartido clásico (coloc)**, lo más barato por habitación, pero te encargas tú de las facturas, los muebles y de encontrar compañeros de confianza.
 
 ## Por qué el coliving encaja de maravilla con el Erasmus
 
@@ -31,17 +31,17 @@ Un semestre Erasmus es corto (4-10 meses), llegas sin conocer a nadie y no quier
 ## Opciones económicas
 
 Los presupuestos Erasmus son ajustados, así que empieza por los operadores más económicos:
-*   [Ikoab](/actors/ikoab) — pionero, pensado para estudiantes, desde ~500 €.
-*   [Colive](/actors/colive) — todo incluido, en plan familiar, desde ~600 €.
-*   [Coloc Housing](/actors/coloc-housing) — flexible y accesible, desde ~600 €.
+*   [Ikoab](/actors/ikoab), pionero, pensado para estudiantes, desde ~500 €.
+*   [Colive](/actors/colive), todo incluido, en plan familiar, desde ~600 €.
+*   [Coloc Housing](/actors/coloc-housing), flexible y accesible, desde ~600 €.
 
 Consulta nuestra [guía de presupuesto](/es/habitacion-estudiante-bruselas) completa y el desglose del [coliving más barato](/es/precios-coliving-bruselas).
 
 ## Los mejores barrios para el Erasmus
 
-*   **[Ixelles](/neighborhoods/ixelles)** — el corazón estudiantil y expat, cerca de la ULB/VUB, lleno de bares (Place Flagey, Cimetière d'Ixelles). La base Erasmus clásica.
-*   **[Saint-Gilles](/neighborhoods/saint-gilles)** — artístico, céntrico y un poco más barato.
-*   **[Schaerbeek](/neighborhoods/schaerbeek)** / **[Forest](/neighborhoods/forest)** — la mejor relación calidad-precio, a un tranvía de la diversión.
+*   **[Ixelles](/neighborhoods/ixelles)**, el corazón estudiantil y expat, cerca de la ULB/VUB, lleno de bares (Place Flagey, Cimetière d'Ixelles). La base Erasmus clásica.
+*   **[Saint-Gilles](/neighborhoods/saint-gilles)**, artístico, céntrico y un poco más barato.
+*   **[Schaerbeek](/neighborhoods/schaerbeek)** / **[Forest](/neighborhoods/forest)**, la mejor relación calidad-precio, a un tranvía de la diversión.
 
 Compáralos en nuestra [guía de coliving en Bruselas](/es/coliving-bruselas).
 

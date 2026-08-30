@@ -81,7 +81,7 @@ export default function PrixColivingBruxelles() {
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
                     <h2>Ce qui est inclus dans le loyer</h2>
-                    <p>Contrairement à une location classique, le loyer en coliving est <strong>tout compris</strong> — un seul paiement mensuel qui couvre&nbsp;:</p>
+                    <p>Contrairement à une location classique, le loyer en coliving est <strong>tout compris</strong>, un seul paiement mensuel qui couvre&nbsp;:</p>
                     <ul>
                         <li>Les charges (eau, gaz, électricité)</li>
                         <li>Le wifi haut débit</li>
@@ -92,7 +92,7 @@ export default function PrixColivingBruxelles() {
 
                     <h2>Coliving ou studio&nbsp;: le vrai calcul</h2>
                     <p>
-                        Un studio à Bruxelles coûte 700–1 000 € de loyer nu, plus 100–200 € de charges, wifi et assurance — soit 800–1 200 € au total, sans les meubles. Une chambre en coliving à 600–900 € tout compris est souvent plus avantageuse, meublée, et sans frais d&apos;agence ni garant belge. Voir aussi notre guide de la <Link href="/fr/colocation-bruxelles">colocation à Bruxelles</Link>.
+                        Un studio à Bruxelles coûte 700–1 000 € de loyer nu, plus 100–200 € de charges, wifi et assurance, soit 800–1 200 € au total, sans les meubles. Une chambre en coliving à 600–900 € tout compris est souvent plus avantageuse, meublée, et sans frais d&apos;agence ni garant belge. Voir aussi notre guide de la <Link href="/fr/colocation-bruxelles">colocation à Bruxelles</Link>.
                     </p>
 
                     <h2>Prix par quartier</h2>

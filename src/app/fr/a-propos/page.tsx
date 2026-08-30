@@ -19,7 +19,7 @@ export default function AProposFr() {
             <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-6">À propos de ColivingInBrussels</h1>
             <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500">
                 <p className="text-xl">
-                    ColivingInBrussels est le guide local et indépendant du coliving et de la colocation à Bruxelles. On aide les expats, étudiants et nomades numériques à comparer chaque espace, découvrir les quartiers et s&apos;installer sereinement — sans stress.
+                    ColivingInBrussels est le guide local et indépendant du coliving et de la colocation à Bruxelles. On aide les expats, étudiants et nomades numériques à comparer chaque espace, découvrir les quartiers et s&apos;installer sereinement, sans stress.
                 </p>
 
                 <h2>Notre mission</h2>

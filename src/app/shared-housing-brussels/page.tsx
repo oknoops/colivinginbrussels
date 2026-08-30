@@ -65,7 +65,7 @@ export default function SharedHousingPage() {
                     Shared Housing in <span className="text-primary">Brussels</span>
                 </h1>
                 <p className="text-xl text-text">
-                    Coliving, flatshares, and studios — which shared housing option is right for you?
+                    Coliving, flatshares, and studios, which shared housing option is right for you?
                 </p>
             </div>
 
@@ -93,7 +93,7 @@ export default function SharedHousingPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Traditional Flatshares (Colocation)</h2>
                     <p>
-                        The traditional Belgian flatshare — or &quot;colocation&quot; — involves renting a room in a shared apartment or house with other tenants. You typically find these through platforms like Immoweb, BrukBru, or Facebook groups. The lease is usually between you and the landlord (or one main tenant who sublets).
+                        The traditional Belgian flatshare, or &quot;colocation&quot;, involves renting a room in a shared apartment or house with other tenants. You typically find these through platforms like Immoweb, BrukBru, or Facebook groups. The lease is usually between you and the landlord (or one main tenant who sublets).
                     </p>
                     <p className="mt-4"><strong className="text-text-dark">Pros:</strong> Often cheaper base rent (400 to 650 EUR), more independence, ability to choose your flatmates, can negotiate terms directly.</p>
                     <p className="mt-4"><strong className="text-text-dark">Cons:</strong> Utilities billed separately (and can cause flatmate conflicts), cleaning and maintenance are your responsibility, may need a guarantor, rooms often unfurnished, finding a good flatshare can take weeks.</p>
@@ -113,7 +113,7 @@ export default function SharedHousingPage() {
                 <div className="bg-amber-50 rounded-2xl border border-amber-200 p-8">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Which Option Is Right for You?</h2>
                     <p>
-                        The choice comes down to your priorities. If you are new to Brussels and want a smooth landing, coliving is hard to beat — operators like <Link href="/actors/colive" className="text-primary hover:underline">Colive</Link>, <Link href="/actors/neybor" className="text-primary hover:underline">Neybor</Link>, <Link href="/actors/ikoab" className="text-primary hover:underline">Ikoab</Link>, and <Link href="/actors/morton-place" className="text-primary hover:underline">Morton Place</Link> make the process effortless. If you have time to search and want to save money, a traditional flatshare might be the way to go.
+                        The choice comes down to your priorities. If you are new to Brussels and want a smooth landing, coliving is hard to beat, operators like <Link href="/actors/colive" className="text-primary hover:underline">Colive</Link>, <Link href="/actors/neybor" className="text-primary hover:underline">Neybor</Link>, <Link href="/actors/ikoab" className="text-primary hover:underline">Ikoab</Link>, and <Link href="/actors/morton-place" className="text-primary hover:underline">Morton Place</Link> make the process effortless. If you have time to search and want to save money, a traditional flatshare might be the way to go.
                     </p>
                     <p className="mt-4">
                         The best neighborhoods for shared housing in Brussels include <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link>, <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link>, <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link>, Schaerbeek, and Uccle. Explore our <Link href="/actors" className="text-primary hover:underline">operator profiles</Link> to compare coliving options, or take our <Link href="/matchmaker" className="text-primary hover:underline">Matchmaker Quiz</Link> for a personalized recommendation.

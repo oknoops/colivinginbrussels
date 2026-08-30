@@ -25,7 +25,7 @@ const ES_DESC: Record<string, string> = {
     'uccle': 'Verde, tranquilo y residencial. Perfecto si prefieres los parques al ruido.',
     'schaerbeek': 'La mejor relación calidad-precio: diversidad, art nouveau y un barrio en plena expansión.',
     'forest': 'La alternativa bohemia y asequible, con bonitas zonas verdes y una escena musical.',
-    'woluwe-saint-lambert': 'Verde, residencial y tranquilo — ideal para familias y trabajadores de la UE.',
+    'woluwe-saint-lambert': 'Verde, residencial y tranquilo, ideal para familias y trabajadores de la UE.',
 };
 
 export default function BarriosEs() {

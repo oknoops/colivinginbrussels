@@ -31,10 +31,10 @@ Compáralos todos en nuestra [página de precios](/es/precios-coliving-bruselas)
 
 ## Los mejores barrios para personas en prácticas
 
-*   **[Etterbeek](/neighborhoods/etterbeek)** — la elección estratégica si estás en la Comisión o el Parlamento. A pie o con un solo tranvía hasta Schuman.
-*   **[Elsene (Ixelles)](/neighborhoods/ixelles)** — social, céntrico, lleno de otros jóvenes internacionales. Place Luxembourg ("Plux") es el ritual de los jueves por la noche de los *stagiaires*.
-*   **[Saint-Gilles](/neighborhoods/saint-gilles)** — más barato, artístico, todavía bien conectado.
-*   **[Schaerbeek](/neighborhoods/schaerbeek)** — la mejor relación calidad-precio, en pleno auge, con buenas conexiones de tranvía.
+*   **[Etterbeek](/neighborhoods/etterbeek)**, la elección estratégica si estás en la Comisión o el Parlamento. A pie o con un solo tranvía hasta Schuman.
+*   **[Elsene (Ixelles)](/neighborhoods/ixelles)**, social, céntrico, lleno de otros jóvenes internacionales. Place Luxembourg ("Plux") es el ritual de los jueves por la noche de los *stagiaires*.
+*   **[Saint-Gilles](/neighborhoods/saint-gilles)**, más barato, artístico, todavía bien conectado.
+*   **[Schaerbeek](/neighborhoods/schaerbeek)**, la mejor relación calidad-precio, en pleno auge, con buenas conexiones de tranvía.
 
 ## El ángulo del barrio europeo
 

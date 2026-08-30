@@ -9,7 +9,7 @@ tags: ["Registration", "Admin", "Expats", "Brussels", "Practical Guide"]
 
 # How to Register as an Expat in Brussels (2026 Guide)
 
-Registering your address in Belgium — called **domiciliation** — is one of the first and most important administrative steps when you move to Brussels. It unlocks your Belgian ID card, healthcare access, voting rights (for EU citizens), and your tax file. Here's exactly how to do it.
+Registering your address in Belgium, called **domiciliation**, is one of the first and most important administrative steps when you move to Brussels. It unlocks your Belgian ID card, healthcare access, voting rights (for EU citizens), and your tax file. Here's exactly how to do it.
 
 ---
 
@@ -89,10 +89,10 @@ Once your registration is confirmed, you'll receive a letter inviting you to col
 ## Step 6: Register with a Mutualité (Health Insurance)
 
 Once you have your ID card (or BSN/NISS number from the commune), register with a **mutualité** (health insurance fund). The main options:
-- **Mutualité Chrétienne / Christelijke Mutualiteit (CM/MC)** — largest and most convenient
-- **Solidaris** — for workers affiliated with certain unions
-- **Mutualité Libérale** — more liberal politically
-- **Partenamut** — neutral
+- **Mutualité Chrétienne / Christelijke Mutualiteit (CM/MC)**, largest and most convenient
+- **Solidaris**, for workers affiliated with certain unions
+- **Mutualité Libérale**, more liberal politically
+- **Partenamut**, neutral
 
 Registration is free (you pay a small annual membership of €40–€90). After registration, you'll get your **SIS card** and start benefiting from Belgian healthcare reimbursements (usually 75% back on most care).
 
@@ -101,13 +101,13 @@ Registration is free (you pay a small annual membership of €40–€90). After
 ## Common Problems and Solutions
 
 **"The commune won't accept my coliving address"**
-This is rare but happens occasionally. Ask your coliving operator for an official letter on headed paper confirming you are a resident. If the problem persists, ask the operator if they have experience with this — most established operators do.
+This is rare but happens occasionally. Ask your coliving operator for an official letter on headed paper confirming you are a resident. If the problem persists, ask the operator if they have experience with this, most established operators do.
 
 **"I can't get an appointment for weeks"**
 Many communes allow walk-in hours in the morning. Show up early on a Monday or Tuesday. Alternatively, go to a smaller commune (like Ixelles or Watermael-Boitsfort) which sometimes have shorter queues than the central Brussels commune.
 
-**"My verification visit failed — I wasn't home"**
-You'll receive a notice to appear at the local police station with your documents. Don't panic — this is common and easy to resolve. Bring your contract and ID.
+**"My verification visit failed, I wasn't home"**
+You'll receive a notice to appear at the local police station with your documents. Don't panic, this is common and easy to resolve. Bring your contract and ID.
 
 **"I need a Belgian bank account but can't register yet"**
 Try **Wise** (formerly TransferWise), **Revolut**, or **N26** as a temporary solution. All work in Belgium with just a foreign ID and provide an IBAN. Once you're registered, you can open an account with **BNP Paribas Fortis, ING, or KBC**.

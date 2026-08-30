@@ -6,7 +6,7 @@ import { getAllActors } from '@/lib/actors';
 
 export const revalidate = 86400;
 
-// Operators with no single home base — available across Brussels, so relevant
+// Operators with no single home base, available across Brussels, so relevant
 // to every neighbourhood.
 const CITYWIDE = new Set(['corners', 'cohabs', 'colive', 'ikoab', 'co-homing', 'coloc-housing']);
 
@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: { params: Promise<{ neighborh
     if (!hood) return {};
     const short = hood.name.split(' (')[0];
     return {
-        title: `Coliving in ${short}, Brussels — Best Spaces & Prices (2026)`,
+        title: `Coliving in ${short}, Brussels, Best Spaces & Prices (2026)`,
         description: `Coliving in ${short}: which operators have rooms here, real prices (${hood.avgRent}/month), what the area is like, and how to find your place. An independent local guide.`,
         alternates: {
             canonical: `https://colivinginbrussels.com/coliving/${neighborhood}`,
@@ -141,7 +141,7 @@ export default async function ColivingNeighborhoodPage({ params }: { params: Pro
                 </nav>
 
                 <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-5 leading-tight">Coliving in {short}, Brussels</h1>
-                <p className="text-xl text-text mb-4 leading-relaxed">{hood.shortDesc} Here&apos;s where to find coliving in {short} — the operators with rooms here, real prices, and what the area is like to live in.</p>
+                <p className="text-xl text-text mb-4 leading-relaxed">{hood.shortDesc} Here&apos;s where to find coliving in {short}, the operators with rooms here, real prices, and what the area is like to live in.</p>
                 <div className="flex flex-wrap gap-2 mb-10">
                     <span className="bg-amber-100 text-amber-800 text-sm font-semibold px-3 py-1 rounded-full">💶 {hood.avgRent}/mo</span>
                     <span className="bg-orange-100 text-orange-700 text-sm font-semibold px-3 py-1 rounded-full">🏡 {all.length} operators</span>

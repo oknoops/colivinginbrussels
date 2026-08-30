@@ -50,7 +50,7 @@ export default function AnunciarEs() {
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         {[
-                            { emoji: '🎯', title: 'Alta intención', body: 'Nuestros visitantes no navegan sin más — se mudan. Comparan operadores y barrios, con una decisión a semanas vista.' },
+                            { emoji: '🎯', title: 'Alta intención', body: 'Nuestros visitantes no navegan sin más, se mudan. Comparan operadores y barrios, con una decisión a semanas vista.' },
                             { emoji: '🔎', title: 'Hecho para encontrarse', body: `Una biblioteca creciente de guías SEO y ${count} perfiles de operadores que posicionan para justo las búsquedas de tus futuros residentes.` },
                             { emoji: '🤝', title: 'Independiente y fiable', body: 'No cobramos comisiones de reserva, así que nuestras recomendaciones pesan. Una mención aquí es creíble, no comercial.' },
                         ].map((b) => (

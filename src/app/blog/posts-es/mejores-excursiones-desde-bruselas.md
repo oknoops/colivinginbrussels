@@ -9,7 +9,7 @@ tags: ["Excursiones", "Qué hacer", "Viajes", "Bélgica"]
 
 # Las mejores excursiones desde Bruselas (todas a menos de 90 minutos)
 
-Una de las alegrías silenciosas de vivir en Bruselas: toda Bélgica —y media Europa Occidental— está a la puerta de tu casa. El país es pequeño, los trenes son frecuentes y baratos, y un sábado espontáneo puede llevarte a una ciudad medieval de canales o al mar del Norte. Aquí tienes tu mapa de escapadas.
+Una de las alegrías silenciosas de vivir en Bruselas: toda Bélgica, y media Europa Occidental, está a la puerta de tu casa. El país es pequeño, los trenes son frecuentes y baratos, y un sábado espontáneo puede llevarte a una ciudad medieval de canales o al mar del Norte. Aquí tienes tu mapa de escapadas.
 
 ## Las clásicas ciudades belgas
 

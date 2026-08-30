@@ -53,7 +53,7 @@ export default function HomeEs() {
                         Encuentra un sitio donde sentirte <span className="text-orange-500">como en casa</span>
                     </h1>
                     <p className="text-lg md:text-xl mb-10 text-text font-light max-w-2xl mx-auto leading-relaxed">
-                        ¿Te mudas a Bruselas? Te ayudamos a encontrar un sitio acogedor. Compara coliving y pisos compartidos, descubre cada barrio y únete a una comunidad real — antes incluso de llegar.
+                        ¿Te mudas a Bruselas? Te ayudamos a encontrar un sitio acogedor. Compara coliving y pisos compartidos, descubre cada barrio y únete a una comunidad real, antes incluso de llegar.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-3 justify-center">
                         <Link href="/es/coliving-bruselas" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg text-base">
@@ -96,7 +96,7 @@ export default function HomeEs() {
                     <div className="flex flex-col md:flex-row justify-between md:items-end mb-12 gap-4">
                         <div className="max-w-2xl">
                             <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-3">Espacios de coliving con alma</h2>
-                            <p className="text-text text-lg">Desde casas señoriales con encanto hasta opciones económicas y acogedoras — una muestra de las comunidades que cubrimos. Cada una, un hogar real con gente real.</p>
+                            <p className="text-text text-lg">Desde casas señoriales con encanto hasta opciones económicas y acogedoras, una muestra de las comunidades que cubrimos. Cada una, un hogar real con gente real.</p>
                         </div>
                         <Link href="/actors" className="text-orange-500 font-bold hover:underline whitespace-nowrap text-sm shrink-0">Ver los 12 →</Link>
                     </div>
@@ -129,7 +129,7 @@ export default function HomeEs() {
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-12 max-w-2xl mx-auto">
                         <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-4">Encuentra tu rincón de Bruselas</h2>
-                        <p className="text-text text-lg">Cada barrio tiene su propio ritmo. El bohemio Saint-Gilles, el moderno Ixelles, el verde Uccle — encuentra dónde encajas.</p>
+                        <p className="text-text text-lg">Cada barrio tiene su propio ritmo. El bohemio Saint-Gilles, el moderno Ixelles, el verde Uccle, encuentra dónde encajas.</p>
                     </div>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-5">
                         {NEIGHBORHOODS.map((hood) => (

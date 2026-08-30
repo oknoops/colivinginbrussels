@@ -48,7 +48,7 @@ export default function AnnoncerFr() {
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         {[
-                            { emoji: '🎯', title: 'Forte intention', body: 'Nos visiteurs ne font pas que naviguer — ils déménagent. Ils comparent opérateurs et quartiers, à quelques semaines de la décision.' },
+                            { emoji: '🎯', title: 'Forte intention', body: 'Nos visiteurs ne font pas que naviguer, ils déménagent. Ils comparent opérateurs et quartiers, à quelques semaines de la décision.' },
                             { emoji: '🔎', title: 'Fait pour être trouvé', body: `Une bibliothèque de guides SEO en pleine croissance et ${count} profils d'opérateurs qui se positionnent sur les recherches de vos futurs résidents.` },
                             { emoji: '🤝', title: 'Indépendant & fiable', body: 'Nous ne prenons aucune commission de réservation : nos recommandations ont du poids. Une mise en avant ici est crédible, pas commerciale.' },
                         ].map((b) => (

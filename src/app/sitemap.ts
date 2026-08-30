@@ -72,7 +72,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority,
     }));
 
-    // Dynamic Blog Posts, per locale (published only — future drip posts stay
+    // Dynamic Blog Posts, per locale (published only, future drip posts stay
     // out until live). EN lives at /blog/<slug>; FR/NL/ES at /<loc>/blog/<slug>
     // with their own localized slugs.
     const blogRoutes = [

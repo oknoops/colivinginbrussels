@@ -19,10 +19,10 @@ Cuenta con pagar un **suplemento de entre 100 y 250 €/mes** por un segundo ocu
 
 ## Operadores con más probabilidades de aceptar parejas
 
-- **[Live Colonies](/actors/livecolonies)** — su modelo «Super-Coloc» acepta explícitamente parejas en muchas unidades, algo verdaderamente poco habitual. Suele ser el primer sitio donde mirar.
-- **[Habyt](/actors/habyt)** — ofrece estudios y habitaciones más grandes en algunos edificios que pueden valer para dos, además de condiciones flexibles.
-- **[Cohabs](/actors/cohabs)** y **[Colive](/actors/colive)** — tienen ciertas habitaciones más grandes que funcionan para parejas, normalmente con suplemento. Pregunta específicamente.
-- **[Co-Homing](/actors/co-homing)** y **[Morton Place](/actors/morton-place)** — configuraciones más privadas, con muchos baños en suite, que pueden encajar con parejas que buscan tranquilidad.
+- **[Live Colonies](/actors/livecolonies)**, su modelo «Super-Coloc» acepta explícitamente parejas en muchas unidades, algo verdaderamente poco habitual. Suele ser el primer sitio donde mirar.
+- **[Habyt](/actors/habyt)**, ofrece estudios y habitaciones más grandes en algunos edificios que pueden valer para dos, además de condiciones flexibles.
+- **[Cohabs](/actors/cohabs)** y **[Colive](/actors/colive)**, tienen ciertas habitaciones más grandes que funcionan para parejas, normalmente con suplemento. Pregunta específicamente.
+- **[Co-Homing](/actors/co-homing)** y **[Morton Place](/actors/morton-place)**, configuraciones más privadas, con muchos baños en suite, que pueden encajar con parejas que buscan tranquilidad.
 
 Explora todos los [operadores](/actors) y escribe a varios: la disponibilidad cambia constantemente.
 

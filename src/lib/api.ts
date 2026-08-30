@@ -69,7 +69,7 @@ export function getAllPosts(fields: string[] = [], locale: string = 'en') {
 /**
  * Posts whose publish date is today or earlier.
  *
- * Future-dated posts stay hidden from listings until their day arrives — this
+ * Future-dated posts stay hidden from listings until their day arrives, this
  * is what powers the "one blog per day" drip. The individual post page and
  * `generateStaticParams` still use `getAllPosts`, so a future post is fully
  * built and reachable by direct URL; it simply isn't featured until it goes

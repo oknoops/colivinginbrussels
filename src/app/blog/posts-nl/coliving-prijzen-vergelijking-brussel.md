@@ -1,6 +1,6 @@
 ---
 title: "Coliving-prijzen in Brussel vergeleken: wat je écht betaalt in 2026"
-excerpt: "Een transparante prijsvergelijking van alle grote Brusselse coliving-operators — kamertypes, inbegrepen diensten en verborgen kosten blootgelegd."
+excerpt: "Een transparante prijsvergelijking van alle grote Brusselse coliving-operators, kamertypes, inbegrepen diensten en verborgen kosten blootgelegd."
 date: "2026-02-22"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Coliving", "Prijzen", "Vergelijking"]
 
 # Coliving-prijzen in Brussel vergeleken: wat je écht betaalt in 2026
 
-Brussel is uitgegroeid tot een van de actiefste coliving-markten van Europa, met acht grote operators die om huurders concurreren. Maar prijzen vergelijken is niet zo eenvoudig — elke operator bundelt andere diensten, biedt andere kamertypes en hanteert een andere kostenstructuur.
+Brussel is uitgegroeid tot een van de actiefste coliving-markten van Europa, met acht grote operators die om huurders concurreren. Maar prijzen vergelijken is niet zo eenvoudig, elke operator bundelt andere diensten, biedt andere kamertypes en hanteert een andere kostenstructuur.
 
 Wij deden het opzoekwerk zodat jij dat niet hoeft te doen. Dit is wat je in 2026 werkelijk betaalt bij elke operator.
 
@@ -67,7 +67,7 @@ Colive positioneert zich als de betaalbare coliving-keuze. Hun panden zijn funct
 
 ### LiveColonies (vanaf €675)
 
-LiveColonies focust op het omvormen van historische Brusselse gebouwen tot coliving-huizen. Het resultaat: panden met karakter — hoge plafonds, originele details en veel natuurlijk licht.
+LiveColonies focust op het omvormen van historische Brusselse gebouwen tot coliving-huizen. Het resultaat: panden met karakter, hoge plafonds, originele details en veel natuurlijk licht.
 
 - **Waarborg:** één maand huur
 - **Minimumverblijf:** drie maanden
@@ -150,7 +150,7 @@ Zelfs met all-in prijzen kunnen een paar kosten je verrassen:
 
 ### Onderhandel bij langere verblijven
 
-De meeste operators geven kortingen voor langere engagementen. Vraag naar de tarieven voor zes of twaalf maanden — kortingen van 5-10% zijn gebruikelijk, maar worden niet altijd geadverteerd.
+De meeste operators geven kortingen voor langere engagementen. Vraag naar de tarieven voor zes of twaalf maanden, kortingen van 5-10% zijn gebruikelijk, maar worden niet altijd geadverteerd.
 
 ### Let op promoties
 
@@ -166,6 +166,6 @@ Vergelijk je met een klassieke huurwoning, hou dan in gedachten dat coliving all
 
 ## De conclusie
 
-Coliving-prijzen in Brussel liggen in 2026 tussen €650 en €1.200 per maand, met de sweet spot voor de meeste jonge professionals tussen €750 en €950. De markt is competitief genoeg om overal een hoge kwaliteit te garanderen — zelfs de meest betaalbare operators bieden een degelijke, goed beheerde woonervaring.
+Coliving-prijzen in Brussel liggen in 2026 tussen €650 en €1.200 per maand, met de sweet spot voor de meeste jonge professionals tussen €750 en €950. De markt is competitief genoeg om overal een hoge kwaliteit te garanderen, zelfs de meest betaalbare operators bieden een degelijke, goed beheerde woonervaring.
 
 Kies op basis van wat voor jou het belangrijkst is: budget (Colive, LiveColonies), community (Cohabs, Corners), flexibiliteit (Habyt, Ikoab) of premium wonen (Morton Place).

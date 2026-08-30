@@ -6,7 +6,7 @@ import { NextResponse } from 'next/server';
  *
  * Triggered by the Vercel cron defined in vercel.json (see `crons`). Each run
  * re-validates the pages that gate posts by date, so any post whose publish
- * date has now arrived goes live automatically — no manual redeploy needed.
+ * date has now arrived goes live automatically, no manual redeploy needed.
  *
  * Security: Vercel sends `Authorization: Bearer <CRON_SECRET>` when the
  * CRON_SECRET env var is set. If it's set we require it; if it isn't set

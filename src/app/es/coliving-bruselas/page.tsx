@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 };
 
 const FAQ = [
-    { q: '¿Qué es el coliving?', a: 'El coliving es una forma moderna de vivienda compartida: alquilas una habitación privada (a veces con baño propio) y compartes zonas comunes amuebladas — cocina, salón, a veces coworking. El alquiler es "todo incluido" (suministros, wifi, limpieza) y los contratos son flexibles. Ideal para recién llegados a Bruselas.' },
+    { q: '¿Qué es el coliving?', a: 'El coliving es una forma moderna de vivienda compartida: alquilas una habitación privada (a veces con baño propio) y compartes zonas comunes amuebladas, cocina, salón, a veces coworking. El alquiler es "todo incluido" (suministros, wifi, limpieza) y los contratos son flexibles. Ideal para recién llegados a Bruselas.' },
     { q: '¿Cuánto cuesta el coliving en Bruselas?', a: 'Una habitación en coliving en Bruselas cuesta normalmente entre 500 € y 1.500 € al mes, todo incluido. Las opciones económicas (Ikoab, Colive, Coloc Housing) arrancan sobre 500–650 €, las estándar entre 700 y 950 €, y las premium con baño propio pueden llegar a 1.500 €.' },
     { q: '¿Es más barato el coliving que un estudio?', a: 'A menudo sí. Una habitación de coliving de 600–900 € todo incluido suele salir más a cuenta que un estudio de 700–1.000 € al que hay que sumar suministros, wifi, seguro y muebles. Además, en la mayoría de los casos no hay comisiones de agencia ni avalista belga.' },
     { q: '¿Puedes empadronarte en una dirección de coliving?', a: 'Sí, en casi todos los casos. El registro en el ayuntamiento (empadronamiento) es obligatorio si te quedas más de 3 meses, y la mayoría de operadores facilitan un contrato que lo permite. Confírmalo siempre antes de firmar.' },
@@ -63,17 +63,17 @@ export default function ColivingBruselas() {
                     <p className="text-sm text-orange-500 font-semibold mb-3">Guía · Bruselas</p>
                     <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-6 leading-tight">Coliving en Bruselas: guía y comparativa 2026</h1>
                     <p className="text-xl text-text mb-6 leading-relaxed">
-                        El coliving ha transformado la forma de vivir en Bruselas: una habitación privada, zonas comunes, todo incluido y una comunidad real. Así funciona — y esta es la comparativa de los 12 operadores de la ciudad.
+                        El coliving ha transformado la forma de vivir en Bruselas: una habitación privada, zonas comunes, todo incluido y una comunidad real. Así funciona, y esta es la comparativa de los 12 operadores de la ciudad.
                     </p>
                 </div>
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500 mb-12">
                     <h2>¿Por qué elegir coliving?</h2>
                     <ul>
-                        <li><strong>Todo incluido</strong> — un solo pago para alquiler, suministros, wifi y limpieza.</li>
-                        <li><strong>Flexible</strong> — contratos de 1 a 6 meses, perfectos para unas prácticas, un Erasmus o un primer año.</li>
-                        <li><strong>Sin complicaciones</strong> — amueblado, sin avalista belga, con empadronamiento posible.</li>
-                        <li><strong>Una comunidad</strong> — cenas y eventos compartidos: llegas solo y te vas con amigos.</li>
+                        <li><strong>Todo incluido</strong>, un solo pago para alquiler, suministros, wifi y limpieza.</li>
+                        <li><strong>Flexible</strong>, contratos de 1 a 6 meses, perfectos para unas prácticas, un Erasmus o un primer año.</li>
+                        <li><strong>Sin complicaciones</strong>, amueblado, sin avalista belga, con empadronamiento posible.</li>
+                        <li><strong>Una comunidad</strong>, cenas y eventos compartidos: llegas solo y te vas con amigos.</li>
                     </ul>
                     <p>¿Quieres saber la diferencia con un <Link href="/es/piso-compartido-bruselas">piso compartido clásico</Link>? Consulta nuestra guía.</p>
                 </div>

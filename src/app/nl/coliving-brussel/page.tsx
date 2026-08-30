@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 };
 
 const FAQ = [
-    { q: 'Wat is coliving?', a: 'Coliving is een moderne vorm van gedeeld wonen: je huurt een privékamer (soms met eigen badkamer) en deelt gemeenschappelijke, gemeubelde ruimtes — keuken, woonkamer, soms een coworking. De huur is all-in (lasten, wifi, poets) en de contracten zijn flexibel. Ideaal voor nieuwkomers in Brussel.' },
+    { q: 'Wat is coliving?', a: 'Coliving is een moderne vorm van gedeeld wonen: je huurt een privékamer (soms met eigen badkamer) en deelt gemeenschappelijke, gemeubelde ruimtes, keuken, woonkamer, soms een coworking. De huur is all-in (lasten, wifi, poets) en de contracten zijn flexibel. Ideaal voor nieuwkomers in Brussel.' },
     { q: 'Hoeveel kost coliving in Brussel?', a: 'Een kamer in coliving in Brussel kost doorgaans tussen €500 en €1.500 per maand, alles inbegrepen. Budgetopties (Ikoab, Colive, Coloc Housing) starten rond €500–€650, standaard tussen €700 en €950, en premium met eigen badkamer kan oplopen tot €1.500.' },
     { q: 'Is coliving goedkoper dan een studio?', a: 'Vaak wel. Een kamer in coliving van €600–€900 all-in is meestal voordeliger dan een studio van €700–€1.000 waar nog lasten, wifi, verzekering en meubels bijkomen. Bovendien zijn er meestal geen makelaarskosten of Belgische borgsteller nodig.' },
     { q: 'Kan je je domiciliëren op een coliving-adres?', a: 'Ja, in bijna alle gevallen. Inschrijving bij de gemeente (domiciliëren) is verplicht bij een verblijf van meer dan 3 maanden, en de meeste operators bezorgen een contract dat dit toelaat. Bevestig dit altijd vóór je tekent.' },
@@ -62,17 +62,17 @@ export default function ColivingBrusselNl() {
                     <p className="text-sm text-orange-500 font-semibold mb-3">Gids · Brussel</p>
                     <h1 className="text-4xl md:text-5xl font-bold font-heading text-text-dark mb-6 leading-tight">Coliving in Brussel: gids &amp; vergelijking 2026</h1>
                     <p className="text-xl text-text mb-6 leading-relaxed">
-                        Coliving heeft de manier van wonen in Brussel veranderd: een privékamer, gedeelde ruimtes, alles inclusief en een echte community. Zo werkt het — en dit is de vergelijking van de 12 operators in de stad.
+                        Coliving heeft de manier van wonen in Brussel veranderd: een privékamer, gedeelde ruimtes, alles inclusief en een echte community. Zo werkt het, en dit is de vergelijking van de 12 operators in de stad.
                     </p>
                 </div>
 
                 <div className="prose prose-lg max-w-none text-text prose-headings:font-heading prose-headings:text-text-dark prose-a:text-orange-500 mb-12">
                     <h2>Waarom coliving kiezen?</h2>
                     <ul>
-                        <li><strong>Alles inclusief</strong> — één betaling voor huur, lasten, wifi en poets.</li>
-                        <li><strong>Flexibel</strong> — contracten van 1 tot 6 maanden, perfect voor een stage, Erasmus of eerste jaar.</li>
-                        <li><strong>Zonder gedoe</strong> — gemeubeld, geen Belgische borgsteller nodig, domiciliëren mogelijk.</li>
-                        <li><strong>Een community</strong> — gedeelde diners en events: je komt alleen aan en vertrekt met vrienden.</li>
+                        <li><strong>Alles inclusief</strong>, één betaling voor huur, lasten, wifi en poets.</li>
+                        <li><strong>Flexibel</strong>, contracten van 1 tot 6 maanden, perfect voor een stage, Erasmus of eerste jaar.</li>
+                        <li><strong>Zonder gedoe</strong>, gemeubeld, geen Belgische borgsteller nodig, domiciliëren mogelijk.</li>
+                        <li><strong>Een community</strong>, gedeelde diners en events: je komt alleen aan en vertrekt met vrienden.</li>
                     </ul>
                     <p>Wil je het verschil kennen met <Link href="/nl/samenhuizen-brussel">klassiek samenhuizen</Link>? Lees onze aparte gids.</p>
                 </div>

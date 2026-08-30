@@ -9,7 +9,7 @@ tags: ["Coliving", "Bruxelles", "Guide", "Expats"]
 
 # Le coliving à Bruxelles : le guide ultime pour 2026
 
-**Le coliving, c'est quoi ?** C'est un concept d'habitat moderne où vous louez une chambre privée tout en partageant des espaces communs entièrement meublés — cuisine, salon, et parfois salle de sport ou salle de cinéma — avec une communauté de personnes qui vous ressemblent. C'est la solution « clé sur porte » idéale pour les expats et les jeunes actifs qui débarquent à Bruxelles.
+**Le coliving, c'est quoi ?** C'est un concept d'habitat moderne où vous louez une chambre privée tout en partageant des espaces communs entièrement meublés, cuisine, salon, et parfois salle de sport ou salle de cinéma, avec une communauté de personnes qui vous ressemblent. C'est la solution « clé sur porte » idéale pour les expats et les jeunes actifs qui débarquent à Bruxelles.
 
 Si vous avez déjà ressenti cette solitude en arrivant dans une nouvelle ville, ou si les tracasseries administratives (ouvrir un compteur, souscrire une assurance) vous découragent d'avance, le coliving est la réponse que vous cherchiez.
 
@@ -28,7 +28,7 @@ Oubliez les contrats à signer pour l'eau, l'électricité, internet et l'assura
 *   **Les taxes :** souvent incluses ou clairement indiquées.
 
 ### 3. La flexibilité
-Les baux belges classiques sont souvent de 3 ou 9 ans. Le coliving offre de la souplesse, avec des contrats aussi courts que 3 à 6 mois — parfait pour un stage au Parlement européen.
+Les baux belges classiques sont souvent de 3 ou 9 ans. Le coliving offre de la souplesse, avec des contrats aussi courts que 3 à 6 mois, parfait pour un stage au Parlement européen.
 
 ## Combien coûte un coliving à Bruxelles ?
 

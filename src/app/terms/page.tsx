@@ -49,7 +49,7 @@ export default function TermsPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm space-y-4">
                     <h2 className="text-xl font-bold font-heading text-text-dark">5. Intellectual Property</h2>
                     <p className="text-text leading-relaxed">
-                        All content on ColivingInBrussels — including text, images, and design — is owned by or licensed to us. You may not reproduce or redistribute any content without our written permission.
+                        All content on ColivingInBrussels, including text, images, and design, is owned by or licensed to us. You may not reproduce or redistribute any content without our written permission.
                     </p>
                 </div>
 

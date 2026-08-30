@@ -49,7 +49,7 @@ Una jugada inteligente que usan muchos recién llegados: reservar **unas noches 
 
 ## Cuándo gana el coliving (la mayoría de las veces)
 
-Para el recién llegado típico —**que se queda de 1 a 6 meses, solo, con ganas de conocer gente de verdad y sin gastar de más**— el coliving gana en coste, comunidad y trámites. Ni de cerca hay debate.
+Para el recién llegado típico, **que se queda de 1 a 6 meses, solo, con ganas de conocer gente de verdad y sin gastar de más**, el coliving gana en coste, comunidad y trámites. Ni de cerca hay debate.
 
 ## En resumen
 

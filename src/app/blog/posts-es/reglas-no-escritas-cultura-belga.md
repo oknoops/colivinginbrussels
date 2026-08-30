@@ -29,13 +29,13 @@ El lado bueno: una vez que un belga te considera amigo, tiende a ser leal y a la
 
 ## 3. La puntualidad es real (casi siempre)
 
-Para cualquier cosa profesional —reuniones, citas, el ayuntamiento— **sé puntual**. Los belgas se toman la puntualidad en serio en contextos formales, y la administración desde luego que sí.
+Para cualquier cosa profesional, reuniones, citas, el ayuntamiento, **sé puntual**. Los belgas se toman la puntualidad en serio en contextos formales, y la administración desde luego que sí.
 
 Socialmente, existe un más benévolo "quart d'heure belge" (el cuarto de hora belga), en el que llegar 15 minutos tarde a una cena informal es normal e incluso educado: le da al anfitrión un respiro. Lee el contexto: cita con el médico, puntual; cena en casa, algo más relajado.
 
 ## 4. La autoironía y el arte del *zwanze*
 
-Los belgas —y los bruselenses en especial— son maestros de la **autoburla**. El humor nacional, el *zwanze*, es seco, absurdo y apuntado hacia dentro. Bromearán encantados sobre que Bélgica es un país que "no debería existir", sobre su propio caos político, sobre el tiempo, sobre que el surrealismo es un estilo de vida.
+Los belgas, y los bruselenses en especial, son maestros de la **autoburla**. El humor nacional, el *zwanze*, es seco, absurdo y apuntado hacia dentro. Bromearán encantados sobre que Bélgica es un país que "no debería existir", sobre su propio caos político, sobre el tiempo, sobre que el surrealismo es un estilo de vida.
 
 La regla para los recién llegados: puedes sumarte a la autoironía, pero pisa con cuidado cuando eres *tú* quien critica a Bélgica desde fuera. "Vuestros trenes siempre llegan tarde" dicho por un belga es *zwanze*; la misma frase de un expatriado de tres semanas puede escocer. Gánate el derecho amando primero el sitio.
 
@@ -49,7 +49,7 @@ Algunas líneas culturales son innegociables:
 
 ## 6. El baile de los idiomas
 
-Bruselas es oficialmente bilingüe (francés y neerlandés), y el idioma es un asunto políticamente sensible. La jugada segura para el recién llegado: **abre en francés**, pero si tienes algo de neerlandés, ofrécelo en contextos flamencos. El inglés se habla y se acepta ampliamente en la burbuja internacional, pero empezar con un "Bonjour" en francés —aunque sea torpe— te granjea simpatía en todas partes. En las tiendas, saluda siempre antes de lanzar tu petición; saltarse el "Bonjour / Goedendag" se percibe como una grosería.
+Bruselas es oficialmente bilingüe (francés y neerlandés), y el idioma es un asunto políticamente sensible. La jugada segura para el recién llegado: **abre en francés**, pero si tienes algo de neerlandés, ofrécelo en contextos flamencos. El inglés se habla y se acepta ampliamente en la burbuja internacional, pero empezar con un "Bonjour" en francés, aunque sea torpe, te granjea simpatía en todas partes. En las tiendas, saluda siempre antes de lanzar tu petición; saltarse el "Bonjour / Goedendag" se percibe como una grosería.
 
 Profundizamos en esto en nuestra guía sobre [francés o neerlandés en Bruselas](/es/blog/frances-o-neerlandes-idioma-bruselas).
 

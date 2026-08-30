@@ -49,7 +49,7 @@ export default function AdverterenNl() {
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         {[
-                            { emoji: '🎯', title: 'Hoge intentie', body: 'Onze bezoekers surfen niet zomaar — ze verhuizen. Ze vergelijken operators en wijken, met een beslissing binnen enkele weken.' },
+                            { emoji: '🎯', title: 'Hoge intentie', body: 'Onze bezoekers surfen niet zomaar, ze verhuizen. Ze vergelijken operators en wijken, met een beslissing binnen enkele weken.' },
                             { emoji: '🔎', title: 'Gemaakt om gevonden te worden', body: `Een groeiende bibliotheek SEO-gidsen en ${count} operator-profielen die scoren op precies de zoekopdrachten van jouw toekomstige bewoners.` },
                             { emoji: '🤝', title: 'Onafhankelijk & betrouwbaar', body: 'We nemen geen boekingscommissies, dus onze aanbevelingen wegen door. Een vermelding hier is geloofwaardig, niet commercieel.' },
                         ].map((b) => (

@@ -95,7 +95,7 @@ export default function ColivingExpatsPage() {
                         <li className="flex items-start gap-3">
                             <span className="text-accent text-lg mt-0.5">&#10003;</span>
                             <div>
-                                <strong className="text-text-dark">Instant community.</strong> Moving to a new city is lonely. Coliving gives you housemates from day one — people who are often in the same boat as you. Shared dinners, events, and common spaces make it easy to build a social network quickly.
+                                <strong className="text-text-dark">Instant community.</strong> Moving to a new city is lonely. Coliving gives you housemates from day one, people who are often in the same boat as you. Shared dinners, events, and common spaces make it easy to build a social network quickly.
                             </div>
                         </li>
                         <li className="flex items-start gap-3">
@@ -107,7 +107,7 @@ export default function ColivingExpatsPage() {
                         <li className="flex items-start gap-3">
                             <span className="text-accent text-lg mt-0.5">&#10003;</span>
                             <div>
-                                <strong className="text-text-dark">All-inclusive pricing.</strong> Utilities, Wi-Fi, cleaning, maintenance — it is all included. No surprise bills, no arguing with flatmates about who used more electricity.
+                                <strong className="text-text-dark">All-inclusive pricing.</strong> Utilities, Wi-Fi, cleaning, maintenance, it is all included. No surprise bills, no arguing with flatmates about who used more electricity.
                             </div>
                         </li>
                         <li className="flex items-start gap-3">
@@ -122,7 +122,7 @@ export default function ColivingExpatsPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Tips for EU Expats</h2>
                     <p>
-                        If you hold an EU passport, moving to Brussels is relatively straightforward. You have the right to live and work in Belgium without a visa. However, you still need to register at your local commune within eight days of moving in — and coliving operators can help with this process by providing the necessary address documentation.
+                        If you hold an EU passport, moving to Brussels is relatively straightforward. You have the right to live and work in Belgium without a visa. However, you still need to register at your local commune within eight days of moving in, and coliving operators can help with this process by providing the necessary address documentation.
                     </p>
                     <p className="mt-4">
                         Popular neighborhoods for EU workers include <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link> (close to the EU Quarter), <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> (vibrant and central), and Woluwe-Saint-Lambert (quieter, more residential). Operators like <Link href="/actors/colive" className="text-primary hover:underline">Colive</Link> and <Link href="/actors/ikoab" className="text-primary hover:underline">Ikoab</Link> have properties in several of these areas.
@@ -132,7 +132,7 @@ export default function ColivingExpatsPage() {
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Tips for Non-EU Expats</h2>
                     <p>
-                        If you are coming from outside the EU, the process involves a few extra steps. You will need a valid work permit or visa before arriving, and the commune registration process can take longer. Having a fixed address from day one — which coliving provides — is essential for getting your paperwork in order.
+                        If you are coming from outside the EU, the process involves a few extra steps. You will need a valid work permit or visa before arriving, and the commune registration process can take longer. Having a fixed address from day one, which coliving provides, is essential for getting your paperwork in order.
                     </p>
                     <p className="mt-4">
                         Coliving is especially valuable for non-EU expats because it removes the need for a Belgian guarantor, which is nearly impossible to find when you have no local network. Operators like <Link href="/actors/morton-place" className="text-primary hover:underline">Morton Place</Link> and <Link href="/actors/habyt" className="text-primary hover:underline">Habyt</Link> are experienced in welcoming international residents and can guide you through the process.
@@ -142,7 +142,7 @@ export default function ColivingExpatsPage() {
                 <div className="bg-amber-50 rounded-2xl border border-amber-200 p-8">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Where Do Expats Live in Brussels?</h2>
                     <p>
-                        Most expats gravitate toward a handful of well-connected, international neighborhoods. <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> is the most popular — with its mix of cafes, restaurants, and proximity to both the EU Quarter and the ULB university campus. <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link> attracts a younger, more creative crowd. <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link> is the go-to for EU institution workers. And <Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link> center puts you in the middle of everything.
+                        Most expats gravitate toward a handful of well-connected, international neighborhoods. <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> is the most popular, with its mix of cafes, restaurants, and proximity to both the EU Quarter and the ULB university campus. <Link href="/neighborhoods/saint-gilles" className="text-primary hover:underline">Saint-Gilles</Link> attracts a younger, more creative crowd. <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link> is the go-to for EU institution workers. And <Link href="/neighborhoods/brussels-city" className="text-primary hover:underline">Brussels City</Link> center puts you in the middle of everything.
                     </p>
                     <p className="mt-4">
                         Emerging expat areas include Schaerbeek (more affordable, increasingly trendy), Forest (green and up-and-coming), and Uccle (family-friendly, leafy streets). Check our <Link href="/blog" className="text-primary hover:underline">blog</Link> for the latest neighborhood insights.

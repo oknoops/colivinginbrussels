@@ -12,7 +12,7 @@ export const revalidate = 43200;
 
 export const metadata: Metadata = {
   title: 'Coliving in Brussels | Find Your Perfect Shared Home',
-  description: 'The friendly local guide to coliving in Brussels. Compare all 12 coliving operators, explore 8 neighborhoods, and find a warm community to call home — honest, unbiased, and made by locals.',
+  description: 'The friendly local guide to coliving in Brussels. Compare all 12 coliving operators, explore 8 neighborhoods, and find a warm community to call home, honest, unbiased, and made by locals.',
   openGraph: {
     title: 'Coliving in Brussels | Find Your Perfect Shared Home',
     description: 'Compare every Brussels coliving space. Honest reviews, real prices, cozy neighborhood guides, and local tips for newcomers.',
@@ -65,7 +65,7 @@ export default function Home() {
             Find a place that<br className="hidden md:block" /> feels like <span className="text-orange-500">home</span>
           </h1>
           <p className="text-lg md:text-xl mb-10 text-text font-light max-w-2xl mx-auto leading-relaxed">
-            Moving to Brussels? We&apos;ll help you land somewhere warm. Compare every coliving space, get to know each neighborhood, and settle into a real community — before you even arrive.
+            Moving to Brussels? We&apos;ll help you land somewhere warm. Compare every coliving space, get to know each neighborhood, and settle into a real community, before you even arrive.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link href="/matchmaker" className="inline-flex items-center justify-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold px-8 py-4 rounded-lg transition-colors shadow-lg text-base">
@@ -110,7 +110,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row justify-between md:items-end mb-12 gap-4">
             <div className="max-w-2xl">
               <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-3">Coliving spaces with soul</h2>
-              <p className="text-text text-lg">From design-led townhouses to cozy budget shares — a handful of the communities we cover. Every one is a real home with real people.</p>
+              <p className="text-text text-lg">From design-led townhouses to cozy budget shares, a handful of the communities we cover. Every one is a real home with real people.</p>
             </div>
             <Link href="/actors" className="text-orange-500 font-bold hover:underline whitespace-nowrap text-sm shrink-0">
               See all 12 spaces →
@@ -158,7 +158,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12 max-w-2xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-4">Find your corner of Brussels</h2>
-            <p className="text-text text-lg">Every district has its own rhythm. Bohemian Saint-Gilles, trendy Ixelles, leafy Uccle — find where you belong before you commit.</p>
+            <p className="text-text text-lg">Every district has its own rhythm. Bohemian Saint-Gilles, trendy Ixelles, leafy Uccle, find where you belong before you commit.</p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-5">
             {NEIGHBORHOODS.map((hood) => (
@@ -192,7 +192,7 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
             {[
-              { emoji: '🧭', step: '1', title: 'Tell us your vibe', body: 'Take the 1-minute matchmaker. Budget, neighborhood, social or quiet — we narrow 12 operators down to your shortlist.' },
+              { emoji: '🧭', step: '1', title: 'Tell us your vibe', body: 'Take the 1-minute matchmaker. Budget, neighborhood, social or quiet, we narrow 12 operators down to your shortlist.' },
               { emoji: '🔍', step: '2', title: 'Compare honestly', body: 'Real prices, real amenities, real vibes. We cover every operator the same way, with no booking commission clouding the advice.' },
               { emoji: '🏡', step: '3', title: 'Move in & belong', body: 'Arrive to housemates, house dinners, and a ready-made community. Our guides help you settle into Brussels life fast.' },
             ].map((s) => (
@@ -212,7 +212,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h2 className="text-3xl md:text-4xl font-bold font-heading mb-4 text-text-dark">Why newcomers trust us</h2>
-            <p className="text-lg text-text">We&apos;re not an agency and we don&apos;t earn booking commissions. Just honest, local knowledge — the kind a friend who already lives here would give you.</p>
+            <p className="text-lg text-text">We&apos;re not an agency and we don&apos;t earn booking commissions. Just honest, local knowledge, the kind a friend who already lives here would give you.</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="p-8 rounded-2xl bg-amber-50 border border-orange-100">
@@ -223,7 +223,7 @@ export default function Home() {
             <div className="p-8 rounded-2xl bg-rose-50 border border-rose-100">
               <div className="w-14 h-14 bg-rose-100 rounded-2xl flex items-center justify-center mb-6 text-2xl">⭐</div>
               <h3 className="text-xl font-bold mb-3 text-text-dark">Every operator, side by side</h3>
-              <p className="text-text text-sm leading-relaxed">All 12 major coliving operators in Brussels — their real prices, amenities, vibes, and who they&apos;re genuinely best for.</p>
+              <p className="text-text text-sm leading-relaxed">All 12 major coliving operators in Brussels, their real prices, amenities, vibes, and who they&apos;re genuinely best for.</p>
             </div>
             <div className="p-8 rounded-2xl bg-emerald-50 border border-emerald-100">
               <div className="w-14 h-14 bg-emerald-100 rounded-2xl flex items-center justify-center mb-6 text-2xl">✅</div>
@@ -240,7 +240,7 @@ export default function Home() {
           <div className="flex justify-between items-end mb-12">
             <div>
               <h2 className="text-3xl font-bold font-heading text-text-dark mb-2">Fresh from the blog</h2>
-              <p className="text-text">A new local guide every day — culture, food, slang, and coliving tips.</p>
+              <p className="text-text">A new local guide every day, culture, food, slang, and coliving tips.</p>
             </div>
             <Link href="/blog" className="text-orange-500 font-bold hover:underline hidden md:block text-sm">
               View all guides →
@@ -282,7 +282,7 @@ export default function Home() {
                 What&apos;s on right now
               </div>
               <h2 className="text-3xl md:text-4xl font-bold font-heading text-text-dark mb-3">Never wonder what to do this weekend</h2>
-              <p className="text-text text-lg">Festivals, concerts, exhibitions and markets — our pick of what&apos;s happening in Brussels, refreshed regularly.</p>
+              <p className="text-text text-lg">Festivals, concerts, exhibitions and markets, our pick of what&apos;s happening in Brussels, refreshed regularly.</p>
             </div>
             <Link href="/whats-on" className="text-orange-500 font-bold hover:underline whitespace-nowrap text-sm shrink-0">See what&apos;s on →</Link>
           </div>

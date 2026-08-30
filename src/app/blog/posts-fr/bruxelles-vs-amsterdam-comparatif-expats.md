@@ -1,6 +1,6 @@
 ---
 title: "Bruxelles vs Amsterdam : coût, logement et laquelle choisir (2026)"
-excerpt: "Bruxelles est-elle moins chère qu'Amsterdam ? Un comparatif honnête, point par point, du coût de la vie, du logement, de la vie sociale et des carrières — que vous choisissiez où vous installer ou que vous prépariez un city-trip."
+excerpt: "Bruxelles est-elle moins chère qu'Amsterdam ? Un comparatif honnête, point par point, du coût de la vie, du logement, de la vie sociale et des carrières, que vous choisissiez où vous installer ou que vous prépariez un city-trip."
 date: "2026-02-23"
 author: "Guide Local Bruxelles"
 coverImage: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80&auto=format&fit=crop"
@@ -9,16 +9,16 @@ tags: ["Bruxelles", "Amsterdam", "Expats", "Comparatif", "Villes européennes"]
 
 # Bruxelles vs Amsterdam : quelle ville est la meilleure pour les expats en 2026 ?
 
-Si vous envisagez de vous installer en Europe du Nord et que votre choix se resserre entre **Bruxelles et Amsterdam**, vous n'êtes pas seul. Les deux villes attirent des dizaines de milliers d'expats par an, toutes deux sont internationales et accueillantes pour les anglophones, et toutes deux offrent des expériences très différentes. Voici un comparatif honnête et nuancé — utile que vous cherchiez où vivre ou que vous compariez simplement les deux pour un city-trip.
+Si vous envisagez de vous installer en Europe du Nord et que votre choix se resserre entre **Bruxelles et Amsterdam**, vous n'êtes pas seul. Les deux villes attirent des dizaines de milliers d'expats par an, toutes deux sont internationales et accueillantes pour les anglophones, et toutes deux offrent des expériences très différentes. Voici un comparatif honnête et nuancé, utile que vous cherchiez où vivre ou que vous compariez simplement les deux pour un city-trip.
 
 ## Bruxelles est-elle moins chère qu'Amsterdam ?
 
-**Réponse courte : oui — nettement.** Bruxelles est bien moins chère qu'Amsterdam sur presque tous les postes, et pour beaucoup d'expats, c'est le facteur décisif numéro un.
+**Réponse courte : oui, nettement.** Bruxelles est bien moins chère qu'Amsterdam sur presque tous les postes, et pour beaucoup d'expats, c'est le facteur décisif numéro un.
 
 - **Loyer :** l'écart le plus flagrant. Une chambre ou un studio à Bruxelles coûte généralement **30 à 40 % de moins** que son équivalent amstellodamois, où une pénurie chronique de logements a poussé les prix parmi les plus élevés d'Europe. Une [chambre en coliving tout compris à Bruxelles](/fr/prix-coliving-bruxelles) revient à 600-950 € ; les chambres comparables à Amsterdam sont bien plus chères et bien plus difficiles à trouver.
 - **Manger et boire au restaurant :** restaurants, bière et café sont moins chers à Bruxelles.
 - **Courses et transports :** globalement similaires, avec Bruxelles un peu moins chère.
-- **Le hic :** les salaires aux Pays-Bas peuvent être un peu plus élevés, et l'avantage fiscal néerlandais dit `30% ruling` (là où il s'applique) réduit l'écart pour certains — mais sur le coût de la vie brut, Bruxelles l'emporte largement.
+- **Le hic :** les salaires aux Pays-Bas peuvent être un peu plus élevés, et l'avantage fiscal néerlandais dit `30% ruling` (là où il s'applique) réduit l'écart pour certains, mais sur le coût de la vie brut, Bruxelles l'emporte largement.
 
 Pour un **city-trip**, la même logique s'applique : Bruxelles offre le week-end au meilleur rapport qualité-prix, avec des hôtels, des repas et des bières moins chers, et Amsterdam à seulement ~2 heures de train si vous voulez faire les deux.
 
@@ -38,7 +38,7 @@ C'est là que les deux villes diffèrent le plus radicalement.
 | Coliving (tout compris) | 600-1 300 € | 900-1 800 € |
 | Chambre en colocation | 550-850 € | 900-1 400 € |
 
-**Amsterdam est 50 à 80 % plus chère pour le logement.** La crise du logement à Amsterdam est sévère — les listes d'attente pour le logement social peuvent dépasser 10 ans, et le marché locatif privé est brutal.
+**Amsterdam est 50 à 80 % plus chère pour le logement.** La crise du logement à Amsterdam est sévère, les listes d'attente pour le logement social peuvent dépasser 10 ans, et le marché locatif privé est brutal.
 
 ### Coûts généraux
 - Courses : à peu près similaires (Bruxelles un peu moins chère)
@@ -87,7 +87,7 @@ Le français est la langue dominante pour l'administration locale, les restauran
 La culture y est détendue, sobre et autodérisoire. Les Belges ont un profond amour de la bonne chère, de la bière et de l'art, sans l'autopromotion qui caractérise certaines cultures voisines.
 
 ### Amsterdam
-Amsterdam est remarquablement accueillante pour les anglophones — les Néerlandais ont un niveau d'anglais extraordinairement élevé. On peut réellement y vivre pendant des années sans apprendre le néerlandais.
+Amsterdam est remarquablement accueillante pour les anglophones, les Néerlandais ont un niveau d'anglais extraordinairement élevé. On peut réellement y vivre pendant des années sans apprendre le néerlandais.
 
 La culture y est directe, progressiste et ouverte. Les Néerlandais sont connus pour leur franchise, que certains trouvent rafraîchissante et d'autres difficile au début.
 
@@ -98,7 +98,7 @@ La culture y est directe, progressiste et ouverte. Les Néerlandais sont connus 
 ## Vie sociale et amitiés
 
 ### Bruxelles
-Bruxelles a la réputation d'être difficile à percer, et il y a du vrai là-dedans. On décrit souvent les Belges comme « chaleureux dedans, froids dehors » — pudiques et lents à inviter de nouvelles personnes dans leur cercle.
+Bruxelles a la réputation d'être difficile à percer, et il y a du vrai là-dedans. On décrit souvent les Belges comme « chaleureux dedans, froids dehors », pudiques et lents à inviter de nouvelles personnes dans leur cercle.
 
 Cependant, **la communauté expat est énorme et extrêmement sociable**. Avec des milliers de nouveaux arrivants chaque année issus des institutions européennes, des organisations internationales et des multinationales, Bruxelles a une scène de rencontres expat très active. Les groupes Facebook, Meetup.com et des événements comme BrussExpats tournent à plein régime.
 
@@ -116,10 +116,10 @@ Le défi à Amsterdam, c'est que **le stress du logement** domine souvent les co
 ## La qualité de vie au quotidien
 
 ### Bruxelles
-- **Cuisine** : de classe mondiale. La cuisine belge — moules, frites, stoemp, gaufres, et parmi les meilleurs chocolats et bières de la planète — est extraordinaire. La scène gastronomique est mondialement sous-estimée.
+- **Cuisine** : de classe mondiale. La cuisine belge, moules, frites, stoemp, gaufres, et parmi les meilleurs chocolats et bières de la planète, est extraordinaire. La scène gastronomique est mondialement sous-estimée.
 - **Architecture** : joyaux Art nouveau, Grand-Place, Atomium. Décalée, magnifique, imparfaite.
 - **Météo** : grise et pluvieuse, comme à Londres. On ne va pas enjoliver.
-- **Espaces verts** : Bois de la Cambre, parc de Laeken, forêt de Soignes — vastes et accessibles.
+- **Espaces verts** : Bois de la Cambre, parc de Laeken, forêt de Soignes, vastes et accessibles.
 - **Voyages** : à 2 heures de Paris et de Londres en train. Un hub central pour voyager en Europe.
 
 ### Amsterdam
@@ -162,4 +162,4 @@ Le défi à Amsterdam, c'est que **le stress du logement** domine souvent les co
 - Vous avez un package salarial premium
 - Vous aimez le vélo, l'eau et la franchise néerlandaise
 
-Dans tous les cas — **le coliving est la manière la plus futée de démarrer dans les deux villes**. À Bruxelles, explorez toutes nos options : [Parcourez les colivings →](/actors)
+Dans tous les cas, **le coliving est la manière la plus futée de démarrer dans les deux villes**. À Bruxelles, explorez toutes nos options : [Parcourez les colivings →](/actors)

@@ -1,6 +1,6 @@
 ---
 title: "Studentencoliving in Brussel: betaalbare opties dicht bij de universiteiten"
-excerpt: "Een gids voor studentvriendelijke coliving-opties in Brussel — dicht bij de ULB, VUB en de Brusselse campus van KU Leuven, met budgetvriendelijke prijzen."
+excerpt: "Een gids voor studentvriendelijke coliving-opties in Brussel, dicht bij de ULB, VUB en de Brusselse campus van KU Leuven, met budgetvriendelijke prijzen."
 date: "2026-03-01"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Studenten", "Coliving", "Budget"]
 
 # Studentencoliving in Brussel: betaalbare opties dicht bij de universiteiten
 
-Brussel is de thuisbasis van enkele van de meest prestigieuze universiteiten van België en trekt elk jaar duizenden internationale studenten aan. Een woning vinden als student kan stresserend zijn — het aanbod van de universiteiten is beperkt, en de private huurmarkt is intimiderend voor nieuwkomers. Coliving biedt een aantrekkelijk alternatief: gemeubelde kamers, flexibele contracten, een ingebouwde community en geen administratieve hoofdpijn.
+Brussel is de thuisbasis van enkele van de meest prestigieuze universiteiten van België en trekt elk jaar duizenden internationale studenten aan. Een woning vinden als student kan stresserend zijn, het aanbod van de universiteiten is beperkt, en de private huurmarkt is intimiderend voor nieuwkomers. Coliving biedt een aantrekkelijk alternatief: gemeubelde kamers, flexibele contracten, een ingebouwde community en geen administratieve hoofdpijn.
 
 Zo vind je de beste studentvriendelijke coliving-opties in Brussel.
 
@@ -35,7 +35,7 @@ De universiteit Saint-Louis (dicht bij het centrum), de LUCA School of Arts en v
 
 ### Geen meubels kopen
 
-Als student die uit het buitenland (of zelfs uit een andere Belgische stad) komt, is meubels kopen voor een huurwoning duur en onpraktisch. Coliving-kamers zijn volledig uitgerust — bed, bureau, kleerkast en toegang tot een volledig ingerichte gedeelde keuken.
+Als student die uit het buitenland (of zelfs uit een andere Belgische stad) komt, is meubels kopen voor een huurwoning duur en onpraktisch. Coliving-kamers zijn volledig uitgerust, bed, bureau, kleerkast en toegang tot een volledig ingerichte gedeelde keuken.
 
 ### All-in prijzen
 
@@ -53,7 +53,7 @@ Naar een nieuwe stad verhuizen voor je studie is spannend, maar ook eenzaam. Col
 
 ### Colive (vanaf 650 EUR/maand)
 
-Colive is de meest betaalbare coliving-optie in Brussel en heeft panden dicht bij de ULB in Elsene en in Schaarbeek. Hun no-nonsenseaanpak houdt de prijzen laag en levert toch de kern van de coliving-ervaring. Sommige kamers op hun locaties in Schaarbeek starten vanaf 650 EUR — concurrerend met kamers in een private woningdeling zodra je de nutsvoorzieningen meerekent.
+Colive is de meest betaalbare coliving-optie in Brussel en heeft panden dicht bij de ULB in Elsene en in Schaarbeek. Hun no-nonsenseaanpak houdt de prijzen laag en levert toch de kern van de coliving-ervaring. Sommige kamers op hun locaties in Schaarbeek starten vanaf 650 EUR, concurrerend met kamers in een private woningdeling zodra je de nutsvoorzieningen meerekent.
 
 **Studentvriendelijke troeven:** lage prijzen, flexibele contracten, panden dicht bij de universiteitswijken.
 
@@ -117,11 +117,11 @@ België biedt huurtoelage (allocation de loyer) voor bewoners met een laag inkom
 
 ### Zoek naar studentenkortingen
 
-Sommige coliving-operatoren bieden studententarieven of kortingen voor contracten per semester. Vraag er altijd naar — zelfs als het niet aangekondigd wordt, zijn operatoren mogelijk bereid te onderhandelen voor een gegarandeerde boeking van meerdere maanden.
+Sommige coliving-operatoren bieden studententarieven of kortingen voor contracten per semester. Vraag er altijd naar, zelfs als het niet aangekondigd wordt, zijn operatoren mogelijk bereid te onderhandelen voor een gegarandeerde boeking van meerdere maanden.
 
 ### Overweeg gedeelde kamers
 
-Enkele operatoren bieden gedeelde kamers (twee personen die een grotere kamer delen) tegen een fors lager tarief — soms 30 tot 40% minder dan een privékamer. Als delen je niets uitmaakt, kan dit de coliving-kosten terugbrengen tot 450 tot 550 EUR/maand.
+Enkele operatoren bieden gedeelde kamers (twee personen die een grotere kamer delen) tegen een fors lager tarief, soms 30 tot 40% minder dan een privékamer. Als delen je niets uitmaakt, kan dit de coliving-kosten terugbrengen tot 450 tot 550 EUR/maand.
 
 ### Verdeel de kosten slim
 
@@ -129,7 +129,7 @@ Sommige studenten combineren coliving met een deeltijdse job. België laat inter
 
 ## Coliving versus studentenhuisvesting van de universiteit
 
-Universitaire huisvesting (koten) aan de ULB of VUB is goedkoper — doorgaans 350 tot 500 EUR/maand. Maar de beschikbaarheid is bijzonder beperkt, en het aanvraagproces is competitief. De wachtlijsten zijn lang, en de kamers zijn basic.
+Universitaire huisvesting (koten) aan de ULB of VUB is goedkoper, doorgaans 350 tot 500 EUR/maand. Maar de beschikbaarheid is bijzonder beperkt, en het aanvraagproces is competitief. De wachtlijsten zijn lang, en de kamers zijn basic.
 
 Coliving kost meer, maar biedt:
 

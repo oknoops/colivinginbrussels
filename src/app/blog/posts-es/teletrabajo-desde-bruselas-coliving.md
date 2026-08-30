@@ -17,11 +17,11 @@ Aquí tienes todo lo que necesitas saber sobre teletrabajar desde los espacios d
 
 Antes de entrar en opciones concretas de coliving, estas son las razones por las que Bruselas merece un puesto en tu lista corta para el trabajo en remoto:
 
-- **Nudo central europeo** — dos horas en tren hasta París, Ámsterdam, Londres y Colonia
-- **Sólida infraestructura de wifi** — Bélgica tiene algunas de las mejores velocidades de banda ancha de Europa, con una media de más de 100 Mbps
-- **Asequible para los estándares de Europa Occidental** — entre un 20 % y un 30 % más barata que Ámsterdam o París para una calidad de vida comparable
-- **Multicultural y cómoda para angloparlantes** — puedes desenvolverte en el día a día en inglés, aunque se agradece el francés o el neerlandés
-- **Excelente cultura de cafeterías** — Bruselas está repleta de cafeterías aptas para trabajar cuando necesitas cambiar de aires
+- **Nudo central europeo**, dos horas en tren hasta París, Ámsterdam, Londres y Colonia
+- **Sólida infraestructura de wifi**, Bélgica tiene algunas de las mejores velocidades de banda ancha de Europa, con una media de más de 100 Mbps
+- **Asequible para los estándares de Europa Occidental**, entre un 20 % y un 30 % más barata que Ámsterdam o París para una calidad de vida comparable
+- **Multicultural y cómoda para angloparlantes**, puedes desenvolverte en el día a día en inglés, aunque se agradece el francés o el neerlandés
+- **Excelente cultura de cafeterías**, Bruselas está repleta de cafeterías aptas para trabajar cuando necesitas cambiar de aires
 
 ## Espacios de coliving clasificados para el trabajo en remoto
 
@@ -80,7 +80,7 @@ El posicionamiento premium de Morton Place hace que la calidad se extienda al mo
 
 **Colive, LiveColonies y Neybor**
 
-Estos operadores ofrecen lo básico —wifi y escritorio—, pero sus espacios están más optimizados para la convivencia social que para el trabajo en remoto. Si teletrabajas a tiempo completo, quizá quieras complementarlo con una membresía de coworking.
+Estos operadores ofrecen lo básico, wifi y escritorio, pero sus espacios están más optimizados para la convivencia social que para el trabajo en remoto. Si teletrabajas a tiempo completo, quizá quieras complementarlo con una membresía de coworking.
 
 - Wifi: 50-100 Mbps (suficiente para videollamadas, pero puede ralentizarse en horas punta)
 - Espacio de trabajo en la habitación: escritorio básico, a menudo pequeño
@@ -119,9 +119,9 @@ Si tienes un pasaporte de la UE, puedes vivir y trabajar en Bruselas libremente.
 
 Tus principales opciones son:
 
-- **Tarjeta profesional belga** — para autónomos. Exige demostrar que tu actividad beneficia a la economía belga. La tramitación tarda de 2 a 4 meses.
-- **Visado de working holiday** — disponible para ciudadanos de determinados países (Australia, Canadá, Corea del Sur, etc.), de 18 a 30 o de 18 a 35 años según el acuerdo.
-- **Corta estancia (Schengen)** — puedes quedarte hasta 90 días dentro de un periodo de 180 días con un visado de turista, aunque técnicamente no está permitido trabajar.
+- **Tarjeta profesional belga**, para autónomos. Exige demostrar que tu actividad beneficia a la economía belga. La tramitación tarda de 2 a 4 meses.
+- **Visado de working holiday**, disponible para ciudadanos de determinados países (Australia, Canadá, Corea del Sur, etc.), de 18 a 30 o de 18 a 35 años según el acuerdo.
+- **Corta estancia (Schengen)**, puedes quedarte hasta 90 días dentro de un periodo de 180 días con un visado de turista, aunque técnicamente no está permitido trabajar.
 
 Algunos trabajadores en remoto usan el visado D de Bélgica (larga estancia) con prueba de medios económicos suficientes y de empleo en remoto. Consulta a un abogado de inmigración para conocer la orientación más reciente, ya que las normas evolucionan.
 

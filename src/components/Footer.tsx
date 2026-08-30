@@ -7,7 +7,7 @@ import { localeFromPath, homeFor } from '@/lib/i18n';
 
 const COPY = {
     en: {
-        blurb: 'Your trusted local guide to finding a home in the Capital of Europe. We help expats, students, and digital nomads compare every coliving space, explore neighborhoods, and settle in with warmth — not stress.',
+        blurb: 'Your trusted local guide to finding a home in the Capital of Europe. We help expats, students, and digital nomads compare every coliving space, explore neighborhoods, and settle in with warmth, not stress.',
         independent: 'Independent & unbiased. We don\'t take booking commissions.',
         discover: 'Discover',
         company: 'Company',

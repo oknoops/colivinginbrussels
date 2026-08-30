@@ -7,9 +7,9 @@ export const revalidate = 43200;
 
 export const metadata: Metadata = {
     title: "What's On in Brussels: This Month's Events Calendar",
-    description: 'A month-by-month calendar of what’s happening in Brussels — festivals, concerts, markets, culture and activities. Everything in one place for newcomers.',
+    description: 'A month-by-month calendar of what’s happening in Brussels, festivals, concerts, markets, culture and activities. Everything in one place for newcomers.',
     openGraph: {
-        title: "What's On in Brussels — This Month's Calendar",
+        title: "What's On in Brussels, This Month's Calendar",
         description: 'Festivals, concerts, markets and activities happening in Brussels, in a simple month calendar.',
     },
     alternates: { canonical: 'https://colivinginbrussels.com/whats-on' },
@@ -54,13 +54,13 @@ export default function WhatsOnPage() {
                         What&apos;s on in <span className="text-orange-500">Brussels</span>
                     </h1>
                     <p className="text-lg md:text-xl text-text max-w-2xl mx-auto">
-                        Festivals, concerts, markets and cool things to do — this month at a glance.
+                        Festivals, concerts, markets and cool things to do, this month at a glance.
                     </p>
                 </div>
             </section>
 
             <div className="container mx-auto px-4 py-12 max-w-6xl">
-                {/* This month — the clear, primary section */}
+                {/* This month, the clear, primary section */}
                 <div className="mb-14">
                     <div className="flex items-end justify-between mb-6 gap-4 flex-wrap">
                         <h2 className="text-2xl md:text-3xl font-bold font-heading text-text-dark">This month in Brussels</h2>
@@ -69,7 +69,7 @@ export default function WhatsOnPage() {
 
                     {highlights.length === 0 ? (
                         <p className="text-text bg-amber-50 border border-orange-100 rounded-2xl p-6">
-                            Nothing dated is confirmed yet for {label} — check back soon, or browse the weekly rituals below.
+                            Nothing dated is confirmed yet for {label}, check back soon, or browse the weekly rituals below.
                         </p>
                     ) : (
                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
@@ -100,7 +100,7 @@ export default function WhatsOnPage() {
                 {/* Weekly rituals note */}
                 <div className="bg-amber-50 rounded-2xl border border-orange-100 p-6 mb-14">
                     <h2 className="text-lg font-bold font-heading text-text-dark mb-2">Every week in Brussels</h2>
-                    <p className="text-sm text-text mb-4">Beyond the dated events above, these markets and rituals run every week — they&apos;re on the full calendar too:</p>
+                    <p className="text-sm text-text mb-4">Beyond the dated events above, these markets and rituals run every week, they&apos;re on the full calendar too:</p>
                     <div className="flex flex-wrap gap-2 text-sm">
                         <Link href="/blog/brussels-markets-guide" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🧺 Markets guide</Link>
                         <Link href="/blog/where-locals-eat-brussels" className="bg-white border border-border hover:border-orange-400 text-text-dark px-4 py-2 rounded-lg transition-colors">🍟 Where locals eat</Link>
@@ -110,7 +110,7 @@ export default function WhatsOnPage() {
                     </div>
                 </div>
 
-                {/* Full calendar — reference tool, lower down & lower-key */}
+                {/* Full calendar, reference tool, lower down & lower-key */}
                 <div id="calendar" className="scroll-mt-20">
                     <details className="group/cal" open>
                         <summary className="cursor-pointer list-none flex items-center justify-between gap-4 mb-5 select-none">
@@ -152,7 +152,7 @@ export default function WhatsOnPage() {
                                                     </div>
                                                     <div className="space-y-0.5">
                                                         {cell.events.slice(0, 2).map((e) => (
-                                                            <div key={e.title} className={`text-[9px] leading-tight px-1 py-0.5 rounded truncate border-l-2 ${CATEGORY_STYLE[e.category].chip}`} style={{ borderLeftColor: 'currentColor' }} title={`${e.title} — ${e.where}`}>
+                                                            <div key={e.title} className={`text-[9px] leading-tight px-1 py-0.5 rounded truncate border-l-2 ${CATEGORY_STYLE[e.category].chip}`} style={{ borderLeftColor: 'currentColor' }} title={`${e.title}, ${e.where}`}>
                                                                 {e.title}
                                                             </div>
                                                         ))}
@@ -171,7 +171,7 @@ export default function WhatsOnPage() {
                 </div>
 
                 <p className="text-xs text-gray-400 text-center max-w-2xl mx-auto mt-10">
-                    Our team curates this calendar and keeps it current. Dates are indicative — for ticketing and the complete programme you can also check the city&apos;s official listings.
+                    Our team curates this calendar and keeps it current. Dates are indicative, for ticketing and the complete programme you can also check the city&apos;s official listings.
                 </p>
             </div>
         </div>

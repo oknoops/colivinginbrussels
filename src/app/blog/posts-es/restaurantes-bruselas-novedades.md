@@ -17,12 +17,12 @@ La escena gastronómica de Bruselas avanza rápido: constantemente abren nuevos 
 
 Algunos sitios que últimamente están dando que hablar en la escena gastronómica de Bruselas:
 
-- **Alimentation** — un concepto de mostrador tipo deli con platos de temporada y protagonismo del producto. De esos sitios que difuminan la línea entre tienda de comestibles y restaurante.
-- **Horta** — tienda ecológica que se cruza con cocina de temporada, con un enfoque fresco, verde y local.
-- **Cosmos** — una cocina "tierra y mar" de vocación gastronómica y con las verduras al frente, para una cena especial.
-- **Le Restaurant du Chaudron** — un restaurante de espíritu comunitario, con un ambiente cálido y de barrio.
-- **Gelateria Giotto** — para un gelato al estilo italiano de verdad cuando sale el sol.
-- **Lil' Bouche** — un café de especialidad para una mañana tranquila o una hora con el portátil.
+- **Alimentation**, un concepto de mostrador tipo deli con platos de temporada y protagonismo del producto. De esos sitios que difuminan la línea entre tienda de comestibles y restaurante.
+- **Horta**, tienda ecológica que se cruza con cocina de temporada, con un enfoque fresco, verde y local.
+- **Cosmos**, una cocina "tierra y mar" de vocación gastronómica y con las verduras al frente, para una cena especial.
+- **Le Restaurant du Chaudron**, un restaurante de espíritu comunitario, con un ambiente cálido y de barrio.
+- **Gelateria Giotto**, para un gelato al estilo italiano de verdad cuando sale el sol.
+- **Lil' Bouche**, un café de especialidad para una mañana tranquila o una hora con el portátil.
 
 Estos sitios van y vienen con las estaciones; consulta la lista completa y actualizada en [Brussels Kitchen](https://www.brusselskitchen.com/en/).
 
@@ -30,21 +30,21 @@ Estos sitios van y vienen con las estaciones; consulta la lista completa y actua
 
 Lo nuevo emociona, pero estos clásicos de Bruselas nunca decepcionan:
 
-- **Los bares de pescado de Sainte-Catherine** — croquetas de camarón gris y ostras de pie en la barra con una copa de vino blanco. Bruselas en estado puro. (Más en [dónde comen los locales](/es/coliving-bruselas).)
-- **Maison Antoine** (Place Jourdan) y **Frit Flagey** (Place Flagey) — las dos legendarias *fritkots*.
+- **Los bares de pescado de Sainte-Catherine**, croquetas de camarón gris y ostras de pie en la barra con una copa de vino blanco. Bruselas en estado puro. (Más en [dónde comen los locales](/es/coliving-bruselas).)
+- **Maison Antoine** (Place Jourdan) y **Frit Flagey** (Place Flagey), las dos legendarias *fritkots*.
 - **Cafés antiguos / estaminets** para *stoemp*, *carbonnade* y *vol-au-vent*: la cocina de confort belga bien hecha.
 - **Matonge** (Elsene/Ixelles) para comida congoleña y de África occidental; **Rue de Brabant** (Schaerbeek) para parrillas turcas y de Oriente Medio: lo mejor de la ciudad en relación calidad-precio.
 
 ## Dónde comer, por barrio
 
-- **[Elsene (Ixelles)](/neighborhoods/ixelles)** (Châtelain, Flagey) — la zona con más densidad de restaurantes, desde bistrós hasta brunch.
-- **[Saint-Gilles](/neighborhoods/saint-gilles)** (Parvis) — bohemio, vinos naturales, platos pequeños para compartir.
-- **[Centro de Bruselas](/neighborhoods/brussels-city)** (Sainte-Catherine, Dansaert, Saint-Géry) — marisco, mesas de moda y brunch de fin de semana.
-- **[Schaerbeek](/neighborhoods/schaerbeek)** — multicultural y con muy buena relación calidad-precio.
+- **[Elsene (Ixelles)](/neighborhoods/ixelles)** (Châtelain, Flagey), la zona con más densidad de restaurantes, desde bistrós hasta brunch.
+- **[Saint-Gilles](/neighborhoods/saint-gilles)** (Parvis), bohemio, vinos naturales, platos pequeños para compartir.
+- **[Centro de Bruselas](/neighborhoods/brussels-city)** (Sainte-Catherine, Dansaert, Saint-Géry), marisco, mesas de moda y brunch de fin de semana.
+- **[Schaerbeek](/neighborhoods/schaerbeek)**, multicultural y con muy buena relación calidad-precio.
 
 ## Cómo comer bien siendo recién llegado
 
-1. **Menús del mediodía (*plat du jour*)** — las mismas cocinas a mitad de precio que por la noche. El truco de iniciados para los amantes de la buena mesa.
+1. **Menús del mediodía (*plat du jour*)**, las mismas cocinas a mitad de precio que por la noche. El truco de iniciados para los amantes de la buena mesa.
 2. **Reserva con antelación** en los sitios nuevos de moda, sobre todo de jueves a sábado.
 3. **Sigue [Brussels Kitchen](https://www.brusselskitchen.com/en/)** para las últimas aperturas, y [visit.brussels](https://www.visit.brussels/en) para eventos gastronómicos.
 4. **Come con tus compañeros de piso.** En una [casa de coliving](/actors), probar el sitio nuevo es más divertido en grupo, y siempre hay alguien con una recomendación.

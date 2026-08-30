@@ -17,11 +17,11 @@ Hemos hablado con residentes de distintos operadores de coliving de Bruselas par
 
 No todos los operadores de coliving abordan la comunidad de la misma manera. Piénsalo como un espectro:
 
-**Comunidad muy involucrada** — eventos organizados, community managers, un calendario social estructurado. Cohabs y Corners lideran aquí.
+**Comunidad muy involucrada**, eventos organizados, community managers, un calendario social estructurado. Cohabs y Corners lideran aquí.
 
-**Comunidad orgánica** — los espacios compartidos favorecen la interacción natural, pero hay menos programación organizada. LiveColonies, Colive e Ikoab entran en esta categoría.
+**Comunidad orgánica**, los espacios compartidos favorecen la interacción natural, pero hay menos programación organizada. LiveColonies, Colive e Ikoab entran en esta categoría.
 
-**La privacidad primero** — la comunidad existe, pero nunca se fuerza. Los residentes interactúan cuando quieren. Habyt, Morton Place y Neybor se inclinan por este modelo.
+**La privacidad primero**, la comunidad existe, pero nunca se fuerza. Los residentes interactúan cuando quieren. Habyt, Morton Place y Neybor se inclinan por este modelo.
 
 Ninguno de estos enfoques es objetivamente mejor: depende de lo que necesites. Los recién llegados a Bruselas suelen prosperar con una comunidad muy involucrada, mientras que los residentes ya asentados pueden preferir los modelos orgánicos o de privacidad primero.
 
@@ -45,11 +45,11 @@ Mudarse a una casa nueva pone los nervios de punta. Varios operadores organizan 
 
 Las actividades organizadas de fin de semana varían según el operador y la casa:
 
-- **Brunches** — el brunch grupal del sábado o el domingo es popular, sobre todo en casas con grandes terrazas o jardines
-- **Salidas a bares** — salidas en grupo a bares locales, a menudo coincidiendo con festivales de cerveza o eventos especiales de Bruselas
-- **Salidas culturales** — visitas a museos (Bruselas tiene el primer miércoles gratis en muchos museos), exposiciones y conciertos
-- **Deporte** — carreras en grupo por el Bois de la Cambre o el Parc du Cinquantenaire, sesiones de yoga en el salón, partidos de fútbol en parques locales
-- **Excursiones de un día** — Brujas, Gante, Amberes e incluso Ámsterdam son escapadas grupales populares en tren
+- **Brunches**, el brunch grupal del sábado o el domingo es popular, sobre todo en casas con grandes terrazas o jardines
+- **Salidas a bares**, salidas en grupo a bares locales, a menudo coincidiendo con festivales de cerveza o eventos especiales de Bruselas
+- **Salidas culturales**, visitas a museos (Bruselas tiene el primer miércoles gratis en muchos museos), exposiciones y conciertos
+- **Deporte**, carreras en grupo por el Bois de la Cambre o el Parc du Cinquantenaire, sesiones de yoga en el salón, partidos de fútbol en parques locales
+- **Excursiones de un día**, Brujas, Gante, Amberes e incluso Ámsterdam son escapadas grupales populares en tren
 
 ### Networking profesional
 
@@ -63,10 +63,10 @@ Algunos operadores atienden la faceta profesional de la comunidad:
 
 El calendario del coliving de Bruselas tiene sus momentos destacados:
 
-- **Celebraciones de Nochevieja** — fiestas en casa, reuniones en la azotea o salidas en grupo a los fuegos artificiales de Bruselas en el Atomium
-- **Fiesta Nacional de Bélgica (21 de julio)** — salidas en grupo a las celebraciones del Parc de Bruxelles
-- **Halloween y Navidad** — decoración de la casa, cenas temáticas y amigo invisible
-- **Barbacoas de verano** — las casas con jardín o terraza cobran vida entre mayo y septiembre
+- **Celebraciones de Nochevieja**, fiestas en casa, reuniones en la azotea o salidas en grupo a los fuegos artificiales de Bruselas en el Atomium
+- **Fiesta Nacional de Bélgica (21 de julio)**, salidas en grupo a las celebraciones del Parc de Bruxelles
+- **Halloween y Navidad**, decoración de la casa, cenas temáticas y amigo invisible
+- **Barbacoas de verano**, las casas con jardín o terraza cobran vida entre mayo y septiembre
 
 ## Un mes típico en una casa de Cohabs
 
@@ -74,22 +74,22 @@ Para darte una imagen concreta, así podría ser un mes típico en una casa acti
 
 **Semana 1:**
 - Lunes: velada tranquila, cada residente a lo suyo
-- Miércoles: cena de la casa — noche mexicana organizada por un compañero colombiano
+- Miércoles: cena de la casa, noche mexicana organizada por un compañero colombiano
 - Sábado: brunch en grupo en la terraza, seguido de un paseo por los estanques de Ixelles
 
 **Semana 2:**
 - Martes: llega un nuevo residente, copas de bienvenida por la tarde
-- Jueves: cena de la casa — noche de pasta organizada por el residente italiano
+- Jueves: cena de la casa, noche de pasta organizada por el residente italiano
 - Domingo: un grupo pequeño coge el tren a Brujas para pasar el día
 
 **Semana 3:**
-- Miércoles: cena de la casa — comida tailandesa organizada por dos compañeros juntos
+- Miércoles: cena de la casa, comida tailandesa organizada por dos compañeros juntos
 - Viernes: previa en casa y luego ronda de bares en Saint-Gilles (zona del Parvis)
 - Sábado: visita al mercado de Flagey en grupo, café en MOK
 
 **Semana 4:**
-- Lunes: reunión de la casa — se habla del calendario de limpieza y los suministros compartidos
-- Miércoles: cena de la casa — clásico belga: stoofvlees (estofado de ternera) con patatas fritas
+- Lunes: reunión de la casa, se habla del calendario de limpieza y los suministros compartidos
+- Miércoles: cena de la casa, clásico belga: stoofvlees (estofado de ternera) con patatas fritas
 - Sábado: fiesta de cumpleaños de un compañero, con decoración y tarta
 
 ## Qué dicen realmente los residentes
@@ -128,8 +128,8 @@ Algunas casas encajan de inmediato; otras necesitan tiempo. Si tu primer mes no 
 
 ## ¿Merece la pena la comunidad del coliving?
 
-Para los recién llegados a Bruselas —sobre todo expatriados y jóvenes profesionales que llegan solos— la comunidad del coliving es genuinamente transformadora. Bruselas puede ser una ciudad socialmente difícil. La famosa reserva belga hace que hacer amigos por los cauces tradicionales (el trabajo, salir de fiesta) lleve tiempo y esfuerzo.
+Para los recién llegados a Bruselas, sobre todo expatriados y jóvenes profesionales que llegan solos, la comunidad del coliving es genuinamente transformadora. Bruselas puede ser una ciudad socialmente difícil. La famosa reserva belga hace que hacer amigos por los cauces tradicionales (el trabajo, salir de fiesta) lleve tiempo y esfuerzo.
 
 El coliving acorta ese proceso. Llegas a casa con gente que conoce tu nombre, te pregunta por tu día y te invita a cenar. En una ciudad donde la soledad es un riesgo real para los recién llegados, eso no es solo un extra agradable: es esencial.
 
-Los operadores de coliving de Bruselas —en particular Cohabs y Corners— han refinado sus modelos comunitarios durante años. Lo que empezó como un concepto de vivienda ha evolucionado hacia algo más parecido a una infraestructura social para la población profesional itinerante de la ciudad.
+Los operadores de coliving de Bruselas, en particular Cohabs y Corners, han refinado sus modelos comunitarios durante años. Lo que empezó como un concepto de vivienda ha evolucionado hacia algo más parecido a una infraestructura social para la población profesional itinerante de la ciudad.

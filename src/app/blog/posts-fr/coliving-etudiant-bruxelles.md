@@ -1,6 +1,6 @@
 ---
 title: "Coliving étudiant à Bruxelles : les options abordables près des universités"
-excerpt: "Un guide des options de coliving adaptées aux étudiants à Bruxelles — près de l'ULB, de la VUB et du campus bruxellois de la KU Leuven, à des prix accessibles."
+excerpt: "Un guide des options de coliving adaptées aux étudiants à Bruxelles, près de l'ULB, de la VUB et du campus bruxellois de la KU Leuven, à des prix accessibles."
 date: "2026-03-01"
 author: "Guide Local Bruxelles"
 coverImage: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80&auto=format&fit=crop"
@@ -53,7 +53,7 @@ Déménager dans une nouvelle ville pour ses études est stimulant, mais peut ê
 
 ### Colive (à partir de 650 EUR/mois)
 
-Colive est l'option de coliving la plus abordable de Bruxelles et dispose de logements près de l'ULB à Ixelles et à Schaerbeek. Son approche épurée maintient les prix bas tout en offrant l'expérience essentielle du coliving. Certaines chambres de ses adresses de Schaerbeek démarrent à 650 EUR — compétitif face aux chambres en colocation privée une fois les charges prises en compte.
+Colive est l'option de coliving la plus abordable de Bruxelles et dispose de logements près de l'ULB à Ixelles et à Schaerbeek. Son approche épurée maintient les prix bas tout en offrant l'expérience essentielle du coliving. Certaines chambres de ses adresses de Schaerbeek démarrent à 650 EUR, compétitif face aux chambres en colocation privée une fois les charges prises en compte.
 
 **Atouts pour les étudiants :** prix bas, contrats flexibles, logements proches des zones universitaires.
 
@@ -117,11 +117,11 @@ La Belgique propose une aide au loyer (allocation de loyer) pour les résidents 
 
 ### Chercher les réductions étudiantes
 
-Certains opérateurs de coliving proposent des tarifs étudiants ou des réductions pour les contrats à durée d'un semestre. Demandez toujours — même si ce n'est pas annoncé, les opérateurs peuvent être disposés à négocier pour une réservation garantie de plusieurs mois.
+Certains opérateurs de coliving proposent des tarifs étudiants ou des réductions pour les contrats à durée d'un semestre. Demandez toujours, même si ce n'est pas annoncé, les opérateurs peuvent être disposés à négocier pour une réservation garantie de plusieurs mois.
 
 ### Envisager les chambres partagées
 
-Quelques opérateurs proposent des chambres partagées (deux personnes se partageant une chambre plus grande) à des tarifs nettement réduits — parfois 30 à 40 % de moins qu'une chambre privée. Si le partage ne vous dérange pas, cela peut faire descendre le coût du coliving à 450-550 EUR/mois.
+Quelques opérateurs proposent des chambres partagées (deux personnes se partageant une chambre plus grande) à des tarifs nettement réduits, parfois 30 à 40 % de moins qu'une chambre privée. Si le partage ne vous dérange pas, cela peut faire descendre le coût du coliving à 450-550 EUR/mois.
 
 ### Répartir les coûts de manière stratégique
 
@@ -129,7 +129,7 @@ Certains étudiants associent le coliving à un emploi à temps partiel. La Belg
 
 ## Coliving vs logement universitaire
 
-Le logement universitaire (kots) à l'ULB ou à la VUB est moins cher — généralement 350 à 500 EUR/mois. Mais les disponibilités sont extrêmement limitées et le processus de candidature est compétitif. Les listes d'attente sont longues et les chambres sont basiques.
+Le logement universitaire (kots) à l'ULB ou à la VUB est moins cher, généralement 350 à 500 EUR/mois. Mais les disponibilités sont extrêmement limitées et le processus de candidature est compétitif. Les listes d'attente sont longues et les chambres sont basiques.
 
 Le coliving coûte plus cher mais offre :
 

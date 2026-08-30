@@ -9,7 +9,7 @@ tags: ["non-eu", "moving to brussels"]
 
 # Vivir en Bruselas siendo ciudadano extracomunitario: permisos y primeros pasos
 
-Mudarse a Bélgica desde fuera de la Unión Europea implica algo más de papeleo que una mudanza dentro de la UE, pero es totalmente manejable una vez conoces el orden en que ocurren las cosas. Esta guía repasa los primeros pasos de **vivir en Bruselas siendo ciudadano extracomunitario**: lo básico del permiso, el empadronamiento en tu municipio, abrir una cuenta bancaria y —crucialmente— encontrar un lugar donde vivir sin un avalista belga. Las normas cambian y dependen de tu nacionalidad y tu motivo, así que confirma siempre los detalles en fuentes oficiales; piensa en esto como el mapa, no la letra pequeña legal.
+Mudarse a Bélgica desde fuera de la Unión Europea implica algo más de papeleo que una mudanza dentro de la UE, pero es totalmente manejable una vez conoces el orden en que ocurren las cosas. Esta guía repasa los primeros pasos de **vivir en Bruselas siendo ciudadano extracomunitario**: lo básico del permiso, el empadronamiento en tu municipio, abrir una cuenta bancaria y, crucialmente, encontrar un lugar donde vivir sin un avalista belga. Las normas cambian y dependen de tu nacionalidad y tu motivo, así que confirma siempre los detalles en fuentes oficiales; piensa en esto como el mapa, no la letra pequeña legal.
 
 > Importante: las normas de inmigración varían según la nacionalidad, el motivo de estancia y la situación personal, y cambian. Consulta siempre la autoridad de inmigración belga oficial y la web de tu municipio local para conocer los requisitos que se aplican a tu caso.
 
@@ -17,16 +17,16 @@ Mudarse a Bélgica desde fuera de la Unión Europea implica algo más de papeleo
 
 Antes que nada, ten claro **por qué** se te permite estar en Bélgica, porque el tipo de permiso condiciona todo lo demás. Entre las bases habituales para ciudadanos extracomunitarios están:
 
-- **Estudios** — matrícula en una institución reconocida.
-- **Trabajo** — una oferta de empleo y la autorización de trabajo correspondiente.
-- **Reagrupación familiar** — reunirse con un familiar residente legal aquí.
+- **Estudios**, matrícula en una institución reconocida.
+- **Trabajo**, una oferta de empleo y la autorización de trabajo correspondiente.
+- **Reagrupación familiar**, reunirse con un familiar residente legal aquí.
 - **Otras categorías de larga estancia** según tus circunstancias.
 
 Muchos nacionales de fuera de la UE necesitan tramitar un visado de larga estancia (a menudo llamado visado tipo D) **antes** de llegar. No reserves una mudanza sin retorno hasta que hayas confirmado lo que exigen tu nacionalidad y tu motivo. La web oficial de inmigración belga es la fuente autorizada; ante la duda, contacta con la embajada o el consulado belga en tu país de origen.
 
 ## Empadrónate en tu municipio
 
-Una vez que llegues y tengas dónde vivir, uno de los primeros pasos más importantes es **registrar tu domicilio** en el ayuntamiento local (maison communale / gemeentehuis). Bélgica vincula muchas cosas a tu domicilio registrado, y si te quedas **más de tres meses** este registro —el empadronamiento— es obligatorio.
+Una vez que llegues y tengas dónde vivir, uno de los primeros pasos más importantes es **registrar tu domicilio** en el ayuntamiento local (maison communale / gemeentehuis). Bélgica vincula muchas cosas a tu domicilio registrado, y si te quedas **más de tres meses** este registro, el empadronamiento, es obligatorio.
 
 En la práctica, esto significa:
 
@@ -47,7 +47,7 @@ Aquí está la parte que hace tropezar a muchos recién llegados extracomunitari
 
 Los operadores de coliving en Bruselas normalmente:
 
-- **No exigen un avalista belga** — un enorme alivio para quienes acaban de llegar.
+- **No exigen un avalista belga**, un enorme alivio para quienes acaban de llegar.
 - Ofrecen **contratos flexibles de 3 a 6 meses** en lugar de un compromiso rígido de un año.
 - Agrupan todo **todo incluido** (alquiler, suministros, wifi, limpieza de zonas comunes) por **500–1.500 € al mes**.
 - Proporcionan un **domicilio registrable** para que puedas completar tu empadronamiento; confírmalo siempre antes de firmar.

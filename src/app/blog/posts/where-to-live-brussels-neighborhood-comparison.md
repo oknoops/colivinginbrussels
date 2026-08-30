@@ -1,6 +1,6 @@
 ---
 title: "Where to Live in Brussels: A Neighborhood Comparison for Newcomers"
-excerpt: "Ixelles vs Saint-Gilles vs Etterbeek vs Schaerbeek and beyond — an honest, side-by-side guide to picking the right Brussels neighborhood for your budget and vibe."
+excerpt: "Ixelles vs Saint-Gilles vs Etterbeek vs Schaerbeek and beyond, an honest, side-by-side guide to picking the right Brussels neighborhood for your budget and vibe."
 date: "2026-07-28"
 author: "Brussels Local Guide"
 coverImage: "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=1200&q=80&auto=format&fit=crop"
@@ -9,7 +9,7 @@ tags: ["Neighborhoods", "Where to Live", "Newcomers", "Comparison"]
 
 # Where to Live in Brussels: A Neighborhood Comparison for Newcomers
 
-Choosing a Brussels neighbourhood is really choosing a lifestyle. The city is a patchwork of 19 communes, each with its own character, budget, and crowd. Here's an honest side-by-side to help you pick — then dive into our full [neighborhood guides](/neighborhoods) for the deep detail.
+Choosing a Brussels neighbourhood is really choosing a lifestyle. The city is a patchwork of 19 communes, each with its own character, budget, and crowd. Here's an honest side-by-side to help you pick, then dive into our full [neighborhood guides](/neighborhoods) for the deep detail.
 
 ## The quick comparison
 
@@ -34,16 +34,16 @@ If you want terraces, bars, and to constantly bump into people, go **[Ixelles](/
 ### 2. What's your commute?
 *   **EU institutions (Schuman):** [Etterbeek](/neighborhoods/etterbeek), [Ixelles](/neighborhoods/ixelles), or the EU quarter itself. See our [EU-quarter guide](/eu-quarter-housing).
 *   **City-centre offices:** [Brussels City](/neighborhoods/brussels-city), [Saint-Gilles](/neighborhoods/saint-gilles) (near Midi for trains).
-*   **Remote/flexible:** anywhere — prioritise vibe over commute, and read our [cafés to work from](/blog/best-cafes-to-work-from-brussels) guide.
+*   **Remote/flexible:** anywhere, prioritise vibe over commute, and read our [cafés to work from](/blog/best-cafes-to-work-from-brussels) guide.
 
 ### 3. What's your honest budget?
 Brussels is affordable by Western-European capital standards, but neighbourhoods vary. For the best value without sacrificing life, **[Schaerbeek](/neighborhoods/schaerbeek)** and **[Forest](/neighborhoods/forest)** punch above their price. For premium calm, **[Uccle](/neighborhoods/uccle)** commands more.
 
 ## The newcomer's shortcut
 
-Most newcomers over-index on the famous names (Ixelles, city centre) and overlook value gems like Schaerbeek and Forest that are one tram stop away and hundreds of euros cheaper. Don't just default — match the neighbourhood to *your* life.
+Most newcomers over-index on the famous names (Ixelles, city centre) and overlook value gems like Schaerbeek and Forest that are one tram stop away and hundreds of euros cheaper. Don't just default, match the neighbourhood to *your* life.
 
-The fastest way to do that honestly: take our [matchmaker quiz](/matchmaker). It weighs your budget, commute, and social preferences and points you to both the right **neighbourhood** and the right **coliving operators** there — so you're not guessing.
+The fastest way to do that honestly: take our [matchmaker quiz](/matchmaker). It weighs your budget, commute, and social preferences and points you to both the right **neighbourhood** and the right **coliving operators** there, so you're not guessing.
 
 ## A note on how coliving changes the calculation
 

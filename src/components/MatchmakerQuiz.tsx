@@ -6,12 +6,12 @@ import { getAllActors } from '@/lib/actors';
 import { NEIGHBORHOODS } from '@/lib/neighborhoods';
 
 /*
- * Brussels Matchmaker — a real recommendation engine.
+ * Brussels Matchmaker, a real recommendation engine.
  *
  * 6 weighted questions build a preference vector across 10 lifestyle
  * dimensions. Every one of the 8 real neighborhoods is scored against that
- * vector (dot product → % match), and — the part that makes it genuinely
- * useful — we also rank the 12 real coliving operators by budget fit, how
+ * vector (dot product → % match), and, the part that makes it genuinely
+ * useful, we also rank the 12 real coliving operators by budget fit, how
  * social the user wants their home, design taste, and location overlap.
  * Output: a top neighborhood with a match %, two runners-up, and 3 concrete
  * coliving recommendations with plain-language reasons. All from live data.
@@ -67,7 +67,7 @@ type Question = { key: string; title: string; subtitle?: string; cols: 1 | 2; op
 
 const QUESTIONS: Question[] = [
     {
-        key: 'life', title: "First up — who's moving?", cols: 2,
+        key: 'life', title: "First up, who's moving?", cols: 2,
         options: [
             { label: 'Student', emoji: '🎓', weights: { uni: 2, budget: 1, social: 1 } },
             { label: 'Intern / trainee', emoji: '📋', weights: { eu: 1, budget: 1, social: 2 } },
@@ -117,7 +117,7 @@ const QUESTIONS: Question[] = [
         options: [
             { label: 'A buzzing house with events & shared dinners', emoji: '🎉', weights: { social: 1 }, social: 2 },
             { label: 'A friendly balance of social and private', emoji: '☕', weights: {}, social: 1 },
-            { label: 'Calm and private — my own space', emoji: '🧘', weights: { calm: 1 }, social: 0 },
+            { label: 'Calm and private, my own space', emoji: '🧘', weights: { calm: 1 }, social: 0 },
         ],
     },
 ];
@@ -260,10 +260,10 @@ export default function MatchmakerQuiz() {
                                 Find your <span className="text-orange-500">Brussels match</span>
                             </h1>
                             <p className="text-lg text-text mb-8 max-w-md mx-auto">
-                                Six quick questions. We&apos;ll match you to the right neighbourhood <em>and</em> the coliving spaces that fit your budget, vibe, and commute — using real data on all 8 neighbourhoods and 12 operators.
+                                Six quick questions. We&apos;ll match you to the right neighbourhood <em>and</em> the coliving spaces that fit your budget, vibe, and commute, using real data on all 8 neighbourhoods and 12 operators.
                             </p>
                             <button onClick={() => setStarted(true)} className="bg-orange-500 hover:bg-orange-600 text-white font-bold text-lg px-10 py-4 rounded-lg shadow-lg hover:-translate-y-0.5 transition-all">
-                                Start — it takes 1 minute
+                                Start, it takes 1 minute
                             </button>
                             <p className="text-xs text-gray-400 mt-4">Free · No sign-up · No spam</p>
                         </div>
@@ -384,7 +384,7 @@ export default function MatchmakerQuiz() {
 
             {started && !showResults && (
                 <p className="text-xs text-gray-400 mt-6 text-center max-w-md">
-                    We match you on budget, commute, vibe and how social you want your home — across all 8 Brussels neighbourhoods and 12 coliving operators.
+                    We match you on budget, commute, vibe and how social you want your home, across all 8 Brussels neighbourhoods and 12 coliving operators.
                 </p>
             )}
         </div>

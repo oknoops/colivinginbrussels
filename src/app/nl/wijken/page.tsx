@@ -35,7 +35,7 @@ const NL_DESC: Record<string, string> = {
     'uccle': 'Groen, rustig en residentieel. Perfect voor wie parken verkiest boven lawaai.',
     'schaerbeek': 'De beste prijs-kwaliteit: diversiteit, art-nouveau en een wijk in volle opgang.',
     'forest': 'Het bohemien, betaalbare alternatief, met mooie groene ruimtes en een muziekscene.',
-    'woluwe-saint-lambert': 'Groen, residentieel en rustig — ideaal voor gezinnen en EU-medewerkers.',
+    'woluwe-saint-lambert': 'Groen, residentieel en rustig, ideaal voor gezinnen en EU-medewerkers.',
 };
 
 export default function WijkenNl() {

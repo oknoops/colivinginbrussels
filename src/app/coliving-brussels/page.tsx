@@ -76,20 +76,20 @@ export default function ColivingBrusselsPage() {
                         Coliving is a modern form of shared housing where residents have private bedrooms or studios while sharing common spaces like kitchens, living rooms, and coworking areas. Unlike traditional flatshares, coliving spaces are professionally managed, fully furnished, and come with all-inclusive pricing that covers utilities, Wi-Fi, cleaning, and often much more.
                     </p>
                     <p className="mt-4">
-                        Think of it as a step up from a flatshare and a step down from a serviced apartment — combining the best of both worlds. You get your own private space, a built-in community, and zero hassle with bills or maintenance.
+                        Think of it as a step up from a flatshare and a step down from a serviced apartment, combining the best of both worlds. You get your own private space, a built-in community, and zero hassle with bills or maintenance.
                     </p>
                 </div>
 
                 <div className="bg-white rounded-2xl border border-border p-8 shadow-sm">
                     <h2 className="text-2xl font-bold font-heading text-text-dark mb-4">Why Brussels Is Perfect for Coliving</h2>
                     <p>
-                        Brussels is the unofficial capital of Europe, home to the EU institutions, NATO, and hundreds of international organizations. Every year, thousands of expats, young professionals, and digital nomads arrive in the city — many of them looking for flexible, community-oriented housing.
+                        Brussels is the unofficial capital of Europe, home to the EU institutions, NATO, and hundreds of international organizations. Every year, thousands of expats, young professionals, and digital nomads arrive in the city, many of them looking for flexible, community-oriented housing.
                     </p>
                     <p className="mt-4">
                         The traditional rental market in Brussels can be notoriously difficult: landlords often require a Belgian guarantor, contracts are rigid, and finding a furnished apartment at a reasonable price is a challenge. Coliving solves all of these problems. No guarantor needed, flexible lease terms, and everything included in one monthly payment.
                     </p>
                     <p className="mt-4">
-                        Brussels also has a uniquely international character. In neighborhoods like <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> and <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link>, you will hear more English and French than Dutch. This multicultural environment makes coliving a natural fit — shared spaces become melting pots of cultures, languages, and ideas.
+                        Brussels also has a uniquely international character. In neighborhoods like <Link href="/neighborhoods/ixelles" className="text-primary hover:underline">Ixelles</Link> and <Link href="/neighborhoods/etterbeek" className="text-primary hover:underline">Etterbeek</Link>, you will hear more English and French than Dutch. This multicultural environment makes coliving a natural fit, shared spaces become melting pots of cultures, languages, and ideas.
                     </p>
                 </div>
 

@@ -15,23 +15,23 @@ Nada pilla tan desprevenido a un recién llegado como llegar a un supermercado c
 
 En los festivos oficiales, la mayoría de las tiendas, bancos y oficinas cierran, el transporte público funciona con horario de domingo y muchos restaurantes también echan el cierre. Planifica con antelación, sobre todo la compra. Los **festivos federales** son:
 
-*   **Año Nuevo** — 1 de enero
-*   **Lunes de Pascua** — marzo/abril (móvil)
-*   **Día del Trabajo** — 1 de mayo
-*   **Ascensión** — un jueves de mayo (móvil), 39 días después de Pascua. Los belgas practican el famoso "*faire le pont*": se cogen el viernes libre para enlazar con el fin de semana.
-*   **Lunes de Pentecostés** — mayo/junio (móvil)
-*   **Fiesta Nacional de Bélgica** — 21 de julio
-*   **Asunción** — 15 de agosto
-*   **Día de Todos los Santos** — 1 de noviembre
-*   **Día del Armisticio** — 11 de noviembre
-*   **Navidad** — 25 de diciembre
+*   **Año Nuevo**, 1 de enero
+*   **Lunes de Pascua**, marzo/abril (móvil)
+*   **Día del Trabajo**, 1 de mayo
+*   **Ascensión**, un jueves de mayo (móvil), 39 días después de Pascua. Los belgas practican el famoso "*faire le pont*": se cogen el viernes libre para enlazar con el fin de semana.
+*   **Lunes de Pentecostés**, mayo/junio (móvil)
+*   **Fiesta Nacional de Bélgica**, 21 de julio
+*   **Asunción**, 15 de agosto
+*   **Día de Todos los Santos**, 1 de noviembre
+*   **Día del Armisticio**, 11 de noviembre
+*   **Navidad**, 25 de diciembre
 
 Unas cuantas notas prácticas:
 *   Cuando un festivo cae en fin de semana, el día libre normalmente no se traslada de forma automática: compruébalo cada año.
 *   También existen **festivos regionales y comunitarios** (por ejemplo, el 27 de septiembre de la Comunidad Francesa o el 11 de julio de la Comunidad Flamenca), que pueden afectar a los colegios y a algunos servicios según dónde trabajes.
 *   La cultura del **"pont"** (día puente) hace que un festivo bien situado en jueves pueda vaciar la ciudad para un fin de semana de cuatro días. Reserva los viajes pronto; todo el mundo tiene la misma idea.
 
-## San Nicolás — más importante de lo que crees
+## San Nicolás, más importante de lo que crees
 
 Aquí va una tradición que sorprende a los recién llegados: para los niños, **San Nicolás (Sinterklaas / Saint-Nicolas)**, el **6 de diciembre**, es el *principal* momento de regalos, posiblemente más grande que la Navidad. San Nicolás llega (tradicionalmente en barco de vapor), premia a los niños buenos con chocolate, *speculoos*, mandarinas y juguetes, y la expectación previa es toda una temporada en sí misma. Si tus colegas belgas mencionan "Saint-Nicolas", no están hablando de la Navidad: es su propia fiesta muy querida, sobre todo en los colegios y las familias.
 
@@ -42,11 +42,11 @@ Aquí va una tradición que sorprende a los recién llegados: para los niños, *
 *   La **Nochevieja (Saint-Sylvestre)** trae fuegos artificiales en el centro y fiestas caseras por todas partes.
 *   Una costumbre encantadora: los niños escriben y leen **cartas de Año Nuevo** a sus padres y padrinos.
 
-## Carnaval — el corazón salvaje y ancestral del folclore belga
+## Carnaval, el corazón salvaje y ancestral del folclore belga
 
 Las tradiciones de carnaval de Bélgica son de las más extraordinarias de Europa:
 
-*   **Carnaval de Binche** (feb/marzo) — patrimonio cultural inmaterial reconocido por la UNESCO. Sus **Gilles** —figuras disfrazadas con máscaras de cera y sombreros de plumas de avestruz— bailan por el pueblo y lanzan, célebremente, **naranjas sanguinas** a la multitud. Absolutamente único y merece la breve escapada desde Bruselas.
+*   **Carnaval de Binche** (feb/marzo), patrimonio cultural inmaterial reconocido por la UNESCO. Sus **Gilles**, figuras disfrazadas con máscaras de cera y sombreros de plumas de avestruz, bailan por el pueblo y lanzan, célebremente, **naranjas sanguinas** a la multitud. Absolutamente único y merece la breve escapada desde Bruselas.
 *   El **Carnaval de Aalst**, los **Blancs Moussis de Stavelot** y otros carnavales regionales tienen cada uno sus propios personajes extraños y maravillosos.
 
 No son invenciones para turistas: son folclore vivo, que los pueblos que los celebran se toman muy en serio.

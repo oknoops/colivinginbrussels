@@ -23,10 +23,10 @@ Si no has asegurado un alojamiento antes de llegar, esta es la prioridad número
 
 Necesitarás un número de teléfono local para todo, desde el registro en el ayuntamiento hasta las entregas. Tus principales opciones:
 
-- **Orange Belgium** — la mejor cobertura, planes desde 15 EUR/mes por 10 GB
-- **Proximus** — red premium, desde 20 EUR/mes
-- **BASE (Telenet)** — opción económica, desde 10 EUR/mes por 5 GB
-- **Lycamobile** — la opción de prepago más barata, ideal para las primeras semanas
+- **Orange Belgium**, la mejor cobertura, planes desde 15 EUR/mes por 10 GB
+- **Proximus**, red premium, desde 20 EUR/mes
+- **BASE (Telenet)**, opción económica, desde 10 EUR/mes por 5 GB
+- **Lycamobile**, la opción de prepago más barata, ideal para las primeras semanas
 
 Consigue una SIM en cualquier tienda de Proximus, Orange o Base. Necesitarás tu pasaporte o documento de identidad. La mayoría de las tiendas están alrededor de De Brouckère, Porte de Namur y Gare du Midi.
 
@@ -34,11 +34,11 @@ Consigue una SIM en cualquier tienda de Proximus, Orange o Base. Necesitarás tu
 
 Necesitarás una cuenta bancaria belga para el ingreso de tu nómina, el pago del alquiler y las domiciliaciones. Tus principales opciones:
 
-- **KBC Brussels** — una opción sólida y equilibrada, con buena app en inglés
-- **ING Belgium** — muy usada, con soporte en inglés disponible
-- **BNP Paribas Fortis** — el banco más grande de Bélgica, con una amplia red de oficinas
-- **Beobank** — enfoque digital, apertura de cuenta rápida
-- **N26 o Revolut** — útiles como cuentas complementarias, pero algunos servicios belgas requieren un IBAN belga (que empieza por BE)
+- **KBC Brussels**, una opción sólida y equilibrada, con buena app en inglés
+- **ING Belgium**, muy usada, con soporte en inglés disponible
+- **BNP Paribas Fortis**, el banco más grande de Bélgica, con una amplia red de oficinas
+- **Beobank**, enfoque digital, apertura de cuenta rápida
+- **N26 o Revolut**, útiles como cuentas complementarias, pero algunos servicios belgas requieren un IBAN belga (que empieza por BE)
 
 Lleva tu pasaporte, un justificante de domicilio (tu contrato de alquiler sirve) y un justificante de empleo. La apertura de la cuenta lleva entre 30 y 60 minutos en la oficina.
 
@@ -63,10 +63,10 @@ Tras el registro, la commune envía a un agente de la policía local a verificar
 
 Bélgica tiene un seguro médico obligatorio a través de las mutuelles (en francés) o mutualiteiten (en neerlandés). Son organizaciones sin ánimo de lucro que te reembolsan los gastos médicos. Principales opciones:
 
-- **Partenamut** — popular entre los expatriados francófonos
-- **Mutualité Chrétienne (MC)** — la más grande de Bélgica
-- **Solidaris** — opción progresista con buenas herramientas digitales
-- **CM (Christelijke Mutualiteit)** — equivalente en neerlandés de MC
+- **Partenamut**, popular entre los expatriados francófonos
+- **Mutualité Chrétienne (MC)**, la más grande de Bélgica
+- **Solidaris**, opción progresista con buenas herramientas digitales
+- **CM (Christelijke Mutualiteit)**, equivalente en neerlandés de MC
 
 El registro es gratuito para la cobertura básica. Pagarás una pequeña cuota anual por las prestaciones complementarias. Lleva tu documento de identidad, un justificante de domicilio y el contrato de trabajo.
 
@@ -78,8 +78,8 @@ Una consulta estándar de médico de cabecera cuesta entre 25 y 30 EUR, de los q
 
 ### Resuelve los seguros adicionales
 
-- **Seguro de hospitalización** — a menudo lo proporciona tu empleador. Si no, tu mutuelle ofrece planes desde 5-15 EUR/mes.
-- **Seguro de responsabilidad civil (RC Vie Privée)** — no es obligatorio por ley, pero muy recomendable. Cubre los daños accidentales que causes a terceros. Desde 5-10 EUR/mes con aseguradoras como Ethias, AG Insurance o AXA.
+- **Seguro de hospitalización**, a menudo lo proporciona tu empleador. Si no, tu mutuelle ofrece planes desde 5-15 EUR/mes.
+- **Seguro de responsabilidad civil (RC Vie Privée)**, no es obligatorio por ley, pero muy recomendable. Cubre los daños accidentales que causes a terceros. Desde 5-10 EUR/mes con aseguradoras como Ethias, AG Insurance o AXA.
 
 ## Semanas 2-3: transporte
 
@@ -91,16 +91,16 @@ La tarjeta MOBIB es la tarjeta inteligente de transporte público de Bruselas, q
 
 - **Abono mensual:** 49 EUR por viajes ilimitados en STIB
 - **Abono anual:** 499 EUR (ahorra unos 90 EUR frente al mensual)
-- **Menores de 25:** 12 EUR/año — sí, de verdad. Es una de las mejores ofertas de Bruselas.
+- **Menores de 25:** 12 EUR/año, sí, de verdad. Es una de las mejores ofertas de Bruselas.
 - **MTB (STIB + SNCB + De Lijn + TEC combinados):** 75 EUR/mes para todo el transporte público belga
 
 ### Plantéate una bici
 
 Bruselas es cada vez más amigable con las bicis, aunque las cuestas pueden ser un reto. Opciones:
 
-- **Villo!** — el sistema de bicis compartidas de Bruselas. Suscripción anual de 35 EUR, primeros 30 minutos gratis por trayecto.
-- **Billy Bike** — bicis eléctricas compartidas, disponibles por toda Bruselas. Pago por minuto.
-- **Compra de segunda mano** — mira Facebook Marketplace o Troc Vélo para bicis desde 50-150 EUR. Usa siempre un candado en U resistente; el robo de bicis es habitual.
+- **Villo!**, el sistema de bicis compartidas de Bruselas. Suscripción anual de 35 EUR, primeros 30 minutos gratis por trayecto.
+- **Billy Bike**, bicis eléctricas compartidas, disponibles por toda Bruselas. Pago por minuto.
+- **Compra de segunda mano**, mira Facebook Marketplace o Troc Vélo para bicis desde 50-150 EUR. Usa siempre un candado en U resistente; el robo de bicis es habitual.
 
 ### Blue Bike o Cambio
 
@@ -112,31 +112,31 @@ Para necesidades puntuales de coche, Cambio (coche compartido) es mejor que tene
 
 Bruselas tiene excelentes opciones en todos los rangos de precio:
 
-- **Colruyt** — la cadena de supermercados más barata de Bélgica. Merece la pena el viaje aunque no sea la más cercana.
-- **Delhaize** — gama media, buena calidad, está por todas partes
-- **Carrefour** — varios formatos, desde Express (de conveniencia) hasta Hypermarché
-- **Aldi/Lidl** — supermercados de descuento, geniales para lo básico
-- **Bio Planet / Sequoia** — tiendas ecológicas para quienes cuidan la salud
-- **Mercados locales** — Place du Jeu de Balle (mercadillo diario), mercado de Flagey (sábado/domingo), Marché du Midi (domingo, el mercado más grande de Bruselas)
+- **Colruyt**, la cadena de supermercados más barata de Bélgica. Merece la pena el viaje aunque no sea la más cercana.
+- **Delhaize**, gama media, buena calidad, está por todas partes
+- **Carrefour**, varios formatos, desde Express (de conveniencia) hasta Hypermarché
+- **Aldi/Lidl**, supermercados de descuento, geniales para lo básico
+- **Bio Planet / Sequoia**, tiendas ecológicas para quienes cuidan la salud
+- **Mercados locales**, Place du Jeu de Balle (mercadillo diario), mercado de Flagey (sábado/domingo), Marché du Midi (domingo, el mercado más grande de Bruselas)
 
 ### Contrata internet (si no vives en coliving)
 
 Si estás en un alquiler privado, tendrás que gestionar el internet:
 
-- **Proximus** — el más fiable, planes desde 40 EUR/mes
-- **Orange Belgium** — precios competitivos, desde 35 EUR/mes
-- **Scarlet** — opción económica de Proximus, desde 27 EUR/mes
-- **EDPnet** — proveedor más pequeño, buena relación calidad-precio
+- **Proximus**, el más fiable, planes desde 40 EUR/mes
+- **Orange Belgium**, precios competitivos, desde 35 EUR/mes
+- **Scarlet**, opción económica de Proximus, desde 27 EUR/mes
+- **EDPnet**, proveedor más pequeño, buena relación calidad-precio
 
 La instalación suele llevar entre 1 y 2 semanas. En coliving, el wifi está incluido y ya configurado.
 
 ### Descarga las apps imprescindibles
 
-- **STIB/MIVB** — información del transporte público en tiempo real y billetes en el móvil
-- **Itsme** — la app de identidad digital belga (imprescindible para trámites con la administración y la banca)
-- **MyBEnefits** — consulta tu seguridad social y prestaciones belgas
-- **Too Good To Go** — rescata excedentes de comida de restaurantes a precio reducido
-- **Payconiq by Bancontact** — pagos móviles (la app de pago más popular de Bélgica)
+- **STIB/MIVB**, información del transporte público en tiempo real y billetes en el móvil
+- **Itsme**, la app de identidad digital belga (imprescindible para trámites con la administración y la banca)
+- **MyBEnefits**, consulta tu seguridad social y prestaciones belgas
+- **Too Good To Go**, rescata excedentes de comida de restaurantes a precio reducido
+- **Payconiq by Bancontact**, pagos móviles (la app de pago más popular de Bélgica)
 
 ## Semana 4: instálate socialmente
 
@@ -146,19 +146,19 @@ Recorre a pie cada calle en un radio de 15 minutos de tu casa. Encuentra tu pana
 
 ### Únete a comunidades
 
-- **Meetup.com** — Bruselas tiene grupos activos de senderismo, intercambio de idiomas, juegos de mesa, tecnología y más
-- **InterNations** — networking profesional de expatriados, con eventos periódicos
-- **Comunidades de coliving de Bruselas** — si estás en una propiedad de Cohabs o Corners, asiste a todos los eventos durante tu primer mes
-- **Clubes deportivos** — apúntate a un grupo de running (Brussels Running Club), a un gimnasio (Basic-Fit desde 20 EUR/mes) o a un deporte de equipo
+- **Meetup.com**, Bruselas tiene grupos activos de senderismo, intercambio de idiomas, juegos de mesa, tecnología y más
+- **InterNations**, networking profesional de expatriados, con eventos periódicos
+- **Comunidades de coliving de Bruselas**, si estás en una propiedad de Cohabs o Corners, asiste a todos los eventos durante tu primer mes
+- **Clubes deportivos**, apúntate a un grupo de running (Brussels Running Club), a un gimnasio (Basic-Fit desde 20 EUR/mes) o a un deporte de equipo
 
 ### Aprende algo de francés (o neerlandés)
 
 Incluso un francés básico transforma tu experiencia en Bruselas. Opciones gratuitas o económicas:
 
-- **Alliance Française Bruxelles-Europe** — cursos desde 200 EUR por semestre
-- **Maison des Langues (ULB)** — cursos asequibles
-- **CVO Brussel** — cursos de neerlandés subvencionados para residentes de Bruselas (algunos gratuitos)
-- **Intercambio de idiomas Tandem** — practica con locales a través de apps como Tandem o en cafés de idiomas
+- **Alliance Française Bruxelles-Europe**, cursos desde 200 EUR por semestre
+- **Maison des Langues (ULB)**, cursos asequibles
+- **CVO Brussel**, cursos de neerlandés subvencionados para residentes de Bruselas (algunos gratuitos)
+- **Intercambio de idiomas Tandem**, practica con locales a través de apps como Tandem o en cafés de idiomas
 
 ## La checklist completa
 

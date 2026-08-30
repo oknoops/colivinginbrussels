@@ -13,13 +13,13 @@ La escena del café de especialidad en Bruselas se ha puesto discretamente a la 
 
 ## Dónde vive el buen café
 
-### [Ixelles](/es/coliving/ixelles) — el corazón de la especialidad
+### [Ixelles](/es/coliving/ixelles), el corazón de la especialidad
 La mayor concentración de buen café de la ciudad. Alrededor de **Flagey**, **Châtelain** y las calles que salen de la Chaussée d'Ixelles encontrarás tostadores-cafeterías que hacen espressos serios y filtrados lentos. Acompaña el café de la mañana con un paseo por los **estanques de Ixelles** para un arranque de día perfecto. **Café Belga**, en Flagey, es el clásico de ver y dejarse ver a todas horas (más animado que tranquilo).
 
-### [Saint-Gilles](/es/coliving/saint-gilles) — bohemio y sin prisas
+### [Saint-Gilles](/es/coliving/saint-gilles), bohemio y sin prisas
 La cultura de café más relajada de Bruselas. Cafeterías independientes y bares de vino natural que sirven un café diurno excelente se agrupan en torno al **Parvis** y las frondosas calles cercanas. Un público creativo y freelance se queda horas: encajarás perfectamente con un portátil o un libro.
 
-### [Brussels City](/es/coliving/brussels-city) — Saint-Géry y Dansaert
+### [Brussels City](/es/coliving/brussels-city), Saint-Géry y Dansaert
 El rincón céntrico y de moda. Alrededor de **Saint-Géry**, **Sainte-Catherine** y el barrio de moda de Dansaert encontrarás sitios de brunch y café que hacen un buen flat white y un estupendo desayuno de fin de semana.
 
 ### Más allá de lo obvio

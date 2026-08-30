@@ -1,6 +1,6 @@
 ---
 title: "Brussel vs. Amsterdam: kost, huisvesting & wat te kiezen (2026)"
-excerpt: "Is Brussel goedkoper dan Amsterdam? Een eerlijke zij-aan-zijvergelijking van levenskosten, huisvesting, sociaal leven en carrière — of je nu kiest waar je gaat wonen of een stedentrip plant."
+excerpt: "Is Brussel goedkoper dan Amsterdam? Een eerlijke zij-aan-zijvergelijking van levenskosten, huisvesting, sociaal leven en carrière, of je nu kiest waar je gaat wonen of een stedentrip plant."
 date: "2026-02-23"
 author: "Lokale Gids Brussel"
 coverImage: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80&auto=format&fit=crop"
@@ -9,16 +9,16 @@ tags: ["Brussel", "Amsterdam", "Expats", "Vergelijking", "Europese steden"]
 
 # Brussel vs. Amsterdam: welke stad is beter voor expats in 2026?
 
-Als je een verhuis naar Noord-Europa overweegt en het hebt afgebakend tot **Brussel of Amsterdam**, dan ben je niet de enige. Beide steden trekken jaarlijks tienduizenden expats aan, beide zijn internationaal en Engelsvriendelijk, en beide bieden een heel verschillende ervaring. Hier is een eerlijke, genuanceerde vergelijking — nuttig of je nu beslist waar je gaat wonen of de twee gewoon vergelijkt voor een stedentrip.
+Als je een verhuis naar Noord-Europa overweegt en het hebt afgebakend tot **Brussel of Amsterdam**, dan ben je niet de enige. Beide steden trekken jaarlijks tienduizenden expats aan, beide zijn internationaal en Engelsvriendelijk, en beide bieden een heel verschillende ervaring. Hier is een eerlijke, genuanceerde vergelijking, nuttig of je nu beslist waar je gaat wonen of de twee gewoon vergelijkt voor een stedentrip.
 
 ## Is Brussel goedkoper dan Amsterdam?
 
-**Kort antwoord: ja — merkbaar.** Brussel is op zowat elke post aanzienlijk goedkoper dan Amsterdam, en voor veel expats is dat de allerbelangrijkste doorslaggevende factor.
+**Kort antwoord: ja, merkbaar.** Brussel is op zowat elke post aanzienlijk goedkoper dan Amsterdam, en voor veel expats is dat de allerbelangrijkste doorslaggevende factor.
 
 - **Huur:** de duidelijkste kloof. Een kamer of studio in Brussel kost doorgaans **30-40% minder** dan het Amsterdamse equivalent, waar een chronisch woningtekort de prijzen tot de hoogste van Europa heeft opgedreven. Een all-in [coliving-kamer in Brussel](/nl/prijzen-coliving-brussel) kost €600-€950; vergelijkbare Amsterdamse kamers zijn veel duurder en veel moeilijker te vinden.
 - **Uit eten & drinken:** restaurants, bier en koffie zijn goedkoper in Brussel.
 - **Boodschappen & vervoer:** grotendeels vergelijkbaar, met Brussel iets goedkoper.
-- **De keerzijde:** de lonen in Nederland kunnen iets hoger liggen, en de Nederlandse `30%-regeling` (waar die van toepassing is) verkleint de kloof voor sommigen — maar op de pure levenskosten wint Brussel ruimschoots.
+- **De keerzijde:** de lonen in Nederland kunnen iets hoger liggen, en de Nederlandse `30%-regeling` (waar die van toepassing is) verkleint de kloof voor sommigen, maar op de pure levenskosten wint Brussel ruimschoots.
 
 Voor een **stedentrip** geldt dezelfde logica: Brussel is het voordeligere weekend, met goedkopere hotels, eten en bier, en Amsterdam ligt op amper ~2 uur met de trein als je beide wilt doen.
 
@@ -38,7 +38,7 @@ Dit is waar de twee steden het meest dramatisch verschillen.
 | Coliving (all-in) | €600-€1.300 | €900-€1.800 |
 | Kamer in gedeeld appartement | €550-€850 | €900-€1.400 |
 
-**Amsterdam is 50-80% duurder voor huisvesting.** De woningcrisis in Amsterdam is ernstig — wachtlijsten voor sociale huisvesting kunnen 10+ jaar bedragen, en de private huurmarkt is meedogenloos.
+**Amsterdam is 50-80% duurder voor huisvesting.** De woningcrisis in Amsterdam is ernstig, wachtlijsten voor sociale huisvesting kunnen 10+ jaar bedragen, en de private huurmarkt is meedogenloos.
 
 ### Algemene kosten
 - Boodschappen: ongeveer vergelijkbaar (Brussel iets goedkoper)
@@ -87,7 +87,7 @@ Frans is de dominante taal voor het lokale bestuur, restaurants en het dagelijks
 De cultuur is relaxed, bescheiden en zelfrelativerend. Belgen hebben een diepe waardering voor eten, bier en kunst, zonder de zelfpromotie die sommige buurculturen kenmerkt.
 
 ### Amsterdam
-Amsterdam is opmerkelijk Engelsvriendelijk — de Nederlanders hebben een buitengewoon hoog niveau van Engels. Je kunt er echt jarenlang wonen zonder Nederlands te leren.
+Amsterdam is opmerkelijk Engelsvriendelijk, de Nederlanders hebben een buitengewoon hoog niveau van Engels. Je kunt er echt jarenlang wonen zonder Nederlands te leren.
 
 De cultuur is direct, progressief en open. De Nederlanders staan bekend om hun directheid, wat sommigen verfrissend vinden en anderen in het begin lastig.
 
@@ -98,7 +98,7 @@ De cultuur is direct, progressief en open. De Nederlanders staan bekend om hun d
 ## Sociaal leven & vrienden maken
 
 ### Brussel
-Brussel staat bekend als een moeilijk te doorbreken stad, en daar zit een kern van waarheid in. Belgen worden vaak omschreven als "warm vanbinnen, koel vanbuiten" — gesloten en traag om nieuwe mensen in hun kring op te nemen.
+Brussel staat bekend als een moeilijk te doorbreken stad, en daar zit een kern van waarheid in. Belgen worden vaak omschreven als "warm vanbinnen, koel vanbuiten", gesloten en traag om nieuwe mensen in hun kring op te nemen.
 
 Toch is **de expatgemeenschap enorm en uiterst sociaal**. Met duizenden nieuwkomers per jaar van de EU-instellingen, internationale organisaties en multinationals heeft Brussel een heel actieve expat-meetup-scène. Facebookgroepen, Meetup.com en evenementen zoals BrussExpats zijn druk.
 
@@ -116,10 +116,10 @@ De uitdaging in Amsterdam is dat **de wooncrisis** vaak de gesprekken van expats
 ## Levenskwaliteit in het dagelijks leven
 
 ### Brussel
-- **Eten**: van wereldklasse. De Belgische keuken — mosselen, frieten, stoemp, wafels, en een van de beste chocolade en bieren ter wereld — is buitengewoon. De restaurantscène is wereldwijd ondergewaardeerd.
+- **Eten**: van wereldklasse. De Belgische keuken, mosselen, frieten, stoemp, wafels, en een van de beste chocolade en bieren ter wereld, is buitengewoon. De restaurantscène is wereldwijd ondergewaardeerd.
 - **Architectuur**: art-nouveaupareltjes, de Grote Markt, het Atomium. Eigenzinnig, mooi, onvolmaakt.
 - **Weer**: grijs en regenachtig, vergelijkbaar met Londen. We gaan het niet mooier voorstellen dan het is.
-- **Groene ruimtes**: het Ter Kamerenbos, het Park van Laken, het Zoniënwoud — uitgestrekt en toegankelijk.
+- **Groene ruimtes**: het Ter Kamerenbos, het Park van Laken, het Zoniënwoud, uitgestrekt en toegankelijk.
 - **Reizen**: 2 uur van Parijs en Londen met de trein. Centraal knooppunt voor Europees reizen.
 
 ### Amsterdam
@@ -162,4 +162,4 @@ De uitdaging in Amsterdam is dat **de wooncrisis** vaak de gesprekken van expats
 - Je een premium loonpakket hebt
 - Je houdt van fietsen, water en Nederlandse directheid
 
-Hoe dan ook — **coliving is de slimste manier om in beide steden te starten**. In Brussel: verken al onze opties: [Blader door coliving-plekken →](/actors)
+Hoe dan ook, **coliving is de slimste manier om in beide steden te starten**. In Brussel: verken al onze opties: [Blader door coliving-plekken →](/actors)

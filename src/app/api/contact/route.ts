@@ -13,7 +13,7 @@ export async function POST(request: Request) {
 
     const { name, email, subject, message, company } = body as Record<string, string>;
 
-    // Honeypot: a hidden field real visitors never fill in. Bots do — drop silently.
+    // Honeypot: a hidden field real visitors never fill in. Bots do, drop silently.
     if (company) {
         return NextResponse.json({ ok: true });
     }
@@ -39,7 +39,7 @@ export async function POST(request: Request) {
         from: 'ColivingInBrussels Contact Form <contact@form.colivinginbrussels.com>',
         to: 'hello@colivinginbrussels.com',
         replyTo: email.trim(),
-        subject: `[Contact form] ${subject?.trim() || 'New message'} — ${name.trim()}`,
+        subject: `[Contact form] ${subject?.trim() || 'New message'}, ${name.trim()}`,
         text: `From: ${name.trim()} <${email.trim()}>\nSubject: ${subject?.trim() || '(none)'}\n\n${message.trim()}`,
     });
 

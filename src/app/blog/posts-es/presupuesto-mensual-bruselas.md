@@ -1,6 +1,6 @@
 ---
 title: "Presupuesto mensual en Bruselas: lo que gastan de verdad los recién llegados"
-excerpt: "Gastos mensuales reales en Bruselas para un estudiante, un becario y un joven profesional —alquiler, comida, transporte, teléfono y ocio— para que planifiques tu presupuesto antes de mudarte."
+excerpt: "Gastos mensuales reales en Bruselas para un estudiante, un becario y un joven profesional, alquiler, comida, transporte, teléfono y ocio, para que planifiques tu presupuesto antes de mudarte."
 date: "2026-08-14"
 author: "Guía Local de Bruselas"
 coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80&auto=format&fit=crop"
@@ -9,17 +9,17 @@ tags: ["budget", "cost of living"]
 
 # Presupuesto mensual en Bruselas: lo que gastan de verdad los recién llegados
 
-Antes de mudarte, la gran pregunta es sencilla: ¿cuáles son los **gastos mensuales reales en Bruselas**? La respuesta honesta es "depende de tu estilo de vida", pero eso no ayuda mucho cuando intentas planificar. Así que hemos elaborado tres presupuestos mensuales realistas —para un estudiante, un becario y un joven profesional— usando costes típicos de Bruselas. Trátalos como puntos de partida, ajústalos a tus propios hábitos y llegarás con una cifra en la que de verdad puedas confiar.
+Antes de mudarte, la gran pregunta es sencilla: ¿cuáles son los **gastos mensuales reales en Bruselas**? La respuesta honesta es "depende de tu estilo de vida", pero eso no ayuda mucho cuando intentas planificar. Así que hemos elaborado tres presupuestos mensuales realistas, para un estudiante, un becario y un joven profesional, usando costes típicos de Bruselas. Trátalos como puntos de partida, ajústalos a tus propios hábitos y llegarás con una cifra en la que de verdad puedas confiar.
 
 ## Los pilares de un presupuesto en Bruselas
 
 El gasto mensual de casi todo el mundo se reparte en las mismas categorías:
 
-- **Vivienda** — normalmente, con diferencia, la mayor partida.
-- **Comida** — compra del supermercado más comer fuera.
-- **Transporte** — abono de transporte público, taxis ocasionales o bici.
-- **Teléfono e internet** — una tarifa de SIM (el wifi está incluido en el coliving).
-- **Ocio y extras** — salir, gimnasio, suscripciones y alguna escapada de fin de semana.
+- **Vivienda**, normalmente, con diferencia, la mayor partida.
+- **Comida**, compra del supermercado más comer fuera.
+- **Transporte**, abono de transporte público, taxis ocasionales o bici.
+- **Teléfono e internet**, una tarifa de SIM (el wifi está incluido en el coliving).
+- **Ocio y extras**, salir, gimnasio, suscripciones y alguna escapada de fin de semana.
 
 La vivienda es donde el coliving te ahorra dinero y estrés sin que te des cuenta: las habitaciones cuestan **entre 500 y 1.500 € al mes todo incluido**, lo que significa que los suministros, el wifi y la limpieza de zonas comunes ya están integrados en esa única cifra. Eso hace que presupuestar sea mucho más predecible que un piso vacío con facturas por separado. Consulta rangos reales en nuestra [página de precios de coliving](/es/precios-coliving-bruselas).
 
@@ -37,7 +37,7 @@ Eso sitúa a la mayoría de los estudiantes en la franja aproximada de **850 a 1
 
 ## El presupuesto del becario (prudente)
 
-Los becarios y aprendices —incluidas las numerosas prácticas en las instituciones de la UE— suelen tener una remuneración modesta y una fecha de fin fija, por lo que la vivienda flexible y el gasto controlado importan.
+Los becarios y aprendices, incluidas las numerosas prácticas en las instituciones de la UE, suelen tener una remuneración modesta y una fecha de fin fija, por lo que la vivienda flexible y el gasto controlado importan.
 
 - **Vivienda:** ~600–800 € (una habitación de coliving flexible cerca del trabajo, p. ej. en [Etterbeek](/es/coliving/etterbeek) para el barrio europeo)
 - **Comida:** ~250–300 €
@@ -63,11 +63,11 @@ Eso asciende a alrededor de **1.500 a 2.100 € al mes**, con mucho margen para 
 
 Unos cuantos hábitos marcan una diferencia real:
 
-1. **Elige coliving todo incluido** — una única factura predecible es mejor que hacer malabares con recibos de suministros, y a menudo sale más barato una vez cuentas los muebles.
+1. **Elige coliving todo incluido**, una única factura predecible es mejor que hacer malabares con recibos de suministros, y a menudo sale más barato una vez cuentas los muebles.
 2. **Usa los descuentos de transporte para jóvenes** si cumples los requisitos; son considerables.
-3. **Cocina la mayoría de las noches** — la compra es mucho más barata que comer fuera, y Bruselas tiene mercados estupendos.
-4. **Compara barrios** — vivir un distrito más allá puede reducir el alquiler notablemente. Consulta nuestra [guía de barrios](/es/barrios).
-5. **Busca cultura gratuita** — la ciudad tiene muchos eventos sin coste; mira la programación en nuestra [página de eventos](/whats-on).
+3. **Cocina la mayoría de las noches**, la compra es mucho más barata que comer fuera, y Bruselas tiene mercados estupendos.
+4. **Compara barrios**, vivir un distrito más allá puede reducir el alquiler notablemente. Consulta nuestra [guía de barrios](/es/barrios).
+5. **Busca cultura gratuita**, la ciudad tiene muchos eventos sin coste; mira la programación en nuestra [página de eventos](/whats-on).
 
 ## Preguntas frecuentes
 

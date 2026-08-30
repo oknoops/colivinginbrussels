@@ -9,7 +9,7 @@ tags: ["Domiciliation", "Administratif", "Expats", "Bruxelles", "Guide pratique"
 
 # Comment se domicilier à Bruxelles quand on est expat (guide 2026)
 
-Inscrire son adresse en Belgique — ce qu'on appelle la **domiciliation** — est l'une des premières et des plus importantes démarches administratives quand on s'installe à Bruxelles. C'est ce qui débloque votre carte d'identité belge, l'accès aux soins de santé, le droit de vote (pour les citoyens de l'UE) et votre dossier fiscal. Voici exactement comment faire.
+Inscrire son adresse en Belgique, ce qu'on appelle la **domiciliation**, est l'une des premières et des plus importantes démarches administratives quand on s'installe à Bruxelles. C'est ce qui débloque votre carte d'identité belge, l'accès aux soins de santé, le droit de vote (pour les citoyens de l'UE) et votre dossier fiscal. Voici exactement comment faire.
 
 ---
 
@@ -89,10 +89,10 @@ Une fois votre inscription confirmée, vous recevrez un courrier vous invitant �
 ## Étape 6 : s'affilier à une mutualité (assurance maladie)
 
 Une fois votre carte d'identité (ou votre numéro de registre national / NISS obtenu à la commune) en main, affiliez-vous à une **mutualité**. Les principales options :
-- **Mutualité Chrétienne / Christelijke Mutualiteit (MC/CM)** — la plus grande et la plus pratique
-- **Solidaris** — pour les travailleurs affiliés à certains syndicats
-- **Mutualité Libérale** — d'orientation plus libérale
-- **Partenamut** — neutre
+- **Mutualité Chrétienne / Christelijke Mutualiteit (MC/CM)**, la plus grande et la plus pratique
+- **Solidaris**, pour les travailleurs affiliés à certains syndicats
+- **Mutualité Libérale**, d'orientation plus libérale
+- **Partenamut**, neutre
 
 L'affiliation est gratuite (vous payez une petite cotisation annuelle de 40 à 90 €). Après l'inscription, vous recevrez votre **carte SIS** et commencerez à bénéficier des remboursements de soins belges (généralement 75 % sur la plupart des soins).
 
@@ -101,13 +101,13 @@ L'affiliation est gratuite (vous payez une petite cotisation annuelle de 40 à 9
 ## Problèmes fréquents et solutions
 
 **« La commune refuse mon adresse de coliving »**
-C'est rare, mais ça arrive à l'occasion. Demandez à votre opérateur de coliving une lettre officielle sur papier à en-tête confirmant que vous êtes bien résident. Si le problème persiste, demandez-lui s'il a de l'expérience en la matière — la plupart des opérateurs établis en ont.
+C'est rare, mais ça arrive à l'occasion. Demandez à votre opérateur de coliving une lettre officielle sur papier à en-tête confirmant que vous êtes bien résident. Si le problème persiste, demandez-lui s'il a de l'expérience en la matière, la plupart des opérateurs établis en ont.
 
 **« Je n'obtiens pas de rendez-vous avant des semaines »**
 Beaucoup de communes proposent des permanences sans rendez-vous le matin. Présentez-vous tôt un lundi ou un mardi. Autre option : passer par une commune plus petite (comme Ixelles ou Watermael-Boitsfort), dont les files sont parfois plus courtes que celles de la Ville de Bruxelles.
 
-**« Ma visite de contrôle a échoué — je n'étais pas là »**
-Vous recevrez un avis vous invitant à vous présenter au commissariat local avec vos documents. Pas de panique — c'est courant et facile à régler. Apportez votre contrat et votre carte d'identité.
+**« Ma visite de contrôle a échoué, je n'étais pas là »**
+Vous recevrez un avis vous invitant à vous présenter au commissariat local avec vos documents. Pas de panique, c'est courant et facile à régler. Apportez votre contrat et votre carte d'identité.
 
 **« J'ai besoin d'un compte bancaire belge mais je ne peux pas encore me domicilier »**
 Essayez **Wise** (ex-TransferWise), **Revolut** ou **N26** comme solution temporaire. Toutes fonctionnent en Belgique avec une simple pièce d'identité étrangère et fournissent un IBAN. Une fois domicilié, vous pourrez ouvrir un compte chez **BNP Paribas Fortis, ING ou KBC**.

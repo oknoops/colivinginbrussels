@@ -9,22 +9,22 @@ tags: ["Huisdiervriendelijk", "Huisvesting", "Coliving", "Nieuwkomers"]
 
 # Huisdiervriendelijk wonen & coliving in Brussel: wat je moet weten
 
-Verhuizen met een huisdier legt een echte beperking op je zoektocht naar een woning — en het is beter om het eerlijke plaatje vooraf te kennen. Hier is de klare taal over het vinden van huisdiervriendelijke coliving en huurwoningen in Brussel, en hoe je jezelf de beste kansen geeft.
+Verhuizen met een huisdier legt een echte beperking op je zoektocht naar een woning, en het is beter om het eerlijke plaatje vooraf te kennen. Hier is de klare taal over het vinden van huisdiervriendelijke coliving en huurwoningen in Brussel, en hoe je jezelf de beste kansen geeft.
 
 ## De eerlijke realiteit voor coliving
 
 De meeste colivinghuizen in Brussel zijn **standaard niet huisdiervriendelijk**. Gedeelde ruimtes, allergieën en het comfort van huisgenoten maken operators voorzichtig, dus een categoriek "geen huisdieren" komt vaak voor. Maar het is niet overal een absoluut nee:
 
 *   **Uitzonderingen per geval** komen voor, vooral voor **kleine, rustige huisdieren** (een kalme kat eerder dan een grote hond).
-*   **Individuele huizen verschillen** — één huis onder een operator kan een kat toelaten terwijl een ander dat niet doet. Vraag altijd naar de *specifieke* woning.
+*   **Individuele huizen verschillen**, één huis onder een operator kan een kat toelaten terwijl een ander dat niet doet. Vraag altijd naar de *specifieke* woning.
 *   **Grotere honden** zijn het moeilijkst te plaatsen bij samenwonen en wijzen je mogelijk richting een privéhuur.
 
-De conclusie: ga er niet vanuit, maar geef de moed ook niet op — vraag het rechtstreeks en vroeg. Blader door de [operators](/actors) en informeer heel specifiek.
+De conclusie: ga er niet vanuit, maar geef de moed ook niet op, vraag het rechtstreeks en vroeg. Blader door de [operators](/actors) en informeer heel specifiek.
 
 ## Traditionele huurwoningen: flexibeler, maar controleer het huurcontract
 
 Privéhuurwoningen zijn doorgaans huisdiervriendelijker dan coliving, maar:
-*   Belgische verhuurders **kunnen** huisdierclausules in het huurcontract opnemen — lees het aandachtig.
+*   Belgische verhuurders **kunnen** huisdierclausules in het huurcontract opnemen, lees het aandachtig.
 *   Een gemeubelde plek kan strenger zijn dan een ongemeubelde.
 *   Het papierwerk van je huisdier (vaccinatieboekje, EU-dierenpaspoort) en een iets hogere waarborg aanbieden kan een twijfelende verhuurder geruststellen.
 
@@ -36,18 +36,18 @@ Wees bij elke aanvraag open en specifiek:
 1.  **"Is *deze specifieke kamer/dit huis* huisdiervriendelijk?"** (niet de operator in het algemeen)
 2.  **Zijn er limieten op grootte, ras of aantal?**
 3.  **Extra waarborg of maandelijkse kost** voor een huisdier?
-4.  **Toegang tot buitenruimte** (tuin/terras) — belangrijk voor honden.
-5.  **Akkoord van de huisgenoten** — geven de huidige bewoners bij coliving hun toestemming?
+4.  **Toegang tot buitenruimte** (tuin/terras), belangrijk voor honden.
+5.  **Akkoord van de huisgenoten**, geven de huidige bewoners bij coliving hun toestemming?
 
 Transparant zijn vanaf het eerste bericht bespaart iedereen tijd en bouwt vertrouwen op.
 
 ## Een huisdier meebrengen naar België: de basis
 
 *   Huisdieren van binnen de EU hebben een **EU-dierenpaspoort**, een microchip en een up-to-date rabiësvaccinatie nodig.
-*   Aankomsten van buiten de EU krijgen extra vereisten — check de actuele Belgische/EU-importregels ruim voor je vertrekt.
+*   Aankomsten van buiten de EU krijgen extra vereisten, check de actuele Belgische/EU-importregels ruim voor je vertrekt.
 *   Schrijf je in bij een **lokale dierenarts** zodra je aankomt; Brussel heeft er veel.
 
-*(Regels veranderen — bevestig de actuele vereisten altijd bij officiële Belgische/EU-bronnen voor je verhuist.)*
+*(Regels veranderen, bevestig de actuele vereisten altijd bij officiële Belgische/EU-bronnen voor je verhuist.)*
 
 ## Brussel is een goede stad voor huisdieren
 
@@ -58,11 +58,11 @@ De zoektocht naar een woning is het lastige deel; het dagelijkse leven is makkel
 1.  **Verbreed je net:** informeer bij meerdere [operators](/actors) *en* bekijk tegelijk privéhuurwoningen.
 2.  **Leid met een kalm, goed gedocumenteerd huisdier** en bied geruststelling (waarborg, referenties).
 3.  **Geef voorrang aan huizen met tuin/terras** en toegang op de gelijkvloerse verdieping voor honden.
-4.  **Wees geduldig en begin vroeg** — huisdiervriendelijke opties zijn schaarser, dus geef jezelf een aanloop.
+4.  **Wees geduldig en begin vroeg**, huisdiervriendelijke opties zijn schaarser, dus geef jezelf een aanloop.
 
 ## De kern van de zaak
 
-Huisdiervriendelijke coliving in Brussel bestaat maar is beperkt — reken erop dat je moet rondvragen, kleine huisdieren voorrang krijgen en je voor grotere honden een privéhuur overweegt. Wees transparant, kom voorbereid met papierwerk, en geef jezelf extra tijd. Eenmaal binnen is Brussel een echt huisdiervriendelijke stad.
+Huisdiervriendelijke coliving in Brussel bestaat maar is beperkt, reken erop dat je moet rondvragen, kleine huisdieren voorrang krijgen en je voor grotere honden een privéhuur overweegt. Wees transparant, kom voorbereid met papierwerk, en geef jezelf extra tijd. Eenmaal binnen is Brussel een echt huisdiervriendelijke stad.
 
 ---
 

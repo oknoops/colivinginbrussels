@@ -19,17 +19,17 @@ Una sola persona que vive en un apartamento de un dormitorio en Bruselas ocupa a
 
 Menos espacio por persona significa:
 
-- **Menores costes de calefacción** — la calefacción es el mayor gasto energético en los hogares belgas. Los muros compartidos y los menos metros cuadrados a calentar reducen el consumo de energía por persona en un 30-50 % estimado.
-- **Menor uso de electricidad** — una cocina compartida, un salón compartido y una lavandería compartida significan menos electrodomésticos consumiendo energía.
-- **Menor huella de construcción** — se necesitan menos edificios en total para alojar a la misma población.
+- **Menores costes de calefacción**, la calefacción es el mayor gasto energético en los hogares belgas. Los muros compartidos y los menos metros cuadrados a calentar reducen el consumo de energía por persona en un 30-50 % estimado.
+- **Menor uso de electricidad**, una cocina compartida, un salón compartido y una lavandería compartida significan menos electrodomésticos consumiendo energía.
+- **Menor huella de construcción**, se necesitan menos edificios en total para alojar a la misma población.
 
 ### Electrodomésticos y recursos compartidos
 
 En una configuración tradicional, cada apartamento tiene su propia lavadora, secadora, horno, frigorífico y aspiradora. En el coliving, estos electrodomésticos se comparten entre 6 y 20 residentes. Esto significa:
 
 - Menos electrodomésticos fabricados, transportados y finalmente desechados
-- Mayores tasas de uso — una lavadora compartida hace cargas completas en lugar de ciclos a medias
-- Equipos de mejor calidad — los operadores invierten en electrodomésticos eficientes y de gama profesional que duran más
+- Mayores tasas de uso, una lavadora compartida hace cargas completas en lugar de ciclos a medias
+- Equipos de mejor calidad, los operadores invierten en electrodomésticos eficientes y de gama profesional que duran más
 
 ### Menos desperdicio de comida
 
@@ -135,10 +135,10 @@ La sostenibilidad es más fácil en grupo. Organízate con tus compañeros de ca
 
 Bruselas tiene una próspera escena de negocios sostenibles:
 
-- **Flagey Bio Market** — productos ecológicos todos los sábados
-- **Paysan Urbain** — cooperativa de agricultura urbana
-- **Brussels Beer Project** — cervecera sostenible centrada en la producción circular
-- **Les Petits Riens** — tiendas de segunda mano que apoyan causas sociales
+- **Flagey Bio Market**, productos ecológicos todos los sábados
+- **Paysan Urbain**, cooperativa de agricultura urbana
+- **Brussels Beer Project**, cervecera sostenible centrada en la producción circular
+- **Les Petits Riens**, tiendas de segunda mano que apoyan causas sociales
 
 ## El panorama general
 

@@ -23,18 +23,18 @@ La tarification d'Airbnb est pensée pour les courts séjours touristiques, et m
 | Frais de service/réservation | 10–20 % en plus | Aucun (un seul loyer) |
 | Meubles & cuisine | Oui | Oui |
 
-Pour un séjour de 1 à 6 mois, le coliving revient très souvent à **la moitié du prix ou moins** — et vous échappez aux frais de service Airbnb et aux frais de nettoyage surprises. Comparez les vrais prix des opérateurs sur notre [page des prix](/fr/prix-coliving-bruxelles).
+Pour un séjour de 1 à 6 mois, le coliving revient très souvent à **la moitié du prix ou moins**, et vous échappez aux frais de service Airbnb et aux frais de nettoyage surprises. Comparez les vrais prix des opérateurs sur notre [page des prix](/fr/prix-coliving-bruxelles).
 
 ## La différence de mode de vie
 
 Au-delà de l'argent, l'écart le plus grand, c'est *le ressenti* :
 
-*   **Airbnb = une chambre, seul.** Génial pour une semaine. Sur plusieurs mois, c'est isolant — vous arrivez dans un appartement vide, dans une nouvelle ville, et devez construire une vie sociale à partir de zéro.
+*   **Airbnb = une chambre, seul.** Génial pour une semaine. Sur plusieurs mois, c'est isolant, vous arrivez dans un appartement vide, dans une nouvelle ville, et devez construire une vie sociale à partir de zéro.
 *   **Coliving = un foyer avec des gens.** Vous atterrissez au milieu de colocs, de dîners partagés et d'un groupe d'amis tout prêt. Pour un nouvel arrivant, c'est la différence entre une période solitaire et les plus beaux mois de votre vie. Voyez [le coliving est-il fait pour vous](/fr/blog/le-coliving-est-il-fait-pour-vous).
 
 ## La différence administrative
 
-*   **Domiciliation :** la Belgique exige que vous inscriviez votre adresse si vous restez plus de 3 mois. La plupart des [opérateurs de coliving](/actors) fournissent un vrai contrat de bail qui le permet. Les hôtes Airbnb, eux, **refusent** généralement que vous vous domiciliez — un vrai problème pour les longs séjours.
+*   **Domiciliation :** la Belgique exige que vous inscriviez votre adresse si vous restez plus de 3 mois. La plupart des [opérateurs de coliving](/actors) fournissent un vrai contrat de bail qui le permet. Les hôtes Airbnb, eux, **refusent** généralement que vous vous domiciliez, un vrai problème pour les longs séjours.
 *   **Flexibilité :** les baux de coliving vont de 1 à 6 mois avec des conditions claires ; l'Airbnb au mois fonctionne, mais à des tarifs premium dérivés de la nuitée.
 *   **Assistance :** les maisons de coliving ont des gestionnaires ; le support Airbnb est à distance et inégal.
 
@@ -49,11 +49,11 @@ Une stratégie maligne que beaucoup de nouveaux arrivants utilisent : réserver 
 
 ## Quand le coliving l'emporte (la plupart du temps)
 
-Pour le nouvel arrivant type — **qui reste 1 à 6 mois, seul, qui veut réellement rencontrer des gens sans trop dépenser** — le coliving l'emporte sur le coût, la communauté et l'administratif. Ce n'est même pas serré.
+Pour le nouvel arrivant type, **qui reste 1 à 6 mois, seul, qui veut réellement rencontrer des gens sans trop dépenser**, le coliving l'emporte sur le coût, la communauté et l'administratif. Ce n'est même pas serré.
 
 ## En résumé
 
-Airbnb est une excellente alternative à l'hôtel et un piètre foyer à moyen terme. Si vous êtes à Bruxelles pour un mois ou plus, le coliving est moins cher, plus chaleureux et bien moins solitaire — et il résout le casse-tête de la domiciliation qu'Airbnb crée. Utilisez Airbnb pour vos premières nuits si vous devez, puis emménagez dans un vrai foyer.
+Airbnb est une excellente alternative à l'hôtel et un piètre foyer à moyen terme. Si vous êtes à Bruxelles pour un mois ou plus, le coliving est moins cher, plus chaleureux et bien moins solitaire, et il résout le casse-tête de la domiciliation qu'Airbnb crée. Utilisez Airbnb pour vos premières nuits si vous devez, puis emménagez dans un vrai foyer.
 
 ---
 
